@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="34959">1 réim(m)</h3><span class="citation">Cite this: eDIL s.v. 1 réim(m) or <a class="reference" href="34959">dil.ie/34959</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                réimm, rréim, rem, reim, reim, remim, réim(m)enn, réim</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype n">n</span>, <span class="gen n.">n.</span> , later <span class="gen m.">m.</span> and <span class="gen f.">f.</span> (<span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 r&#xE9;idid">1 réidid</a></span>) Not in Glosses; 
+<span class="case a">a</span>
+      <span class="number s.">s.</span> réimm occurs in a poem in 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 112
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 290.5
+      ). <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+(with art.) 
+        a rréim sin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Oct. 16
+        
+      . 
+        
+          rem n-āga, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3602
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> 
+i 216.18
+      ). 
+        
+          reim n-án, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5223
+        
+      . 
+        
+          reim n-erreth, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 411
+        
+      . 
+<span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        remim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1634
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> réim(m)enn. In Mid.Ir. <span class="gen masc.">masc.</span>, also 
+<span class="gen fem.">fem.</span> (as <span class="itype &#x101;-">ā-</span>stem). réim <span class="gen m.">m.</span> and <span class="gen f.">f.</span> (<span class="case g">g</span>
+      <span class="number s.">s.</span> <span class="case n">n</span>
+      <span class="number p.">p.</span> -e), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. § 45.7
+      .</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) as <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 r&#xE9;idid">1 réidid</a></span>, <span class="trans">`<span class="def">going</span>', <span class="def">movement</span>, <span class="def">advance</span>, <span class="def">course</span>
+        </span>: (with 
+objective gen.) ni ágor reimm Mora Minn don laechraid lainn <span class="trans">
+          <span class="ediltr">I 
+do not fear the coursing of the Irish sea by the fierce heroes</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> 
+ii 290.5
+        . echraide i réim riadatar <span class="trans">
+          <span class="ediltr">they advanced on horseback</span>
+        </span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 103.24
+         (B. na f.). 
+          bá socraid a rréim ronucset Ulaid 
+do Cruachnaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 42
+          
+        . 
+          adconnaircset Aenias . . . ina chruaidhrem catha chucu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 3045
+          
+        . 
+          toluidh B. in reimim do 
+chum in tsítha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 104.10
+          
+         (<span class="pos advbl." style="color: #ff8000">advbl.</span> <span class="case dat.">dat.</span>). 
+          go rangatar ina 
+reimim for a n-eachaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1922.10
+          
+        . tiagait for a remim 
+in chetna <span class="trans">
+          <span class="ediltr">they proceed on their way</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 157.3
+        . do éaluigh 
+G. . . . 's níor bhfes do nech díobh a réim <span class="trans">
+          <span class="ediltr">none of them knew 
+whither he had gone</span>
+        </span>, 
+          i 30.222
+        . 
+          cait a fuil Froech? . . . indis 
+damh a reim roime, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 170.21
+          
+        . 
+          dochuaid int ēn for 
+foluamain fon reim sin i n-airdi aer, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 1134
+          
+        . Of streams, 
+etc.: 
+          tarrasair in sruth 'na thoss | dia remim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1634
+          
+        . 
+          co 
+n-acind a tráig 's a tuli ina réimim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 497.1
+          
+        . iar remendu 
+ro-baissi <span class="trans">
+          <span class="ediltr">divagations</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 14 § 6
+        . fir Érenn . . . co rogail 
+remenn reimib <span class="trans">
+          <span class="ediltr">with valiant onward march</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> i 110.20
+        . 
+
+          cain a cemend, rigdha a remend masa mordha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 61.6
+          
+         
+(of a woman). (prov.) 
+          réim re hard, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 286 § 274
+          
+         (of a 
+difficult undertaking). 
+          réim fri fogaist, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2117
+          
+         = 
+          drēm, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1505
+          
+        , dréim St., prob. right reading. In sense of <span class="trans">
+          <span class="def">route</span>, 
+<span class="def">direction</span>
+        </span>: 
+          techt i ndáil ailt Ulad . . . mairg ragas in réim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+3273
+          
+        . mairg cingis in reim rod-sain (<span class="lbl">i.e.</span> to Hell), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 
+265.5
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">course</span>, <span class="def">manner</span>, <span class="def">way</span> (of procedure, conduct, <span class="lbl">etc.</span>):</span> is 
+ecsamail reim daonachta caich `<span class="quote">the course of nature differs in 
+each man</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 63
+        . cindas do reimi-siu? ind hi lanamnus 
+ataí? `<span class="quote">what sort of life dost thou lead</span>?' 
+          21
+        . réim aósa lanamnasa 
+`<span class="quote">the course prescribed to a wedded couple</span>', 
+          50
+        . Conall . . . réil a 
+reimend <span class="trans">
+          <span class="ediltr">doings</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 182b51
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 60 § 24
+        ). fagbaid 
+fear . . . re siubhal reacht is rēmionn (= for maintaining 
+laws and customary procedure?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> ii 158 § 17
+        . 
+
+          adeirim-si rit-sa | cach rí tic is tír-si, | cach réim tic ar Erinn, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 31.30
+          
+         (= period, régime? or dynasty, see d?). do 
+choimhéadadar . . . an réim se an troisgthe <span class="trans">
+          <span class="ediltr">course (system) of 
+fasting</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 8273
+        . 
+          gurab í réim an teaga[i]sg sin Chríosd 
+choiméadas an Eagluis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 85.13
+          
+        . gurab móide do 
+tuigfidhe réim na neithe-se `<span class="quote">the sequence of these events</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> 
+ii 4778
+        . 
+          i reim na beatha so, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 108
+          
+        . 
+          re faghbháil bháis . . . 
+i dtús a réime, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 131
+          
+        . réim `<span class="quote">a course of life</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 
+566
+        . In chevilles prob. <span class="trans">
+          <span class="def">course</span>, <span class="def">procedure</span>
+        </span>: 
+          luid fiad in rig rān, 
+reim ṅdein, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2157
+          
+        . 
+          feib tharṅgert duit, rem cen brath, 
+
+            6359
+          
+        . 
+          réim as díxu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Jan. 21
+          
+        . bentar cluicc . . . ar Raghallcaibh, reim brighe `<span class="quote">an effectual course</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 285.23
+        . airgthear . . . Dún Con Raoi, fa réim uaibhreach `<span class="quote">proud exploit</span>!', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxx 33
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">transf. from advance of a <span class="def">troop</span> to the troop itself, <span class="def">rank</span>; 
+in follg. exx. apparently of a <span class="def">band</span> or <span class="def">company</span> in <span class="def">marching</span> 
+<span class="def">order</span>:</span> 
+          tocumlat ass Ulaid . . . cach drong immá rig. cach réim 
+immá rurig. cach buden immá túsech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 7
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8102
+        ). 
+          cach 
+réim imma muirech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 459
+          
+        . 
+          rosláiset i ndrongaib ┐ buidnib 
+┐ remnaib . . . cech réim imma rígdamna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 220b36
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 
+267
+        ). Hence prob. O'Cl.: réim .i. buidhean.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">series</span>, <span class="def">succession</span>, <span class="def">list</span>
+        </span>: réim calne <span class="trans">
+          <span class="ediltr">a series of calends</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 
+Prol. 306
+        . réim sruithe `<span class="quote">a succession of elders</span>', 
+          July 23
+        . 
+          is 
+amlaid-se áirmiter i rréim rigraide na ríg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 26a26
+          
+         (prob. of 
+an official record). 
+          co mbeth airemh secht righ ndécc . . . ga 
+ccor sa réim rioghraidhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 108 x
+          
+        . i nduain an réme 
+rioghraidhe `<span class="quote">the poem which enumerates the kings</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 692 z
+        . 
+
+          Réim Ríoghruidhe agus naoimhsheanchusa na hEirionn, 
+O'Curry <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 549.9
+          
+        . gabhais [Níall] righe reimenn | 
+Erenn ocus Alban `<span class="quote">took troops (?) of the kingdoms' (? took the 
+kingship of the royal lines or dynasties)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 118
+        . 
+          gach 
+rí do reim Fhíachach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 45 § 37
+          
+        . 
+          do phóir-shliocht 
+na réime ríogh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 105
+          
+        . fuath Echtair ┐ Aichil i 
+comrac ┐ amal adorchair Echtair . . . Amal atconnairc Aenias 
+in rem-sea forna delbaib <span class="trans">
+          <span class="ediltr">that series</span>
+        </span> (of events depicted), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 
+319
+        . móirsheisear díobh . . . do ghabh ríghe . . . mar áirmheas 
+réim na rolla `<span class="quote">as the rolls record</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxviii 38
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) in grammar <span class="trans">an <span class="def">inflected</span> <span class="def">case</span> of a <span class="def">noun</span>
+        </span>; often of the 
+acc. case, the gen. and dat. being termed respectively taoibréim and tuillréim, but commonly of any form distinguished 
+by inflection from the nom.; also of the inflecting process 
+itself. 
+          is reim gach tuissel on ainmnid sis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 4862
+          
+        . esse 
+remme `<span class="quote">the essence of flection</span>', 
+          905
+         (defined: in bruudh fillti 
+fogurda . . . otha in ainm[n]iudh n-uathaid co foxlaid n-ilair). 
+
+          ceithri gne for prois o reim . . . reim suin cen cheill cetumus 
+.i. fer fir; reim suin ┐ cheilli .i. Fland Flaind; reim suin tantum 
+Patraic Patraic; ┐ taebreim prosta .i. fadein, 
+            872
+          
+        , <span class="lbl">cf.</span> 
+          791
+        , 
+
+          3608
+        . gach ainm . . . a n-anann a réim (<span class="lbl">i.e.</span> every noun which 
+has the same form for nom. and acc.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Introd. § 81
+        . 
+gach focal as a ttéid a réim (every noun which alters its form 
+in declension), 
+          § 72
+        . 
+          `ag sin', `ag súd' is `ag so', comhchóir 
+réim is ainm orra, 
+            § 128 
+          
+        (<span class="lbl">i.e.</span> these phrases may be followed 
+by either nom. or acc.). 
+          ní cóir focal . . . as a ttéid a réim a 
+ndiaigh oibrighthi gan réim, 
+            § 78 
+          
+        (<span class="lbl">i.e.</span> a noun with an inflected 
+form for acc. must have it when obj. of a vb.). deiligther 
+[trīath] ina rēmmenaib [remennu, LB]: 
+          trīath `rí' trēith a 
+rēim, trīath `muir' .i. trethan a réim, trīath `torc' tréithi a 
+rēim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1202
+          
+         (the different senses of `tríath' are 
+distinguished by their gen. sing.). 
+          bol . . . buil a reim, 
+            194
+          
+        . 
+
+          tellur . . . tellrach a reim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 868
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) in prosody the terms réim filidechta and réim bairdne 
+(distinguished from r.<span class="oRef">¤</span> proisi `inflection') appear to stand for 
+alliteration of two kinds; see 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 780
+        , 
+          805
+        , 
+          863 fg.
+        , 
+
+          3587 fg.
+         </p>
+    
+  
+  
+    <p class="result"> 
+Compds. 
+        <span class="oRef">¤</span>dírech <span class="trans">
+        <span class="def">straight</span> of <span class="def">course</span>, <span class="def">direct</span> (fig.) <span class="def">straightforward:</span>
+      </span> 
+        mac rioghdha réimdírech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 1.5
+        
+      . 
+        go leanann go 
+réimdhíreach san rian chéadna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2390
+        
+      . 
+        <span class="oRef">¤</span>dírge <span class="trans">
+        <span class="def">directness</span>, 
+<span class="def">straight</span> <span class="def">direction</span>
+      </span>: tiagait . . . i slíab Fhúait cach remdirgi <span class="trans">
+        <span class="ediltr">by 
+the most direct way</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 105b21
+      . 
+        <span class="oRef">¤</span>dírgud: co roibhi coimhtinol 
+na ceithri ngaeth ica reimdirgud <span class="trans">
+        <span class="ediltr">driving it straight forward</span>
+      </span> 
+(of a ship), 
+        <span><strong class="pop" style="color:blue" href="bibliography/DIV2" title="eDIL Bibliography">D IV 2</strong></span> 75ra7
+      . In 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2326.14
+      : acc réimshéducchadh a muintire . . . in gach conair dodhaing `<span class="quote">to lead</span>', we 
+should prob. read reimhshédughadh.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

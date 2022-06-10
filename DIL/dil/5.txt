@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="5">4 a</h3><span class="citation">Cite this: eDIL s.v. 4 a or <a class="reference" href="5">dil.ie/5</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                á, an, an, i, ind, ina, ina, na, na, na, a, a, a, a, a, a, a, a</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="pos pron" style="color: #ff8000">pron</span> demonstrative relative, nasalising, <span class="trans">that <span class="def">which</span>, <span class="def">what</span>
+      </span>. On 
+the spelling á see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> ii 339
+      -
+        40
+      . Orig. <span class="gen neut.">neut.</span> art., 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 473
+       (<span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=5 a">5 a</a></span>). Combines with ro to form arro 
+(in later lang. ar): 
+        arrolegais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28d7
+        
+      , but an- (the usual 
+form before vowels) is also found: 
+        anrogadammar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+15c22
+        
+      . 
+        anró gad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 1370
+        
+      . 
+        
+          an ro-ráidis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 726
+        
+      . 
+        
+          an raibhe, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 265
+        
+      . In later language also spelt i n-: 
+        
+          i n-atconnarc, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3322
+        
+      . 
+        
+          ind digní, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 134.20 (§ 21)
+        
+      . Also ina n-: 
+
+        
+          ina mboí, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8416
+        
+       (H). 
+        
+          ina fuaratar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1235.13
+        
+      . na 
+n-: 
+        
+          na tongat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 16
+        
+      . 
+        
+          na n-dingentar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 6179
+        
+      . 
+        
+          na
+ndenaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 58
+        
+      . In O.Ir. folld. by absolute and deuterotonic form of vb. 
+        
+          a n-asbiur, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 17d12
+        
+      ; but later the 
+conjunct and prototonic forms become common (see Bergin, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xi 139 n.1
+      ): 
+        
+          a taibred, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 1
+        
+      . 
+        
+          a sir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxiii 37
+        
+      . 
+
+        
+          a ndenat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2858
+        
+      . When the demonst. <span style="color: #ff8000">rel.</span> is plural in 
+meaning personal pronouns referring to it are <span class="number plural">plural</span>: 
+        
+          a 
+n-as sīrem diib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 130 § 102
+        
+      . The vb. may also be pl. 
+
+        
+          a mbid . . . de neithibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 5724
+        
+      . 
+        
+          a rabhadar do liagaibh 
+cloch, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 3504
+        
+      . 
+        a bhfuilti corrtha <span class="ediltr">those of you who are 
+tired</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 216.6
+      .</p>
+  
+  
+    <p class="result"> 
+Frequently cecha n- <span class="trans">
+        <span class="def">whatever</span>, however much</span>, <span class="lbl">etc.</span>, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=cech">cech</a></span>.</p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) As <span class="case nom.">nom.</span>: 
+          an as suthin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 13d9
+          
+        . anasberthar ho giun
+<span class="ediltr">what is spoken</span>, 
+          5d14
+        . 
+          for nem a (an <span class="lbl">v.l.</span>) conrúalae . . . as mó 
+mílib míle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 25
+          
+        . arrobúi isind tsaltir nuli <span class="ediltr">the whole 
+contents of the Psalter</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 133.11 (§ 16)
+        . 
+          a nas aithgin 
+do airechaib feda iseadh is dire do athechaib feadha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 
+152.5 Comm.
+          
+         
+          seachnuim a mbí a n-éintigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 6426
+          
+        . 
+          a 
+dtarla dá chóir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 762
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) As <span class="case accus.">accus.</span>: á fil etarru <span class="ediltr">what is between them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+27d19
+        . 
+          tuicci an gaibes in salm, 
+            12d42
+          
+        . a pridchimmeni <span class="ediltr">what 
+we preach</span>, 
+          15b14
+        . 
+          a forchongair do chomalnad, 
+            5c23
+          
+        . a 
+ndogensa <span class="ediltr">what I shall do</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8082
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 6
+        ). 
+          tongu-sa a toinges 
+mo thúath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 928
+          
+        . mā rosaigh a broth a n-rosaig a blas
+`<span class="quote">if its broth attains what its taste attains</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 86 § 91
+        . 
+          ar 
+ordaigh an t-aingeal-sain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xiv. 14
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) With follg. partitive DI: 
+          a ndudesta . . . di foirbthetu, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 1a9
+          
+        . 
+          a césme di cach imniud, 
+            13c7
+          
+        . anrofiugrad di Críst
+`<span class="quote">what has been figured of Christ</span>', 
+          15a34
+        . 
+          a mbaī di mnāib . . . 
+hi Cūailṅge, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 868
+          
+        . 
+          a nrobíth leis día slōgaib, 
+            1657
+          
+        . 
+          an 
+fogebed in gilla di scothaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 365
+          
+        . 
+          ni hairemthar ar' 
+marbad do macaib rí, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 173.13
+          
+        . With different order 
+of words: 
+          a n-du imnedaib . . . fo-daimi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 55d11
+          
+        . 
+          a ndo 
+ligdath doadbat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 114 § 39
+          
+        .</p>
+     
+      <p class="result"> 
+With copula and <span style="color: #ff8000">superl.</span>: a n-as sirem diib `<span class="quote">the longest of 
+them</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 130 § 102
+        . a n-romba dech do thimthagaib 
+flatha fer nGaoidel <span class="ediltr">the best of the garments</span> . . ., 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1059
+        . 
+
+          an-as dech foruaradar do echraidh in righ, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 35
+          
+        . i mba 
+fearr do cach berla ┐ a nba leithiu ┐ a mba caemu `<span class="quote">what was 
+best</span> . . .', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1053
+        . 
+          in rop messa día muintir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x. 184.24
+          
+        . 
+Note also: 
+          is a mbeo beres a n-as beodu ┐ i na[s] segondo, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 693
+          
+         (<span style="color: #ff8000">compar.</span> for <span style="color: #ff8000">superl.</span>?). Less frequently with partitive gen.: 
+          doberat a n-as dech sét in dúine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 419
+          
+        . 
+
+          con-aitcetar ferann fair .i. an ba dech Mide, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 78
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv. 478
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) With prec. prep. (frequent in later lang.): do-farget 
+(<span class="lbl">sic leg.</span>) a rro-fera ar-a ferthar fris `<span class="quote">he offers what he has 
+given for what is given to him</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 502.22
+         (see however 
+ 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 680
+        ). 
+          ni tabair dír[e] asa n-gatass, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> 
+22 § 24
+          
+         (see 
+          <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 298, 680
+        ). farnan bechtae <span class="ediltr">on what 
+is not certain</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 20 § 60
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 298, 680
+        ). 
+
+          bui dliged . . . fora raibhi do Thartraidhibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 82
+          
+        . 
+          nach 
+smuainid air a nabruid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 468.13
+          
+        . Gort an Óir ghairthear 
+don Mhaigh . . . ó n-ar bronnadh d'ór lais-sean . . . ann
+`<span class="quote">from the quantity of gold</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 4470
+        . tré n-ar imreadar 
+d'ulc air `<span class="quote">on account of the injury they had done him</span>', 
+          4634
+        . 
+
+          tréas a ndearnsad do bhagar air, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 3429
+          
+        . Most frequently with DI, giving mod. <span class="frn ">dia</span>, <span class="frn ">dá</span> approximating to a new <span style="color: #ff8000">rel.</span> 
+particle: duine d'a marand indíu <span class="ediltr">any man of those now living</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7318
+        . 
+          gach ní dā ndubrais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FeisTigheChon&#xE1;in" title="eDIL Bibliography">Feis Tighe Chonáin</strong></span> 105
+          
+        . 
+           na h-uili obuir 
+trocuire diar mol in eglus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 25.4
+          
+        . ni ternō nech dona 
+tainic anoir `<span class="quote">of those that came</span> . . .', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 23
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv. 323
+        ). 
+
+          an aenridiri is lugha dob olc da roibhi ina aimsir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 
+100.12
+          
+        . gach aon dár fhás ┐ dá bhfásfaidh <span class="ediltr">every one who has 
+sprung and will spring</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 13
+        . Temporal use: 
+          feacht n-æn da roibhe Cond Cetcathach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 150
+          
+        . 
+          fecht n-aen dá táncatar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 361
+          
+        . 
+          laithe n-aen … da raibe Find, 
+            5737
+          
+        . 
+          feacht n-aen da tainic Find, 
+            5917
+          
+        . 
+          la da raibhi Crist, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SmaointeB.Chr." title="eDIL Bibliography">Smaointe B. Chr.</strong></span> 1754
+          
+        . 
+          gach úair da dtéighinn ’na theach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 187 § 9
+          
+        . 
+          fechtus dia m-bui E. hi Frémainn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 128 § 15
+          
+        . 
+          fecht eli da raibe C. .c. a nDruim Cet, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 146.5
+          
+        . 
+          lá airithi da ndechaid C. .c. do Temraig, 
+            126.20
+          
+        . 
+          feacht n-aon da ttainic Columcille, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 6
+          
+        . 
+          feacht dia m-báttar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 336.1
+          
+        . Also with acht: 
+          co tuctha 
+a longa leó acht a ndechaidh ar éicin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvii 361.17
+          
+         (Tig.).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) When the antecedent is a noun the <span style="color: #ff8000">rel.</span> clause is 
+syntactically gen.: ar comalnad andotairrngert `<span class="quote">to fulfil 
+ 
+what he had promised</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 146.20 (§ 51)
+        . 
+          i farrad na 
+n-dingentar innossa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 6178
+          
+        . 
+          cuirter fesa uathaib co hAth 
+Cliath ar cend ar ḟacsat and do Gallaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 289.30
+          
+         (Tig.). 
+ag soin críoch ar chanamor `<span class="quote">that is the sum of what I have 
+sung</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 15.54
+        . 
+          ag clos a ndoirtid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 4282
+          
+        . 
+          ar son a 
+ndéineann, 
+            731
+          
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

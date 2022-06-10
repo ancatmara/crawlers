@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="9088">cimas</h3><span class="citation">Cite this: eDIL s.v. cimas or <a class="reference" href="9088">dil.ie/9088</a></span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> <span class="trans">
+        <span class="def">edge</span>, <span class="def">border</span>, <span class="def">limit</span>
+      </span>: cimhas <span class="gen f.">f.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 37
+      . 
+
+        ciumhais, oire, imeal, buinne, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 120
+        
+      . brae .i. <span class="frn ">cilium</span>
+       
+
+        .i. ciumais in brae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lib.Hymn." title="eDIL Bibliography">Lib. Hymn.</strong></span> 10 gl. 54
+        
+      . 
+        corrthar .i. ciumus, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 579
+        
+      . </p>
+  
+  
+    
+      <p class="result">(<span class="edilb">a</span>) Of clothes <span class="trans">
+          <span class="def">dress-fringe</span>, <span class="def">hem</span>
+        </span>: in cimais gl. 
+oram (uestimenti), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 137d3
+        . 
+          inar find co cimais duib, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xE1;inAd." title="eDIL Bibliography">Cáin Ad.</strong></span> 24
+          
+        . 
+          brat . . . cona chimais or-shnáith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 318a2
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/AidedM." title="eDIL Bibliography">Aided M.</strong></span> 871
+        ). 
+          fria cimais cochaill Áróin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 121bx
+          
+        . 
+          cimus alaind 
+ordha a[c] comdrud a edaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 3739
+          
+        . 
+          ionar . . . / co 
+cciomhsaibh arccait is óir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 220.6
+          
+        . no gur lomais fam 
+lámhaibh / id chiomhsaibh, a chompánaigh (to an old cloak), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Review" title="eDIL Bibliography">Ir. Review</strong></span> 1912, 378 § 2
+        . Of ornaments of battle-dress: 
+          a 
+uathroic srebnaide . . . cona cimais do banór, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6421
+          
+         = 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2566
+        . 
+          a ḟuathbróic . . . cona cimais d'ór bricc, 
+            3725
+          
+        . 
+
+          teora cimsa cummaidi . . . dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 32348
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1538
+        ). 
+          ciumhus 
+. . . orshnáithe iona láimh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 120.4
+          
+        . cimsa óir reá 
+n-aichthaib (of the blessed), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 51.14
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">Of <span class="def">flank</span> of <span class="def">army</span> in <span class="def">battle-array</span>:</span> dorinne cimsa 
+comc[h]omuisc dona cathaib mesg ar mesg `<span class="quote">the fringes of the 
+two armies became mingled in confusion</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 90.8
+        . 
+
+          cimhsa comhdlutta cengailti, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Caithr.CC" title="eDIL Bibliography">Caithr. CC</strong></span> 55 (33.6)
+          
+        . 
+          cimsa ┐ 
+cath-imli catha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 254.5
+          
+        . ciomhsa an champa Chonnachtaigh 
+`<span class="quote">those on the outskirts</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 154.17
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">Of <span class="def">limits</span> of <span class="def">territory</span>
+        </span> (<span class="lbl">cf.</span> Lat. <span class="frn ">fines</span>): 
+          luidh sidhe . . . ó 
+chiomhsaibh caonraighe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1760.3
+          
+        . rí `sa chríocha gan 
+chiomhsa `<span class="quote">whose kingdom is without a limit</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 
+180.w
+        . 
+          ar chiomhsaibh ar gcríche, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 39.8
+          
+        . ciomhsa a 
+dtíre (of Teallach nEachach) `<span class="quote">T.E.'s borders</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 
+3040
+        . <span class="trans">Of <span class="def">coast</span>:</span> 
+          mheabhas ciumhsa caladhphort, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> 
+vi 68
+          
+        . 
+          thríallsat amach ó chiomhais chuain 7 caladhphuirt, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> i 113.8
+          
+        . 
+          ó chiúmhsaibh . . . cuan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 44.28
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) Other applications: errandus do chimais na bairgine 
+`<span class="quote">not so much as a biscuit-rim</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 54.2
+        . 
+          go mbaoí 
+ciumhsa ┐ certlár an bhealaigh for a chumas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2256.6
+          
+        . 
+
+          ciomhsa a chladh arna comhar / an magh fionns[a] an 
+bhfacabhar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 976
+          
+        . líne léirmheasta ar a bhfuilid 
+ciomhsa cinnte <span class="ediltr">to which there are fixed limits</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 725
+        . 
+          sech 
+cimais an c[h]roimsgēith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1249
+          
+        . </p>
+    
+  
+  
+    <p class="result"> 
+Compds. With adjj. do chathbarraibh ciomhusarda `<span class="quote">high-crested</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 174.22
+      . 
+        a léinidh cháeil chimhasbláith, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 642
+        
+      . 
+        a sciath cimais-derg, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1483
+        
+      . donaibh 
+sleamhanchláraibh ciomaisdirghe `<span class="quote">straight-edged</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 
+108.28
+      . 
+        coilér . . . cimasgel, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CF2" title="eDIL Bibliography">CF²</strong></span> 680
+        
+      . co n-inaraib . . . crunnblaithi cimasmilla `<span class="quote">edge-figured</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> ii 208.8
+      . 
+Éire na 
+gcuan gciomhaiste <span class="ediltr">of warm shores</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 107.2
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

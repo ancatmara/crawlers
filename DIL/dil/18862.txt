@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="18862">druim(m)</h3><span class="citation">Cite this: eDIL s.v. druim(m) or <a class="reference" href="18862">dil.ie/18862</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                Druim, Druim, dromma, droma, drommo, dromo, ndruimm, drummai, drummaib, drumbaibh, drommaib, dromaim, dromand, drommand, dromanna, druim, Druim</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype i">i</span>, <span class="gen n.">n.</span> <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        
+          Druim nAssail, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 202a1
+        
+      . 
+        
+          Druim nDían, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 40
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        dromma, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 51a8
+        
+      . 
+        droma, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 721
+        
+      . 
+
+        drommo, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 17a2
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 239.1
+      ); 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> May 21
+      . 
+        dromo, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 728
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        i ndruimm
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 17a2
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        drummai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 26c8
+        
+      . 
+
+        100b2
+      . See 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 191
+      , 
+        193
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        drummaib, 
+          135d5
+        
+      . 
+
+        drumbaibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 519
+        
+      . 
+        drommaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5560
+        
+      . In Mid.Ir. somet. 
+as <span class="itype n">n</span>-stem: <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        dromaim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 42a18
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        dromand, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gild.Lor." title="eDIL Bibliography">Gild. Lor.</strong></span> 
+171
+        
+      . 
+        drommand, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1486
+        
+      . Later Mid.Ir. <span class="case n">n</span>
+      <span class="case a">a</span>
+      <span class="number p.">p.</span> dromanna. 
+druim <span class="gen m.">m.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 41
+      , <span class="gen f.">f.</span>, 
+        § 149
+      .</p>
+   
+    
+      <p class="result"> 
+ <span class="edilb">I</span> <span class="trans">
+          <span class="def">back</span>:</span> gl. dorsum, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 745
+        ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 44a16
+        , 
+          135d5
+         (<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Psalms</strong></span> 
+cxxviii 3
+        ). tergum, 
+          26c8
+        , 
+          44a18
+        ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gild.Lor." title="eDIL Bibliography">Gild. Lor.</strong></span> 171
+        . <span class="trans">
+          <span class="def">Back</span> of men 
+or animals:</span> lorc dromma gl. spina, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 51a8
+        . 
+          bai Dauid 's a 
+druim fri fraig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6053
+          
+        . 
+          ní fil druim neich díb fri araile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 
+§ 12
+          
+        . 
+          cēt plagbemend dar a drúm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1170
+          
+        . 
+          ro cenglatar 
+a láma iarna druim, 
+            2213
+          
+        . 
+          berait Hectoir . . . isin Troe ┐ a 
+druim reme, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 238b3
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1599
+        ). 
+          a ndromanna rompu, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Nenn." title="eDIL Bibliography">Todd Nenn.</strong></span> 72.20
+          
+        . 
+          claideb . . . iarna thaeb-druimm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+5389
+          
+         = 
+          iarna formna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 3276
+          
+        . claideb iarna cinddruim 
+ <span class="ediltr">across his shoulders</span>, 
+          3189
+        . 
+          gur bris a droim dont sháthudh 
+sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 34.32
+          
+        . 
+          cia . . . frisa laefidis a n-ochta nó frisa 
+saefidis a ndromand (ndromanna, <span class="lbl">v.l.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2684
+          
+        . techt do 
+leth in droma docum na Cristaidhi <span class="ediltr">to come on the C. from the 
+rear</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fier." title="eDIL Bibliography">Fier.</strong></span> 4
+        . 
+          tangadar do leith a ndrumann chuca, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 320
+          
+        . 
+
+          do dibraig faga a leith da druim do, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1016
+          
+        . laeighi an 
+droma <span class="ediltr">lying on the back</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/23P10" title="eDIL Bibliography">23 P 10</strong></span>, 3a20
+         (med.). 
+          ar druim ech 
+ṅdond, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 442
+          
+        . fráech a droma (of a boar), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 66.19
+        . 
+dromanna (of animals served up at a feast), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 26
+        . 
+Transf. of a river (compared to a pers. carrying a burden): 
+
+          ni beir Luimnech for a d.<span class="oRef">¤</span> | marban i n-nōi ba fiú do, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 661
+          
+        
+= 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> i 41 § 96
+        . Fig.: 
+          Banbha do brisiodh a druim '<span class="quote">Ireland's back has been broken</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/GiollaBrighde" title="eDIL Bibliography">Giolla Brighde</strong></span> 52 § 43
+          
+         (on death of Maoileachlainn Ó Domhnaill). 
+          is and romeabaid a d.<span class="oRef">¤</span> isin domun intan dorochair Memnon <span class="ediltr">the world's back was broken</span>, i.e. <span class="ediltr">the world collapsed</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 488a19
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 95.15
+        , Alex.). <span class="trans">Of a <span class="def">building</span>
+        </span>: 
+          mur dhruim thempail dá thógbháil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl.ex. 750
+          
+        . d.<span class="oRef">¤</span> fri lias <span class="trans">a <span class="def">pent-house</span>, <span class="def">shed</span>
+        </span> in Laws Comm.: druim fri lias laegh `<span class="trans">a <span class="def">calf-shed</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 64.22
+        , 
+          92.10
+        , 
+          208.21
+        . 
+          im elodh druma fri lias, 
+            220.11
+          
+        . <span class="trans">Of <span class="def">eyelids</span>
+        </span>: a cur ar dhruim na sūl (of a medicament), 
+          <span><strong class="pop" style="color:blue" href="bibliography/23K42" title="eDIL Bibliography">23 K 42</strong></span>, 351.5
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">II</span> By extension <span class="trans">
+          <span class="def">back</span>, <span class="def">surface</span> (flat or <span class="def">convex</span>):</span> 
+          ar dhruim 
+dhomain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 82
+          
+        . 
+          ar dhruim an domhain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2659
+          
+        . 
+
+          ar druim na talmhan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Acts</strong></span> xvii 26
+          
+        . 
+          dar druim machuire 
+maghtsleibhi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 2387
+          
+        . 
+          breth ar díabul úas druim den, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 136.1
+          
+         (printed as n.loc. .i. tuas for neamh, L., <span class="lbl">cf.</span> 
+
+          druimden .i. in firmuiment, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 349
+          
+        ). 
+          ar dhruim na 
+huaighe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5734
+          
+        . gáir peinn di dromaib duillenn <span class="ediltr">the 
+scratch of a pen from leaves (of a book</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 197
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 
+815
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ix 167
+        . fa dhruim leac <span class="ediltr">under a flag-stone (tombstone</span>), 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 130
+        . d.<span class="oRef">¤</span> sgéith <span class="ediltr">convex face of a shield</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 
+168
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">III</span> <span class="trans">
+          <span class="def">ridge</span>, usually of elevated ground; <span class="def">hill</span>:</span> 
+          ar druim Droma 
+Damghaire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 222.12
+          
+        . trí drommanna hÉrenn, D.<span class="oRef">¤</span> 
+Fingín, <span class="lbl">etc.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 51
+        . 
+          um na tri dromandaib as deach bai 
+a nErinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvi 165
+          
+        . 
+          oc imtecht ind fhid-dromma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3768
+          
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 34
+        ). 
+          cosna fiddromandaib Partecda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 696
+          
+        . 
+          i 
+slebtib ┐ dromaib ┐ díthreba, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 392
+          
+        . 
+          tar druim Breatan, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 2283
+          
+        = <span class="frn ">trans Dorsum Britaniae</span> (a range of hills 
+betw. shires of Perth and Argyle), 
+          <span><strong class="pop" style="color:blue" href="bibliography/CS" title="eDIL Bibliography">CS</strong></span> 713
+        . Common in 
+place-names with follg. gen., see 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hog.Onom." title="eDIL Bibliography">Hog. Onom.</strong></span>
+         Transf. of 
+<span class="trans">
+          <span class="def">ridge</span>, <span class="def">crest</span> of a wave:</span> 
+          tógbhaid uisgeadha aigianta . . . 'na 
+ndromannaibh diana, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2073
+          
+        . <span class="trans">Of a <span class="def">sword-blade</span>:</span> 
+          claideb 
+. . . cét nathrach n-óir iarna druim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 122
+          
+        . Fig. 
+(as allegorical <span class="pos n.pr." style="color: #ff8000">n.pr.</span>
+        <span class="gen m.">m.</span>): 
+          Druim Suithe `<span class="quote">Ridge of science</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xvi 277
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> § 160
+        ), <span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=druimne">druimne</a></span>.</p>
+     
+      <p class="result"> 
+Hence, in Ogham, techn. term for the <span class="ediltr">ridge</span> or solid <span class="ediltr">angle</span> 
+from which letters were drawn; see 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 947
+        , 
+          986-90
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">IV</span> In prep. and adv. phrases.</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) d.<span class="oRef">¤</span> ar d.<span class="oRef">¤</span>
+           <span class="trans">
+            <span class="def">one above</span> (after) 
+ <i>another</i>, <span class="def">in succession</span>:</span> 
+            secht clāir druim ar druim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 
+145
+            
+          . 
+            fuaras mór corp druimm ar druimm, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 36
+            
+          . 
+
+            dochuaid certga C. tres na tri sciathaib druim ar druim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 
+152.16
+            
+          . 
+            na techta druim ar druim uaidh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3320
+            
+          . 
+
+            secht ccatha dóibh druim ar druim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 224.4
+            
+          ; 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 
+222.17
+          . 
+            ionann chaoinid druim ar dhruim | eoin is ceathra, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> i 84 § 14
+            
+          . glóir an domhnāin, druim ar dhruim '<span class="quote">constantly</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 112 § 6
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) d.<span class="oRef">¤</span> tar d.<span class="oRef">¤</span>
+           (tar ais) <span class="trans">
+            <span class="def">upside down</span>, <span class="def">topsy-turvy</span>:</span> 
+            dorochair in 
+drolmach . . . dochuaid druimm dar druimm, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 80
+            
+          = 
+
+            druim thar ais, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1516
+            
+          . 
+            ro chuir cend dar cend ┐ 
+druimm dar ais miassa na monotóri, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4393
+            
+          . 
+            an long d'impodh 
+druim tar ais, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 294.20
+            
+          . claochlodh, gluasacht ┐ 
+neithe druim ar ais <span class="ediltr">things topsy-turvy</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corp.Astron." title="eDIL Bibliography">Corp. Astron.</strong></span> 112.9
+          . 
+<span class="trans">
+            <span class="def">Backwards</span>:</span> do theilgis mo ráitte-se druim tar ais (= <span class="frn ">proiecisti retrorsum</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1596
+          . </p>
+      
+     
+      
+        <p class="result">(<span class="edilb">c</span>) ar d.<span class="oRef">¤</span>
+           <span class="trans">
+            <span class="def">following</span>, <span class="def">in succession</span> (<i>addition) to:</i>
+          </span> 
+            co maithfidh 
+[Dia] do chinta duitt do torad na faisidi ar druim na torrsi, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Lib.Flav." title="eDIL Bibliography">Lib. Flav.</strong></span> i 21vb21
+            
+          . tri gepta ar druim a cheile <span class="ediltr">three gates 
+one behind the other</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 78.31
+          . do bhí ar dhruim a 
+dhúthchasa `<span class="quote">in the succession to his patrimony</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Miscell.Celt.Soc." title="eDIL Bibliography">Miscell. Celt. Soc.</strong></span> 170.6
+          . a leanmuin ar a ndruim <span class="ediltr">closely pursuing them</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 194.30
+          . 
+            go mbí Dia ar dhruim na druinge do-ní 
+an t-ithiomrádh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7278
+            
+          . </p>
+      
+     
+      
+        <p class="result">(<span class="edilb">d</span>) de (do) d.<span class="oRef">¤</span>
+           <span class="trans">
+            <span class="def">on account of</span>, <span class="def">by means of</span>:</span> 
+            do druim do 
+leanna-sa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 21 n. 5
+            
+          . do druim a doirre <span class="ediltr">on account of 
+her wrath</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 56
+          . do dhruim degretha <span class="ediltr">by dint of 
+hard running</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 283.29
+          . 
+            ród na haithrighe de dhruim na 
+faoisdine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 88.24
+            
+          . do dhruim aontuighthe don olc 
+<span class="ediltr">by consenting</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7030
+          . do dhruim coinghill <span class="ediltr">upon certain 
+conditions</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2176
+          . <span class="trans">
+            <span class="def">Away from</span>, <span class="def">off from</span>:</span> cuirther iad do 
+druim a ttire ┐ a n-uile maithesa <span class="ediltr">they are driven from</span>, 
+            iv 1018
+          ; 
+
+            v 1338
+          . teilgidh do dhruim a mheanman gach bagar <span class="ediltr">he casts 
+from his mind</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1943
+          . 
+            le saothrughadh na n-ealadhan go 
+nach cuirfeadh bochtacht d'á ndruim iad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 72.6
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) fo-ceird (cuirid), do-beir d.<span class="oRef">¤</span> fri <span class="trans">
+            <span class="def">abandons</span>, <span class="def">abjures</span>, <span class="def">renounces</span>
+          </span> (for lit. sense <span class="lbl">cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 44a19
+          ): 
+            doralsat a ndruim ro 
+Dia, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 79b20
+            
+          . 
+            cuireas Niall . . . a dhruím riúm, 
+              <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 
+366.22
+            
+          . 
+            cuir-si druim red' baistedh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fier." title="eDIL Bibliography">Fier.</strong></span> 55
+            
+          . 
+            do chuir druim 
+re dubhailcibh ┐ tugsad ucht ar aithrighe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 103.17
+            
+          . 
+gur chuireadar Romhánaigh druim ré teacht <span class="ediltr">had refused to 
+come</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 6093
+          . 
+            druim re hIosa . . . tucc ant ōglach, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 381.4
+            
+          . tucsat . . . a ndruim fri daeine (<span class="lbl">i.e.</span> <span class="ediltr">have died</span>), 
+
+            vi 265 § 19
+          . 
+            nā tabrad a druim fria Ríg, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 100.20
+            
+          . 
+Similarly d.<span class="oRef">¤</span> láime, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=l&#xE1;m">lám</a></span>. With vb. omitted: druim re 
+deman <span class="ediltr">he shunned the devil</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 306 § 5
+          . 
+            aged re Dia, 
+druim re mnai, 
+              § 8
+            
+          . 
+            druim re díomus, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 282.30
+            
+          . ba 
+druim re saegul leisan ḟein <span class="ediltr">giving up hope of life</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CF" title="eDIL Bibliography">CF</strong></span> 631
+          . 
+eacht go ndeacha druim re béas `<span class="quote">contrary to good manners</span>', 
+ 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 44
+          . 
+            cūis droma ris gach nduine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/3C13" title="eDIL Bibliography">3 C 13</strong></span>, 833.9
+            
+          . 
+a druimm fri sognímaib! <span class="ediltr">thou who turnest thy back on good 
+deeds</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8227
+          . 
+            a druim re seisi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 93
+            
+          . </p>
+      
+    
+  
+  
+    <p class="result"> 
+Compds.</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) With adj. 
+          <span class="oRef">¤</span>derg: 
+          díglaib demnib drumdergaib, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5656
+          
+        . secht [m]bliadna déc druimderga <span class="ediltr">years of slaughter</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 51a15
+        . 
+          <span class="oRef">¤</span>dil: 
+          fon talmain d., 
+            <span><strong class="pop" style="color:blue" href="bibliography/3C12" title="eDIL Bibliography">3 C 12</strong></span>, 192.16
+          
+        . 
+
+          <span class="oRef">¤</span>lethan <span class="trans">
+          <span class="def">broadbacked</span>:</span> 
+          ech drúimlethan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 47
+          
+        . 
+          damh 
+druim-leathan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 139.18
+          
+        . 
+          <span class="oRef">¤</span>remor (of a pig), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 
+54.19
+        . 
+          Loch Munremuir | dremuin dromremuir daingin, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 7a6
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) With subst. 
+          
+            <span class="oRef">¤</span>den, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 349
+          
+        , see <span class="edilb">II</span> above. 
+          <span class="oRef">¤</span>iall <span class="ediltr">a strap 
+passed over the back (top) of something:</span> <span class="ediltr">of a caul</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> iii. 126
+        , 
+
+          128
+        . 
+          <span class="oRef">¤</span>lerg: 
+          for druimleirg in talman, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 86
+          
+        . 
+          <span class="oRef">¤</span>lethar 
+`<span class="trans">
+          <span class="def">back-leather</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5207
+        , 
+          5227
+        . 
+          <span class="oRef">¤</span>lia: dromlia <span class="trans">
+          <span class="def">tombstone</span>
+        </span>, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 114
+        . 
+          <span class="oRef">¤</span>rith (mod.) 
+ <span class="ediltr">hasty retreat</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> iii 154
+        . ? 
+          <span class="oRef">¤</span>scoilt. As <span class="pos n.pr." style="color: #ff8000">n.pr.</span> gen. 
+          co trī 
+macaib Dromscailt mic D., 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 3030
+          
+        . 
+          <span class="oRef">¤</span>scríbinn (mod.) 
+ <span class="trans">`<span class="def">superscription</span>', <span class="def">envoy</span>
+        </span> (<span class="ediltr">of a poem</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 226
+        . 
+          <span class="oRef">¤</span>script 
+ <span class="lbl">id.</span>, 
+          iii 28
+        . 
+          <span class="oRef">¤</span>ṡelg `<span class="trans">
+          <span class="def">back-spleen</span>
+        </span>': in druimṡeilg (gl. dorsum), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gild.Lor." title="eDIL Bibliography">Gild. Lor.</strong></span> 172
+        . 
+          <span class="oRef">¤</span>ṡlat: co drum[ṡ]lait <span class="trans">
+          <span class="def">ridge-beam</span>
+        </span> (of Noah's Ark, <span class="lbl">cf.</span> 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 14
+        ), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2454
+        . <span class="trans">Of the <span class="def">cornice</span> of an <span class="def">altar</span> (?):</span> 
+          deil 
+telchinni . . . fri torgbáil na drumslaite, 
+            4272
+          
+        , 
+          4277
+        , 
+          4283
+        , <span class="lbl">cf.</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 120b
+          
+         and 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Exodus</strong></span> xxx 4
+        . co tuidmib na drumslaite (of the 
+Tabernacle? But perh. of the altar, <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Numbers</strong></span> iv 26
+        ), 
+          4892
+         = 
+
+          dromṡlati, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 123a37
+          
+        . 
+          <span class="oRef">¤</span>thimchell, of the raised rim of a 
+shield, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 1959
+        . </p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">c</span>) With vb., in purely locative sense: doidi arna ndruimgerradh `<span class="quote">arms . . . shortened to the back</span>' (<span class="ediltr">hands slashed on the 
+back</span>?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/CF" title="eDIL Bibliography">CF</strong></span> 733
+        . 
+          dóide dromghonta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6614
+          
+        . ón ngairm do 
+dhruimléanuigh na dreama sin <span class="trans">
+          <span class="def">crippled</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> iii 22
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

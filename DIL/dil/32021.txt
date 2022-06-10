@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="32021">1 mes(s)</h3><span class="citation">Cite this: eDIL s.v. 1 mes(s) or <a class="reference" href="32021">dil.ie/32021</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                mes, mess, messa, messai, mesai, mesu, messu, meas, -a, mes, lānmheasa</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype u">u</span>, <span class="gen m.">m.</span>, (<span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=midithir">midithir</a></span>) <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        in mes
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 30b24
+        
+      . 
+        mess, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 11b26
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        messa, 
+          4c24
+        
+      . 
+        messai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 6.
+        
+       <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        mesai, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 55d11
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        mesu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 246.8
+        
+      . 
+        messu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 188a52
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xxvi 36
+      ). meas (<span class="gen m.">m.</span>, <span class="case g">g</span>
+      <span class="number s.">s.</span> <span class="case n">n</span>
+      <span class="number p.">p.</span> -a), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 95 (p. 127.23)
+      .</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">the act of <span class="def">judging</span>; a <span class="def">judgement</span>, <span class="def">opinion</span>:</span> gl. censura, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+24a1
+        , 
+          27c13
+        ; aestimatio, 
+          30b24
+        , 
+          31d6
+        ; examinatio, 
+          30c7
+        , 
+          47a5
+        ; 
+examen, 
+          26c12
+        . 
+          meas .i. breath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         
+          mess dimicne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+11b26
+          
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 24a9
+        .
+           cach mes co cubus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 226 z
+          
+        . buden 
+dib dogēntar do mes . . . buden aile díb na dingēntar do mes 
+<span class="ediltr">some of them will be subject to judgement</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2369
+        , 
+          2375
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+iv 250 §§ 17
+        , 
+          18
+        ).</p>
+     
+      <p class="result"> 
+With obj. gen.: [is] é a mess limm <span class="ediltr">this is my opinion about 
+it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 188a19
+        . ná bad dia mess <span class="ediltr">let it not be to judge him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+6b5
+        . ragait aithle a mmessa dochom péné <span class="ediltr">after they have been 
+judged</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2370
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 250
+        ). atu-sa . . . icom mes ó na dib 
+rigu sechtmogat <span class="ediltr">I am being judged by</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1408.
+         doní P. 
+taoiseach sluaigh do M. iar meas a chródhachta dó <span class="ediltr">after 
+judging of his valour</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 681.
+         Folld. by FOR (AR): nebmess 
+for nech <span class="ediltr">not judging any one</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 8d26
+        . lēc-siu ildeth [= i 
+lleth] nDé mess for a menmain-som <span class="ediltr">leave it to God to judge the 
+mind of such</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 56.
+         
+          doraga [Críst] do mess for bíu 
+┐ marbu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3632
+          
+        , <span class="lbl">cf.</span> 
+          3159
+        , 
+          5011
+        , 
+          7284
+        . ni hinann meass is 
+cōir for Cesair <span class="ediltr">a right opinion of C.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 757.
+         dá ndeachainn 
+a meas orra <span class="ediltr">if I should enter into judgement on them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> 
+xviii 92.
+         madat comluatha . . . ním-lúaidfed mes ar a ṅdath 
+<span class="ediltr">if (the horses) are equally swift, I shall not be influenced by their 
+colour</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 217 § 2.
+         
+          ni hinnill rug . . . mess no brethnughadh ar in region, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 40.15
+          
+        . ar mbreith dō mesa ar an 
+ffonn <span class="ediltr">after his forming an opinion on the land</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> i 42.
+         
+With subj. gen.: 
+          iar mes cech deg-athar dil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iii 8.
+          
+         <span class="trans">Absol., <i>the</i> <span class="def">faculty</span> of <span class="def">judgement</span>:</span> is i in stair fa stiuir 
+meassa <span class="ediltr">under the guidance of judgement</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 17b8
+        . nem[ḟ]agbail in measa | na feasa do thomus (sign of a degenerate 
+age), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 240 § 3.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">the <span class="def">Last</span> <span class="def">Judgement</span>:</span> 
+          nacham-tuca Demon lais . . . resiu 
+doneither in mes, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 50.4
+          
+        . i llathiu in messa <span class="trans">
+          <span class="def">on Doomsday</span>
+        </span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> ii 53.
+         
+          nípa hécen tene bratha . . . nó hadall messai doib, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 6.
+          
+         
+          i ló mheasa an mhórshluaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 102.25
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">appraisement</span>, <span class="def">estimate</span>, <span class="def">valuation</span>
+        </span>, with obj. gen. mess 
+moga <span class="ediltr">valuation of a slave</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 394.5
+        . 
+          is e mess a loighe . . . 
+in scriball, 
+            ii 240.10 Comm.
+          
+         
+          mess tiri: tomus forrag, 
+            iv 340.8
+          
+        . 
+
+          fri mesu ┐ toimsiu, 
+            ii 246.8
+          
+        , with gl.: .i. cia ba fiu . . . .i. cia ba 
+meit (from which it appears that `mes' = <span class="trans">
+          <span class="def">estimate of value</span>
+        </span>, 
+`tomus' <span class="ediltr">measurement</span>). <span class="lbl">Cf.</span> mes .i. ó ṡúil ┐ tomus ó laim (<span class="lbl">i.e.</span> 
+a `mes' is formed by viewing, a `tomus' by measuring), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+1244.
+         cēt muc, cēt mart arna mhes (<span class="lbl">i.e.</span> up to the required 
+standard), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 116.3
+        . This may be the meaning in the 
+phrase: fri(a) m.<span class="oRef">¤</span>
+         <span class="trans">
+          <span class="def">to be estimated</span> = <span class="def">according to</span> (its) <span class="def">valuation</span>?</span> 
+
+          .l. mart fria meas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 270b40
+          
+         = 
+          ria meas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 64.2
+          
+        . 
+          dá 
+bairgin nár becc re mes, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 20.27
+          
+        . <span class="lbl">Cf.</span> also: co n-érne in rí 
+rán fri mess | ar cach ṅdán a miad diles <span class="ediltr">pays for each art its 
+proper honour according to due estimate</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 20.
+         
+
+          aicci no bítis ria mess | min-ṡeóit Medba, 
+            464
+          
+        . 
+          ba muccaid 
+menmnach ria mess, 
+            iv 176.1
+          
+        . 
+          Lugaid ainm cach meic ria 
+mess, 
+            136
+          
+        . Further exx.: ag meas na gcloigeann <span class="trans">
+          <span class="def">examining</span> 
+(<span class="def">comparing</span>)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7712.
+         gidh cóir Meadhbh ré Móir do mhes 
+<span class="ediltr">to compare Meadhbh with Mór</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. ex. 1024.
+         <span class="case g">g</span>
+        <span class="number s.">s.</span> as 
+attrib.: iiii longa lānmheasa
+         <span class="trans">of <span class="def">standard</span> <span class="def">value</span> (? <span class="def">measure</span>)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 
+276a26
+        . — Hence: 
+          meas .i. tomhus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">opining</span>, <span class="def">deeming</span>, <span class="def">supposing</span>
+        </span>, with obj. gen. or subord. 
+clause: atáid cách . . . dá mheas gur dhearbh libh . . . <span class="ediltr">every one 
+suspects that</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxvii 7.
+         ní héidir a mheas go mbiadh . . 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 396.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+          <span class="def">estimate</span>
+          <span class="def">, reputation</span>
+        </span>, with defining gen.: meas naomhthachta <span class="ediltr">fame of sanctity</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> i 87 § 19.
+         is follus nach 
+fuil . . . meas stáire fírinnighe ag na seanchadhaibh ar chath 
+Fionntrágha <span class="ediltr">that the shanachies do not regard the battle of 
+Ventry as true history</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 50.5
+        . meas craosaigh <span class="ediltr">the reputation of a glutton</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7093.
+         
+          ná tugadh éandhuine meas 
+dhuine gan chéill oram, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">2 Cor.</strong></span> xi 16.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) <span class="trans">absol., <span class="def">esteem</span>, respect, <span class="def">regard</span>:</span> bantrocht nach bec mess 
+immach `<span class="quote">not small in esteem abroad</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 14.
+         ní 
+barr measa don taoibh theas `<span class="quote">no crown of honour to the south</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xv 16.
+         dot ghruaidh ttaidhleach téid a mheas `<span class="quote">its 
+credit goes to thy shining cheek</span>' (= the gift owes its value to 
+the giver?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1921, 275 § 2
+        . With prep. ar: Maodocc 
+gan mes ar mhaoinibh <span class="ediltr">making no account of treasures</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+280.21
+        . 
+          go mbia meas agad ar dhiscréid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> v 2.
+          
+         gleacaidhe 
+. . . nár chuir meas ar chasc ná ar chartaibh <span class="ediltr">who set no store 
+on cask or quart</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 530.
+         ní do mhés oruinn fein 
+acht do mhés ar Chriosd <span class="ediltr">not for our sake but for sake of C.</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 228.12
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

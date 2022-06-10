@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="33032">neimed</h3><span class="citation">Cite this: eDIL s.v. neimed or <a class="reference" href="33032">dil.ie/33032</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                nemthe, nemid, nemhid, -nemiud, nemid, nemthiu, neimthiu, neimed, senneimedh, Nemed, nemed, nemedh, nemed, Nemed, Nimeth</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen m.">m.</span> orig. <span class="itype s">s</span>, <span class="gen n.">n.</span>? occas. treated as <span class="gen neut.">neut.</span> in law texts; the gender is m. when denoting a person or animal (male or female) and n. when denoting an abstract notion (e.g. 'sacredness' or 'privelege') or a place, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Bechbretha" title="eDIL Bibliography">Bechbretha</strong></span> 107-8
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xlv 100
+      , but see 
+        <span><strong class="pop" style="color:blue" href="bibliography/CMCS" title="eDIL Bibliography">CMCS</strong></span> viii 48
+      . 
+ <span class="lbl">cf.</span> 
+        coa nemthe nert, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3480
+        
+       (<span class="case g">g</span>
+      <span class="number s.">s.</span>? `<span class="quote">to the protection of the 
+shrine</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 188 § 15
+      ). <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        ind nemid
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 240.19
+        
+       = 
+        in 
+nemhid
+        , 
+          <span class="lbl">ib.</span> 4
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        -nemiud, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 227a20
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        nemid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+14.12
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        nemthiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9786.
+        
+       
+        neimthiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 260.17
+        
+      . 
+neimed (<span class="itype o">o</span>, <span class="gen m.">m.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. § 11. 20
+      .</p>
+   
+    
+      <p class="result"> 
+ <span class="edilb">I</span> The orig. sense is prob. that of <span class="trans">a <span class="def">consecrated</span> place</span>, 
+= Gaulish <span class="frn ">νεμητον</span> (<span class="lbl">cf.</span> <span class="frn ">Αὐγουστο-νέμετον</span> Ptolemy's name for mod. 
+Clermont Ferrand; see 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 37
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiii 138
+        ), which prob. 
+represents an indigenous word used of sacred groves; <span class="lbl">cf.</span> 
+          
+            <span class="frn ">de 
+sacris silvarum quas nimidas vocant</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/DuCange" title="eDIL Bibliography">Du Cange</strong></span> <span class="lbl">s.v.</span> nimida
+          
+         
+(&lt; Conc. Liptini A.D. 743
+        ), which seems to represent an orig. 
+<span class="gen fem.">fem.</span> It is sometimes not possible to distinguish the sense <span class="trans">'<span class="def">sacred place</span>, <span class="def">sanctuary</span>'</span> from <span class="trans">'<span class="def">privilege</span>'</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bechbretha" title="eDIL Bibliography">Bechbretha</strong></span> 107
+        . In Irish lit. <span class="trans">a <span class="def">sanctuary</span>
+        </span> : nemed gl. <span class="frn ">sacellum</span>
+         '<span class="quote">(small) sacred place</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 13 b 1
+        . atnaig tar fót crúach i n-ardnemed dia díte, di-eim ar díantólae slúaig '<span class="quote">he brings him away over gory sod into a high sanctuary for his protection, which protects [him] from the swift tide of a [hostile] throng</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 53
+        . nemed gl. <span class="frn ">asilum</span>
+         '<span class="quote">a place of refuge</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lv 9
+        ; in early Christian lit. prob. <span class="trans">a 
+small <span class="def">chapel</span> or <span class="def">oratory</span> (or else the spot on which such stood), 
+freq. in connexion with `<span class="def">cell</span>'.</span> 
+          conid Dún a sen-nemed, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+754
+          
+         (of Downpatrick, the burial-place of Colum Cille) = 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xx 178 § 44
+         (`<span class="quote">senior church</span>') = 
+          senneimedh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 374
+          
+        ; perh. 
+for sén-n.<span class="oRef">¤</span>
+         <span class="ediltr">auspicious holy spot</span>, i.e. the place of his resurrection. 
+
+          ní ra cráid chill nā nemed, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 84 § 98
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 303b39
+        ). 
+          nemed 
+cille no duin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 214.4
+          
+         (glossed .i. in releg <span class="ediltr">cemetery</span>, 
+          <span class="lbl">ib.</span> 24
+        ; <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 754 above
+        ). neimhedh naemainglech (of Cluain 
+Cesáin), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 500.
+         
+          neimedh Sináin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 12 § 7
+          
+         (seems = 
+tempall S., <span class="lbl">ib.</span>). 
+          can comarci . . . do cill no do nemead, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 
+152.3
+          
+        . 
+          ro cumdaigedh leis ceallaca dhais Erenn ┐ a neimhedha, 
+
+            138.21
+          
+        . 
+          nior fhagbhadar Lochlannaigh naomh nó neimheadh 
+no ceall uasal . . . gan argain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 80.12
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> vi 196.
+         
+
+          cin chadus do chill nā do nemedaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1236 § 16.
+          
+         
+? 
+          nipsa cell cin chlocc . . . nipsa haí cin imditin, nipsa neimeth 
+cin imfochaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 60.5
+          
+        ; <span class="lbl">cf.</span> nemeadh cin imfochaid 
+(sign of degenerate times), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ix 168.22
+        .</p>
+     
+      <p class="result">
+        <span class="pos pn" style="color: #ff8000">pn</span> 
+Prob. in this sense in place-names: 
+          Nemed, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 240.19
+          
+         
+(place where there was a `neimed'). 
+          a Nemud slebe Fúait, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5355
+          
+         = 
+          o nemiud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 3298.
+          
+         
+          i nNemiud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iv 166.55
+          
+         (also in Sliab Fuait). <span class="lbl">Cf.</span> 
+          termond na fían . . . im 
+rēid airthir Nemid nāir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4148.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">II</span> Secondary meanings, arising prob. from the immunities 
+or honour attached to a consecrated spot.</p>
+     
+
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">sacredness</span>
+          </span>; <span class="trans">
+            <span class="def">privileges</span> or 
+<span class="def">insignia</span> (belonging to a profession, rank, <span class="lbl">etc.</span>), <span class="def">status</span>, <span class="def">dignity</span>:</span> 
+
+            nemeth .i. nem iath .i. i n-as dír d'eclais, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 962.
+            
+           
+
+            nemaith .i. a n-as dir d'ogaib, 
+              963
+            
+           ( = 
+            nemáith, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> p. 31
+            
+          ). 
+
+            nemuath .i. a n-as dir d'filedaib, 
+              964
+            
+          : all three exx. are etym. 
+glosses on `neimed' acc. to its various applications; similarly 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 830 fg.
+           (There may have been a techn. term nemiath; 
+ <span class="lbl">cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 74 y
+          : crodh neich nat ba neoit nim [nem <span class="lbl">v.l.</span>] 
+iath, from a judgement pronounced by `filid' and `brethemain' 
+= <span class="ediltr">the property of a person who is not niggardly towards the 
+Church</span>?.) 
+            ro ordaigset fir Herend a nemthiu and sin .i. cloc 
+┐ salm do eclais. Gēill do rigaib. Trefoclae techtae do filedaib. 
+Aithgabáil do fennethaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9786
+            
+           = 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> vi 165.9
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 
+564.33
+           (`<span class="quote">privileges</span>' in both places). 
+            cia nemed as uaisle fil i 
+talmain? Nemed n-ecalsa. Cia nemed is uaisliu fil a n-ecluis? 
+Nemed n-espuic: is e espuc as uaisliu dibside easbuc ecalsa 
+[<span class="lbl">sic leg.</span>] Petair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, p. 17a
+              
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 46
+          ). 
+            Colum ar chennsa 
+. . . fri neimhedh eccalsa ┐ ealadhan, 
+              2296.26
+            
+          .</p>
+       
+        <p class="result"> 
+Possibly in this sense in chevilles: 
+            for nem noebda niab 
+nemed
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7135
+            
+           (<span class="case g">g</span>
+          <span class="number p.">p.</span>? or <span class="case n">n</span>
+          <span class="number s.">s.</span> in sense <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=I">I</a></span>?). 
+            naemda nemedh
+            , 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 61 § 93.
+            
+           
+            mét nemed
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 106.6
+            
+          . acht ní sóeras nemed de '<span class="quote">except that which sacredness increases of it</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bechbretha" title="eDIL Bibliography">Bechbretha</strong></span> 58
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) closely connected with preceding sense, and not always 
+to be distinguished from it, is that of <span class="trans">a <span class="def">person</span> (<i>or class of 
+persons</i>) <span class="def">possessing</span> legal <span class="def">status</span> or <span class="def">privileges</span>
+          </span>; acc. to MacNeill, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MacNeill" title="eDIL Bibliography">MacNeill, Law of status</strong></span> 273 n. 1
+          , a generic term for <span class="trans">every person having 
+the <span class="def">franchise</span> of the Féini
+          </span> (but the word seems to be sometimes 
+employed collectively of an entire class); used with much 
+latitude of application, somet. (chiefly in the compd. uasaln.<span class="oRef">¤</span>
+          ) 
+of the highest dignitaries, king, bishop, head of the `filid', 
+somet. (esp. in the Uraicecht Becc in 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v
+          , a late text) of 
+handicraftsmen or master-workers; see 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 262
+          -
+            3
+           and <span class="lbl">cf.</span> 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 962
+          -
+            964
+           quoted above. 
+            atat do [ = dá] neimhid do-cuisin for talmuin, saeirnemead ┐ daerneimeadh. Ite saer-nemead filead and .i. ecalsi, flatha, filidh, feine. Daerneimead 
+imorro, aes gacha dāna olchena. Is aire ada daernemead aes 
+cacha dāna, fobith is do shaernemthib fognait. Acht i[s] saer 
+cid cach creanus a suiri dia dán, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 14.1 fg.
+            
+          ; i.e. the free 
+`neimid' comprised churchmen, rulers, `filid' and `féini', the 
+subject `neimid' handicraftsmen, but the latter could purchase 
+franchise by their art. 
+            ni tuath gin tri saorneimthibh samaigter, 
+eclais, flaith, file, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span> f. 20b
+              
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2272
+          ). 
+            admestar díre 
+cōir cach graid do ṡoernemthib ┐ doernemthib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 95 
+§ 52
+            
+          ; <span class="lbl">cf.</span> 
+            dire .i. di-errethe do nimt[h]ib ara n-uaisligitaid, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 417
+            
+           = 
+            nemthib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> p. 15
+            
+           (i.e. `díre' is not paid 
+by `neimid' on account of their rank). gúala nemid filed `<span class="quote">the 
+coffer of a privileged poet</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 255
+          . mórad nemed `<span class="quote">exalting 
+privileged persons</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 1.16
+          . 
+            nā ben ra cellaib 
+nemid !, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 141 <span class="lbl">m. sup.</span>
+            
+           
+            nib dulta duit da thig | ar enech noím 
+no nemid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 277a12
+            
+          . a chombrāithre naom ┐ neimhedh <span class="ediltr">his 
+brother saints and churchmen</span> (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 2.4
+          . 
+            cach dán a 
+nemed, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 226
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Aib.Cuigni" title="eDIL Bibliography">Aib. Cuigni</strong></span> 14
+          ; expld. `<span class="quote">to every art its 
+practiser</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xvii 49
+          , but perh. = a). 
+            neimheadh gach dán 
+da ndernta, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Gl." title="eDIL Bibliography">Metr. Gl.</strong></span> 28 § 43
+            
+           (where n. seems equated with 
+the handicraft, <span class="lbl">etc.</span> itself), <span class="lbl">cf.</span> neimheadh .i. gach dán no 
+gach ealadha, O'Cl. There is a distinction between <span class="frn ">nemed Dé</span> <span class="trans">'a person privileged from God' (i.e. a cleric)</span> and <span class="frn ">nemed duini</span> <span class="trans">'a person privileged from man' (i.e. a king, poet etc.)</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bechbretha" title="eDIL Bibliography">Bechbretha</strong></span> § 39 (notes)
+          .</p>
+       
+        <p class="result"> 
+A law-tract freq. alluded to was the Bretha Neimed, which 
+contained among other things rulings of the `filid' on technical 
+points and was included in the curriculum of the `cana' or 
+poet of the fourth year; see 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 36 § 18
+           (Bretha Nemídh) 
+and 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1298.
+           
+            isna Brethaib Nemed, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 142
+            
+          , 
+            143
+           = 
+
+            Nemid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> p. 7.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">a <span class="def">halidom</span>; any valued <span class="def">article</span> (<span class="def">property</span>, <span class="lbl">etc.</span>)?</span> consuitter 
+fir ┐ dliged imaille for neimiudh <span class="ediltr">truth (proof) and right are 
+founded on `<span class="frn ">neimed</span>'</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 8.14
+          ; by Thurneysen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> p. 12
+          , transld. <span class="ediltr">Heiligtum</span> and expld. as someth. sacred; 
+from the sequel it appears that the `neimed' for judgements 
+of the church was the Scripture, for those of the `fili' rules of 
+law (roscada) and for those of the `flaith' rules, maxims or precedents and testimonies. <span class="lbl">Cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1175
+          : lam fo nemiath .i. 
+. . . lam fora mindib. nach nemedh do gait `<span class="quote">the stealing of an 
+article of little value</span>' (? <span class="ediltr">of great value</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 394.13
+          . 
+            in 
+cintach in neim-neime do gabail de riana nimhe, a neimhe 
+riana ferunn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span> c. 132
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 160
+          ), i.e. non-`neimed' 
+property was to be confiscated before `neimed' property, the 
+latter before land. <span class="trans">Of <span class="def">cattle</span>
+          </span>: 
+            ro suidiged son la Feine hi comdire fria huasalneimthiu cethra, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 198 z
+            
+          , <span class="lbl">cf.</span> 
+            200.3
+          , 
+            19
+          . 
+
+            ni gaibhtiur nimhe cethra i n-athgabail, 
+              <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span> c. 131
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 
+159
+          ). 
+            nemeth bó, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 830 e
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) in special sense of <span class="trans">
+            <span class="def">landed</span> <span class="def">property</span>, any <span class="def">land</span> owned by a <span class="frn ">nemed</span>-person, esp. <span class="def">glebe-land</span>:</span> 
+neimheadh .i. neamhiath .i. talamh as dlightheach d'eaglais, 
+O'Cl. teampall . . . do forbhadh lasan epscop . . . ┐ neimheadh .i. 
+talamh ecclusda do órdughadh dhó `<span class="quote">glebe-land</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1082.21
+          . 
+? 
+            nir dhíon ar an ccaptin . . . neimhedh naoimh nā filed, fiodh 
+nā foithirghlend, 
+              v 1788.12
+            
+           (transld. `<span class="quote">sanctuary</span>'). fer médaigthe 
+neimhedh eccailsi ┐ ealadhan <span class="ediltr">who augmented the property of 
+church and science</span>, 
+            vi 1908.8
+           (tr. `<span class="quote">an exalter of sanctuaries</span>'). ro 
+croithset neimheadh an naoimh ┐ an innsi uile `<span class="quote">glebe-land</span>', 
+ 
+            <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 92.2 (f. 24b)
+          , of Tory Isl. blessed by Colum C. 
+            gan 
+indradh no orgain neimheadh eccailsi ná eladhan, 
+              190 z (f. 51a)
+            
+          . 
+? 
+            screpul gach teineadh cin tart | do neimeadh coicidh 
+Connacht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 4780
+            
+           (tr. `<span class="quote">the chapel</span>').</p>
+      
+     
+      <p class="result">
+        <span class="pos pn" style="color: #ff8000">pn</span> 
+Nemed occurs as name of the leader of the Fir Bolg in the 
+Book of Invasions = 
+          Nimeth, Gildas Hist. Brit. § 13
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 
+155
+        ); also N.<span class="oRef">¤</span> mac Sraibchind, see 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 129b14
+        . Possibly the 
+same word as the above, see Van Hamel, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 183.
+        
+      </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

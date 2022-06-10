@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="5034">aurrae, aurrad</h3><span class="citation">Cite this: eDIL s.v. aurrae, aurrad or <a class="reference" href="5034">dil.ie/5034</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                aurrai, urra, orra, earra, urradh, orradh, earradh, urrada, urrad, urradha, urraidhe, uraidhe</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype t">t</span>, <span class="gen m.">m.</span>, also <span class="itype o">o</span>.</p>
+   
+    <p class="result"> Not freq. in the earliest texts. Oldest ex. prob. aurrai (<span class="lbl">sic</span> MS), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 457
+      , where used in the apparently secondary sense of <span class="trans">
+        <span class="def">leader</span>, <span class="def">chief</span>
+      </span>. If the form 
+aurrad is old it could be &lt; *ar-fo-rath, <span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=deorad">deorad</a></span> &lt; *di-fo-rath, with which it is frequently contrasted in legal texts 
+        (thus <span><strong class="pop" style="color:blue" href="bibliography/Wortk." title="eDIL Bibliography">Wortk.</strong></span> viii § 175
+      ). But derived by Binchy from <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 r&#xE1;th">1 ráth</a></span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xxxiii 88
+      . 
+The inflexion and meaning are against treatment of aurrae 
+as <span class="pos vn." style="color: #ff8000">vn.</span> of a compd. of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=renaid">renaid</a></span>. urra, orra, earra <span class="gen f.">f.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. 
+§ 7
+      . urradh, orradh, earradh <span class="gen m.">m.</span>, 
+        § 11
+      . Also with <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        -aid, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 304
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 31.17
+       (?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 126.12
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 
+118.16
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        urrada, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 630
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 364
+      ). 
+        urrad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> 
+iii 228.74
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        urradha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1654.5
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 206.21
+      . 
+
+        urraidhe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 71
+        
+      . <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        uraidhe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 318 n.18
+        
+      . Note also <span class="case d.">d.</span> <span class="number sg.">sg.</span> 
+        uirridh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xxi 8
+        
+      .</p>
+  
+
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">person</span> who is <span class="def">native</span> within the bounds of a `fine', `túath' 
+<span class="lbl">etc.</span>
+        </span>, <span class="trans">person whose protection and rights have been vouchsafed</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wortk." title="eDIL Bibliography">Wortk.</strong></span> viii § 175
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xxxiii 88
+        , as oppd. to `deorad'; <span class="ediltr">native freeman, landowner, person 
+of standing:</span> 
+          indigena .i. urraidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 304
+          
+        . 
+          isiat na 
+hurraidh atbeir and:—fir aen eirce, no aencriche, no cid 
+lucht aen choicid ar meadhon dia cheile . . . ┐ dia mbedis 
+fo smacht aen rig . . . asiad na deoraid, na cuigeadhaidh 
+dia cheile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2011-2
+          
+         (H 4.22, p. 34). mad mac imurro 
+berus cetmuindtir do urradh is dilus da trian na n-orba sa 
+do, uair berait mic na nurrad cinaid `<span class="quote">because the sons of 
+native freemen bear (<span class="lbl">i.e.</span> pay for) liabilities</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 44.17 
+Comm.
+         
+          beirid cach dibad ┐ cinaid araili amuil cach nurraid, 
+
+            42.z Comm.
+          
+         
+          muinter Cennansa erraid deoraid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Misc.Arch.Soc." title="eDIL Bibliography">Misc. Arch. Soc.</strong></span> 128.3
+          
+         (`<span class="quote">both natives and pilgrims</span>?' Plummer MS notes). 
+
+          ro edpairset . . . disiurt Choluim Chille . . . do deoradaib 
+craidbechaib . . . cen seilb ṅdilis do nach erraid ann trea 
+biuthu, 
+            130.7
+          
+        . 
+          urraid cách co fócra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 31.17
+          
+        . 
+do maccaib deórad . . . do maccaib aurrad (urradh <span class="lbl">v.l.</span> St.), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 19
+        . 
+          bud aurchur deoraid sin ┐ ni ba hicht urraid, 
+            1289
+          
+        . 
+
+          dligid Ū Gusān cáin a deorad ┐ lethc[h]āin urrad ó ríg 
+Midhi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 64.26
+          
+        . 
+          maccaib sceo ingenaib deoraid aurraid 
+láichaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 215a25
+          
+        . 
+          ag dícendadh urradh ┐ easurradh na 
+ccendtar . . ., 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1698.2
+          
+        . 
+          a thermainn toghaide d'fagbáil 
+'ga nurradhaibh ┐ 'ga noighredhaibh iomcuibhde dia éis, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 264 § 225
+          
+        . teagh ríogh Chruachan cuma a luadh / is 
+(um, as, MSS) 
+          nach uathadh urra um Aodh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 119.23
+          
+        . 
+idir urra is anurraidh `<span class="quote">both freemen and wanderers</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 16.53
+        . 
+na huaisle ┐ na hurraidhe <span class="ediltr">gentry</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 71
+        . Attrib. <span class="case g">g</span>
+        <span class="number s.">s.</span> 
+          fer 
+iar n-iocc recht (? secht) cumal urraid .i. in deora frecair, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 185 n. c
+          
+        . 
+          aire urraid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O Cl.</strong></span> 959
+          
+         (H 3.18, 413b) `<span class="quote">a 
+native noble</span>', Plummer MS. notes. 
+          gataide urrada . . . g. 
+deorada, 
+            630
+          
+         (<span class="lbl">ib.</span> 
+          364
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">leader</span>, <span class="def">chief</span>:</span> 
+          ríi buiden, cid ara n-eperr side? airindí 
+as n-a.<span class="oRef">¤</span> dá buiden nó theora mbuiden, secht cét cacha buidne, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 457
+          
+        . 
+          bassa hurræ alma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> ii 288.32
+          
+         
+(Laud 610 f. 102a) = 
+          bá-sa thóisech-sa do almaib, 
+            21
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+1274
+        ). 
+          torcrattar . . . ceithre hurradha gall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 206.21
+          
+        . 
+
+          catluan catha ┐ urraidh ┐ airsid ímbualta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 490b47
+          
+        . 
+          mac 
+ógh-Mhuire is urra dhún, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> v 4
+          
+        . 
+          má tá tusa . . . / 
+it urradh gliadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxvii 11
+          
+        . go reich urra a 
+n-eadrána `<span class="quote">until their defender come</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 17.16
+        . 
+          ceann 
+urraid soighdiúiridhe . . . Séamus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/P&#xE1;rl.namB." title="eDIL Bibliography">Párl. na mB.</strong></span> 173
+          
+        . 
+          a 
+bheith na chenn don Presptri ┐ na urruigh mhóir dona 
+chovinentears, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 178.33
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">surety</span>, <span class="def">guarantor</span>
+        </span> (`<span class="quote">?because only a native landowner 
+could act as such</span>. <span class="lbl">Cf.</span> trebaire', Plummer MS. notes): 
+          ro 
+gap F. ratha <span class="frn ">et</span> urradha ar M. im na comhadaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+p. 461 n.2
+          
+        . dona hurradhaibh fuair Adamnan na mná do 
+shaoradh . . . Moshacra <span class="ediltr">
+          <span class="lbl">i.e.</span> that M. was one of the guarantors 
+A. got to secure the freedom of women</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mart.Don." title="eDIL Bibliography">Mart. Don.</strong></span> Jan. 8
+        . 
+iarrois a fiacha ar a urrad (translating <span class="frn ">debitor</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aisl.Tund." title="eDIL Bibliography">Aisl. Tond.</strong></span> 
+120 § 2
+        . 
+          ro luaidhedh siothchain . . . gan urradha gan árach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1988.16
+          
+        . 
+          bíaidh agamsa ina earruidh / mac 
+Donnchaidh Í degCealluigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 291
+          
+        . sgéal gan 
+urra <span class="ediltr">unsupported</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 32.27
+        . urra an sgeóil `<span class="quote">the hero 
+of the story</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 24.19
+        . 
+          bhíos durraigh ar son fhíach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> 
+xxii 26
+          
+         (`<span class="quote">that are sureties for debts</span>'). 
+          ós urra gan bhaoi gan 
+ionamhus inn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 170.12
+          
+        . 
+          urra an chonnartha is 
+fearr, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Hebrews</strong></span> vii 22
+          
+        . ni abair an biobla amhluidh, no aonurradh, no aonughdaras nach breugach <span class="ediltr">any authority</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 5864
+        . uisge is teine mhór / 's urradh badh lór leat (of 
+brewing ale) `<span class="quote">materials</span>' (Gloss.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 8.40
+        .</p>
+     
+      <p class="result"> 
+With FRI (RE): cia as earradh re hionnramh gcáigh? 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 1551
+        . 
+          tapoir urra damhsa risna comhadha re 
+geallois a Mheadhbh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 277.33
+          
+        . 
+          dá mbeith Dia ag 
+cuma fa cheart / cia bhus urra re h-imtheacht?, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 23.1
+          
+        . 
+mairg as urra re héacht ríogh `<span class="quote">it is a grave thing to be responsible for (ordering) a king's exploit</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 59.1
+        .</p>
+     
+      <p class="result"> 
+<span class="trans">With gen. of vn., used of a person who can effect the 
+action of the vn.:</span> fá tú urra m'anacuil <span class="ediltr">you were the one who 
+could protect me</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Miscell.Celt.Soc." title="eDIL Bibliography">Miscell. Celt. Soc.</strong></span> 334.3
+        . 
+          urra a ndīona ar 
+Danaruibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ii 339.25
+          
+        . 
+          urra ar sásaidh-ne is sé sin, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 20.29
+          
+        . tú urra cobhartha cáigh <span class="ediltr">the certain help 
+of all</span>, 
+          19.15
+        . níbu hurra deabhtha ad dhál <span class="ediltr">he will be no 
+match for you in contest</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 1818
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

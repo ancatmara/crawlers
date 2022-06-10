@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="39215">súil</h3><span class="citation">Cite this: eDIL s.v. súil or <a class="reference" href="39215">dil.ie/39215</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                súile, súl, súileadh, súl(a)</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype i">i</span>, <span class="gen f.">f.</span> In later lang. also with <span class="case g">g</span>
+      <span class="number s.">s.</span> súile, <span class="case g">g</span>
+      <span class="number p.">p.</span> súl (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/MeasgraU&#xED;Chl." title="eDIL Bibliography">Measgra Uí Chl.</strong></span> 150 § 21 n
+      . ), súileadh. 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 92
+      . </p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span>
+      </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">eye</span>:</span> 
+            sūil <span class="frn ">quasi sol</span>, ar is treithi atā soillsi do duine, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1129
+            
+          . 
+            suil <span class="frn ">a sole</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 450
+            
+          . 
+            aní adchí s.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+4a25
+            
+          . 
+            donnéicci s.<span class="oRef">¤</span> sochude, 
+              9a4
+            
+          . 
+            a mmág rogab s.<span class="oRef">¤</span>
+            , 
+              12a25
+            
+          . 
+
+            éccid in sróin s.<span class="oRef">¤</span> bél, 
+              <span><strong class="pop" style="color:blue" href="bibliography/KZ" title="eDIL Bibliography">KZ</strong></span> xxxi 245
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 219b1
+          ). 
+            comtar 
+forréili a dí sh.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 42
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 338
+          ). 
+            cia chondesin far súli, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 19d24
+            
+          . 
+            tairbertar súili fri deícsin maith, 
+              25c23
+            
+          . 
+            issí 
+briathar súle . . . a cumgabal suas dochum ṅdǽ, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 138a2
+            
+          . 
+
+            hua sulib, 
+              112b12
+            
+          -
+            13
+          . sulib gl. oculis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Tur." title="eDIL Bibliography">Tur.</strong></span> 84
+          . 
+            rir accobor a 
+sula .i. ro rec ar Dia cach ní rob accobor ria s.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 71
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 
+262
+          ). 
+            daigh neich andiaigh a shula, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 123.17
+            
+           (TE) (<span class="lbl">cf.</span> meaning II below). 
+            cutrumma a dá sula, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8984
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 74
+          ). 
+            ar cúic 
+súili déc desa do chaechad dó, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1130
+            
+          . is mer inimat sula 
+<span class="ediltr">it is a finger in many an eye</span> (prov.?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> vi 184.z
+          . 
+            do di suil, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 6 § 17
+            
+          . 
+            silled na súl, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7795
+            
+          . <span class="frn ">oculus pro oculo</span> 
+
+            .i. suil ar son sula, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2255
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 18 (19)d
+            
+          ). cin sula, di 
+aithniu no foircsiu mignima <span class="ediltr">visual crime</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 238.13
+          . 
+
+            aithne sula, 
+              v 196.2
+            
+          . 
+            némhann ar lár a lethshúl .l., 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. 
+ex. 1643
+            
+          . a suile do beith ag dul ón a mathair <span class="ediltr">that his mother 
+was losing her sight</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 274.11
+          . a shuil mhall (to a person), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 32 § 12
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) In phrases. <span class="case g">g</span>
+          <span class="number s.">s.</span> or <span class="case g">g</span>
+          <span class="number p.">p.</span> as attrib. béim súl(a)
+           <span class="trans">
+            <span class="def">harmful</span>, 
+<span class="def">baleful</span> <span class="def">glance</span>, <span class="def">evil eye</span> (?):</span> etlod tri ormath .i. in drochrusc (béim súla, drochsúil, <i>v.ll.</i>) '<span class="quote">stealing away through envy, i.e. the evil eye</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xxiv 35
+          . 
+            in tetla tre formad imorro .i. in 
+beim sula sech mas ma duine dana bés do gres beim sula 
+seccib ni risir imich, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 980
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 423a
+            
+          ). a lámh dar 
+bhean an béim súl (of jealous glances), 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 208.1
+          , 
+<span class="lbl">cf.</span> 
+            32
+          . 
+            béim súla ┐ goin ghrádha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 989
+            
+          . aigmhéil 
+dá bharr | béim súl ar chách re a chladhfhaicsin <span class="ediltr">others are 
+consumed with jealousy when they look at its ripples</span> (?) (of a 
+lady's hair), 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 114.8
+          . la brafad súla <span class="ediltr">in the twinkling of an 
+eye</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2103
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 17
+          ). 
+            <span class="frn ">palpetratione</span> (<span class="lbl">leg.</span> <span class="frn ">palpebratione</span>) .i. 
+amail chath sula (of two persons trying to stare each other out of countenance), 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 182
+          . ? 
+            fiach sula suidhe gu trian 
+tres airgsi .i. is é in tres ni as a fuil fiach dunacaithi air beith 
+aga fechain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1002
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 427b
+            
+          ). gealan na súl gl. tunica 
+sclerotica, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 168
+          . ingelt súili sochaidi `<span class="quote">grazing for the eyes 
+of a multitude, <span class="lbl">i.e.</span> an attractive spectacle</span>' (Gloss.), 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1032
+          . 
+lán súl(a) <span class="trans">
+            <span class="def">attractive</span> <span class="def">sight</span>, <span class="def">cynosure</span>
+          </span>: 
+            ní bhréagfadh lán súla sinn | 
+do chlár Úna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 88.33
+            
+          . 
+            lán súl is croidheadh ó gCuinn, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxv 5
+            
+          . mac Úna atám ar a thí | ní rí mo lán súla 
+acht sé <span class="ediltr">only he can satisfy my glances</span> (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1644
+          . 
+
+            cóir leannán 'na lán súla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 6.11
+            
+          . a lán súl do ghasraidh 
+Ghréag (to a person), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 1296
+          . lí súla = prec.: 
+            lí 
+sula do andrib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3854
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 38
+          ). 
+            teora . . . ferba fon aenerc 
+necoscc iter lathi Lúgba lí súla sochar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 122.8
+            
+           (li sulai, 
+<span class="lbl">v.l.</span>). lī sūla sochaidi (of a saint), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 220.14
+          . mac súla: is 
+astudi is techta a[th]cor mac sula ┐ sanaisi <span class="ediltr">acknowledged son</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 542.7
+           (see Gloss. <span class="lbl">s.v.</span> sanais). 
+            mac sula saighid seilbh 
+ciasa mothar .i. . . . cidh dorcha a breth, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1245
+            
+          . mionn 
+súl(a) = <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=l&#xE1;n">lán</a></span>, lí súl(a) s.v. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 l&#xED;">1 lí</a></span>: 
+            a mhionn súla sochoidhe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 33.5
+            
+          . 
+mionn súl Eirinn anath cliath <span class="ediltr">the delight of Erin's eyes</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 302.1
+          . 
+            a nuaimhionn súl fhear n-Éireann, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 
+88.21
+            
+          . </p>
+       
+        <p class="result"> 
+With verb and follg. prep.: dotuit uile fris mbí s.<span class="oRef">¤</span>
+           `<span class="quote">all that 
+meet the eye</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 244.49
+          . créad nach tugtar 
+leat mar sin | s.<span class="oRef">¤</span> ar Cheallachán Caisil `<span class="quote">spare a glance</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> 
+xviii 144
+          . tug s.<span class="oRef">¤</span> seacha `<span class="quote">looked up</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 1019
+          . 
+            tug 
+s.<span class="oRef">¤</span> tar a ghualuinn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 188.29
+            
+          . oc cur sūlae tar a 
+frithgnam <span class="ediltr">taking a look at</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 825 (69.17)
+          . 
+            co rolsat s.<span class="oRef">¤</span> 
+tairsiu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3782
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 35
+          ). co laifitis a namhaitt s.<span class="oRef">¤</span> forra ar 
+dhinnimhe ┐ deroile an chonganta `<span class="quote">would look down on them</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 266.27 (fo. 71a)
+          . in ts.<span class="oRef">¤</span> dogensa fris <span class="ediltr">the way I shall 
+look at him</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5184
+           (TBC). s.<span class="oRef">¤</span> cháirech eter da rethi gnii-siu 
+etrum-sa ┐ Eogan (to Deirdre), 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 82.1
+          . na duin . . . an suil 
+mongduinn red muintir <span class="ediltr">do not reject your people</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Prolegomena" title="eDIL Bibliography">Prolegomena</strong></span> 
+43 § 21
+          . teid suil Eirend a nUltaibh <span class="ediltr">Ireland is watching 
+Ulster</span> (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 108 § 34
+          . ní thóguibh s.<span class="oRef">¤</span>
+           <span class="ediltr">does not look 
+up</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 191.51
+          . </p>
+       
+        <p class="result"> 
+With follg. prep.: s.<span class="oRef">¤</span> ar theach na trócuire <span class="ediltr">to catch sight of</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 17.33
+          . an céacht ar ar chuiris láimh | s.<span class="oRef">¤</span> romhad air 
+níorbh fhuráil <span class="ediltr">you must keep an eye on it</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xiv 2
+          . s.<span class="oRef">¤</span> 
+d'Albain <span class="ediltr">to look towards Scotland</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 29.4
+          . s.<span class="oRef">¤</span> i gcuid 
+mo chomhursan `<span class="quote">to look at my neighbour's goods</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> 
+xxviii 5
+          . s.<span class="oRef">¤</span> gun chailligh dhuibh 'n-a dheoidh `<span class="quote">she began to 
+yearn for him</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 11 A.16
+          . ní uil agam . . . | acht s.<span class="oRef">¤</span> n-a 
+deaghaidh . . . | mo mhoirn ó fhearaibh Éireann <span class="ediltr">I can now only 
+look back on the honour I had</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 33.4
+          . </p>
+       
+        <p class="result"> 
+With prec. prep.: ar s.<span class="oRef">¤</span>
+           <span class="ediltr">visible</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 27c9
+          . táthunn ní as 
+nessa | ar ar s.<span class="oRef">¤</span> salm sobail `<span class="quote">before our eyes</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 218
+          . 
+? 
+            ainmne fri cech ndaidbre n-úir | nī bí ar sūil ní doreith, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+vii 498.4
+            
+          . gach olc do shíor im shúilibh <span class="ediltr">perpetually in view</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 10.18
+          . ar mbeith i súilibh sluaigh Bearnais <span class="ediltr">having 
+been before the eyes of</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1927, 437 § 7
+          . tar a shúile <span class="ediltr">unknown to him</span> (?) (notes), 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 83.8
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) Extended applications: co snigtis richsi teined a suilib 
+a mér <span class="ediltr">from the tips of his fingers</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 62
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 460
+          ). innus 
+nach fédtar a gabáil fo tshúilibh na mér (of a stone), 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 272.3
+          . 
+            suil t'ordoigi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> v 4.14
+            
+          . gae glas co sulib 
+glaini <span class="ediltr">studs, rivets</span> (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxii 398.8
+          . (BDD Eg.).</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> <span class="trans">
+          <span class="def">Hope</span>, <span class="def">expectation</span>
+        </span>.</p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) ar slāinti, ar sūil (<span class="lbl">i.e.</span> God), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 205.12
+          . s.<span class="oRef">¤</span> nach bia s.<span class="oRef">¤</span> a samhail | s.<span class="oRef">¤</span> sgaraidh re Dia as 
+doiligh <span class="ediltr">the thought of parting from God</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 24.10
+          . 
+            do 
+chuaidh mo sh.<span class="oRef">¤</span> tar mo chuid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 88.1
+            
+           (<span class="lbl">cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Prov." title="eDIL Bibliography">Ir. Prov.</strong></span> 
+342
+          ). dol lem sh.<span class="oRef">¤</span> gé do shireadh `<span class="quote">though it sought to please me</span>' 
+(<span class="lbl">i.e.</span> the world), 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 3.25
+          . saor-Mhuire a s.<span class="oRef">¤</span> dil <span class="ediltr">her true hope</span> 
+(<span class="lbl">i.e.</span> of Ireland), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1927, 89 § 23
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) With follg. fri (ré): ni dechaidh a suil fri a mbethaidh 
+<span class="ediltr">they had no hope of survival</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2787
+          . 
+            co na raib s.<span class="oRef">¤</span> duine 
+dh'feraib Eirenn ris, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5286
+            
+          . 
+            ba hesidhe enghaoidhel as 
+móa re a raibhe suil ag fearoibh Ereann, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 512.5
+            
+          . daig ní 
+(<span class="lbl">sic leg.</span>) hé a suil fein no biad re socra da cuirtea in cath `<span class="quote">they 
+themselves could have no hope</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 130.3
+          . do sh.<span class="oRef">¤</span> re brugh na 
+mbeannocht <span class="ediltr">in hope of heaven</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1920, 569 § 26
+          . mairg 
+macaomh ré n-a mó s.<span class="oRef">¤</span>
+           <span class="ediltr">on whom highest hope was set</span>, 
+            1927, 
+436 § 1
+          . a chroinn rén cóir s.<span class="oRef">¤</span>
+           `<span class="quote">O Cross, my hope</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 5.45
+          . 
+s.<span class="oRef">¤</span> re lenmhuin na mbreath bheire <span class="ediltr">hoping to imitate your judgements</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 240.87
+          . iad ag seargadh s.<span class="oRef">¤</span> re bás 
+<span class="ediltr">withering away in the expectation of death</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 9.26
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) With fri (ré) and <span class="pos vn." style="color: #ff8000">vn.</span> construction: R. . . . fear lé raibhe 
+suil na sochaidhe do gabhail comarbais a athar <span class="ediltr">the man the 
+host hoped would succeed his father</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 1164.6
+          . 
+            atá mo sh.<span class="oRef">¤</span> 
+re cáirdeas d'fághail uaidh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 42.12
+            
+          . s.<span class="oRef">¤</span> lém bhreith aithfhreagra truim `<span class="quote">expecting me to give you a weighty answer</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xviii 129
+          . 
+            do sh.<span class="oRef">¤</span> re hanáir nach athraigh | d'fhagháil 
+dúinn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 17.33
+            
+          . 
+            s.<span class="oRef">¤</span> ré fear éanuaire d'fhaigsin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 29.25
+            
+          . 
+
+            do sh.<span class="oRef">¤</span> re sochar d'fhaghbháil uaidh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 76.37
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) Other constructions in affirmative sense: dochuaidh suil 
+isan siubhal <span class="ediltr">hopes have been set on the expedition</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> 
+ii 90 § 31
+          . 
+            dā mbiadh s.<span class="oRef">¤</span> ag muinntir Iffrinn go bhfuighdís 
+fúrtacht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 432.17
+            
+          . s.<span class="oRef">¤</span> do thabhairt suas air thrócaire an 
+tighearna `<span class="quote">look towards the mercy of God</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> xi 19
+          . air sh.<span class="oRef">¤</span> 
+luach `<span class="quote">in view of . . . hire</span>', 
+            100.3
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) benaid, cuirid, téit s.<span class="oRef">¤</span> de <span class="trans">
+            <span class="def">loses</span> <span class="def">hope</span> of, <span class="def">despairs</span> of</span>: suil do 
+rígh nar ben Banba <span class="ediltr">that B. has not lost hope of a king</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 66 § 21
+          . 
+            ar mbuain a sul d'furtacht d'faghail, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 
+435 (454.16)
+            
+          . s.<span class="oRef">¤</span> do chor do chobhair <span class="ediltr">despair of help</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 
+4.34
+          . 
+            ar s.<span class="oRef">¤</span> do char ó chobhair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 75.126
+            
+          . 
+            téid 
+s.<span class="oRef">¤</span> do chrábhadh ar gceall, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> i 84 § x
+            
+          . ar s.<span class="oRef">¤</span> do 
+choisde do chuaidh `<span class="quote">vanished my hope from the bench</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> v 7
+          . Note also: 
+            's gan s.<span class="oRef">¤</span> aguinn arís do theacht, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> iv 246.3
+            
+          . </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+Compds.</p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) With adjj. 
+            <span class="oRef">¤</span>ard: ná bí suilbhir nó súlárd ag 
+féchuin don taoibh-si ┐ don taoibh eili <span class="trans">
+            <span class="def">lively</span> (?), <span class="def">inquisitive</span>
+          </span> (?) 
+(when going to confession), 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 293.15
+          . 
+            <span class="oRef">¤</span>chorr: 
+            re 
+mac inghini Anna . . . | risin rēidh seangdann shūlchorr, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 
+367.12
+            
+          . 
+            Eochu séimh súlchorr, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iv 50.7
+            
+          . 
+            <span class="oRef">¤</span>chruinn: 
+
+            na serrach sulchruinn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4958
+            
+          . 
+            <span class="oRef">¤</span>glas: 
+            cendchaema 
+cosmaile sulglasa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 730
+            
+          . 
+            mor . . . d'occmnaibh . . . 
+sulglasa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 42.17
+            
+          . 
+            <span class="oRef">¤</span>gorm: 
+            Mael sūlgorm Seachlaind, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 230 § 8
+            
+          . 
+            a ri sulghorm Sleibhe Fuaid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 
+71 § 19
+            
+          . 
+            <span class="oRef">¤</span>mall: 
+            muinter shubhachain shulmhall, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 394.14
+            
+          . 
+
+            gu faca aeinlenabh ann, | data saeirleabhar súl-mall, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 
+116 § 19
+            
+          . 
+            <span class="oRef">¤</span>mass: 
+            tri bliadna Mailchoba chaiss | a .xu. Subne 
+sulmaiss, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 130a11
+            
+          . ? 
+            <span class="oRef">¤</span>mer: 
+            mul macha sorb sulmer, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 42
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 433
+          ). 
+            <span class="oRef">¤</span>radarcach: narub . . . sul-radarcach 
+`<span class="quote">gaping around</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 126.2
+          . 
+            <span class="oRef">¤</span>remar: 
+            Siabarchend mac 
+Sulremair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 165
+            
+          . </p>
+      
+     
+      <p class="result"> 
+(<span class="edilb">b</span>) With nouns. 
+          <span class="oRef">¤</span>bascad <span class="trans">
+          <span class="def">injury</span> to the <span class="def">eyes</span>
+        </span>: 
+          riotsa féin 
+adubhrattar | . . . | Goll o fuaruis sulbasgadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> i 
+12 § 39
+          
+        . 
+          <span class="oRef">¤</span>chor <span class="trans">
+          <span class="def">look</span>, <span class="def">glance</span>
+        </span>: fo-cherd a suil-chor issin tig 
+<span class="ediltr">glanced into the house</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 144.16
+        . 
+          <span class="oRef">¤</span>gnais (
+          <span class="oRef">¤</span>gnás?): is iat na 
+tri fira is luga a fenechus: lorg ┐ briathar ┐ suilgnais . . . a 
+sulgnais on ceill maith gan urlabra `<span class="quote">Augengegenwart</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 42 § 63
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

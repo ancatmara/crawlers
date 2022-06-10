@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="36681">scuchaid, scuichid.</h3><span class="citation">Cite this: eDIL s.v. scuchaid, scuichid. or <a class="reference" href="36681">dil.ie/36681</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                scáich, scáig, scóich, roscāchatar, conroiscet, roscithet, go ro scaichsett, scáigfit, scuchtha, scuchad, scuich, scucht, scáichsin</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> See 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 522
+      . <span class="tns perf.">perf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> ro 
+scáich
+      , scáig. 
+        ro scóich
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 280b37
+        
+      . <span class="number pl.">pl.</span> 
+        roscāchatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 
+218 § 23
+        
+      . <span class="mood subj.">subj.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> -roisc (see Strachan, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Phil.Soc.Trans." title="eDIL Bibliography">Phil. Soc. Trans.</strong></span> 1900, 13 n. 1
+      ). ? <span class="number pl.">pl.</span> 
+        conroiscet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2677
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 57 (58)d
+        
+      ). 
+<span class="mood subj.">subj.</span> <span class="tns impf.">impf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> -roisced. These archaic forms are usual only in 
+sense II <span class="lbl">infra</span>. On the form roscithet in Mon. Tall. (cited 
+under II) see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 592
+      . Later treated as weak 
+<span class="pos verb" style="color: #ff8000">verb</span> with stem scuch-, scuich- (in sense I) (also occas. scáich-, 
+<span class="lbl">cf.</span> <span class="tns perf.">perf.</span> 
+        go ro scaichsett, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 144.25
+        
+      . <span class="tns fut.">fut.</span> 
+        scáigfit, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+4613
+        
+      ). <span class="pos part." style="color: #ff8000">part.</span> 
+        scuchtha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 254.6
+        
+      , and see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=scuithe">scuithe</a></span>. <span class="pos Vn." style="color: #ff8000">Vn.</span> scuchad, 
+scuich, scucht, scáichsin, <span class="lbl">q.v.</span> </p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span>
+      </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) intrans. <span class="trans">
+            <span class="def">moves</span>, <span class="def">starts</span>, <span class="def">goes</span>, <span class="def">proceeds</span>
+          </span>: 
+            scuchsad .i. 
+docheimnigheadar no doghluaiseadar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+            
+           
+            scuich bhius (.i. 
+uaim) a meic, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 6013
+            
+          . ní [sguch] tre [dhailghe Í Dhuach] | 
+sruth luath ná aibhne ná áth <span class="ediltr">no swift stream . . . flows</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> lv 11
+          . roscuchsad co dúr danarrda dāsachtach `<span class="quote">sie 
+stürmten</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 231.2
+          . adhantor teinnte isna heōnoibh. 
+La sodhain tra scuchait ┐ comhlassait a n-aoinfheacht <span class="ediltr">they 
+explode and blaze up</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 188.6
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) usually with prepp.: ar scāth na tuireadh-sa thall | da 
+scuch in rīgan roscmhall <span class="ediltr">took refuge behind the pillar</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 
+562 § 4
+          . nochoro scaig in bachall a láim Patraic <span class="ediltr">the crosier 
+moved not from P.'s hand</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 1012
+          . 
+            sguchaiss ┐ comhsgeinnis tipra . . . assin egluis, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 244.18
+            
+          . scucaid Pirr co 
+Priaim <span class="ediltr">makes for</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 443b32
+          . 
+            scuchaidh cāch co araili díobh, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 105.7
+            
+          . roscáich cach cert co grian `<span class="quote">crumbled to the 
+clay</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 28.6
+          . scuchsat iarsin d'indsi almuigh <span class="ediltr">they 
+departed from the island</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 73 § 217
+          . scuchaid dím a 
+mallachtnachu <span class="ediltr">leave me, o accursed ones</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2343
+          . ? roscichis 
+deit fein. Bia marb ria cind bliadna (roscithis, rosgisdais, 
+<span class="lbl">v.ll.</span>) `<span class="quote">thou hast wearied thyself</span>' (lit. <span class="ediltr">hast departed from thyself</span>?), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/M&#xF3;rM." title="eDIL Bibliography">Mór M.</strong></span> 10
+          . no gur sguch mh'annsa dha halt `<span class="quote">till my heart 
+leaves its wonted place</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 6.55
+           = 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 41.55
+          . ní 
+mó scuchaim do chóir churaidh `<span class="quote">nor do I deprive any knight of 
+his due</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> iii 144.5
+          . amal ro scuchsat co focus di <span class="ediltr">as 
+they approached it</span> (an island), 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1865
+          . 
+            roscuch som docom 
+na tenid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 156.10
+            
+          . scuchaidh fón caill, a óccu <span class="ediltr">move 
+into the wood</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1784
+          . 
+            gur (<span class="lbl">sic leg.</span>) ro scuchsat for reidh 
+an tsleibhe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 14.27
+            
+          . 
+            ro scuch S.<span class="oRef">¤</span> for amus na n-uasal-athrach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 225b22
+            
+          . 
+            in tan ro scuchsat na longa for cúla, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2110
+            
+          . ise ced duine roscar fria Cormac a mainchine ┐ 
+doscuch fri Cummin ┐ fri Brenaind <span class="ediltr">who parted from Cormac 
+and went over to Cummín</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iii 6 § 15
+          . 
+            roscuc[h]sat iar 
+sin i nglend . . . clic[h]air, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 496a39
+            
+          . orotaisselbad tra donrig 
+sin roscáig inanaicned fén <span class="ediltr">reassumed its own form</span> (of snow 
+which had been turned into butter and curds), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 
+10.7
+          . sgucha an gradh (<span class="lbl">leg.</span> sguchaid a ngradh?) bus airde, 
+acht curo pinnit fo uaisli in graidh `<span class="quote">he shall move to a higher 
+grade</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 60.9 Comm
+          . 
+            sguch im chluais, beannuigh mo 
+bhéal, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 70.1 (a)
+            
+          . o sgéimh do sguch <span class="ediltr">has forsaken its 
+beauty</span> (of a dead pig), 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 29 § 36
+          . 
+            o do scuchsat on 
+Scithia, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 276.25
+            
+          . 
+            scuchad cach o cheli uán, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 333a40
+            
+          . ? 
+            slige din doscuchad charpat sech araile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> 38.26
+            
+          = 
+
+            doscuet carpait, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1082
+            
+           (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 t&#xE9;it">1 téit</a></span>). cor-scuch cach secha 
+araili dib (of a race), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2444
+          . 
+            scuchsat . . . | tar fairgi, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 122.17
+            
+          = 
+            for fairgi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 29a3
+            
+          = 
+            scuirset, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 7a46
+            
+          
+With adverbs: 
+            scuichsit . . . soir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 138.3
+            
+          . 
+            scuchaid in 
+grian sis, 
+              vii 223.8
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) trans. <span class="trans">
+            <span class="def">moves</span>, <span class="def">stirs</span>, <span class="def">sets</span> in motion, <span class="def">removes</span>
+          </span>: dar sliab Sión 
+roscuchtha | do thraighthe luchra lethna `. . . <span class="quote">bist du mit ...
+Füssen geschritten</span>' (lit. <span class="ediltr">thy feet have been moved</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sitzungsb.Pr.Akad." title="eDIL Bibliography">Sitzungsb. Pr. Akad.</strong></span> 1912, 
+xxv 439 § 5
+          . In Laws Comm. in etymol. glosses: anscuiche .i. 
+cona scuichither dia gablaib `<span class="quote">which is not removed off its hooks</span>' 
+(a cauldron), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>
+             i 48.16
+          . cia sguithidh ann do chintach . . . ní sguithear in dithim naicinta do nechthar <span class="ediltr">is not changed</span>, 
+            ii 100.19
+          . in ní scuchas na scota gl. 
+            scuithe, 
+              iv 112.25 Comm
+            
+          . 
+See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=scuithe">scuithe</a></span>. is fir togaidh don fine in ti . . . scuchus fal 
+dochraite dibh `<span class="quote">removed the barrier of oppression from them</span>', 
+
+            iv 376.16 Comm
+          . Laithbheartach laoch nar sguchadh <span class="ediltr">the 
+immovable warrior</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 113.15
+          . sguchaidh [na] deamhna 
+dom dhruim | an dearna othair eadruinn (<span class="lbl">sic leg.</span>) <span class="ediltr">it stays 
+demons from my back—the injured Hand between us</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> 
+xxiv 13
+          . </p>
+      
+     
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> <span class="trans">
+          <span class="def">Comes</span> to an <span class="def">end</span>, is <span class="def">finished</span>, <span class="def">exhausted</span>
+        </span>.</p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) 
+            scaich, no 
+roscach .i. do criochnaigheadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+            
+           ro scáich ordan N. 
+`<span class="quote">N.'s sovranty has vanished</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 121
+          . Ráth Chrúachan 
+ro scáichi (with suff. pron., Stokes 
+            p. 361
+          , but see 
+            <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> pp. 419
+          -
+            20
+          ), 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span>
+             Prol.177
+          . 
+            isimmaille roscaich inbolc doblith 
+┐ intimmun dodenam, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Goid." title="eDIL Bibliography">Goid.</strong></span> 101.17
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Lib.Hymn." title="eDIL Bibliography">Lib. Hymn.</strong></span> 63.4
+          ). ro-scáich nóinnin Ulad fosodain <span class="ediltr">was over</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1431
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5899
+          ). 
+
+            ní accai corro scáig a tofond, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6748
+            
+           (BDD). 
+            a claín trúaig 
+. . . ro scáig do gal ┐ do gaisced, 
+              8569
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 43
+          ). a ro scaigset a airm dó (ó tairnic, <span class="lbl">v.l.</span>) <span class="ediltr">when his weapons</span> (<span class="lbl">i.e.</span> as missiles) 
+<span class="ediltr">had come to an end</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4618
+          . o ru scaich iarum taisbenad 
+na fledhi `<span class="quote">when the display of the banquet was ended</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 
+178.13
+          . o roscachitar thra na hulisa <span class="ediltr">when all these things had been done</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 445
+          . 
+            ro sgaith a ngráin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2298.17
+            
+          . roscāchatar sin uile | nocho mair dīb ōenduine (of persons), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 218 § 23
+          . 
+            ro scāchatar na Hathanensta acht sūaill mbec, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xli 138 § 321
+            
+          . nísléicfe i Murthemniu | co roisc obair fer Fēne <span class="ediltr">till the work of the Féni be finished</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 206
+          = 
+            con roisc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4673
+            
+          . 
+            aicelat sa he acht co roisc int oirdned ┐ int 
+ongud, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlvi 237.10
+            
+          = 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 371.1
+          . 
+            dergaiter doib co 
+roisc taisealbad bidh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 174a48
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 81.16
+          ). co roisc a mbe 
+oca <span class="ediltr">till all they have is exhausted</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 246.10 Comm
+          . co 
+roisc a cuidigh <span class="ediltr">till their meal is over</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 6.1
+          . co roisc bēim 
+an cluig <span class="ediltr">till the bell stops ringing</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 310 § 5
+          . 
+            in cainnel 
+sin do uhith for a dernaind co roisceth roind ┐ dāil, 
+              <span><strong class="pop" style="color:blue" href="bibliography/C&#xE1;inAd." title="eDIL Bibliography">Cáin Ad.</strong></span> 
+2
+            
+          . 
+            dhul lais isind airc, co roiscedh díle, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 10.2
+            
+          . o 
+roscithet celebrad iarmergi `<span class="quote">when the office of nocturns is over</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 130.28
+          . 
+            o roscithet . . . ind gabail hísin, 
+              140.13
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) in impersonal construction with the meaning <span class="trans">
+            <span class="def">brings</span> to 
+an <span class="def">end</span>, <span class="def">completes</span>
+          </span>, the virtual subject being introduced by a 
+prep. (usually DO): roscáig dóibseom tuga a sosta <span class="ediltr">they had 
+completed the thatching of their huts</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 166
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4628
+          ). 
+
+            intan . . . ro scáig do Bricrind a scrutan i n-a menmain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+8222
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 17
+          ). in tan tra rosgaith do Domnall ani sin do apairt 
+<span class="ediltr">when D. had finished saying that</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 74.9
+          . 
+            con roisc dó 
+in taspenad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 280b32
+            
+           = 
+            coro láis, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1378
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxi 380.7
+          ). 
+acht cu roisc dhó a bleithech <span class="ediltr">till his grinding be finished</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1979
+          . With other prepp.: erbais ris in inailt comet in mic 
+co roisced leo imtheacht <span class="ediltr">till they should have gone</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 180b34
+          . 
+neach ná ro saoíleadh écc . . . acht co roiscceadh lais dioghail 
+greisi a cheneóil `<span class="quote">until he should have avenged</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1606.20
+          . 
+
+            intan tra roscaich re Sechnall intimmon dogabail, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 
+398.3
+            
+          . nech na dichet . . . i cath dibell sin .i. ro scaich aire 
+<span class="ediltr">a man who cannot go to battle . . . that is, he has become decrepit</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 311
+          . <span class="lbl">Cf.</span> perh. roscāich ar in nĒrinn n-ūaig | ōnd 
+ūair atbath Fedlimid <span class="ediltr">all is over with Ériu</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> i 45 § 102
+          , 
+where, however, we should prob. read: ro scaich ár a nErind 
+uaigh with 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 472.14
+          . </p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

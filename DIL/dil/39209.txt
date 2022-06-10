@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="39209">suidiugad</h3><span class="citation">Cite this: eDIL s.v. suidiugad or <a class="reference" href="39209">dil.ie/39209</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                suidechadh</p></div><div class="col-sm-9 result_content">
+    
+    <p class="result">
+      <span class="itype u">u</span>
+      <span class="gen m.">m.</span> <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=suidigidir">suidigidir</a></span>. 
+        suidechadh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs 
+§ 106 (244.17)
+        
+      . </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">act of <span class="def">placing</span>, <span class="def">putting</span>
+        </span>: tri suidigud . . . inna cluas arin 
+chorp huiliu `<span class="quote">through . . . putting the ears for the whole body</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+60b16
+        . 
+          a ainm fessin do suidigud i tossoc[h] na epistle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+14b2
+          
+        . iss ed sainreth <span class="frn ">pronominis</span> a shuidigud ar anmmaimm 
+dílius <span class="ediltr">that it replaces a proper noun</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 27a1
+        . cach ae do 
+shuidigud aralailiu (of words), 
+          28b1
+        . <span class="frn ">iure praedicto</span> 
+          suidigthe 
+anmme ┐ brethre tara hési si, 
+            193b4
+          
+        . iar suidiugud gl. mihi 
+possito, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gild.Lor." title="eDIL Bibliography">Gild. Lor.</strong></span> gl. 4
+        . 
+           do suigiugad osna longaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 
+7a17
+          
+        . a suíghiúghadh ar uillinn na a-Easpáine <span class="ediltr">to place it</span> (<span class="lbl">i.e.</span> 
+Ireland) <span class="ediltr">at one corner of Spain</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 44.8
+        . gur cailleadh mórán 
+páipéir tre shúighiughadh ceasdadh <span class="ediltr">posing questions</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 
+v 1
+        . an lámh do shúidiughadh `<span class="quote">to set the arm</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Atlantis" title="eDIL Bibliography">Atlantis</strong></span> iv 
+160.13
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">position</span>, <span class="def">situation</span>
+        </span>: a suidigud i n-epertib grecdib `<span class="quote">position</span>' (of letter), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 17b11
+        . etir aicned ┐ suidigud gl. longam 
+habent paenultimam uel natura uel positione, 
+          51b2
+        . combad ar 
+gair aicnid adrímed in suidiguth `<span class="quote">the position</span>' (of a vowel), 
+
+          69a5
+        . fot suighighti ┐ gair n-aiccnid a bfedaibh airedhaibh 
+<span class="ediltr">length by position</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 4813
+        . 
+          gair suidhighti, 
+            4812
+          
+        . 
+          feib 
+co ngluaised firmaimint asa slatrach ┐ asa suidiugud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+4268
+          
+        . ni hinnraic mo shuidiugud amal-sin (Peter of his position on cross), 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1887
+        . robhattar isin tsuidhiuccudh sin go 
+cenn trichat bliadhan <span class="ediltr">in that way</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iii 13.17
+        . 
+          fon 
+suídhiúghadh a rabhadar dhá mhac Mhiledh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 116.33
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">act of <span class="def">seating</span>, <span class="def">arranging</span> in<span class="def"> seats</span>
+        </span>: tar éis a suidhighthe so 
+<span class="ediltr">when these have been seated</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 85.45
+        . 
+          na sé slóigh ga 
+suidhioghadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 68.34
+          
+        . 
+          tús suidhighte i ttigh n-óla, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 265 § 230
+          
+        . suidhiughadh lethe Conghail (of the seating 
+arrangements in a palace), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> v 108.10
+        . 
+          dot shuighiughadh 
+a ccathaóir ríogha Israel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">1 Kings</strong></span> x 9
+          
+        . Note also: air cheithre 
+coirnéuluibh an tsuidheachadh `<span class="quote">on the four corners of the 
+settle</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Ezekiel</strong></span> xliii 20
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">act of <span class="def">arranging</span>, <span class="def">setting</span> in <span class="def">order</span>; <span class="def">arrangement</span>, <span class="def">disposition</span>
+        </span>: sáer oc suidigud sillab `<span class="quote">an artist in putting (arranging?) 
+syllables</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 7b11
+        . ord suidigtho á sailm `<span class="quote">the order of arrangement</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 111c4
+        . 
+          at conairc . . . in t-socraidi . . . ar n-a s.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 
+180.4
+          
+        . ropsat saine sloinnti ┐ suidigthi cach deg-sluag `<span class="quote">situations</span>', 
+          214.10
+        . Of houses: suidiugadh in tigi `<span class="quote">construction</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 178.13 Comm
+        . 
+          is amlaid trá dorónad a tech sin, sudigud 
+tige Midchúarta fair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8050
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 2
+        ). suid[igud] ard amrae | 
+tige túathaic[h] Temra (seating arrangements), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 
+108 § 5
+        . go ndā pālāss . . . ar n-a suidiugadh go hinntleachtach `<span class="quote">artistically situated</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 78.y
+        . Of cities: cethrochair 
+cutrumslesta a sudigud (wall of a city), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 74b2
+        . 
+          sudigud 
+inna catrach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2074
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 15
+        ). 
+          suidiugud na mur imon 
+cathraig, idon, trian cech mur dib sech araile beos, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 
+40.8
+          
+        . 
+          féuch gur taitneamhach suidhiughadh na caithreachsa, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">2 Kings</strong></span> ii 19
+          
+        . Various: sudigud na fert i fat `<span class="quote">the situation of 
+the graves</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 228.23
+        . neach bad coimeolach fris 
+i su[d]ighthibh nimi (of an astrologer), 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1000
+        . an 
+suidhiughadh sáimh do bhí ar na hairdreannaibh <span class="ediltr">the settled 
+state of the heavenly bodies</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 8534
+        . 
+          eolass . . . ar suidiughadh grene ┐ esca, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 366 (416.9)
+          
+        . 
+          cía suidigud fil for in 
+doman, cindus suidighthi fuil for sin domun, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 371.25
+          
+        
+<span class="lbl">v.ll.</span>, <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 106 § 18
+        . suidechad in tíre (of the division of 
+Ireland into five), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 351.13
+        . 
+          suidiugud bar súl, 
+            55.31
+          
+        . 
+          eidir 
+ghéagaibh glac leabhar | atáid so ar na suidheaghadh—| tolcha 
+corra chíogh gcaoimhgheal, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 39.6
+          
+        . do réir shuidhighthi 
+an bheithe luis <span class="ediltr">in alphabetical order</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Introd. 5 § 12
+        .  a 
+suigiugud na mís <span class="ediltr">in the series of months</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 304.32
+        . ni 
+fhuarus ar suidhiughudh choir isin tsheinleabhar hi `<span class="quote">properly 
+arranged</span>' (of a story), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> xxxiii 33
+        . iar suidhiughadh 
+na ceilge . . . sin <span class="ediltr">having laid that plot</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 166.57
+        . ocht 
+meic Néill . . . | maith fúair síad a suidhioghadh | . . . ós clár 
+. . . Éirenn <span class="ediltr">happily were they appointed to rule over</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 101.6
+        . a comairle do suidiugad ann sin '<span class="quote">the council met there</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xiv 91
+        . dona suidight[h]ib sin <span class="ediltr">from those dispositions</span> 
+(of the devastating of a country), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1134
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">act of <span class="def">settling</span>, <span class="def">inhabiting</span> (?):</span> feib fúair . . . | a sudigud, 
+a senchass `<span class="quote">her dwelling-place with its story</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+278.36
+        . nár dhligh siumh cíos diarraidh a fásach go mbeith 
+a suidhiucchadh `<span class="quote">until they should be inhabited</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1936.1
+        . 
+ina fasach gan suidhiugudh `<span class="quote">without cultivation</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 
+103.30
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) Med. <span class="trans">
+          <span class="def">disposition</span>, <span class="def">constitution</span>
+        </span>: 
+          drochshuigigud an cuirp 
+co huili, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlix 53.15
+          
+        . do ní suidhiugadh graineamail san 
+ceann <span class="ediltr">faedam in capite dispositionem inducente</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/23K42" title="eDIL Bibliography">23 K 42</strong></span>, 
+284.12
+        . 
+          dogabar na clocha do shír a nénshuidigud ┐ a naen 
+fuirm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 256.13
+          
+        . Note also: cíall do duine ┐ cruth, | 
+mogénor dian suidhiughudh <span class="ediltr">happy the person so constituted</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 268 § 3
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">g</span>) <span class="trans">act of <span class="def">establishing</span>, <span class="def">fixing</span>
+        </span> (a law, <span class="lbl">etc.</span>): 
+          suidiughadh ┐ 
+ordughadh cach rechta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 14.23
+          
+        . 
+          recmaít a les sudigud 
+┐ ordugud cach rechta lind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9770
+          
+        . 
+          beith cen ordug[ad] 
+suidigte gell ┐ aignesa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iv 25 § 5
+          
+        . sealg do shíth 
+do shuidhiughadh `<span class="quote">the task of making peace with thee</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 60.15
+        . 
+          snath-reim suidighthi gacha senchais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 108.19
+          
+        . 
+Perh. also in the title `Do suidigud tellaich Temra', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+iv 124
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">h</span>) <span class="trans">act of <span class="def">affirming</span>, <span class="def">establishing</span>, <span class="def">proving</span>; <span class="def">proof</span>
+        </span>: 
+          it iat sin a 
+tuarasdla ┐ a comhidechta conadh da suideghudh atfed in 
+t-ughdar . ., 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 268b38
+          
+         (<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 32.17
+        ). 
+          in lucht suídhighthe 
+do bhí ag imdénamh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 681
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 499
+        ). cu sui[di]giud 
+uilc air = <span class="frn ">donec pereatur in contrarium</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 675
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 
+329
+        ). 
+          ni dlegaid acht aen fer, na ain-testa d'a shéna, no d'a 
+suigiugadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HyMaine" title="eDIL Bibliography">Hy Maine</strong></span> 66.10
+          
+        . ferr slōg suidiugadh <span class="ediltr">an army is 
+better than proof</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlv 79 § 18
+        . 
+          ag suidhiugad pecaidh 
+marbtha air nach derna se, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 58.2
+          
+        . 
+          deismeireachd iomdha 
+. . . do shuidhioghadh a n-aibeóradh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Introd. § 2 (2.24)
+          
+        . 
+dorachaind-si da suidhiugudh air `<span class="quote">I would undertake to prove 
+it on him</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 49.8
+        . 
+          an bhfuil suidhiughadh san Scrioptúir 
+ar pheacadh an tsinnsir do bheith ar na daoinibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3284
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">i</span>) Gramm. <span class="trans">the <span class="def">subjunctive</span> <span class="def">mood</span>
+        </span>: gé chuin ┐ suil ┐ gé do-ner 
+trí suidhighthi bona; dá ndernar s.<span class="oRef">¤</span> g. (= suidhiughadh 
+gaoidheilge), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs § 1
+        . gé chuin tegmar . . . s[uidhiughadh] 
+in demnighthi; gé chuin ná tegmar . . . s[uidhiughadh] in 
+diúltaid . . . gé chuin tegma . . . s[uidhiughadh] indscni thú, 
+<span class="lbl">etc.</span>, 
+          § 2
+        . 
+          gé chuin ná rabhar a suideachad, 
+            § 7
+          
+        . ? Not to be 
+used as first element in a compound, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">Introd.</strong></span> § 97 (24.27)
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

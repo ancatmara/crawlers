@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="870">aidemm</h3><span class="citation">Cite this: eDIL s.v. aidemm or <a class="reference" href="870">dil.ie/870</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                aidimm, idim, uidim, udaim, ughaim, audaim</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> Also aidimm <span class="itype i">i</span>, <span class="gen m.">m.</span> See 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> p. 163
+      . 
+Found in a great variety of forms: idim, uidim, udaim, 
+ughaim, audaim <span class="lbl">etc.</span>
+    </p>
+  
+  
+    <p class="result"> 
+<span class="trans">The general sense is <span class="def">instrument</span>, <span class="def">implement</span>, <span class="def">tool</span>
+      </span> used in a 
+variety of applications, see Plummer, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> x 118
+      . aidmi 
+oipretho pectho ref. to <span class="frn ">membris nostris</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3c14
+      . arnaib 
+aidmib gl. pro instrumentís uindictæ, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 54b4
+      . ind adim 
+(in adim, MS.) gl. instrumentum est diuinae iustitiae, 
+        49b7
+       
+(see GOI <span class="lbl">loc. cit.</span>); ?read i n-adim <span class="ediltr">as an instrument</span>, 
+Plummer MS. notes. Of musical instruments: 
+        alaaile aidme 
+ceuldae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 51c5
+        
+      . 
+        aláaili aidme in chiuil, 
+          89a9
+        
+      . 
+        it hæ didiu 
+ind aidmi asmbeirsom .i. <span class="frn ">organa</span>
+        , 
+          8
+        
+      . inna aidmi (<span class="case a">a</span>
+      <span class="number pl.">pl.</span>) gl. 
+instrumenta musica, 
+        75c3
+      . 
+        caraid som inna aidmi in chiuil 
+amal carthar inducbál, 
+          4
+        
+      . 
+        anmand aidmi ciuil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1482
+        
+      . 
+Of writing-implements: 
+        Tadhcc . . . do sgrib an beccan sin . . . 
+le drochaidhme, 
+          <span><strong class="pop" style="color:blue" href="bibliography/L.Chl.S." title="eDIL Bibliography">L. Chl. S.</strong></span> 74.5
+        
+      . <span class="trans">Of <span class="def">shaving-implements</span>:</span> 
+
+        aidhme in berrtha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2630
+        
+      . <span class="trans">Of <span class="def">agricultural</span> 
+<span class="def">implements</span> <span class="lbl">etc.</span>:</span> 
+        aidme claidi in talman, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 921
+        
+      . 
+        cona 
+aidhmibh iarnaidhe . . . an talam do tochailt dona haidmibh, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 323 § 34
+        
+      . cen chlaidbe adma fige `<span class="quote">without rods or 
+implements of weaving</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 332.30
+      . 
+        aidhme legha, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 71c11
+        
+      . <span class="trans">Of <span class="def">travel-requisites</span>:</span> 
+        aidmi na conaire, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 
+590
+        
+      . 
+        na huile aidhme ro báidhid innte ó chen, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 42.9
+        
+      . 
+aidmi gl. armamenta nauis (
+        <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Acts</strong></span> xxvii 19
+      ), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> i 498.27
+       
+(Ardm.) ra iarraidit as cech aird a h-adbara ┐ a áidimmi (of 
+building a ship), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 218b31
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 122
+      ). <span class="trans">Of <span class="def">sports-requisites</span>:</span> 
+
+        a aidhme ainesa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBCSt." title="eDIL Bibliography">TBC St.</strong></span> 908
+        
+      . 
+        aidme (aidhbena, <span class="lbl">v.l.</span>) ainesa, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2247
+        
+      . <span class="trans">Of <span class="def">weapons</span>:</span> fo aicni na haidhme dar feradh 
+in fuiliuga[dh] <span class="ediltr">according to the nature of the weapon with 
+which the wound was inflicted</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 874
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, c. 627
+      ). 
+
+        mas tre ésce ferfaithir na cneda, cibe aidim trisa ferthair, 
+
+          2323
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. B 506</strong></span> fo. 34a
+        
+      ). 
+        cach udhim aidmillti, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+4139
+        
+      . 
+        dorónsat gaill aidhme iongnaithe damhainsi ealadhan 
+┐ inntlechta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 280.w
+        
+      . focerdsi iolar ndaoine go hEirinn 
+cona n-aidhmibh techta leo '<span class="ediltr">with the necessary arms</span>', 
+
+        vi 
+2000.6
+      , <span class="lbl">cf.</span> ataat a aidmi téchte lasin n-aidchi (<span class="lbl">leg.</span> aithech?
+Notes), 
+        <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1355
+      . 
+        aidhme toghla an chaisteoil do dhénamh 
+leó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1980.6
+        
+      . <span class="trans">Of <span class="def">furniture</span>, <span class="def">vessels</span>, <span class="lbl">etc.</span>:</span> 
+        aidmib h-in 
+airc . . . co h-ulib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 123a47
+        
+      . 
+        do denamh na hairce gos na 
+haidhmibh ros foghain di, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 8.20
+        
+      . 
+        fa hiad aidhme 
+a adhbhadh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 83.13
+        
+      . <span class="trans">Esp. of <span class="def">ecclesiastical</span> <span class="def">utensils</span>:</span> 
+
+        huanaib aidmib noibaib robatar hi tempul, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 74a13
+        
+      . 
+        aidme 
+altoire, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 232.4
+        
+       = 
+        itmi a.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 809
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, p. 374a
+        
+      ). 
+
+        in altóir cona haidmib téchtaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 219 § 6
+        
+      . 
+        ruc brait 
+móir a cathraig ṅDé / ┐ romill a aidme, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 19.19
+        
+      . 
+        mess 
+cet n-unga do aidmib aiffrinn Ceallaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> ii 98.5
+        
+      . 
+        crosa ┐ 
+polaire ┐ tiagha leabur ┐ aidhme eclusdai arcena, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 
+968
+        
+      . 
+        aidme coiserca .i. airc . . . in coimded ┐ na table cloche 
+. . ., 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 169a18
+        
+      . ? 
+        a cethair soisgéla ana láim féin ┐ sceota 
+na n-aidhbheagh ar muin cléirigh re chois, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> 
+64.10
+        
+       = 
+        sceota na n-aidhbéadh, 
+          31
+        
+      . <span class="trans">Of <span class="def">plough-traces</span>, 
+<span class="def">harness</span>:</span> 
+        no ticcedh damh allaidh . . . gusan seisrigh no gusan 
+ughaim ┐ do theigedh 'san ughaim uadha féin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 4.12
+        
+      . 
+do chuir a nughaim na ccámhull íad <span class="ediltr">in the camel's furniture</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> xxxi 34
+      . a srien ┐ a n-audhaim `<span class="quote">of their bridles 
+and harness</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 252.27
+      . <span class="trans">Of the <span class="def">membrum virile</span>:</span> 
+
+        mas i a uidim ro benad asin duine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 354.15 
+Comm.
+        
+      
+    </p>
+  
+  
+    <p class="result"> 
+<span class="trans">Technical name for the <span class="def">ring</span> or <span class="def">hoop</span> with which the hurdles 
+of an enclosure or pound were fastened together</span> (see Plummer 
+<span class="lbl">loc. cit.</span>): 
+        udim .i. <span class="frn ">nomen</span> dond rōi (roid, <span class="lbl">v.l.</span>) triasa tēit in 
+crand bīs forsin clēith ocon udmad, nō occa dūnad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1269
+        
+       `<span class="quote">u. is the name of the great ring through which passes 
+the stake on the hurdle, fastening it with an u. or closing it</span>', 
+Plummer. 
+        udhma .i. uaim arin fidh .i. . . . in idh bec bis a[c] 
+comat in cumainn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1615
+        
+      . 
+        ar cul a comla . . . .i. ni 
+fuaslaicther de dogrés .i. aidhme fonaisctear and, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1182
+        
+       
+(H. 2.15 p. 45 (69)b) `<span class="quote">behind the door . . . i.e. it is never released 
+thence, that is, `<span class="frn ">aidhme</span>' are fastened on it</span>', Plummer (see 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=udmad">udmad</a></span>). Similarly in phrase 
+        a.<span class="oRef">¤</span> corthi: udhaim corthi .i. idh 
+uaim .i. uaim in fedha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1208
+        
+       (H. 2.15, 83a). 
+        audoim 
+.i. roi[d] gait, <span class="frn ">ut dicitur</span> audaim corthe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 124
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 
+p. 75
+      ). aí daim choirthe (audaim coirthi, audhoim corthi, 
+audim corad <span class="lbl">v.l.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 36 § 18
+      ; 
+        37.2
+      , 
+        6
+      , 
+        8
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">In general sense of <span class="def">means</span>, <span class="def">cause</span>:</span> 
+        aidim duinibaidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xxxvii 347 § 42
+        
+      . <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=aidme">aidme</a></span>.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

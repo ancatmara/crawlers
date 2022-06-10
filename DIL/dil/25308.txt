@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="25308">1 Gall</h3><span class="citation">Cite this: eDIL s.v. 1 Gall or <a class="reference" href="25308">dil.ie/25308</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                Gollu, Golla, gaillu, gullu, gulla, Gulla</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos pn" style="color: #ff8000">pn</span> 
+      <span class="itype o">o</span>, <span class="gen m.">m.</span> <span class="case a">a</span>
+      <span class="number p.">p.</span> Gollu, 
+        Golla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 1026
+        
+      . 
+        gaillu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 184a12
+        
+      . 
+
+        gullu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 110 n. 2
+        
+       ; 
+        gulla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 202
+        
+      . <span class="case v">v</span>
+      <span class="number p.">p.</span> 
+        Gulla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT Decl.</strong></span> ex. 681.
+        
+      
+    </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) Oldest meaning <span class="trans">a <span class="def">Gaul</span> :</span> 
+          Gaill .i. Frainc. Gaill dano 
+ainm do ... ṡaerc[h]landaib Franc .i. <span class="frn ">tribus Gallie</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 683
+          
+        . 
+          Labraid for a loinges hi tirib Gall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 299 
+          
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> § 9
+        ). 
+          dolluid Forgall Manach ... amail bítís techta 
+ríg Gall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 438.25
+          
+         (Tochm. Em.). 
+          marggad mór na nGall 
+ngrécach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 24.307
+          
+        . 
+          epscop fīna ... .i. escra 
+tomais fīna la ceandaighaib Gall ┐ Franc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 539
+          
+        . 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 140.173
+        . 
+          a tuirc óir a tírib Gall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 49b40 
+          
+        = 
+          <span><strong class="pop" style="color:blue" href="bibliography/HailBrigit" title="eDIL Bibliography">Hail Brigit</strong></span> § 11
+        . In <span class="number pl.">pl.</span> used as a place-name : 
+          i ndesciurt Etale 
+... sed verius ... i[n] Gallaib itá, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 311.32
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">a <span class="def">Scandinavian</span> <span class="def">invader</span>
+        </span> (finn-gaill being the <span class="trans">
+          <span class="def">Northmen</span>
+        </span>, 
+dub-gaill the <span class="trans">
+          <span class="def">Danes</span>
+        </span>) : 
+          Niall Glundubh ... co torchair i cath 
+Atha-cliath la Gallaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 404.22
+          
+        . 
+          co Galliathaib 
+na nGall .i. co Ámlaib ... rig Lochlainne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> § 7
+          
+        . 
+          Roiniudh 
+for Gallu Locha cuan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 942 
+          
+        ; 
+          1026
+        . 
+          Brian ... ardrī Gall 
+ocus Gāedel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 120.1
+          
+        . 
+          ar slanaib ... Turcaill righ 
+Gall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 435 
+          
+        ; 
+          § 373
+        . 
+          Ard Macha do orgain ... la Gallaibh, 
+┐ ní ro hoirgedh la heachtarchenela riamh go sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 
+444.9
+          
+        . ? 
+          dord gaill iar nderach a bárc, 
+            <span class="lbl">ib.</span> 272.8
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nfhocail" title="eDIL Bibliography">Dánfhocail</strong></span> 271
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">an <span class="def">Anglo-Norman</span>, an <span class="def">Irishman</span> of <span class="def">Norman</span> <span class="def">descent</span>, an 
+<span class="def">Englishman</span> :</span> 
+          Díarmait Gall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 641
+          
+        . 
+          a Gulla 
+Fáil, 
+            ex. 681
+          
+        . 
+          langfiter ... .i. glas na nGall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> p. 26
+          
+        . 
+(<span class="lbl">Cf.</span> 
+          langp[h]eitir .i. <span class="frn ">anglis</span> insein, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 812.
+          
+        ) 
+          slóiccheadh 
+lá hUilliam ... de Lathi ... ┐ lá gallaibh Midhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 268.13
+          
+        . 
+gabháltas Gall <span class="ediltr">the Norman Invasion</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 4840
+        . Fine 
+gaoidel senghoill féin `<span class="quote">the old English themselves</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 
+467.11
+        . sduagha do gheibhthe re Goll (of a castle) <span class="ediltr">arches 
+that used to be found with the foreigner</span> (<span class="lbl">i.e.</span> built in Norman 
+style ?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 119.16
+        . Applied to the Geraldines, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+ix 164 § 12.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">a <span class="def">foreigner</span> :</span> 
+          fer doberait gaill amach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 244.18 
+          
+        gl. 
+
+          o luibib gall, 
+            84.6 Comm.
+          
+         
+          cin a gall 
+┐ a deoraidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 290
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 159
+        ). 
+          scrisfaid siad goill ┐ 
+allmaruidh a hErind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 127.
+          
+        
+      </p>
+    
+  
+  
+    <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+        <span class="def">Hebridean</span>
+      </span>: 
+        a Ghallmhaoir ó thuinn go tuinn | fleasga donna an díaigh an Ghoill, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RannsachadhnaG&#xE0;idhlig" title="eDIL Bibliography">Rannsachadh na Gàidhlig</strong></span> i 13 (NLS 72.2.2 fo. 16)
+        
+      . 
+        fiarfaighthior ’nar fearann dúthaigh | dénamh na loingi, a fhlaith Gall, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bard.P." title="eDIL Bibliography">Bard. P.</strong></span> 172 § 15
+        
+      . Compds. 
+        <span class="oRef">¤</span>assa <span class="trans">a <span class="def">Gaulish</span>
+        <span class="def"> sandal</span> :</span> <span class="case a">a</span>
+      <span class="number p.">p.</span> gallasu (gl. gallicas= 
+caligas, Vulg.), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> i 497
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 178b2
+      ). 
+        <span class="oRef">¤</span>at <span class="trans">
+        <span class="def">foreign</span> <span class="def">helmet</span>
+      </span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 100 § 171
+      . 
+        <span class="oRef">¤</span>bádach <span class="trans">
+        <span class="def">partial</span> to <span class="def">foreigners</span> (?) :</span> comairleda 
+... guthmilse gallbadhacha in ghlaniarla `<span class="quote">prompted by 
+inherent leaning to the English</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 26.37
+      . 
+
+        <span class="oRef">¤</span>baile <span class="trans">a <span class="def">foreign</span> <span class="def">stead</span> :</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ii 339.34
+      . 
+        gallbailti gan galldacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1920, 416.z
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1915
+      . 
+        <span class="oRef">¤</span>bélre 
+<span class="trans">foreign <span class="def">speech</span>, later <span class="def">English</span> speech:</span> 
+        sluag guillbelrai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 222.10
+        
+      . 
+        can latin, acht 
+gall-berla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xviii 12
+        
+      , note. 
+        milc ... focul gallberla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+1215
+        
+      . 
+        gen cor smuain guth Gaillberla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 14 § 27
+        
+      . 
+        <span class="oRef">¤</span>biail <span class="trans">a foreign (i.e. Scandinavian) <span class="def">axe</span> :</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+532
+      . 
+        .iiii. sgribaill .x. is fiu in gaillbiail .i. in crostuadh lethan, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 241
+        
+      b (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 136
+      ). 
+        slicht gall-bela, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 810
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 
+374a
+      ). See 
+        <span><strong class="pop" style="color:blue" href="bibliography/MannersandCustoms" title="eDIL Bibliography">Manners and Customs</strong></span> iii 29
+      . ?
+        
+          <span class="oRef">¤</span>blach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 99 § 163
+        
+      . 
+
+        <span class="oRef">¤</span>brat <span class="trans">foreign <span class="def">booty</span> :</span> ? 
+        nímo gradh gallbraide, 
+          <span class="lbl">ib.</span> 95.1
+        
+      . 
+        <span class="oRef">¤</span>bróc 
+<span class="trans">foreign <span class="def">shoe</span> :</span> 
+        Guaire na ngallbrocc, 
+          <span class="lbl">ib.</span> 101 § 179
+        
+      .  <span class="oRef">¤</span>cerd <span class="ediltr">name 
+given to the Scandinavian sport of tossing children on spears</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/V.SS.Hib." title="eDIL Bibliography">V. SS. Hib.</strong></span> i 164 § xxxiv
+       (<span class="lbl">v.l.</span> gialcherd); <span class="lbl">cf.</span> 
+        p. xxii n. 4
+      . 
+        <span class="oRef">¤</span>cliar: an 
+ghaillchliar <span class="trans">the <span class="def">Reformed</span> <span class="def">clergy</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 4297
+       
+        <span class="oRef">¤</span>cloch 
+`<span class="trans">
+        <span class="def">foreign</span> <span class="def">castles</span>
+      </span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1920, 416.2
+      . 
+        <span class="oRef">¤</span>cochal <span class="trans">a <span class="def">Norse</span> 
+<span class="def">hood</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 364.9
+      . 
+        <span class="oRef">¤</span>cú: 
+        Gallchū immorru in forainm ┐ is de atā dia ro marb in mīlig tucad do breith einig fear Muman coro marb cona fhiaclaib amal gallchoin iaruschain (iaroschain, <i>v.l.</i>) a airm uili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 377 n. k-k (BB, Lec.)
+      .​​​ As <span class="pos npr" style="color: #ff8000">npr</span>
+      <span class="gen m.">m.</span>: 
+        Gallchū, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 151b40
+        
+      . 
+
+        <span class="oRef">¤</span>cúirt <span class="trans">foreign <span class="def">palace</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 242.2
+      . 
+        <span class="oRef">¤</span>dírna <span class="trans">a foreign 
+dírna (i.e. <span class="def">weight</span>)</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 679
+      . 
+        <span class="oRef">¤</span>écosc <span class="trans">
+        <span class="def">Gaulish</span> <span class="def">garb</span>:</span> 
+
+        doluid Forcoll M. ... isna Gaillecuscaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 246 § 57
+        
+      . 
+
+        <span class="oRef">¤</span>écoscda <span class="trans">of foreign <span class="def">appearance</span>:</span> 
+        cloidemh mor gaillecasgda, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5478
+        
+       (St.). 
+        <span class="oRef">¤</span>espoc <span class="trans">a <span class="def">foreign</span> <span class="def">bishop</span>:</span> 
+        ag an ngaillespuc, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 242.28
+        
+      . 
+        <span class="oRef">¤</span>focal: dot dhíon ar ghallfhocal ghall <span class="ediltr">the 
+pledged word of the English</span> (i.e. <span class="frn ">Punica fides</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 
+485.8
+      . 
+        <span class="oRef">¤</span>fothannán <span class="trans">the <span class="def">herb</span> <span class="def">bearsbreech</span> or <span class="def">bearsfoot</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> ix 
+227.21
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 184.30
+      . 
+        <span class="oRef">¤</span>fuil <span class="trans">
+        <span class="def">foreign</span> <span class="def">blood</span>:</span>
+      
+         easbaid 
+Goill ó gleo an Mullaig | ód roinn sa gleo ar an Gallfhuil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 60 § 24
+        
+      . 
+        <span class="oRef">¤</span>ga <span class="trans">a <span class="def">foreign</span> <span class="def">javelin</span>, an <span class="def">English</span> <span class="def">spear</span>
+      </span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 967
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> ii 212.22
+      . 
+        <span class="oRef">¤</span>gabul: ? gréas gach 
+gall-ghabhla (from description of a building), 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 119.33
+      . 
+
+        <span class="oRef">¤</span>glas <span class="trans">a <span class="def">foreign</span> <span class="def">lock</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 142.12 Comm.
+       
+        <span class="oRef">¤</span>góidel <span class="trans">one of 
+<span class="def">mixed race</span>, i.e. <span class="def">Viking</span> and <span class="def">Irish</span> <span class="def">blood</span>
+      </span>. For an account of 
+the Gall-Goidil see 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxxix 176
+      -
+        177
+       (Sommerfelt); 
+        <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 
+138 n.
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Bidrag" title="eDIL Bibliography">Bidrag</strong></span>, p. 4
+       <span class="lbl">seq.</span>; Watson, <span><strong class="pop" style="color:blue" href="bibliography/CelticplacenamesofScotl." title="eDIL Bibliography">Celtic placenames of Scotl.</strong></span>, 172
+       
+<span class="lbl">seq.</span> In the Annals the word is used of inhabitants of Ireland 
+only between 855 and 858 (Sommerfelt, <span class="lbl">loc. cit.</span>). In 
+        <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 
+138
+       (<span class="lbl">an.</span> 857) the name is applied to the Irish who had 
+adopted Viking ways and relapsed into paganism. <span class="lbl">Cf.</span> also 
+<span class="lbl">ib.</span> 232. 
+        cocadh mor etir Gennti ┐ Maelsechnaill co n-Gallghoidelaibh leis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 364.x
+        
+      ; 
+        <span class="lbl">ib.</span> 366.8
+      . 
+        loingius na nGall-nGaoidheal (<span class="lbl">sic</span>) .i. Scuit iad ┐ daltai do Normannoibh iad, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 128.8
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 490.8 (<span class="lbl">an.</span> 856). 
+        gic-goc Gallgaidhel, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 72.6
+        
+      . 
+        inghean ríogh Gallghaedheal, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5540
+        
+      . 
+Used of inhabitants of western Scotland: téit iarum Donnan 
+in Gallgaidelu ┐ geibid aitreb ann (where apparently the island 
+of Eigg is meant), 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 116.13
+      . 
+        Bláán .i. Balaan (<span class="lbl">sic</span>) epscop 
+Cinn Garad hi nGallgaidelaib (Bute), 
+          <span class="lbl">ib.</span> 184.28
+        
+      . <span class="trans">As a place-name connoting <span class="def">Galloway</span>:</span> 
+        Suibne mac Cinaedha, ri Gallgaidhel, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 568.z (<span class="lbl">an.</span> 1034)
+      ; 
+        ii 234.1 (<span class="lbl">an.</span> 1200); 
+        ii 290.17 (<span class="lbl">an.</span> 
+1234). 
+        Toirberd mac Gall Ghoeidhil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 242.25 (<span class="lbl">an.</span> 1210)
+       
+= 
+        mac righ gallgaoidhel, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 164.13
+        
+      . 
+        Samaisc ┐ Artúr ┐ 
+Ínber tri meic rig Gallgaeidel anall, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AS" title="eDIL Bibliography">AS</strong></span> 4560
+        
+      . 
+        Bressal mac 
+Eirge, mac ríg Gallgaeidel anall, ┐ taissech teglaig rig Eirenn 
+he, 
+          <span class="lbl">ib.</span> 7951
+        
+      . Watson seeks to explain the form Galloway, 
+
+      
+        <span><strong class="pop" style="color:blue" href="bibliography/CelticplacenamesofScotl." title="eDIL Bibliography">Celtic placenames of Scotl.</strong></span> 174
+      . 
+        <span class="oRef">¤</span>gruaim: 
+        ó ghall-ghruaim a nglóir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxi 5
+        
+      . 
+        <span class="oRef">¤</span>gruitne <span class="trans">
+        <span class="def">Norse</span> <span class="def">curds</span>:</span>
+      
+         do gallurad gallgruitni, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> § 66.32
+        
+      . 
+        <span class="oRef">¤</span>iall <span class="trans">a foreign <span class="def">thong</span>:</span> <span class="number pl.">pl.</span> 
+        gaillialla 
+(.i. oígeich .i. lomhna connaigh), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 4.14
+        
+      . 
+        <span class="oRef">¤</span>iasc <span class="trans">a <span class="def">pike</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Conn." title="eDIL Bibliography">Iar. Conn.</strong></span> 11 note y
+      . 
+        <span class="oRef">¤</span>íath <span class="trans">foreign <span class="def">territory</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 10.y
+      ; 
+        20.10
+      . 
+? 
+        <span class="oRef">¤</span>lorg: do gelugud galluirge '<span class="quote">a foreign club</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/EIS" title="eDIL Bibliography">EIS</strong></span> 138 § 16
+      . See also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=uirge">uirge</a></span>. 
+        
+          <span class="oRef">¤</span>manach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 9.20
+        
+      . 
+        <span class="oRef">¤</span>merge <span class="trans">a foreign <span class="def">standard</span>;</span> 
+        rie 
+bar ngaillmeirgib grīanṡrōill, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> no. 25
+        
+      . 
+        <span class="oRef">¤</span>mías 
+<span class="trans">a <span class="def">quoit</span> (?):</span> in gaillmias (gl. discus), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 478
+      . 
+        <span class="oRef">¤</span>mil <span class="trans">a foreign 
+<span class="def">soldier</span>:</span> <span class="number pl.">pl.</span> 
+        gaillmilid ... na Gaillia, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5369
+        
+      . 
+        <span class="oRef">¤</span>óclach 
+orig. <span class="trans">a <span class="def">Scottish</span> <span class="def">soldier</span> or <span class="def">mercenary</span>, in <span class="def">service</span> of an Irish 
+<span class="def">chief</span>; a `<span class="def">gallowglass</span>' or <span class="def">heavy-armed</span> <span class="def">foot-soldier</span> opposed to 
+the light-armed kerns</span> (see Hayes-McCoy, <span><strong class="pop" style="color:blue" href="bibliography/Scotsmercenaryforces" title="eDIL Bibliography">Scots Mercenary Forces in Ireland</strong></span>, pp. 15-76
+      ). The word is common in the 
+Annals of the 13th-15th centuries: 
+        tre cumachtain cinidh a 
+mathar idon Clainni Domnaill ┐ Gallóglach n-imda aile, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> ii 372.17
+        
+      . 
+        galloglacha uaisli, 
+          426.9
+        
+      . 
+        ocus a ngallógláchaibh ina n-éidedh timchioll chuirp an airdrígh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 540.36
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 450.11
+      . 
+        <span class="lbl">ib.</span> 588.1
+      . 
+        <span class="oRef">¤</span>óclachus: <span class="trans">
+        <span class="def">leadership</span> of <span class="def">gallowglasses</span>:</span> 
+        fear ... ba mó ainm la gallócclachus, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 1140.12
+        
+      . 
+        <span class="oRef">¤</span>óg <span class="ediltr">an English soldier</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xi § 14
+      . 
+
+        <span class="oRef">¤</span>ogam <span class="trans">
+        <span class="def">Viking</span> <span class="def">Ogham</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 6157
+       (called also 
+        Ogam Lochlannach, 
+          6155
+        
+      ). 
+        <span class="oRef">¤</span>ráith <span class="trans">a <span class="def">foreign</span> <span class="def">rath</span> or <span class="def">fort</span>
+      </span>, see 
+        <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 
+502.22
+      . 
+        <span class="oRef">¤</span>sail <span class="trans">a foreign (non-indigenous ?) <span class="def">willow</span>:</span> 
+        i nglotuinn 
+géag ngall-ṡaileach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 85.45
+        
+      . 
+        <span class="oRef">¤</span>salann, <span class="trans">foreign <span class="def">salt</span>
+      </span>, 
+        glac 
+gallsalaind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 93 § 139
+        
+      . 
+        <span class="oRef">¤</span>sax <span class="trans">
+        <span class="def">English</span> <span class="def">foreigner</span>:</span> 
+        eiritigidh 
+Gallsax, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 172.6
+        
+      . ?
+        
+          <span class="oRef">¤</span>semind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 93 § 139
+        
+       (BB). 
+
+        <span class="oRef">¤</span>sét <span class="trans">a foreign <span class="def">treasure</span>:</span> <span class="number pl.">pl.</span> 
+        na gall-seoit tar muir tocairter, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 220.22
+        
+       gl. (<span class="lbl">etym. gl.</span> on gaillite tacair). 
+        <span class="oRef">¤</span>sgiam: a 
+ghiolla gusan ngaillsgéimh `<span class="quote">O youth of foreign beauty</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 
+1924, 241.1
+      . 
+        <span class="oRef">¤</span>sciath: 
+        Tuathal Mælgarb na ngall-sciath, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+130b12
+        
+      . 
+        <span class="oRef">¤</span>sochraite <span class="trans">foreign <span class="def">auxiliaries</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 168.7
+      . 
+        <span class="oRef">¤</span>tech 
+<span class="trans">foreign <span class="def">palace</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 241.y
+      . 
+        <span class="oRef">¤</span>Tór: <span class="ediltr">Tór the Viking</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Caithr.CC" title="eDIL Bibliography">Caithr. CC</strong></span> 138.z
+      . 
+        <span class="oRef">¤</span>trumpa <span class="trans">a <span class="def">trumpet</span>, a <span class="def">clarion</span>:</span> 
+        itir orgán ┐ 
+gitart ┐ galltrumpa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 52.8
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Matthew</strong></span> vi 2
+      . ? 
+        <span class="oRef">¤</span>urad: 
+        do 
+gallurad gallgruitni, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 66.32
+        
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

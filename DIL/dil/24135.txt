@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="24135">fota, fata</h3><span class="citation">Cite this: eDIL s.v. fota, fata or <a class="reference" href="24135">dil.ie/24135</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                foto, fota, fota, fotai, rofattai, fottai, foto, fotu, fotti, fote, fota, foto, fodo, fotai, faidi, faidi, ḟotai</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span>  <span class="itype io-i&#x101;">io-iā</span> (but acc. to Pokorny, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xvi 458
+      , orig. 
+foto <span class="case g">g</span>
+      <span class="number s.">s.</span> of fut ; see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fot">fot</a></span>. <span class="lbl">Cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 60a10
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> § 96
+      , cited 
+below) 
+        fota, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1365
+        
+      . fota, 
+        fotai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy</strong></span> ii 56
+        
+      . 
+        rofattai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 21
+        
+      . <span class="case a">a</span>
+      <span class="number s">s</span>
+      <span class="gen m.">m.</span> 
+        lasind fascad fottai
+        , 
+          § 61
+        
+      . <span class="case a">a</span>
+      <span class="number s">s</span>
+      <span class="gen n.">n.</span> 
+        foto, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+60a10
+        
+      . <span class="case d">d</span>
+      <span class="number s">s</span>
+      <span class="gen n.">n.</span> 
+        fotu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 82d10
+        
+      . <span class="case g">g</span>
+      <span class="number s">s</span>
+      <span class="gen m.">m.</span> 
+        fotti, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 718
+        
+      . <span class="lbl">Cf.</span> 
+        cu grenlaich fote
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 17a2
+        
+       (= *Grellaig fotae ?). 
+        fota, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 745
+        
+      , 
+        798
+      . 
+ <span class="case g">g</span>
+      <span class="number s">s</span>
+      <span class="gen n.">n.</span> 
+        foto, 
+          745
+        
+      . <span class="lbl">Cf.</span> inge C. fodo
+       (<span class="lbl">metri gratia</span>) 
+        <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 62.4
+       = 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> § 96.4
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        fotai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 5b1
+        
+      . In later Mid. Ir. sometimes with slender stem in <span class="number pl.">pl.</span> 
+        lúba faidi
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5201n
+        
+      . 
+<span class="case g">g</span>
+      <span class="number du.">du.</span> <span class="gen f.">f.</span>: 
+        cectar in da fleisc faidi
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 242a34
+        
+      .</p>
+   
+    <p class="result"> 
+ <span class="trans">
+        <span class="def">Long</span>
+      </span>
+    </p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) of space or distance : fada (gl. longus) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 
+677
+        . 
+          uide foto, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 60a10
+          
+        . 
+          cendidi f.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 82
+          
+        Y (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+7140
+        ). 
+          flesc f.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 117b52
+          
+        . 
+          folt ... fata, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 213
+          
+        . 
+          ulcha 
+ḟata, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 194 § 1
+          
+        . ni thuca in finn ḟotai <span class="ediltr">a tall fair woman</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 112.30
+        . <span class="pos pn" style="color: #ff8000">pn</span>  As sobriquet : 
+          Fercar f.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 696
+          
+        . 
+          dom 
+Chummain ... mac find Fotae Fiachnai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Nov. 12
+          
+         = 
+
+          Cumain Fota mac F., 
+            242.13
+          
+         ; 
+          Cuimmini fota, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 90g34
+          
+        
+(= 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 351c1
+        ; 
+          Cummeni <span class="frn ">longus</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 661
+          
+        ). 
+          C. Foto (: dō), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> 41 § 4
+          
+        ). fid f.<span class="oRef">¤</span>
+         <span class="ediltr">an extensive wood</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 109a30
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+iv 156
+        ). creacha foda <span class="ediltr">distant forays</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 8.37
+        . fada ōn 
+Ierusalemh soir <span class="ediltr">far to the east of J.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 116 § 26
+        . In 
+early Mid. Ir. the <span style="color: #ff8000">compar.</span> and <span style="color: #ff8000">superl.</span> seem to be supplied 
+from <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=s&#xED;r">sír</a></span> (<span class="lbl">q.v.</span>) : 
+          issía thiagait, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 6040
+          
+         (= as faide St). 
+
+          asna a tháeib bas siriu uaim, 
+            1287
+          
+         (= bus faidi St). but : 
+san cuid dob foide uadh <span class="ediltr">the part most distant from him</span> 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 52.21
+        , 
+          faide, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1866
+          
+        . 
+          foidi, 
+            1865
+          
+        . With -de : 
+ni ragam do Ierusalem ... ar bid fatite Hiruath uaind 
+ <span class="ediltr">Herod will be farther from us</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 139b1
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Hom.Leg." title="eDIL Bibliography">Hom. Leg.</strong></span> 72
+        ). 
+gan aidide dhaodh | Faidide an feur `<span class="quote">non obediendo Aodo 
+eo altius gramen</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/MolloysGramm." title="eDIL Bibliography">Molloy's Gramm.</strong></span> 212 (ch. xxii)
+        . fatiti, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Moling" title="eDIL Bibliography">Moling</strong></span> § 19
+        . 
+          faidide, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 6811
+          
+        . </p>
+     
+      <p class="result"> 
+Of fig. distance : bid fotai chucca <span class="ediltr">far from it! (never !</span>) 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5247
+        . fada ó théarnamh dhamh ... da rabh. ... `<span class="quote">I have 
+no chance of escape</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> ix 12
+        . fada ó im i n-aisgidh é 
+<span class="ediltr">far was it from being a gift of butter</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 37.3
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) of time or duration : 
+          f.<span class="oRef">¤</span> in gábud sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1365
+          
+        . is 
+f.<span class="oRef">¤</span> in troscud itai <span class="ediltr">thou art fasting long</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 112a22
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ScM." title="eDIL Bibliography">ScM.</strong></span> 3
+        ). 
+
+          saegal fotta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Moling" title="eDIL Bibliography">Moling</strong></span> § 42
+          
+        . 
+          cid fada cid gairit in re, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+v 248.35 Comm.
+          
+         
+          ag glacad aimsire girre no faidi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 339.13
+          
+        .</p>
+     
+      <p class="result"> 
+ <span class="trans">
+          <span class="def">Long-continued</span>, <span class="def">enduring</span>:</span> ferr in cosmail caol fodae 
+<span class="ediltr">moderate persistent routine</span> (oppd. to : saothar obund no 
+remor) 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 311 § 15
+        . a ṡlúag na nglond fata `<span class="trans">
+          <span class="def">long-remembered</span>
+        </span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 348
+         (: data, perh. imperf. rime). 
+f.<span class="oRef">¤</span> int ainmed <span class="ediltr">a lasting blemish</span>, 
+          156
+        . f.<span class="oRef">¤</span> in col <span class="lbl">ib.</span>
+      </p>
+     
+      <p class="result"> 
+With cop., folld. by clause in apposition : 
+          is fata atai 
+i sruth Tigir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 112b22
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 66
+        ) = 
+          is cían, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1676
+          
+        . 
+bud fata bas chian chuman <span class="ediltr">long will the memory endure</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 294
+        . uair as fada atú can mo bladh ... do thogbail 
+<span class="ediltr">I am long in raising</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4061
+        . gid fada gairit bemait 
+ar aenrian <span class="ediltr">whether we be together for long or short</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 
+5478
+        . 
+          gid fata gair bias tír ... fám chois, 
+            5648
+          
+        . ni fati nā 
+fead ris a mbligfea bó ... bamar and <span class="ediltr">not longer than the 
+time in which a cow could be milked</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 182.8
+        . Loosely 
+used with pers. constr. : Fada mé ar mearughadh sligheadh, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1950, 319
+        . <span class="lbl">Cf.</span> the regular use with DO : is fada 
+dam beith a coluinn, <span class="ediltr">it is too long for me to remain</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+vii 304 § 17
+        . 
+          Fada dhamh druim re hÉirinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 
+125
+          
+        . </p>
+     
+      <p class="result"> 
+(is) f.<span class="oRef">¤</span> co : 
+          fada go tuigim mo theach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 236 § 1
+          
+        . 
+gid fada gairit co tí <span class="ediltr">whether he come late or soon</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 
+74.7
+        . as fada go dtreicfindsi tusa <span class="ediltr">it would have been long 
+before I would have deserted you</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 509 n. 1
+         (St). fada 
+co saoilfidis so <span class="ediltr">they were far from expecting this</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 153
+        . nirbo ḟata inn irnaide dóib co faccatar ... 
+<span class="ediltr">they were not long waiting before they saw</span> ... 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 175b26
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 30
+        ).</p>
+     
+      <p class="result"> 
+is f.<span class="oRef">¤</span> limm co (conj. or <span class="pos prep." style="color: #ff8000">prep.</span>) <span class="trans">
+          <span class="def">I deem it long until ...</span>, <span class="def">I am 
+eager</span>, <span class="def">impatient for</span>:</span> 
+          fada lea Rig co ruacht nem, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 
+303y
+          
+        . 
+          fada linn gu lá na graifne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. ex. 1392
+          
+        . </p>
+     
+      <p class="result"> 
+is f.<span class="oRef">¤</span> ... limm <span class="trans">
+          <span class="def">I deem ... long</span>, it <span class="def">seems</span> <span class="def">long</span> to me</span> (of something tedious or unpleasant ; often = <span class="trans">I <span class="def">think</span> it <span class="def">grievous</span>, am 
+<span class="def">sorry for</span> (without notion of time) :</span> ba fada la hIta beith 
+na ecmais (= <span class="frn ">erat S.I. tristis de absentia ...</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 103
+        . 
+ba f.<span class="oRef">¤</span> leó rombátár <span class="ediltr">they thought they were a long time away</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5880
+         ( 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1412
+        ). foda lásan rígh robadur a aos ciuil 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 107.1
+         (cf. <span class="frn ">rex ... contristatus est nesciens quid illis 
+accidit</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/V.SS.Hib." title="eDIL Bibliography">V. SS. Hib.</strong></span> i 223
+        ). 
+          fada leis an bhfear ... gan tocht da 
+thoigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 4.39
+          
+        . 
+          is fada (<span class="lbl">v.l.</span> fuaith) lim inní docím anois 
+... isin aér, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 133.271
+          
+        . is fada lem do dhol soir, a C. 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 302 § 6
+        . fada lim sgaoileadh don sgoil ... foide 
+iná an sgol do sgaoileadh | gan m'oide ag cor chomaoineadh 
+<span class="ediltr">sadder to me than the dispersal of the school is it to have lost 
+my teacher's kindness</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 86
+        . 
+          gid goiritt let-sa 
+... an denus sin ..., as faide le Brían Banba | gan éistecht 
+rem urlabhra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 218 § 2
+          
+        . 
+          gér'bh fada an cath sin, 
+ba foidi le D. [scarad] le[a]choicle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1865
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">in prosody, <span class="def">long</span> (in quantity) :</span> <span class="number pl.">pl.</span> bith ḟotai
+         (gl. ... 
+semper longius) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 5b1
+        . 
+          nach tairis acht a sillaib ḟota, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> 
+iii 101 § 180
+          
+        . tairissium o ḟotaib ┐ cuimrib <span class="lbl">ib.</span>
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="pos adv." style="color: #ff8000">adv.</span> (of space or time) : 
+          connaca in scath chuci 
+aníar rodarc a sula co f.<span class="oRef">¤</span> dond farrci, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9059
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 81
+        ). bui 
+... co f.<span class="oRef">¤</span> ina thost <span class="ediltr">for a long time</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 92
+        . Absol. : co raibe 
+fada 'na laighe <span class="ediltr">he was for a long time lying (ill</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 154
+        . 
+ro fhetutar f.<span class="oRef">¤</span> ria ngenemain ... Crist <span class="ediltr">long before</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6999
+        . 
+cidh fada bes fair <span class="ediltr">whatever length of time he shall be upon it</span> 
+(<span class="lbl">viz</span> the land) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 132.7 Comm.
+         
+          ná bí ní as ḟaide ag 
+anmhain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 24.29
+          
+        . <span class="lbl">Cf.</span> fad ó riamh <span class="ediltr">long before</span> 
+          23.6
+         (<span class="lbl">cf.</span> 
+mod. fad ó shoin, fad ó <span class="trans">
+          <span class="def">long ago</span>
+        </span>). ma fada gearr beirthear 
+é <span class="ediltr">far or near</span> 
+          22.13
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

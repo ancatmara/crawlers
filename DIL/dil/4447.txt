@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="4447">aslach</h3><span class="citation">Cite this: eDIL s.v. aslach or <a class="reference" href="4447">dil.ie/4447</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                faslach</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="itype o">o</span>, <span class="gen n.">n.</span> <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ad-slig">ad-slig</a></span>. Also faslach. <span class="trans">
+        <i>act of</i> <span class="def">tempting</span>, <span class="def">inducing</span>, <span class="def">instigating</span>; <span class="def">temptation</span>:</span> 
+        dogníat cach pecad trea n-a.<span class="oRef">¤</span> 
+-som, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 30c14
+        
+      . 
+        it mathi side oc aslug, 
+          30c13
+        
+      . hond 
+asluch messidiu gl. iudiciali suggestu, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 26c9
+      . huand asluch 
+gl. sugestu, 
+        109b5
+      . inna a.<span class="oRef">¤</span>
+       gl. suggestiones, 
+        38a6
+      . in miaslaig 
+gl. malæ persuasionis, 
+        28b7
+      . fri aslaige demnae `<span class="quote">against 
+seductions of devils</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 198
+      . atomriug indiu . . . ar 
+aslaigib dūalche `<span class="quote">against temptations of vices</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 356.17
+      . 
+tria fhaslach na rígna fair <span class="ediltr">at the instigation of the queen</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 904
+      . 
+        braighde Laigen . . . do marbad . . . ar a.<span class="oRef">¤</span> Tigernáin 
+Ua Ruairc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 280.2
+        
+       (Tig.). 
+        re ha.<span class="oRef">¤</span> na n-amaidead 
+n-ifernaidi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 166.18
+        
+      . 
+        bi dom a.<span class="oRef">¤</span>, a chruth fial, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 
+11.38
+        
+      . <span class="trans">
+        <span class="def">Attempt</span>, <span class="def">attack</span>:</span> 
+        ni fail aslaig ar Hérind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iii 104.3
+        
+       `<span class="quote">it is no place for an attempt upon Ireland</span>(?)', 
+Dict. Fasc. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 fail">2 fail</a></span>. 
+        fiarfaighis . . . scela an faslaigh sin . . . .i. an 
+macamh . . . do marbad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 160 § 13
+        
+      .</p>
+  
+  
+    <p class="result"> 
+With obj. gen. or vn. clause of the action urged on a person: 
+is glicc som oc aslug in phectho `<span class="quote">in tempting to sin</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+14d27
+      . triaslach foir giallae dialailiu `<span class="quote">by tempting him to submit 
+to another</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 141d1
+      . 
+        oc a.<span class="oRef">¤</span> cach uilc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2440
+        
+      . ic asslach 
+fair cech maithiusa `<span class="quote">persuading him to every good thing</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xxvii 302 § 76
+      . 
+        cid he is auctor oc a.<span class="oRef">¤</span> in césta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3270
+        
+      . 
+        a 
+a.<span class="oRef">¤</span> for fearaib Erenn . . . in righi dia braithir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 263b44
+        
+      . 
+
+        ro ghabhsidhe for a.<span class="oRef">¤</span> iomfuirigh for lucht an teichidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 
+vi 2286.2
+        
+      . ic faslach for A. tocht i nagaidh D. `<span class="quote">urging A. to 
+enter against D.</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 1079
+      .</p>
+  
+  
+    <p class="result"> 
+In weaker sense of <span class="trans">
+        <span class="def">persuading</span>, <span class="def">influencing</span>, <span class="def">suggesting</span>; 
+<span class="def">persuasion</span>, <span class="def">suggestion</span>:</span> air biid a.<span class="oRef">¤</span> oc eráil inna brithemnachtae 
+condárbastar gné firinne fuiri gl. tribunalis sugestus caelestis 
+describitur, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 95b6
+      . 
+        ni ar onoir det-siu . . . acht ar asslach 
+┐ comarli m'oessa grada, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 636
+        
+      . 
+        ag a.<span class="oRef">¤</span> ┐ ag eadarghuidhe 
+ort, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Carswell" title="eDIL Bibliography">Carswell</strong></span> 63.17
+        
+      . tré a.<span class="oRef">¤</span> atchuingidh <span class="ediltr">by dint of persuasion</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 60.21
+      . 
+        conad he a n-a.<span class="oRef">¤</span> ┐ a n-impide-sein air-sim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 
+168.17
+        
+      . 
+        lucht aslaig ┐ urála, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 523
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">Of <span class="def">petitioning</span> <i>for a</i> <span class="def">parley</span>, <span class="def">truce</span>:</span> 
+        ni hasslach fuaratar . . . ┐ 
+ni trocaire, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5766
+        
+      . 
+        teachta do chor uatha d'a.<span class="oRef">¤</span> síodha, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1360.15
+        
+      . nīr gab aon a.<span class="oRef">¤</span> uad (of Conn), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1625
+      . In 
+sense of <span class="trans">
+        <span class="def">wheedling</span>, <span class="def">soliciting</span>:</span> forbrissed cech trūaig, a.<span class="oRef">¤</span> cech 
+triūin (signs of `<span class="frn ">avaritia</span>'), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 26.2
+      . is trom céadaslaigh 
+na gcliar / ar fonn ngéagarsaidh nGailian <span class="ediltr">poets' requests</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 117.7
+      . 
+        a.<span class="oRef">¤</span> .i. furáilemh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+        
+       
+        faslach .i. furail, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec.Gl." title="eDIL Bibliography">Lec. Gl.</strong></span> 384
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/StoweGl." title="eDIL Bibliography">Stowe Gl.</strong></span> 372
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

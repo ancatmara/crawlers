@@ -1,0 +1,1411 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="42137">tú</h3><span class="citation">Cite this: eDIL s.v. tú or <a class="reference" href="42137">dil.ie/42137</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                síi, tú, tu, tú, túsu, tusu, tussu, tússu, tusso, tus(s)a, tusai, síi, sib, sis(s)i, sib, (s)ib-si, -se, sissi, thvsv, sib, tái, tui, sethar[si], sár, -t-, -b-, tot, tat, t, dob, dub, tob, tab, frit-, cot-, at-, add-, atd-, att-, dat, dit, dob, dub, dab, dit, nachibfel, -t-, bar, far, -at, -ut, -b, isat, isat, atabar, feartot, sóerfudut, -t, -ib, -su, -siu, indiutsiu, su, daitso, -so, -seo, détso, latso, -seo, -sa, -si, -sa, -si, -se, -si, -se, -siu, -sib, -si</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos pron." style="color: #ff8000">pron.</span> of <span class="per 2">2</span> pers. <span class="number sg.">sg.</span>
+    </p>
+   
+    <p class="result">
+      <span class="number pl.">pl.</span> síi (later sib).</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> Independent (accented) forms:</p>
+     
+      
+        <p class="result">
+          <span class="edilb">1</span>
+          <span class="case nom.">nom.</span> <span class="number s.">s.</span> tú. 
+            tu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+92a2
+            
+          , 
+            14
+          , 
+            17
+          . In Mid. Ir. frequently and in Mod. Ir. regularly 
+with lenited -t- when used as object of verb or with copula 
+(except when lenition phonetically impossible, <span class="lbl">e.g.</span> after 
+-s- and -n-), see below. With emphasising pron.: 
+            
+              tú su, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+92a17
+            
+          . 
+            túsu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PCr." title="eDIL Bibliography">PCr.</strong></span> 2a2
+            
+          . 
+            tusu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 78b18
+            
+          . 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2926
+          . 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+677
+          . In O.Ir. usually tussu. 
+            tússu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1788
+            
+          . 
+            tusso, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 
+15
+            
+          . In Mid. and Mod. Ir. tus(s)a. 
+            tusai, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 120.22
+            
+          . <span class="number pl.">pl.</span> 
+
+            síi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25a3
+            
+          . In Mid. and Mod. Ir. sib (ib) (orig. form with 
+emph. pron.). With emph. pron.: O.Ir. sis(s)i. 
+            sib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+19c20
+            
+          . In Mid. and Mod. Ir. (s)ib-si, -se.</p>
+       
+        
+          <p class="result"> 
+(<span class="edilb">a</span>) Immediately following 3 s. cop. in sentences containing a substantive: 
+              is sissi in tempul sin, 
+                <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 8d7
+              
+            . 
+              is 
+sissi ind idbart, 
+                23c32
+              
+            . 
+              is tú mo ruiri, 
+                <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 14
+              
+            . 
+              ni 
+thu Issau semnach na slóg, | acht is tú int-engach Iacób, 
+
+                <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2875
+              
+            -
+              6
+            . 
+              is tú láech na cernd, 
+                <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8135
+              
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 10
+            ). 
+              iss 
+tu ri side nErinn, 
+                <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 345.5
+              
+            . in tu-sa rig na n-Iúdaide ? 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3247
+            . 
+              masa thú ... | gilla ind fir, 
+                <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3724
+              
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 33
+            ). 
+a Fhir diad masa thú `<span class="quote">wenn du es bist</span>,' 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3659
+            . 
+              masa 
+thusa sin, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4723
+              
+            . 
+              is tusa ben is annsa lium-sa, 
+                <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 2284
+              
+            . With omission of copula: 
+              sib cuaine in da 
+conclann, 
+                <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 34 § 26.
+              
+            
+          </p>
+        
+       
+         
+          <p class="result"> 
+(<span class="edilb">b</span>) With follg. relative clause: 
+              bad sissi coneit, 
+                <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6c1
+              
+            . 
+
+              co mbad sissi do berad teist dimsa, 
+                18a3
+              
+            . 
+              it sib ata chomarpi 
+abracham, 
+                19c20
+              
+            . is sísi nobcrete `<span class="quote">it is ye who used to be 
+believed</span>,' 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 46a13
+            . 
+              ní tú duindnaig són, 
+                59c11
+              
+            . Note also 
+the following glosses, where the construction is not completed in the Irish, but is to be understood from the Latin : 
+cani tú féin gl. quis enim té discernit? `<span class="quote">is it not thou thyself</span>?' 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 8d27
+            . tacco is síi gl. nonne uos ante Dominum ... 
+estis in aduentu eius ? 
+              25a3
+            . ni tussu thóenur ci atbere gl. 
+(Domine ... ego relictus sum solus, et quaerunt animam meam. 
+Sed quid dicit illi divinum responsum ?) Reliqui mihi septem 
+milia virorum, qui non curvaverunt genua ante Bachal, 
+              5a28
+            . 
+is tú gl. (auxilium nobis festinus impertiri) benignus (praeueni), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 100d11
+            . is tussu gl. tú (, inquit, consulatus es), 
+
+              106d2a
+            . is tú gl. (horum ... omnium) memor (... consurge), 
+
+              137a3
+            . See Thurneysen, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xvi 276
+            , and (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=e">e</a></span>) below. <span class="lbl">Cf.</span> 
+also: 
+              cid as mó miscais lat atchí ? ... Tussu am, 
+                <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 81.18
+              
+            . 
+
+              is tu doróachtamar, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 159
+              
+            . 
+              cía so thú dodeochaid im 
+dáil, 
+                <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10768
+              
+            . 
+              is sib tanic, 
+                <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1712
+              
+            . 
+              an tú bhíodh ... ? 
+más ibh, 
+                <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 68.2
+              
+            . Copula omitted: 
+              do chomdelbaid, 
+a mo ri, | tú doru[a]ssat do nephni, 
+                <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2174
+              
+            . 
+              tu fodera 
+a fail de, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3675
+              
+            . 
+              tū bus ben dō, 
+                <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 552.
+              
+            
+          </p>
+        
+       
+        
+          <p class="result"> 
+(<span class="edilb">c</span>) In interrogative sentences with cía, cóich: cia tussu 
+díxnigedar ? `<span class="quote">who art thou</span> ?' 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4c24
+            . 
+              cia thu ?, 
+                <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 654
+              
+            . 
+
+              cia tussu ?, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 927
+              
+            . 
+              cia sibh-si féin ?, 
+                <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1417
+              
+            . 
+              coich 
+thussu ?, 
+                <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3328
+              
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 12
+            ). 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1413
+            . Note also: 
+              cid bé 
+cia thú, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4721
+              
+            .</p>
+        
+       
+        
+          <p class="result"> 
+(<span class="edilb">d</span>) In Mid. and Mod. Ir. at end of sentence where a noun 
+or adj. follows 3 s. cop. (replacing the O.Ir. personal forms 
+of cop.): 
+              bid marb tu-ssa, 
+                <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 298
+              
+            . 
+              co n-id mog De thú, 
+
+                510
+              
+            . 
+              comad buidni ... sib, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2144
+              
+            . 
+              ní soileagtha thú 
+tairsibh, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 2.18
+              
+            . 
+              in budh geall ... dam-sa sib ?, 
+                <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 
+1421
+              
+            . 
+              is firindech ... tú fein, 
+                <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1822
+              
+            . <span class="lbl">Cf.</span> 
+              an dibh 
+tusa ?, 
+                1845
+              
+            . With omission of copula: 
+              ingrentig ... tu-sa, 
+
+                <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1750
+              
+            . 
+              cáor do mhíanach Ádhaimh ibh, 
+                <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. 
+ex. 1594
+              
+            . 
+              meic da Niall ibh, 
+                <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 34 § 26
+              
+            . Supplementing second pers. of cop.: 
+              is-at glana sib, 
+                <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5263.
+              
+            
+          </p>
+        
+       
+        
+          <p class="result"> 
+(<span class="edilb">e</span>) In absolute constructions. With os (later ┐. See 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 ocus">2 ocus</a></span> and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 os">2 os</a></span>): cid os tú, a dé `<span class="quote">even Thou, O God</span>' gl. 
+ipse, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 43a18
+            . os tu gl. prosequutor, 
+              92a2
+            . os tu, a dáe gl. 
+arbiter, 
+              92a14
+            . os tú gl. tute, tutemet, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 201b20
+            -
+              21
+            . See 
+also under (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=t&#xFA; (b)">b</a></span>) above. 
+              ┐ tu hi t'ebraige, 
+                <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 81
+              
+            . 
+              ┐ sib dóine, 
+
+                5785
+              
+            . 
+              ┐ tú fein ... ar imgabail do brathar, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4375
+              
+            . 
+
+              ┐ tú gan chloidhem, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 415 n. 3
+              
+            . Note also: 
+              'sgan tú 
+reimhe id ridire, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 1.32
+              
+            . In phr. mad tú (lit. <span class="trans">
+              <span class="def">if it be thou</span>
+            </span>) 
+as part of the subject (<span class="ediltr">you and I</span>) of a verb in 1 pl.: dia 
+ndernam mád tú caratrad <span class="ediltr">if you and I form a friendship</span>, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10918
+            . See 
+              <span><strong class="pop" style="color:blue" href="bibliography/KZ" title="eDIL Bibliography">KZ</strong></span> xlviii 51
+            . With poss. adj.: 
+cid ar muinterni mattú gl. [discant] autem et nostri `<span class="quote">even 
+our household as well as thou</span>,' 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 31d16
+            . Emphasising the 
+subject of a following verb: cid sisi dano ronfitid ni `<span class="quote">that 
+even you also know us</span>,' 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 15c28
+            . 
+              ┐ tussu a daltáin, cid 
+am gena dana?, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 555
+              
+            . With impv.: 
+              tusa atá it chodladh, éirigh, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1696
+              
+            . With foll. prep.: 
+              sib-si din, do 
+génntib dúib, 
+                <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1706
+              
+            . 
+              tusa didiu curfed-sa ceist fort, 
+
+                <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1307
+              
+            . Various: 
+              sissi <span class="frn ">in Domino</span>
+             gl. ego confido 
+in uobis in Domino, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 20b3
+            . sissi iarum `<span class="quote">ye afterwards</span>,' 
+
+              21c5
+            . 
+              tú ar toil cháigh, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 1.55
+              
+            .</p>
+        
+       
+        
+          <p class="result"> 
+(<span class="edilb">f</span>) In comparative sentences of various types: 
+              ní cumme 
+et tuss[u], 
+                <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6b25
+              
+            . 
+              ni cumme et sissi, 
+                14a30
+              
+            . ní laugi a 
+bríig less <span class="frn ">quam</span> tú `<span class="quote">He cares for him not less than for thee</span>,' 
+
+              6b12
+            . 
+              amal tu, 
+                <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 158
+              
+            . 
+              amal tussu, 
+                <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 72.z
+              
+            . 
+              mar túsa, 
+ni triath mar tú, 
+                163.4
+              
+            . 
+              caradrad fhir mar thusu, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+67
+              
+            7. 
+              madh treise é na thú, 
+                <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 2317
+              
+            . 
+              oireacht mar 
+ibh, 
+                <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 71.22
+              
+            . iná ibh `lochtach,' Gloss.</p>
+        
+       
+        
+          <p class="result"> 
+(<span class="edilb">g</span>) After acht: 
+              ní con fil nach naile ... duindainsed dam 
+inna hulise acht tusu tóinur a dáe, 
+                <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 78b18
+              
+            . 
+              co nach bfuilmíd re fáth ngluinn | acht misi ┐ tusa, a Chonaill, 
+                <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 
+939.
+              
+            
+          </p>
+        
+       
+        <p class="result"> 
+(<span class="edilb">h</span>) In Mid. and Mod. Ir. with 3 s. of active verbs replacing 
+the O.Ir. second pers. forms: in fhacca tu-sa ? 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2707
+          . 
+
+            da lecea tú, 
+              2815
+            
+          . 
+            in tabair sib ?, 
+              2906
+            
+          . 
+            rafider tusa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+1348
+            
+          . 
+            co buigbed sibsi, 
+              2180
+            
+          . 
+            biaidh tú, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 1.26
+            
+          . 
+            do 
+fhágaibh tú, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5630.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+<span class="edilb">2</span> Emphatic form as <span class="case voc.">voc.</span>: a thvsv
+           `<span class="trans">
+            <span class="def">O thou</span>
+          </span>,' literal 
+transl. of Lat. <span class="frn ">o mea tu</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 204b6
+          .</p>
+        
+      
+        <p class="result"> 
+<span class="edilb">3</span> In Mid. and Mod. Ir. as <span class="case acc.">acc.</span> after trans. vbs., replacing 
+O.Ir. inf. pron.: 
+            conná fostba sib
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5871
+            
+          . 
+            tanairsed 
+in fer ... sibsi, 
+              7483
+            
+          . 
+            ro charas tusai, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 120.22
+            
+          . 
+            guidim 
+... sib-se, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1978
+            
+          . 
+            sealbhuighim sibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1919, 
+440 § 14
+            
+          . 
+            ní threicfe sé thú, 
+              <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 2290
+            
+          . 
+            ní aithnim 
+thú, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6404
+            
+          . 
+            cia ... do chuir air an tsaoghal thú ?, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 
+8.6
+            
+          . 
+            do lenus ... ibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aisl.Tund." title="eDIL Bibliography">Aisl. Tond.</strong></span> 96.4
+            
+          . Supplementing 
+inf. pron.: 
+            ro-t-millis tú fén ┐ ro-t-millis sin-ne uli, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+3930
+            
+          . 
+            ni hed no-bar-furgfe sib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2091
+            
+           (<span class="lbl">leg.</span> -si ?).</p>
+      
+     
+      
+        <p class="result"> 
+<span class="edilb">4</span> In Mid. and Mod. Ir. replacing O.Ir. inf. pron. with 
+passive (impersonal) verbs: 
+            ni herfaider ... sibsi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1571
+            
+          . 
+
+            piannfaither thú, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 296
+            
+          . 
+            do-rigned tu-sa, 
+              2659
+            
+          . 
+            leigfigther tú fein as mar tai, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4028
+            
+          . 
+            do fag[bhadh ?] ... 
+tú, 
+              <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 2433.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+<span class="edilb">5</span> With verbal noun: 
+            togu damsa anísin túsu ind sainriud 
+dia nertad sech cách, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PCr." title="eDIL Bibliography">PCr.</strong></span> 2a2
+            
+          . 
+            in fīr ... tusso do rainn 
+na-mmuicce ?, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 15
+            
+          . 
+            ní co ndeine tú fén do ícc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3337
+            
+          . 
+
+            is lor lindi ... thussu d' [fh]ortacht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1771
+            
+          . 
+            is docuir 
+lium sib fein do leigin as, 
+              <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1421
+            
+          . 
+            is edh is ail lium 
+tusa ... do thabhairt, 
+              1920
+            
+          . 
+            ní fiú mise, thusa ... do theacht 
+chugam, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 256.19
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+<span class="edilb">6</span> <span class="case gen.">gen.</span> <span class="number s.">s.</span>: nī nad bī tái
+           (<span class="lbl">sic leg.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 532
+          . 
+            is and 
+nad bí muí na taí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10848
+            
+           = tui `<span class="quote">there, is neither mine 
+nor thine</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 180.15
+          . <span class="number pl.">pl.</span> sethar[si] gl. uestram, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+1b2
+          . hi cill indala sar (prob. <span class="lbl">leg.</span> 
+            sár, 
+              <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> p. 
+279
+            
+          ) `<span class="quote">in the church of one of the twain of you</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 158.8
+          . 
+
+            ra nechtar fathar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 336.13
+            
+           (Eg.) =
+            nechtar dé, 
+              292.4
+            
+          . 
+bid liath cechtar fathar do inchinn a cheile uaibh <span class="ediltr">each of 
+you</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 303.16
+          . For unaccented forms used as poss. 
+adj. see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 do">2 do</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 t">1 t</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 t">2 t</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 for">1 for</a></span>.</p>
+      
+     
+      <p class="result"> 
+Of the second person singular of verbs: 
+          ó indscni thú, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs § 1.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> Infixed forms. In O. Ir. and early Mid. Ir. used to 
+express the acc. (also occas. dat.) with active, and 
+(also occas. dat.), with passive verbs, see 
+          <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 
+§ 409
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/KZ" title="eDIL Bibliography">KZ</strong></span> xlviii 48.50
+        . In later Mid. Ir. the infixed form 
+gradually falls into disuse, giving way to the independent. 
+See Ó Catháin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xix 1 ff.
+        , Strachan, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 153 ff.
+        
+      </p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) O. Ir. forms.</p>
+       
+        
+          <p class="result">(<span class="edilb">i</span>) After ro, no, do, di, fo, ar, im(m), 
+ní: <span class="number s.">s.</span> -t- (leniting). <span class="number pl.">pl.</span> -b- (occas. -f- before vowels).</p>
+          
+        
+          <p class="result">(<span class="edilb">ii</span>) 
+After etar, for, frith, con: <span class="number s.">s.</span> tot, tat, t (leniting). <span class="number pl.">pl.</span> dob, 
+dub, tob (tof), tab. In this case the finals of frith and con are assimilated to the inf. pron. giving frit-, cot-; the preverbs ad-, aith-, ess-, in-, oss- here fall together as at- (ad-, 
+add-, atd-, att-).</p>
+          
+        
+          <p class="result">(<span class="edilb">iii</span>) In <span style="color: #ff8000">rel.</span> clauses and after dia n- `<span class="trans">
+              <i>if</i>
+            </span>,' 
+ara `<span class="quote">that</span>,' co n- `<span class="quote">so that</span>,' and the interrogative in: <span class="number s.">s.</span> dat, 
+dit (leniting). <span class="number pl.">pl.</span> dob, dub (dib), dab.</p>
+         
+          <p class="result">After nach, nách 
+(from na, ná, nád) the forms are the same as in (iii) without 
+the preceding dental. For full collections of inf. pron. in 
+O.Ir. Glosses see Sommer, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> i 177 ff.
+            
+          </p>
+        
+      
+     
+      <p class="result"> 
+(<span class="edilb">b</span>) Exx. of inf. pron. in <span class="case dat.">dat.</span> sense: nítta ní indit móide 
+`<span class="quote">thou hast nothing for thee to boast in</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 2b12
+        . 
+          rotbia 
+less lóg do daggníma, 
+            6a11
+          
+        . 
+          robbia indocbál, 
+            13d32
+          
+        . ind 
+indocbál nobtá <span class="frn ">in futuro</span>, 
+          14c16
+        . 
+          tresindippiat fochricci, 
+
+            25d8
+          
+        . 
+          rot-bia són, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 12
+          
+        . 
+          rot bía-su aní sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 120.30
+          
+        . 
+
+          níp-thá cumac dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 948
+          
+        . 
+          níbat écen, 
+            1037
+          
+        . 
+          bethib 
+sūirsi lim-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 316.5
+          
+        . <span class="lbl">Cf.</span> dot-luid `<span class="quote">thou camest</span>,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 13
+         (Thurn. compares 
+          co ṅdechaid a altaib dō, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 
+2995
+          
+        ). But with fil the pron. is acc.: nachibfel `<span class="trans">
+          <span class="def">ye are 
+not</span>
+        </span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3b19
+        . condibfeil i corp crist `<span class="quote">so that ye are</span>,' 
+          24c4
+        . 
+ma nudubfeil `<span class="quote">if ye are</span>,' 
+          19c20
+        . uair nachat filsiu <span class="ediltr">since 
+thou art not</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8823.
+        
+      </p>
+     
+      <p class="result"> 
+(<span class="edilb">c</span>) Later treatment of inf. pron.: on ló rodattuistigad 
+<span class="ediltr">since the day thou wert created</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1780
+        . 
+          tria báes nach 
+dotromarbus, 
+            1908
+          
+        . 
+          inab-testa-si tesbuid a hEmuin ?, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> 
+i 144.19
+          
+        . The usual form of the <span class="number sing.">sing.</span> in Mid. Ir. is -t-. 
+In <span class="number pl.">pl.</span> the form bar of the poss. adj. commonly replaces the 
+O. Ir. form: 
+          forbia log far n-imarbos, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1448
+          
+        . 
+          no-bormairfither, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 75.3
+          
+        . 
+          iss me ro-bur-fucc, 
+            139.21
+          
+        . 
+          ni hed 
+no-bar-furgfe-sib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2090
+          
+        . 
+          ro-bar-saebad-si, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 984
+          
+        . 
+
+          ro-farcruthaigfe, 
+            6617
+          
+        . 
+          robarbia fálti, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 333a33
+          
+        . See also 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;igse" title="eDIL Bibliography">Éigse</strong></span> ii 117 ff.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">III</span> Suffixed forms with vb.: <span class="number s.">s.</span> -at, -ut, <span class="number pl.">pl.</span> -b. With cop. 
+in <span class="case dat.">dat.</span> sense (treated as infixed forms by 
+          <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 
+§ 427
+        ): 
+          isat dílmainsiu `<span class="quote">it is free to Thee</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 55d21
+        . 
+          níb écen 
+lóg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 16e17
+          
+        . 
+          uair atabair ecen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8097
+          
+         (see 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 160
+        ). 
+Hence the later second pers. forms of copula isat, atabar, 
+see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 is">1 is</a></span>.</p>
+     
+      <p class="result"> 
+With subst. vb. 
+          tathut cenn céit míle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> July 24
+          
+        . 
+
+          tāthut airle lim-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 3 (4.11)
+          
+        . tathut fáelte `<span class="quote">thou art 
+welcome</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 10
+        . With other vbs. in <span class="case acc.">acc.</span> sense: nóithut búaid 
+ngoire `<span class="quote">verherrlicht dich</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 80.11
+        . feartot <span class="ediltr">it serves thee</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1619
+         (<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xvii 293
+        ). 
+          sóerfudut, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6322.
+          
+        
+      </p>
+    
+   
+    
+      <p class="result"> 
+<span class="edilb">IV</span> Suffixed forms with prepp.: <span class="number s.">s.</span> -t, <span class="number pl.">pl.</span> -ib; see under 
+the several prepositions.</p>
+     
+  
+    
+      <p class="result"> 
+<span class="edilb">V</span> As emphasising <span class="pos pron." style="color: #ff8000">pron.</span>, <span class="number s.">s.</span> -su (leniting, 
+          <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 
+p. 146
+        . See 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> i 91 n. g
+        ), after palatals -siu (<span class="lbl">cf.</span> also 
+
+          indiutsiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 107a15
+          
+        . 
+          deit su
+          , 
+            129d22
+          
+        . 
+          daitso, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10785
+          
+        ). 
+Also -so, -seo (occas. in Glosses, more frequ. in Mid. Ir.): 
+
+          détso, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6c7
+          
+        . 
+          latso, 
+            12d20
+          
+        , 
+          16b11
+        . 
+          asṁbir so ... ní sluindi so 
+... duit so, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 208b5
+          
+        . 
+          bia-so, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 81.19
+          
+        . 
+          do menma-so, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 3
+          
+        . 
+          -seo, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8776
+          
+        , 
+          10745
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1563
+        . In Mid. and 
+Mod. Ir. -sa, -si (-se): 
+          -sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2231
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 497
+        . 
+          -si, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 
+139.23
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 693
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 681
+        . 
+          -se, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6564
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 284
+        . 
+Note also 
+          let-sae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 122.13
+          
+        . 
+          i t-agaidsea, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8194
+          
+        . <span class="number pl.">pl.</span> 
+-si. Later also 
+          -se, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9205
+          
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 595
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 292
+        . In PH 
+somet. -siu, 
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 624
+        , 
+          2537
+        . ? 
+          -sib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2091
+          
+         (indep. form ? 
+Or <span class="lbl">leg.</span> -si ?).</p>
+     
+      <p class="result"> 
+(<span class="edilb">a</span>) Added to independent form of pron., see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=I">I</a></span> above.</p>
+     
+      <p class="result"> 
+(<span class="edilb">b</span>) To subst. prec. by poss. adj.: 
+          do degnimu su, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+43b15
+          
+        . 
+          do thimnae siu, 
+            46c4
+          
+        . 
+          frit adrad su, 
+            136c11
+          
+        . 
+          fort 
+láimsiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 273
+          
+        . 
+          dot acallaimsiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3339
+          
+        . 
+          d'fhearg-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 256.22
+          
+        . 
+          for nindassi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 7d17
+          
+        . 
+          dar far cennsi, 
+
+            16d8
+          
+        . 
+          for nancridesi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 115b13
+          
+        . 
+          da bar n-athair-si, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+2259
+          
+        . 
+          da bar maithib-si, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1105.
+          
+        
+      </p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) To pred. of cop. in 2 pers.: 
+            air it firiansu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 55d11
+            
+          . 
+
+            isat dílmainsiu, 
+              55d21
+            
+          . isatt ailsiu damsa <span class="ediltr">I desire thee</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3919
+          . 
+            at mallachda-su, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2328
+            
+          . 
+            nídad ferrsi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+8c7
+            
+          . 
+            adib cretmigsi, 
+              15a8
+            
+          . 
+            hore adib foirbthisi, 
+              16a28
+            
+          . 
+
+            adib dessimrecht si, 
+              25d8
+            
+          . With omission of cop.: fáiltisi 
+`<span class="quote">ye are joyous</span>,' 
+            24c13
+          .</p>
+      
+     
+      <p class="result"> 
+(<span class="edilb">d</span>) Emphasising subj. of vb. used in 2 pers.: 
+          dunecomnachtsu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 56a18
+          
+        . 
+          asṁbir siu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 208b5
+          
+        . 
+          i ṁbísiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 
+Prol. 274
+          
+        . 
+          fégsu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3885
+          
+        . 
+          benfa-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 511
+          
+        . 
+          do-rigni[s]-si, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2708
+          
+        . 
+          do-gebhair-si, 
+            <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 681
+          
+        . 
+          atasamlibid si, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5a13
+          
+        . 
+          ní biedsi, 
+            9b17
+          
+        . 
+          décid-si, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 946
+          
+        . anda thaisi 
+(=in-dáthe-si), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 345.5
+        . 
+          cia r-élnebair-si, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4530
+          
+        . 
+
+          gabhaidh-si, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> xiii 19.
+          
+        
+      </p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) Added to verbal forms containing inf. pron. of 2 
+pers.: 
+            nutsoesiu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 112b6
+            
+          . dundatresiu `<span class="quote">to strip thee</span>,' 
+
+            133a14
+          . 
+            nachat filsiu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8823
+            
+          . 
+            ro-t-gaired-su, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1791
+            
+          . 
+
+            is-at gliccu-sa, 
+              4135
+            
+          . 
+            nobsóirfasi dia, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 11b4
+            
+          . 
+            nachiberpidsi, 
+              22d6
+            
+          . 
+            robcarsi tiamthe, 
+              23d4
+            
+          . 
+            codobemthar si, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 53b15
+            
+          . 
+            ro-bar-saebad-si, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 985.
+            
+          
+        </p>
+      
+     
+      <p class="result"> 
+(<span class="edilb">f</span>) To prepp. with suff. <span class="pos pron." style="color: #ff8000">pron.</span> of 2 pers., see the several 
+prepp.</p>
+     
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

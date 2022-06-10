@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="39945">tall, thall</h3><span class="citation">Cite this: eDIL s.v. tall, thall or <a class="reference" href="39945">dil.ie/39945</a></span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adv." style="color: #ff8000">adv.</span> of place and time. Frequently also as 
+<span class="pos demonstr." style="color: #ff8000">demonstr.</span> with nouns, though never enclitic in verse.</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> Of place.</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">yonder</span>, <span class="def">there</span>, <span class="def">yon</span>, <span class="def">that</span>:</span> 
+            a <span class="frn ">salutes</span> fil t.<span class="oRef">¤</span>
+            , 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 42b4
+            
+          . 
+            siu ┐ t.<span class="oRef">¤</span>
+            , 
+              72c9
+            
+          . 
+            a tadall t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlvii 304.4
+            
+          . adeir 
+th.<span class="oRef">¤</span>
+           `<span class="quote">is said in another text</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 342.9 Comm.
+           
+            ar Thoraigh 
+th.<span class="oRef">¤</span> san tuaisgeart, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 26.45
+            
+          . in teintide t.<span class="oRef">¤</span>
+           (the star of 
+Bethlehem), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 25 § 7
+          . As demonstr.: nín chruth hí 
+th.<span class="oRef">¤</span>
+           `<span class="quote">not in that manner</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 26b13
+          . 
+            isin tsalm t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 58a11
+            
+          . 
+intí th.<span class="oRef">¤</span>
+           gl. ille, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 197a9
+          . 
+            ind nathir humaithe thal, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Tur." title="eDIL Bibliography">Tur.</strong></span> 
+129
+            
+          . 
+            in taisceltai t.<span class="oRef">¤</span>
+            , 
+              130
+            
+          . 
+            dond leith t.<span class="oRef">¤</span> don talmain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+7908
+            
+          . 
+            is tu-sa in t-Ísu t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3921
+            
+          . 
+            in treide t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 
+223.21
+            
+          . 
+            ó thá sean Torach taobh th.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 17.14
+            
+          . 
+            thart 
+th.<span class="oRef">¤</span>
+            , 
+              3.2
+            
+          .</p>
+      
+     
+      
+        <p class="result">(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">inside</span>, as opposed to <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 immaig">1 immaig</a></span> <i>outside:</i>
+          </span> mo 
+chorc-sa th.<span class="oRef">¤</span> .i. mo craidesi astigh (B. na f.), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 487 § 2
+          . 
+rogart as dorus immaig | ... | `in fail t.<span class="oRef">¤</span> mac n-Iessé?,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5984
+          . 
+            co rrabi th.<span class="oRef">¤</span> i mmedón na cathrach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9145
+            
+           
+(FB). 
+            amuig ┐ t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 1997
+            
+          . is cetrúimhe cota cach fir t.<span class="oRef">¤</span> 
+do cach fir amuigh <span class="ediltr">within (the `<span class="frn ">fine</span>') ... outside</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 
+294.15 Comm.
+           
+            madh glan an corp don taoibh th.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> 
+xxvii 31.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result">(<span class="edilb">c</span>) Hence in Laws in fer th.<span class="oRef">¤</span>
+           <span class="trans">
+            <span class="def">defendant</span>:</span> mad sed 
+a deir an fer amuigh ... ┐ isedh a deir an fer t.<span class="oRef">¤</span> ... <span class="ediltr">the plaintiff 
+... the defendant</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 72.z Comm.
+           
+            i laim cintaig th.<span class="oRef">¤</span>
+            , 
+              i 
+84.15 Comm.
+            
+           <span class="lbl">Cf.</span> cin dethbhirus amuigh no th.<span class="oRef">¤</span> innso `<span class="quote">no 
+necessity exists on the plaintiff or the defendant</span>,' 
+            ii 60.12 
+Comm.
+          
+        </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> Of time.</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">long ago</span>, <span class="def">of yore</span>, <span class="def">then</span>:</span> hi th.<span class="oRef">¤</span> .i. isind 
+aimsir sin gl. id temporis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 30b17
+          . 
+            18c13
+          . 
+            78d4
+          . amal 
+duratsat sacaird t.<span class="oRef">¤</span>
+           `<span class="quote">at that time</span>,' 
+            82c8
+          . 
+            o chein thall, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+148
+            
+          . 
+            amal rothuitset th.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4035
+            
+          . 
+            ag Athairne th.<span class="oRef">¤</span> 
+na theach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxviii 12
+            
+          . 
+            san aimsir th.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 6.34
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">hereafter</span>, <span class="def">in the next world</span>:</span> 
+            siu ná t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3d17
+            
+          . is maith 
+siu <span class="frn ">et</span> t.<span class="oRef">¤</span>
+           gl. uitae, quae nunc est, et futurae, 
+            28d1
+          . 
+            is aire as 
+b(eo) a ainm i fos ┐ a anim th.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lib.Hymn." title="eDIL Bibliography">Lib. Hymn.</strong></span> 178.9
+            
+           (ACC). 
+
+            maith in chentair siu ┐ flaith ind alltair ... t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 202 § 19
+            
+          . 
+
+            gan molbhtha t.<span class="oRef">¤</span> na sonn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 164.4
+            
+          . an teach thall <span class="trans">
+            <span class="def">heaven</span>
+          </span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 6.17
+          .</p>
+       
+        <p class="result"> 
+? To this: 
+            dall .i. t.<span class="oRef">¤</span> <span class="frn ">a talpa</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 343
+            
+          . 
+            min na dentar 
+icuib cuilbir nobind siu na th.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 102.x
+            
+          . indiu is do cendaib colla t.<span class="oRef">¤</span>
+           `<span class="quote">at this day it is by the ends of his bones</span> (<span class="ediltr">he 
+effects it</span>)' (of imbas forosnai), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 44.1 Comm.
+          
+        </p>
+       
+        <p class="result"> 
+See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tallain">tallain</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tallamuin">tallamuin</a></span>.</p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

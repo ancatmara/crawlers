@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="22070">fili</h3><span class="citation">Cite this: eDIL s.v. fili or <a class="reference" href="22070">dil.ie/22070</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                fili, filid, filid, filed, filid, ḟilid, fileda, filed, file, fileadha, filidh, filed, fili, fili</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span>  <span class="itype t">t</span>, <span class="gen m.">m.</span> <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        fili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 31b19
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 29a3
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10942
+      , <span class="lbl">etc.</span> <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+
+        filid, 
+          10944
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        filid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 140a1
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        filed, 
+          71b16
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> filid 
+
+        63a14
+      . 
+        ind ḟilid
+        , 
+          162a3
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 26b10
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        fileda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 63b4
+        
+      . 
+
+        212a11
+      . <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        filed, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 124a46
+        
+      . <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        file, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10941
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 
+156b5
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. § 21
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> fileadha (
+        <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 1239
+      , <span class="lbl">etc.</span>) 
+is proscribed as incorrect, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>
+         Decl. § 21. ex. 784
+      .</p>
+   
+    <p class="result"> 
+<span class="trans">Orig. <span class="def">seer</span>, <span class="def">diviner</span>
+      </span> (cognate with Welsh <span class="frn ">gwelet</span>, see Thurn. 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Heldensage" title="eDIL Bibliography">Heldensage</strong></span>, 66
+      ), and in earlier documents generally implies 
+occult powers or knowledge : 
+        fili gl. <span class="frn ">propheta</span>, , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 31 b 19
+        
+      . 
+        imbass forosnae .i. dofuarascaib sechip ret bas maith lasin filid ┐ bes adlaic dó d'foillsiugad, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 756
+        
+      . 
+        is a Senc[h]as Mar ro airled comdire 
+do rig ┐ epscop ┐ aige rechta litre ┐ sua[i]d filed for-can di 
+cendaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 40.16
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xvi 175
+      ), with gl. : 
+        .i. in sui 
+file[d] ... da faillsigend imad a sofesa ... co ndenand rand 
+can smuainedh .i. cen imradud, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>
+           i 42x Comm.
+        
+       firt filed (a 
+miracle wrought by a poet) 
+        <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 1024
+      . See also 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xix 
+163
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 96 § 155
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 46
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> <span class="lbl">s.v.</span> Mug eme
+      , 
+
+        Coire Brecain
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 8
+      . For `fili' and `drui' as interchangeable terms see Plummer 
+        <span><strong class="pop" style="color:blue" href="bibliography/V.SS.Hib." title="eDIL Bibliography">V. SS. Hib.</strong></span> i clxi
+      , 
+        clxii
+      . <span class="trans">
+        <span class="def">Poet</span> 
+(<span class="def">historian</span>, <span class="def">panegyrist</span>, <span class="def">satirist</span>), <i>man of learning</i>
+      </span> (the `fili' 
+in early times was not always sharply distinguished from 
+the `<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=breithem">breithem</a></span>' and `<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=senchaid">senchaid</a></span>,' and seems originally to 
+have united all three functions : 
+        ni dhligh cúairt no cennaighect | ar ni fili fíreólach | hi feidm eoluis ilcrothaigh | 
+manip co fēigh fessara | cīsa tenna is tuarustla | ... ; ni 
+dlig cuairt ... | file nach dron dechraighfes | sochur dochur 
+dílmaine | drēcht cech tīre thic, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 237 
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 236
+      . 
+        on 
+uair dona ronuc Aimirgin Glungel cetbreth i nEre robu 
+la filedhu a n-oenur breithemnus, cusin Imacallaim in da 
+Tuar i nEmain Mache .i. Ferceirtne file ┐ Nede mac Adna 
+... Ba dorcha didiu in labrad ro labairset na filid [<span class="lbl">sic leg.</span>] 
+isin fuigell sin ┐ nirbu reill donaib flaithib in brethemnus 
+ronucsat ... Do allad didiu brethemnus [<span class="lbl">sic leg.</span>] ar filedhaib 
+iar sin, acht a nduthaigh de, ┐ ro gab cach d'feraib Eirenn 
+a drecht don breithemnus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 18 Comm.
+        
+       <span class="lbl">Cf.</span> dichetal 
+filed, one of the things by which law is preserved in tradition, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xvi 175
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 30
+      . 
+        canaid in breithem fassach 
+firaicnid ┐ roscadh filed, da cois ina brethe in sin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 
+1224
+        
+      . See also the tract on The Privileges ... of poets, 
+ed. E. J. Gwynn, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii p. 2 ff
+      .) : 
+        amal as ho molad ┐ 
+adamrugud in choimded intinscana in salm sa [isamlaid] 
+forcentar dano amal dundgniat ind filid linni cid in sin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+26b10
+        
+      . filidh (gl. poeta), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 1
+      . Of Latin poets 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 63a14
+      . 
+
+        fili .i. fī a n-aoras ┐ lī a mmolas ┐ brecht a fuacras in file, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 600
+        
+      . 
+        f.<span class="oRef">¤</span> ... .i. seircid foglamo. nó ... fī fora aeir 
+┐ lī fora molad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 537
+        
+      . 
+        duarfine ... ainm d'filethaib 
+.i. fine duar .i. fine foccul, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 445
+        
+      . 
+        rosiachtus glún 
+Amargin filed coro molaim ríg as cach feib i mbi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10298
+        
+      . 
+rātha eturru secht ṅdruid, secht filid, secht n-ócthigirn. 
+na secht ṅdruid dia rímsad tría brichtu, na secht filid dia 
+ṅglámad ┐ dia n-erḟuacra (`<span class="quote">the seven druids to bewitch (?) 
+ them by means of spells; the seven poets to satirise them and 
+denounce them</span>') 
+        <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 161
+      . 
+        nemed .i. fili ... ar is a fidnemedaib fognitis filid a ngressa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 830
+        
+      . 
+        nem-uath 
+fri filedaib iarsinni aerait nech co n-epil de, 
+          830 f
+        
+      . 
+        asbert 
+in fili nodnaírfed ... ┐ no áerfad a athair ┐ a máthair ┐ a 
+senathair ┐ docechnad fora n-usciu conná gébtha iasc ina 
+inberaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10946
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 46
+      ). <span class="trans">Applied to <span class="def">Virgil</span>
+      </span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 29a3
+      ; <span class="trans">
+        <span class="def">Epimenides</span>
+      </span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 31b19
+      . ar ba faith, ar ba file 
+(of David), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 5. 157
+      . 
+        ro can in filid ┐ in faith .i. 
+Bec mac Dé, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 10.22
+        
+      . 
+        Find fili, mac Rosa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 311b53
+        
+      . 
+ 
+        
+          c56
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 118b30
+      . <span class="case gen.">gen.</span> 
+        Find filed m. Rossa, 
+          117e28
+        
+      . 
+
+        Faifne file, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 160b11
+        
+      . 
+        Ferchertne file, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 156b4
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 326.1
+      . The `filid' was commonly attached to the house-hold of a chief. The calling was hereditary and the office 
+of `fili' to the head of the clan was, in later times at any 
+rate, often the prerogative of a particular family : 
+        fili 
+Conchobair in tAed, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Death-talesoftheUlsterheroes" title="eDIL Bibliography">Death-tales of the Ulster heroes</strong></span> 22
+        
+      . 
+        Fergus Fínbel, file 
+Find, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 52
+        
+      . 
+        Fergus Fínbél, fili na Féinde, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 3017
+        
+      . 
+
+        file Chon Raoi, Feircheirtne a ainm, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 3524
+        
+      . 
+        clann 
+Fhir bhisigh .i. fileadha Ua nAmhalghaidh ┐ Cloinne Fiachrach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 10
+        
+      . 
+        adubhairt ris file do bheith 'na ardollamh aige féin ar aithris na ríogh roimhe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 1465
+        
+      . </p>
+  
+  
+    <p class="result"> 
+duais ḟiled is ruidles .i. a ndoberr [<span class="lbl">sic leg.</span>] i logh natha 
+acht rop iar firinde ┐ choir mbeith in nath <span class="ediltr">the poet's fee is 
+absolutely conveyed, that is, what is paid for a poem, provided 
+the poem be truthful and correct</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 20.19
+       ( 
+        <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 7
+      ). 
+
+        coic gne in berla tobaidi .i. berla fene ┐ fasaige na filed ┐ 
+berla etarsgarta ┐ berla forttide [fortcide <span class="lbl">v.l.</span>] na filed triasa 
+n-agaillit cach dib a chele, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1303
+        
+      . berla na filed, 
+<span class="trans">part of the sixth year's <span class="def">course</span> of the <span class="def">student</span>-`fili'</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 
+38
+      .</p>
+  
+  
+    <p class="result"> 
+From early times the `filid' formed an important and 
+highly organized corporation classed among the `saer-nemed' (privileged classes) : 
+        tri nemid uaisli ... .i. espoc 
+┐ flaith ┐ file, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1631
+        
+       (&lt; 
+        <span><strong class="pop" style="color:blue" href="bibliography/H5.15" title="eDIL Bibliography">H 5.15</strong></span>, 16b
+        
+      ). it e saernemead 
+filead and .i. ecalsi, flatha, filidh (.i. graid filedh), feine, 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 14.10
+      . There were seven grades of fili, of which the 
+highest was the ollam filed : in t-ollam filedh iarna uirdned 
+ag rig tuath <span class="ediltr">the fully qualified poet when appointed by the 
+king of territories</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 42z Comm.
+       ollamh fileadh `<span class="trans">
+        <span class="def">master</span> 
+<span class="def">poet</span>
+      </span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1919, 74
+      . <span class="lbl">Cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1214 ff  (
+        <span><strong class="pop" style="color:blue" href="bibliography/H2.15A" title="eDIL Bibliography">H 2.15A</strong></span>, p. 84
+      ). 
+
+        in t-ollam sair ... adeitig lasin ugdar ni bud mo do na 
+cutruma risin ollamain filed, no risin ollamain mberla no 
+risin fear legind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 92x Comm.
+        
+       
+        secht ngrad filed : 
+ollam, ansrut[h], cli, canae, dos, mac fuirmid, focluc, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 537
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 96 § 155
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 119
+      . See also 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iv 358
+      -
+        60
+      . 
+        v 26
+      ; 
+        56 ff
+      . is a ndanaibh defrighet ┐ dearscaighit gach grad filedh o raile i sos ┐ i segda ┐ i n-aircedal 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 296b29
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 6 n
+      .). 
+        sé dá rádh go riacht tusa | ... 
+seacht ngradh na bfilidh ar fad ..., Gofraidh Mac an Bhaird, 
+
+           
+       
+        <span><strong class="pop" style="color:blue" href="bibliography/23L17" title="eDIL Bibliography">23 L 17</strong></span>, 148b
+        
+      . The fili was at all periods distinguished from 
+the <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=bard">bard</a></span> (<span class="lbl">q.v.</span>), whose qualifications and status were inferior (in: 
+        a bhfilidh, dá ngairid báird, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 70
+        
+      , he is rendering Camden : <span class="frn ">poetas, quos bardos vocant</span>) : 
+        cescc cidh dlighedh 
+i ffil an bhairdne lasna filedhoibh ... ? amhail roghabh 
+rithim arradh Mettuir, as amhlaidh ataid na báird cona 
+mbairdne arradh na ffiledh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 42.4
+        
+      . 
+        dichlannaigfiter 
+filid cona biat filid etir acht baird <span class="frn ">tantum</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 111b14
+        
+      
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 44
+      -
+        5
+      ). is aire tra na dlegait baird acht letheneclann na filedh uair na frithgh[n]at, uair ni [di]reanar a 
+ngradhaibh filedh neach na frit[h]gnat no o nach frit[h]ghainter <span class="ediltr">the reason bards are entitled to only half the honor-price of poets is that they do not serve</span> [ = practise their art], 
+ <span class="ediltr">for </span>`dire
+      <span class="ediltr">'-fine is not paid for any in the grades of a poet who 
+do not serve or are not served</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 296b33
+      . Amal forber cach 
+gradh filed seach araile im mod soís in oircidail toimside, 
+forber ... cach gradh dibsom [<span class="lbl">viz.</span> the bards] seach aroile 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 24
+      . 
+        fogluim na .uii. mad bliadna .i. brosnacha suad 
+.i. bairdne na mbard ┐ dlegair dond ḟilid a ḟis, ar is he accept 
+na sechtmad bliadna don ḟilid, 
+          39
+        
+      . 
+        ni dír báird acht dír 
+fileadh | fis cach righ is a dhlighedh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 182
+        
+      . The fili in 
+his twelve-year course of study (
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 31 ff
+      .) had to master 
+the various metrical tracts and oghams, memorize a mass 
+of verse and prose tales, and learn certain methods of 
+incantation : is hi ... foglaim na hochtmaide bliadna .i. 
+fiscomarca filed .i. duili berla ┐ clethchor choem ┐ reicne 
+roscadach ┐ laíde .i. tenm laída ┐ immas forosnai (
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xix 
+163
+      ) 
+        ┐ dichetal do chennaib na tuaithe ┐ dín[n]ṡenchus ┐ 
+primscéla Hérend olchena fria n-aisneis do ríghaib ┐ flaithib 
+┐ dagdhoínib. Ar ni comlán in fili chena, <span class="frn ">sicut dixit poeta</span> : 
+ni ba dúnad cen rígu. niba fili cen scéla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 49
+        
+      -
+        50
+      . 
+        in-feded in fili scél cacha aidche do Mongán, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10942
+        
+      . </p>
+  
+  
+    <p class="result"> 
+Sometimes in sense <span class="trans">a <span class="def">learned</span> <span class="def">man</span>, one <span class="def">skilled</span> in <span class="def">literary</span> 
+<span class="def">composition</span> in Irish</span>, dist. from the Latin author on one hand 
+and the unlearned Irishman on the other : a ngrad con-deilg lasin Laitneoir is eatargoiri a n-ainm lasin filid `<span class="quote">the 
+comparative degree of the Latinist</span> (writer of Latin) <span class="ediltr">is named 
+inflection by the [Irish] poet</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 640
+      . 
+        possit ┐ comparait 
+┐ superlait lasin Laitneoir .i. fothugudh ┐ forran ┐ formoladh 
+lasin filid : maith ┐ fearr ┐ fearrson lasin nGaedeal, 
+          645
+        
+      . 
+maith, <span class="lbl">etc.</span> (.i. lasin nGaedel coitchend a n-ecmais in filed, 
+fothugad immorro lasidhe) 
+        657
+      . ocht ndeich tra atrimet 
+filidh na Goídilce <span class="ediltr">the Gaelic poets reckon eight (metrical</span>) 
+ <span class="ediltr">feet</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 447
+      . </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

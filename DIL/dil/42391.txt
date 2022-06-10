@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="42391">tuirigin</h3><span class="citation">Cite this: eDIL s.v. tuirigin or <a class="reference" href="42391">dil.ie/42391</a></span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> A word occurring chiefly in glossaries, and found 
+only rarely in literary texts, where its use seems in most 
+cases artificial. The meanings assigned by glossators are 
+as follows.</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">king</span>:</span> 
+          t.<span class="oRef">¤</span> .i. rī, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1223
+          
+         =
+          taurgein, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> 42
+          
+        . 
+
+          t.<span class="oRef">¤</span> (.i. rī) amail asberar ... nī tulach fri t.<span class="oRef">¤</span> tuigethar tuile 
+mār muirne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1224
+          
+         = tuirgin ... 
+          turigen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> 42
+          
+        . 
+
+          `tuirighin' rí ruamna gal, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Gl." title="eDIL Bibliography">Metr. Gl.</strong></span> 9 § 3
+          
+        . tuirighin .i. rí, 
+O'Cl. In B. na f.: caoga fó do tuiri[d]nibh (<span class="lbl">sic leg.</span>, Meyer 
+p. 537 n. 2
+        ) 
+          fuada maille fri himper an anma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 102.6
+          
+         
+= 
+          coeca righ do riguibh Eirenn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 186.5
+          
+        . 
+          do thuridin 
+Chorca[r]tri, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 103.7
+          
+        . = 
+          do righ Corca Tri, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 
+186.x
+          
+        . <span class="lbl">Cf.</span> 
+          ic Ros na Turigin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 221.8
+          
+         = 
+          ag Ros na 
+Righ, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 472.y
+          
+        . do ghrásaibh foirfe an toirghin trócairigh (of God), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> i 180.24
+        . 
+          ón dtuirigean dtreabhair, 
+
+            iii 176.7
+          
+        . i ndóid an tuirigin treoraighsi (James II), 
+          86.12
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">judge</span>, <span class="def">brehon</span>:</span> 
+          `tuirighin' bretheamh bláthmar, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Gl." title="eDIL Bibliography">Metr. Gl.</strong></span> 9 § 3
+          
+        . tuirighin .i. breitheamh, O'Cl. Perh. based 
+on: 
+          t.<span class="oRef">¤</span> <span class="frn ">quasi</span> gein a tuir .i. amail bīs tuir már oc fulang tige 
+┐ illāma esti, <span class="lbl">sic</span> is ed in teg in domun centurach, isī immorro 
+in tuir fīrinde rechta aicnid. It ē na illāma asin tuirid .i. 
+ilchīallae ┐ ilchonaire in brethemnuis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1224
+          
+         = 
+
+          tur[gein], 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> 42
+          
+        . Note also 
+          t.<span class="oRef">¤</span> .i. tuili-gen .i. gein tolin 
+.i. tolin a fīr asind aicniud co n-ōenaigedar fri fīr na screptra, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1224
+          
+         = 
+          tuilgein .i. tulighein .i. gein tolin. tolin 
+fhir <span class="frn ">quasi</span> aicned conaenaiger fri fír na screptra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> 42
+          
+        = 
+
+          tuirgin .i. tuile gin .i. gin do lin a fír as a naicne co naonaighter fri firinne na sgreptra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2276
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 20 (21)c
+          
+        ) = 
+sruithe fior fior naicned ni naill concerta tuirigin tuir .i 
+tuile gin <span class="lbl">etc.</span>, 
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1610
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/23Q6" title="eDIL Bibliography">23 Q 6</strong></span>, 5b
+          
+        ) = concerta tuiregin tuaithi 
+<span class="lbl">etc.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 537
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, col. 433
+        ). sruith fíor fiornaicned 
+ninaill concertad tuiridgein do berur do cosmailius emuin 
+breithe brigtar do bunadh beirtius treas teisdemuin, 
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2191
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/NeroA.vii" title="eDIL Bibliography">Nero A vii</strong></span> 133ab
+          
+        )</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">illegitimate</span> <span class="def">birth</span>; <span class="def">bastard</span> (?):</span> 
+          tuiridgein .i. gach 
+gein iaram berar naire .i. gein nare .i. re na geineamna, ┐ 
+ni coir tuiregein [do rád] re aite and .i. ní toirithin do ni 
+acht traethad do nit a geine, amail adubairt Mac Saman .i. 
+in brethem, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 216
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 112
+        ). 
+          in fer nach fes cland 
+ná cenél acht a bheith tuirigein cen athair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 255.2
+          
+        . ? <span class="lbl">Cf.</span> 
+
+          tuiregin .i. toaeraegein [.i. gein narae] .i. gein ngenethar ┐ 
+a dā chois riam a chend fadeōid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1224
+          
+         = 
+          turgen 
+.i. toaeraghen .i. gein [naera .i. gein] geiness ┐ a dí choiss 
+roime, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> 42
+          
+        . ? 
+          t.<span class="oRef">¤</span> .i. torracht-gein .i. gein torracht 
+torroich as gach aigniud i n-alaill .i. gein in fīraicnid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 
+1224
+          
+         = 
+          turagein .i. torachtghen .i. gein doracht .i. doraid 
+aiccned in araill .i. gein in fíraicned, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> 42.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">pillar</span>:</span> 
+          `tuirighin' tuir fhuilnges tech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Gl." title="eDIL Bibliography">Metr. Gl.</strong></span> 
+9 § 3
+          
+        . tuirighin .i. tuir, no gabhal cheangbhas teach, O'Cl. 
+
+          a druim frisin tuiridein, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4520
+          
+         =
+          tuirid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 122a2
+          
+        . 
+? adubhairt morGholl go mboirbe | do chur na tuirgne 
+(altered from tarigne) 
+          air creatha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/23I1" title="eDIL Bibliography">23 I 1</strong></span>, 40.2
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+          <span class="def">tongue</span>:</span> 
+          t.<span class="oRef">¤</span> .i. tuir in gena, is ē do t[h]enga, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 
+1224
+          
+         = 
+          tuirgin .i. tur gina .i. tenga, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> 42
+          
+        . 
+          `tuir[i]ghin' 
+teangadh tuirmeach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Gl." title="eDIL Bibliography">Metr. Gl.</strong></span> 9 § 3
+          
+        . tuirighin .i. teanga, 
+O'Cl. den-fuc for a tuiridin, confuair plais na trethno for 
+a ti `<span class="quote">put it on her tongue, and found the taste of salt on her 
+cloak</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 131.60
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

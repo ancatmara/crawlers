@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="23252">1 fonn</h3><span class="citation">Cite this: eDIL s.v. 1 fonn or <a class="reference" href="23252">dil.ie/23252</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                fond, fonna, fonnaib, fonn</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span>  <span class="itype o">o</span>, <span class="gen m.">m.</span> Treated as <span class="gen neut.">neut.</span>: 
+        ba fond n-orddnide, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+28b3
+        
+       (= 
+        dind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 28.13
+        
+      ). <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        fonna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 299a23
+        
+      , 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 83 § 27
+      . Acc. to Stokes, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> i 304
+      , a loan-word 
+&lt;Lat. <span class="frn ">fundus</span>; Pedersen, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Asp.iIrsk" title="eDIL Bibliography">Asp. i Irsk</strong></span>, p. 199
+      , takes fonnaib 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 78b9
+      as = bonnaib, and perhaps fonn is a later or variant 
+form of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 bonn">1 bonn</a></span>.</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">sole</span> (<i>of the foot</i>):</span> huam fonnaib (gl. plantis) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 78b9
+        . 
+(see <span class="lbl">supra</span>). ind lám ... ┐ in tṡliasait ... ro gabtha o chund 
+co fond <span class="ediltr">from end to end</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 120a23
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 177
+        ). 
+          óm ḟult 
+gom dá f.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 257
+          
+        . 
+          isi a teist isin ló, traig fri traig, 
+sal fri sal, f.<span class="oRef">¤</span> fri f.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2428
+          
+         (&lt; 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 33bb
+          
+        ). <span class="lbl">Cf.</span> 
+          [f]onn 
+.i. druim no bonn ... f.<span class="oRef">¤</span> fri f.<span class="oRef">¤</span> .i. do bonn i n-inadh buinn ind 
+fir it dhegaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 816
+          
+        . noclistis fuiri iarom, napdar 
+duba na glassa a fond `<span class="quote">soles</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 444
+        . for slig frisndringtíss, conclistíss for a rind, na ferad for a fonnib <span class="lbl">ib.</span> (Fig.) 
+
+          corpdire ball o ara co fond .i. ó urradh co murcurtha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+xviii 363 § 23
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iv 26.2
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">base</span>, <span class="def">bottom</span>, <span class="def">foundation</span>:</span> 
+          fond .i. <span class="frn ">a fundo</span> .i. o fudomain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 572
+          
+        . 
+          f.<span class="oRef">¤</span> .i. bunad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 541b
+            
+          
+        . 
+          co ngluaisfi 
+f.<span class="oRef">¤</span> fudomna | domuin dein, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8297
+          
+        , <span class="lbl">cf.</span> 
+          talam ... dian f.<span class="oRef">¤</span> 
+fothacht fotlethet, 
+            32
+          
+        . 
+          lebend ┐ fond iníchtarach na cathrach di glain gil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2038
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 11
+        ). 
+          rogab fond [ = fotha, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 79
+          
+        ] fo thalmain `<span class="quote">it found bottom</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+456
+        . tucus licc ... co failgib findruine f.<span class="oRef">¤</span>
+         `<span class="quote">the bottom set with 
+rings of pale metal</span>' 
+          124
+        . ó rogab f.<span class="oRef">¤</span> flatha fáe `<span class="quote">the kingly 
+seat</span>' 
+          210
+         (possibly in sense <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 fonn (c)">c</a></span>). claide fidbad co fonnaib 
+`<span class="quote">digging up of woods with their stumps</span>' 
+          332
+        . 
+          [in fót :] imsóadh a f.<span class="oRef">¤</span> ind arda ┐ a fēr fri grian, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 100
+          
+         (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 404a38
+        . 
+The corresp. text 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 166
+         has foescal, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 f&#xE1;escal">1 fáescal</a></span>. 
+(Fig.) f.<span class="oRef">¤</span> Senchusa Moir cetamus la Sen mac A., a imtormach 
+la F. ┐ D. <span class="ediltr">foundation</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 24.34
+        . seachnadh sé f.<span class="oRef">¤</span> na 
+coire `<span class="quote">let him avoid the depth of guilt</span>' (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 fonn">2 fonn</a></span> ?) 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+263.19
+        . Oengus oll | f.<span class="oRef">¤</span> fri nath <span class="ediltr">a theme</span> (lit. <span class="ediltr">basis) for song</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 37 § 22
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> i § 8
+        ); <span class="lbl">cf.</span> 
+          Aed ... f.<span class="oRef">¤</span> fri fuilted féle, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 295.2
+          
+        . co fo-llō fonna fod-longat <span class="ediltr">the foundations 
+which support him</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 83 § 27
+        . <span class="lbl">Cf.</span> 
+          fo ondaib .i. chisaib 
+ín charpaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1043
+          
+         (<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 470.2
+        and see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 fondad">1 fondad</a></span>, 
+and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 fonnad">1 fonnad</a></span>). <span class="trans">Often of a person, <span class="def">foundation</span>, <span class="def">prop</span>, <span class="def">support</span>:</span> 
+
+          a Flaind ... at fond flatha fine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 37b40
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 5173
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> i § 19
+        . fond na fagla (of Cairpre Ríata) 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 38b47
+        . 
+
+          Da thí ... in fond forais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 490
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 45b32
+        , where 
+facs. has fond foraid) = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 86a1
+         (fonn). 
+          uaithneadha 
+iorghaile ┐ fuinn díbhfeirge, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> iv 86.5
+          
+        . clann 
+Colla ... na cóic fonna féig <span class="ediltr">consider</span> (?) <span class="ediltr">the five chiefs</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 268.3
+        .</p>
+    
+  
+  
+     
+
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">soil</span>, <span class="def">ground</span>
+        </span> (= Germ. <span class="frn ">Boden</span>) and <span class="trans">by extension <span class="def">piece 
+of land</span>, <span class="def">territory</span>:</span> fond orbeman `<span class="quote">land of heirs</span>' (fig. expression for tares, gl. inervo, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Ecl.</strong></span> iii 100
+        ) Philarg. 109
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 48
+        ; <span class="lbl">cf.</span> 
+          363
+        ). ba fond n-orddnide n-imglicc (of 
+Temair) 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 28b3
+         (= 
+          dind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 28
+          
+        ) 
+          dar cach ferand, 
+dar cach fond, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3204
+          
+        . 
+          doratt fond ┐ grían doib hi toīb 
+Aurchuind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 308.29
+          
+        . 
+          nenaid ┐ tromm 'malle | conid 
+é f.<span class="oRef">¤</span> a dúine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 304 § 8
+          
+        . 
+          tir forlethan ... f.<span class="oRef">¤</span> cáin le gin 
+puinn toirthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 11
+          
+        . san bhfonn ndúthchasa (= <span class="frn ">natale 
+solum</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6020
+        . Dia do betha, a Brenainn ... buide 
+lemm t'iadhad 'mun ḟonn (= <span class="frn ">terra firma</span>, contrasted with 
+the ocean) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3812
+        . 
+          a choemu Cláir Cuind cóemfind | 
+fuind fer Fáil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 5b1
+          
+        . <span class="trans">Transf. of <span class="def">sea</span>:</span> fri fairge f.<span class="oRef">¤</span>
+         `<span class="trans">
+          <span class="def">expanse</span>
+        </span>' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 36.8
+        . <span class="trans">
+          <span class="def">Land</span>, <span class="def">territory</span>:</span> 
+          ca fuinn ḟérmura geltfuit 
+ar n-almha?, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 603
+          
+        . gér bhó fásach na fuinn sin 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1784
+        . 
+          Darcellus ba flaith na fond, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 131a8
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 
+534.1
+        . rí na naoi bhfonn (<span class="lbl">n.l.</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 104.1
+        . 
+          i bhfonn na 
+cille, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xlii 93
+          
+        . Often folld. by gen. of npr.: f.<span class="oRef">¤</span> Fáil 
+(<span class="ediltr">Ireland</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 22a23
+        . 
+          Ó rogabsat Túatha Dé | for fund 
+Fótla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 230
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 6.11
+        , 
+          re hollamhnaibh ḟuinn 
+Éibhir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 8.24
+          
+        . 
+          fonn Finn Féilim, 
+            i p. lviii
+          
+        . 
+          a fecht ┐ a 
+slōged la firu Hérenn, ar is [s]lōged la fonnaib dogrés; a 
+cáin ┐ a cobach la firu hAlban, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 132
+          
+         (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 376
+        ) 
+ <span class="ediltr">hosting belongs to territories,</span> <span class="lbl">cf.</span> 
+          sluaiged la fonduib ... 
+cablach ar muir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span>
+             xx p. 426
+          
+         (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 1286
+        ; 
+          la fondadh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 344
+          
+        , <span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 fonnad">1 fonnad</a></span>).</p>
+    
+  
+  
+    <p class="result"> 
+Freq. in compds, esp. in sense (c) above.</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) with adj.: du chirt Fotla fonnairddi <span class="ediltr">of the high-lands</span> (?) 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 149b47
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 173a
+          
+         (= 
+          Banba barrairdi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laud615" title="eDIL Bibliography">Laud 
+615</strong></span>, 16
+          
+        ). Cormac ... ba fotha fondbalc flatha <span class="ediltr">firmly founded</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 28b49
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 36
+        ). fer fond-balc `<span class="trans">
+          <span class="def">firm-set</span>
+        </span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 154
+        . fót fondbras <span class="trans">
+          <span class="def">broad-bottomed</span>
+        </span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8661
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 
+49
+        ). 
+          <span class="oRef">¤</span>chosach: a [eo]c[h]arimlib Sleibi Fuait -chosaigh 
+ <span class="trans">
+          <span class="def">broad-based</span> (?)</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7127
+        . 
+          <span class="oRef">¤</span>glan: ós chind .. na firthiprat 
+-glaini `<span class="trans">
+          <span class="def">clear-bottomed</span>
+        </span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 232.22
+        . rigi Fodla fond-gloine 
+<span class="ediltr">of pure soil</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 352
+        . 
+          <span class="oRef">¤</span>glas: fochon -ghlas <span class="trans">
+          <span class="def">green-bladed</span>
+        </span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 4583
+        . ic mallascnam in maigi -glais (<span class="lbl">i.e.</span> grassy), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4994
+        . 
+          <span class="oRef">¤</span>lúath: fiach -luath <span class="trans">
+          <span class="def">swift-footed</span> (?):</span> <span class="ediltr">swift 
+over lands</span> (?) 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2550
+        . nuíde: tre thalmhain bfonnaoidhe <span class="trans">
+          <span class="def">fresh-soiled</span>
+        </span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 384.15
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> p. 29
+        . 
+          <span class="oRef">¤</span>réid: 
+damha Fódla foinnréidhe <span class="trans">
+          <span class="def">smooth-soiled</span>
+        </span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 56
+        . 
+          <span class="oRef">¤</span>scothach: 
+
+          a himlibh sleibhe F. fondscothaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 8
+          
+        ; 
+          6592
+         (
+          <span class="oRef">¤</span>scathaig). 
+          <span class="oRef">¤</span>taitnemach: 
+          oilen fērglas -taitnemach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 
+136
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) seldom with nouns: 
+          <span class="oRef">¤</span>brat: tír ... na bhfonnbhrat 
+bhfionn `<span class="quote">vestures of soil</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 32.66
+        . 
+          <span class="oRef">¤</span>cheltar: 
+          <span class="oRef">¤</span>cheltra ... 
+in talman `<span class="trans">
+          <span class="def">carpets</span>
+        </span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 240.6
+        . 
+          <span class="oRef">¤</span>fer <span class="trans">
+          <span class="def">man</span> of the <span class="def">soil</span> (?):</span> 
+
+          inad sloig na foindḟear fras, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 424
+          
+        `<span class="quote">men of the 
+soil</span>, <span class="trans">
+          <span class="def">Territorials</span>
+        </span>' 
+          555z
+        ). 
+          <span class="oRef">¤</span>grian: 
+          dochuadar i fudhomain 
+┐ i -grian in talman, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 98 § 102
+          
+        . 
+          <span class="oRef">¤</span>mag: rí an ḟonnmhuighe Ultaigh <span class="ediltr">the Ultonian plain</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 2.2
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

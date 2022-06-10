@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="19717">éices</h3><span class="citation">Cite this: eDIL s.v. éices or <a class="reference" href="19717">dil.ie/19717</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                éces, éice, t-eigess, écis, éicis, ecis, eiciss, eceis, eceis, ecis, egsi, éigse, éicsiu, ecsiu, éicse, éicseo, éigse, heicsiu, hexe, hexi, heicsi, hécseo, éces, eges, éigeas, eicsi, écsib, eixibh, éigsibh</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen m.">m.</span> <span class="case n">n</span>
+      <span class="number s.">s.</span> éces, 
+        éice, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Bodl." title="eDIL Bibliography">Corm. Bodl.</strong></span> <span class="lbl">s.</span> lethech
+        
+      . 
+
+        in t-eigess
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> p. 90.25
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        ind écis
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+i 50.67
+        
+      . 
+        ind éicis
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Bodl." title="eDIL Bibliography">Corm. Bodl.</strong></span> <span class="lbl">s.</span> lethech
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        ind ecis
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span>, p. 91.7
+        
+      . 
+        ind eiciss
+        , 
+          p. ix 27
+        
+      . and 
+        eceis, 
+          p. x 22
+        
+      . 
+        an 
+eceis
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 64
+        
+       (<span class="lbl">v.l.</span> in ecis
+       BB. in egsi
+      , Lec.). éigse 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 8.16
+       (but this may be collect.; <span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=&#xE9;icse">éicse</a></span>). <span class="case v">v</span>
+      <span class="number p.">p.</span> 
+        a éicsiu 
+hÉrenn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 220.10
+        
+      . 
+        a ecsiu Fail, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 105 y
+        
+      . 
+
+        a éicse Banbha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 316.19
+        
+      . a éicseo (: so) 
+
+        316 z
+      . 
+        a éigse
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 1641
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        inna heicsiu
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 
+p. 93.2
+        
+       (= 
+        inna hexe
+        , 
+          p. x 14
+        
+      . 
+        na hexi
+        , 
+          p. xv 27
+        
+      , inna heicsi
+      , 
+Bodl.). 
+        lasna hécseo
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 146.12
+        
+      . <span class="case g">g</span>
+      <span class="number p.">p.</span> éces 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 128a1
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 166
+      . 
+        eges, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> p. 91.3
+        
+      
+(= 
+        écces, 
+          p. viii z
+        
+      ). 
+        éigeas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 3.10
+        
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        eicsi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 
+2120
+        
+      . 
+        écsib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 104.9
+        
+      . 
+        eixibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 
+109.23
+        
+      . 
+        éigsibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 11.15
+        
+      .</p>
+   
+    <p class="result"> 
+The word may be cognate with (do)-écci, and the original 
+meaning is probably <span class="ediltr">seer</span> (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=&#xE9;icse">éicse</a></span>), but though this would 
+suit the context in many exx. it is commonest in the general 
+sense of <span class="trans">
+        <span class="def">scholar</span>, <span class="def">learned</span> man, <span class="def">sage</span>, <span class="def">poet</span>
+      </span>; often used as an 
+<span class="trans">equivalent of fili
+      </span>, but the latter is (in Middle and later Irish, 
+at least) a more specialized term: 
+        eces .i. ecmacht-ces .i. 
+ecmacht a ches d[o] airiuc i cetheora rannaib fis filidechta, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 538
+        
+      . 
+        fofuair clocenn ind oirci ┐ dobert hi ceist 
+dond filid...tethnæ iarum in t-éces tre tenm laido conepert 
+cáin, <span class="lbl">etc.</span> cend moga heime inso, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Bodl." title="eDIL Bibliography">Corm. Bodl.</strong></span> <span class="lbl">s.</span> Mugeme
+        
+      .
+
+        eraicept na n-eiges (.i. na n-ai gan ches .i. na bfiled), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 2260
+        
+      -
+        3
+      . 
+        la heigius .i. filid, 
+          2794
+        
+      . 
+        drecht d'écsib... 
+cardáis tractad cech cetail, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 104.9
+        
+      . 
+        laidh... 
+is dir...d'éicsib ocus d'ḟileadaibh d'aisneis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 92.4
+        
+      . 
+
+        éices ocus filid in rig .i. Dub Diad Drai a ainmside, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 46.5
+        
+      . 
+écess óenmná `<span class="quote">a sibyl</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 100
+      . 
+        an t-eigeas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 22.13
+        
+       = 
+
+        an draoi, 
+          20.23
+        
+      . an t-ord éigius `<span class="quote">the bardic order</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+ix 164 § 14
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sitzungsb.Pr.Akad." title="eDIL Bibliography">Sitzungsb. Pr. Akad.</strong></span> 1919, 92 § 5
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 
+1925, 403
+      . 
+        is iomdha leabhar sgríobhtha síos ag éigsibh 
+ar éachtaibh Ḟinn..., 
+          <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> iv 272
+        
+      .</p>
+  
+  
+    <p class="result"> 
+Of a <span class="trans">member of a <span class="def">bardic</span> retinue:</span> 
+        in t-eigess di 
+muinthir Senchain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> p. 90.25
+        
+       s. prull (= intecsine, 
+Bodl.). 
+        coíca écces a líon cenmotha eixíni, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 
+viii z
+        
+      . 
+        ni ruc (Senchán) co Guaire acht tri chaegad éceas 
+agus tri chaegad eicsín, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> v 38.6
+        
+      .</p>
+  
+  
+    <p class="result"> 
+As title after <span class="pos npr." style="color: #ff8000">npr.</span>: 
+        Senc[h]an eices hErenn uili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 
+p. x 16
+        
+       (= 
+        eges, 
+          p. 93.3
+        
+      ). 
+        Seanc[h]an eiceas, file agus 
+primhollamh Con[n]acht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> v 32.9
+        
+      . 
+        Torna éces, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+38a22
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 188b8
+      . 
+        do réir Thorna Éigeas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5462
+        
+      .</p>
+  
+  
+    <p class="result">COMPDS. (<span class="edilb">a</span>) éices-mac: 
+        in t-éigess-mac | dá ngoirthí 
+Daighre Dúanach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> p. 10 x
+        
+      . (<span class="edilb">b</span>) éicsfili: budh 
+iomdha...éigsḟilidh dá riar, Ó Héodhusa, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1920, 
+651
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

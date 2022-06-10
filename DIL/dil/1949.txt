@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="1949">airet</h3><span class="citation">Cite this: eDIL s.v. airet or <a class="reference" href="1949">dil.ie/1949</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                airet, eret, erat, arat</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> (*ari + fot, O'Rahilly, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 177 ff.
+       ?<span class="lbl">Cf.</span> 
+        senairotib, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 239.18
+        
+      . Gender <span class="gen doubtful">doubtful</span>. Orig. <span class="itype o">o</span>, <span class="gen n.">n.</span>, O'Rahilly. 
+Taken as <span class="gen f.">f.</span> in 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 148a6
+       by 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> p. 157
+      , see below, 
+and treated as <span class="gen f.">f.</span> in later language. 
+        airet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25d1
+        
+      . 
+        eret, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 107d8
+        
+       <span class="lbl">etc.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 148a6
+      . 
+        erat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 33a1
+        
+      . 
+        arat, 
+          80b7
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">
+        <span class="def">Length</span>, <span class="def">interval</span>, <span class="def">space</span> (of time, less freq. also of space), 
+later <span class="def">amount</span>, <span class="def">quantity</span>.</span> Very frequent in conjunctive and 
+adverbial phrases.</p>
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">I</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) is ed á eret is gessi dia cene ṁbether in hac uita <span class="ediltr">this is 
+how long</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 107d8
+          . 
+            is ed a erat fritammiurat inna huli, 
+
+              33a1
+            
+          . á eret tias in cascc isin mís <span class="ediltr">how late E. falls in the month</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 39.25
+          . a oired ba ferr dó ar bánbiudh <span class="ediltr">a time of 
+similar duration during which he fared better as regards white 
+meat</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 67.4
+          . 
+            iss ed eret no bitis Ulaid insin i mMaig 
+M., 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3223
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 1
+          ). Of space: lagat inna saigte . . . ┐ a 
+arat dia tochuirther `<span class="quote">the distance from which it is shot</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+80b7
+          . 
+            is he a.<span class="oRef">¤</span> sain rosaig / lassar lái brátha brethaig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2531
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) a.<span class="oRef">¤</span>
+           <span class="trans">
+            <span class="def">as long as</span>, <span class="def">as far as</span>:</span> 
+            a.<span class="oRef">¤</span> nombeinn isnaib imnedaib, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 59a22
+            
+          . 
+            a.<span class="oRef">¤</span> mbete im theglachsa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 312
+            
+          . a.<span class="oRef">¤</span> bés . . . a 
+cutrumesi do súg inda curpsom `<span class="quote">so long . . . as there is this 
+much juice in his body</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 150.39 (§ 61)
+          . a.<span class="oRef">¤</span> nat negar 
+`<span class="quote">so long as it is not washed</span>', 
+            155.24 (§ 67)
+          . 
+            erett bett aboss 'ga 
+tigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 98.32
+            
+          . Eas Rúaid heret aiges núall <span class="ediltr">as long as 
+Assaroe resounds</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 150.27
+          . 
+            airiut ba beo iat, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 
+98
+            
+          . eiret tēiti uiseōc <span class="ediltr">as high as a lark soars</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 3613
+          . 
+
+            oiret teit cloch a taball, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3040
+            
+          . See Hull, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xxix 121
+          -
+            2
+          . With <span class="frn ">co</span>: 
+            airet co facaidh cnoc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1449
+            
+          . 
+            airet co tainic de, 
+              4622
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) With article: 
+            an a.<span class="oRef">¤</span> ropsa béo, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 1434
+            
+          . 
+            a n-a.<span class="oRef">¤</span> ro 
+bátar sruithi Eirend occó ari, 
+              2996
+            
+          . an oired dobi-seom a 
+C.C. <span class="ediltr">as long as</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 268.11
+           (Tig.). 
+            an oiread ro bí M. ag 
+rádha a shoiscéla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 65.4
+            
+          . 
+            in a.<span class="oRef">¤</span> bātar ag dēnomh 
+na hadmhāla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 64.3
+            
+          . in oiriut tra do geb in tuasal 
+neach bus cutruma res in isul `<span class="quote">as long as (<span class="lbl">i.e.</span> provided) 
+the noble gets an advocate equal in rank to the man of lower class</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 84.24. Comm.
+           Of space: an airat ro soich a scor sidhe 
+for gach leith `<span class="quote">as far as their `<span class="frn ">scor</span>'-lands extend on every side</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 226.z
+          . in oiret dochoid <span class="ediltr">how far</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3039
+          .</p>
+       
+        <p class="result"> 
+In mixed construction with both article (or prep.?) and 
+poss.: ina a.<span class="oRef">¤</span> báttar fein ar foccra <span class="ediltr">during the period of their 
+proscription</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1974.3
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) With cia <span class="trans">
+            <span class="def">how long</span>, <span class="def">how far</span>?</span> cia arat gl. quandiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+32d22
+          . cia a.<span class="oRef">¤</span> co tíchtin nancrist <span class="ediltr">how long (it will be) till the 
+coming</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25d1
+          . ce hairead uathaibh go tír <span class="ediltr">how far they 
+were from land</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 39a26
+          . With rel. clause: cia eret mbete oc 
+m ingraimmim se? `<span class="quote">how long will they be persecuting me</span>?' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 33a9
+          . 
+            cia hairett atáidh sunn?, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 376.8
+            
+          . nocon fess 
+cairet rochúaid <span class="ediltr">how far</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 442 § 15
+          . cia a.<span class="oRef">¤</span> imthéit? <span class="ediltr">how 
+far does it go</span>? 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1146
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) With article and demonstr. in adverbial phrase <span class="trans">for 
+that long, <span class="def">during</span> that (amount of) time</span> (case of a.<span class="oRef">¤</span>
+           doubtful, see 
+O'Rahilly and Thurn. <span class="lbl">ad loc. cit.</span> In most exx. apparently <span class="case a">a</span>
+          <span class="number s.">s.</span> 
+of a <span class="gen fem.">fem.</span> noun): ind eret sa gl. tandiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 114b14
+          . 
+            ?inn 
+heret sin imbói, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 148a6
+            
+           (so O'Rahilly <span class="lbl">loc. cit.</span>; <span class="case accus.">accus.</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> p. 157
+          ) <span class="lbl">i.e.</span> during the time he was in Rome. 
+
+            ni rabe isin bith ní dognethe in n-eret sin léu acht cluchi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+3225
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 1
+          ). 
+            at forbaeltiseom in n-a.<span class="oRef">¤</span> sin, 
+              2277
+            
+          . 
+            fífat-sa 
+forsna slógaib in n-a.<span class="oRef">¤</span> sin, 
+              6312
+            
+           (TBC). inn-airet-sain <span class="ediltr">during 
+that time</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 110 § 147
+          .</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span>
+      </p>
+     
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">amount</span>, <span class="def">quantity</span>, usually in phrases meaning as 
+<span class="def">much</span> as, etc.:</span> in óiret cétna <span class="ediltr">as much again</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> 212
+        . 
+in oirid sin `<span class="quote">so much as that</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 2558
+        . a naei n-a.<span class="oRef">¤</span>
+         `<span class="quote">nine 
+times the value (of the thing stolen)</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 41
+        . is i an oiread 
+(uirid, MS.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 307.30
+        . aiseoguidh sé seacht noirid 
+<span class="ediltr">he shall restore seven fold</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> vi 31
+        . sudh mérsi ┐ sugh 
+fenéil oired da gach sugh `<span class="quote">of either juice an equal bulk</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 225.4
+        .</p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) In phr. in a.<span class="oRef">¤</span> sin DI <span class="ediltr">so much (of)</span>: inn a.<span class="oRef">¤</span> sin da slúag <span class="ediltr">that 
+many of their host</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 681
+          . 
+            anuireadsa do chuidiughadh, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Carswell" title="eDIL Bibliography">Carswell</strong></span> 20.7
+            
+          . 
+            an oiret sin do leic oigre, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 225
+            
+          . Note 
+also: a oirett shin ele d'airde do beith ann <span class="ediltr">that it was as high 
+again</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 71 § 121
+          . With mixed construction: a rád . . . 
+co ndingenad Dia . . . ina airett sin d'éccórad `<span class="quote">would do such 
+injustice</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> 118
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) With prep. FRI: na losa . . . dobertai . . . do C. doberedh 
+oired ris fein d'Fir diad dib sin <span class="ediltr">gave as much to F.D. as he 
+took for himself</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 517 n.9
+          . dogebuir oired rium-sa dhe 
+<span class="ediltr">you shall share it equally with me</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 99.6
+          . beth ar 
+uired re og mac <span class="ediltr">to be on the same terms with</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 348.22
+          . nár 
+tualaing iadsan oiret re Mac Conmara do dénam <span class="ediltr">could not 
+do as much as M.</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 85.10
+          . ar oiret aimsire 
+fris <span class="ediltr">of the same age as he</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1734.24
+          . go rabhadar Laighin 
+cheithre uiread do shluagh ré fearaibh Mumhan `<span class="quote">had a host 
+four times as numerous</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 3212
+          . 
+            go bhfuil a urad 
+d'ughdardhas agam fein leis an mbiobla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 323.16
+            
+          . na 
+hiarr duais ach uiread leó <span class="ediltr">look not for any more reward than 
+they do</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 7.112
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) With ocus and <span style="color: #ff8000">rel.</span> clause: 
+            uiread grádha . . . ┐ atá 
+aige dhó féin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 6041
+            
+          . 
+            urad as do bhí ag Criosd, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 323.16
+            
+          . Note also: 
+            a uiread . . . ┐ a ttiobhra Dia dhuit, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 4600
+            
+          . oiread (uiriod, MS.) a bhfuarais aréir <span class="ediltr">as much as 
+you got last night</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 97.y
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) With gen. <span class="trans">
+            <span class="def">as much as</span>, <span class="def">even</span>
+          </span> (in neg. and condit. clauses): 
+gan uiret deilcc bruit do bhúain da fhiodhbadh <span class="ediltr">not to take 
+even athorn</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 6.12
+          . 
+            a.<span class="oRef">¤</span> in grain[n]e musdaird do ṡeirc 
+Isa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 8
+            
+          . airead copán <span class="ediltr">as much as a single cup</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 563 § 18
+          . gu hoiread an fhocail dhíomhaoin as lúgha dá 
+ndubhart <span class="ediltr">even the idlest word I have spoken</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 1177
+          .</p>
+      
+     
+      <p class="result"> 
+Note also: mór da n-uiredaibh <span class="ediltr">great quantities of them</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Aisl.Tund." title="eDIL Bibliography">Aisl. Tond.</strong></span> 132 § 6
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

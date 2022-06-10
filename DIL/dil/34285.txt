@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="34285">persa</h3><span class="citation">Cite this: eDIL s.v. persa or <a class="reference" href="34285">dil.ie/34285</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                persan, persann, persain, persin, persain, persin, persine, persin, persin, persana, persannu, persan, personaib, persunnaib, persa, perso, persu, persain, persain(n)e, persan, persainn, persan(n)a, persan(n), pearsa, pearsa, pearsa</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype n">n</span>, <span class="gen f.">f.</span> (Lat. <span class="frn ">persona</span>) O.Ir. <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        persan, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 138a1
+        
+      , 
+        189a9
+      , 
+        
+          b2
+      , 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 4.103
+      . 
+        persann, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 90a12
+        
+      . <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        persain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+71b5
+        
+      , 
+        72a1
+      . 
+        persin, 
+          198a24
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        persain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 33b24
+        
+      , 
+        115a7
+      . 
+
+        persin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 140a1
+        
+      , 
+        162a3
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        inna persine
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 197b10
+        
+      ; 
+
+        71b10
+      , 
+        189b8
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6b13
+      . <span class="case n">n</span>
+      <span class="number du.">du.</span> 
+        di persin
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 212b5
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        persin, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 203b10
+        
+      , <span class="lbl">cf.</span> 
+        197a15
+      , 
+        199a1
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        persana, 
+          191a2
+        
+      . 
+        persannu, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 10.315
+        
+       (<span class="lbl">leg.</span> -nna). <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        persan, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 220a9
+        
+      , 
+        10
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+
+        personaib, 
+          186a2
+        
+      . 
+        persunnaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 5.136
+        
+      .</p>
+   
+    <p class="result">Mid.Ir. <span class="case n">n</span>
+      <span class="number s.">s.</span> persa; 
+        perso, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 295
+        
+      , 
+        2308
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 39
+      , 
+        324
+      . 
+
+        persu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 3.91
+        
+      ; common form in PH. <span class="case a">a</span>
+      <span class="case d">d</span>
+      <span class="number s.">s.</span> persain, 
+-sainn, -saind. <span class="case g">g</span>
+      <span class="number s.">s.</span> persain(n)e; 
+        persan, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 460.1
+        
+      , <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 254.2
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        persainn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 65 x
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 305a47
+      ); persan(n)a. 
+<span class="case g">g</span>
+      <span class="number p.">p.</span> persan(n). pearsa, <span class="gen f.">f.</span> <span class="case d">d</span>
+      <span class="number s.">s.</span> -ain(n), <span class="case g">g</span>
+      <span class="number s.">s.</span> -an(n), -ainne, <span class="case n">n</span>
+      <span class="number p.">p.</span> -ain, 
+-an(n)a, <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        -an(n), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. § 121
+        
+      . Mod. pearsa, <span class="case g">g</span>
+      <span class="number s.">s.</span> -an; <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+occas. pearsa, (
+        <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">1 Corinth.</strong></span> x 8
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 186.30
+      ).</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">a <span class="def">person</span>, an <span class="def">individual</span>
+        </span>: do neuch dofoirṅde persain 
+deirb <span class="ediltr">to what signifies a determinate person</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 72a1
+        . cindas 
+persine attotchomnicc? (gl. tu quis es?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6b13
+        . 
+          issí persann 
+fil and . . . paupertas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 90a12
+          
+         (i.e. ` paupertas' is the subject 
+of the sentence glossed; <span class="lbl">cf.</span> ni do cach brethir tecming persona 
+<span class="ediltr">all verbs have not a personal subject</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 161a1
+        , where the Lat. 
+word is used). 
+          cen airitin persainde etir aichnid ┐ anaichnid, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4152
+          
+        ; <span class="lbl">cf.</span> 
+          airitiu persand, 
+            4011
+          
+         (<span class="case g">g</span>
+        <span class="number p.">p.</span>) co nar persu dingbala 
+don epscopoti hé <span class="ediltr">a fit person for the episcopate</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 92.4
+        . 
+
+          bid Crist i persaind cech bocht iressach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 63a24
+          
+         = i persoin 
+cech aighedh [áighidh MS.] 
+          irisigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1273
+          
+        . doraga 
+mac Dé ┐ duini i n-oenpersaind <span class="ediltr">in one (the same) person</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+2317
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iv 246 § 5
+        ). 
+          na drúdi ┐ na ríga i n-oenpersain do 
+adrad rig na firinde, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 138a22
+          
+         (of the Magi, who were at 
+once astrologers and kings). adubairt . . . nach rachad ana 
+persain fein <span class="ediltr">that he would not go in person</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 183.15
+        . 
+
+          dodheachaidh badéin a persain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 40.22
+          
+        . 
+          eirgit na 
+maithe ina persanoip badhdein, 
+            94.21
+          
+        .</p>
+     
+      <p class="result">
+        <span class="trans">Of bodily presence, appearance, <span class="lbl">etc.</span>
+        </span>: 
+          cia th'ainm-siu? Ni 
+ansa. Robec (.i. i persaind). Romor (.i. i n-eolas), 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 186b58
+          
+         
+= 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 20 § 40
+        , 
+          21 n. 1
+        . 
+          ar mhéid a phearsan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5154
+          
+        , 
+<span class="lbl">cf.</span> 
+          5078
+        . 
+          dā thrūp marcslaighi . . . ba lor dianfheabhus . . . 
+eitir arm, eachroid ┐ eideadh cona persanoip urdhalta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 174.2
+          
+        . múil persan na gcardenal <span class="ediltr">the cardinals' body-mules</span>, 
+          254.2
+        . 
+          go dtug [Dia] pearsa osgardhe dhó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2424
+          
+        . </p>
+     
+      <p class="result">
+        a (i) persain, folld. by gen. <span class="trans">
+          <span class="def">in the person</span> (<span class="def">character</span>, <span class="def">quality</span>) 
+<i>of</i>:</span> 
+          labraid in spiurt noib tri giun Dauid inso .i. a persainn ríg, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 115a2
+          
+        . 
+          in tan labratar ind ḟilid a persin inna ṅdea, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+162a3
+          
+        . bid as mo p[h]ersain fén da-aicer <span class="ediltr">I will plead in my own 
+person</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xi 43.27
+        . 
+          do thecaisc Dia a persain Heremías fáid, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7577
+          
+        . 
+          atbert Dauid i persain Dia fodesin, 
+            2276
+          
+        . 
+          is iat so 
+lucht na hailitre . . . isa persainn atbeir in faidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 727
+          
+        . 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3004
+        . 
+          is i bpearsanaibh na marbh so labhraid na Machabaei, 
+            4478
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 24 y
+        .</p>
+     
+      <p class="result">I<span class="trans">n theology of the <span class="def">persons</span> of the <span class="def">Trinity</span>
+        </span>: 
+          Isu Crist . . . in 
+tres perso na deachta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2308
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iv 246 § 3
+        ). 
+          in spirut noem, 
+in tres persu na deachta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1087
+          
+        . 
+          fó breith na tri persan bias i 
+n-aen-persain, 
+            7520
+          
+        . 
+          tri persana na Trinóidi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> 121
+          
+        . 
+          ga 
+mhéud persa san Tríonóid?, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 59.14
+          
+        . <span class="trans">Of the 
+person who writes (a book, <span class="lbl">etc.</span>) <span class="def">author</span>:</span> 
+          treidhe . . . arrecar 
+do cach hsairsi . . . .i. loc ┐ aimser ┐ persu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 3.91
+          
+        . 
+
+          loccus huius artis Cúil Bendchuir . . . persa dó Óengus mac 
+Oengoband, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 6.23
+          
+        . 
+          perso Dallán Forgaill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 295
+          
+         (ACC 
+Introd.). 
+          perso dī Fergus mac Róich, ar is he ro thirchan dona 
+hexib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 3.5
+          
+         (of the Táin Bó C.). 
+          locc don lebur-sa Ross 
+Broin . . . pearsa dó Seon Maudauil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> 1
+          
+        . Caide loc ┐ 
+aimsear ┐ perso . . . din Gaedelg? . . . Persu dī Sachab mac R. 
+<span class="ediltr">inventor</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 36.39
+        . 
+          ite tra persainn na dā rann dēc .i. 
+Coirpri . . . Ai . . . Athairne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 65 § 137
+          
+        . </p>
+     
+      <p class="result">
+        <span class="trans">Folld. by gen. denoting <span class="def">calling</span>, <span class="lbl">etc.</span>
+        </span>: pearsa ecclaisi <span class="ediltr">a 
+churchman</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 470.16
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 104.17
+        . 
+          do mhiltibh 
+persa eguilsi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 186.30
+          
+        . 
+          ar phearsanaibh eagailse, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xvii 22
+          
+        . <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=pers&#xFA;n">persún</a></span>.</p>
+     
+  
+    
+      <p class="result">(<span class="edilb">b</span>) <span class="trans">gram. term <span class="def">person</span> (of a verb or pronoun):</span> 
+          hi cetni persin 
+brethre . . . hi tert-persin . . . hí persin tánaisi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 215a9
+          
+        . 
+donaib teoraib personaib uathatib <span class="ediltr">the three persons singular</span>, 
+
+          186a2
+        . 
+          cetpearsu uathaid . . . persa tanaiste . . . treas persa, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 304
+          
+         -
+          6
+        . 
+          etargoire persainne, 
+            642
+          
+        .</p>
+     
+  
+    <p class="result">(<span class="edilb">c</span>) <span class="trans">in late gram. texts used of <span class="def">abstract nouns</span>
+      </span>: persa lóir 
+<span class="ediltr">an abstract noun</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. § 26
+       (<span class="lbl">e.g.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ferdacht">ferdacht</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=bandacht">bandacht</a></span>, <span class="lbl">etc.</span>). 
+p.<span class="oRef">¤</span> oibrighthe <span class="ediltr">a verbal abstract</span>, 
+        Introd. 33.10
+       (<span class="lbl">e.g.</span> ag fearachadh, 
+ag fearugadh, from fearach). pearsa iomurbhádha <span class="ediltr">a comparative</span>, 
+        33.14
+       (<span class="lbl">e.g.</span> as fearuighe mé iná thú; the term persa is used 
+by analogy because the <span style="color: #ff8000">compar.</span> in form resembles an 
+abstract, <span class="lbl">cf.</span> 
+        ó phearsuin lóir as mó bheantur iomurbháidh 
+mur tá so: as lor mo ghile ┐ as gile mé iná thú, 
+          27.5
+        
+      ). 
+        éideadh 
+(an uair nach persa), 
+          54.11
+        
+       (in a list of masc. nouns with 
+attenuated <span class="case g">g</span>
+      <span class="number s.">s.</span>, <span class="lbl">i.e.</span> éideadh forms <span class="case g">g</span>
+      <span class="number s.">s.</span> -idh except when it is a 
+verbal noun).</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

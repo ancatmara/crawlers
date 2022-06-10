@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="6796">bríathar</h3><span class="citation">Cite this: eDIL s.v. bríathar or <a class="reference" href="6796">dil.ie/6796</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                brethar, breithre, briathar, -glicc</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 161.
+       
+        brethar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 268.14
+        
+      . 
+b.<span class="oRef">¤</span>
+       <span class="gen f.">f.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 56.
+       In later lang. also <span class="itype o">o</span>, <span class="gen m.">m.</span>
+    </p>
+   
+    
+      <p class="result"> 
+<span class="edilb">(a)</span> <span class="trans">
+          <span class="def">word</span>; in religious sense <span class="def">Word</span> (<i>of God</i>); <span class="def">utterance</span>, <span class="def">talk</span>, 
+<span class="def">saying(s)</span>, <span class="def">speech</span>, <span class="def">discourse</span> ; non-verbal sign (?)</span>  <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;igse" title="eDIL Bibliography">Éigse</strong></span> xxiv 41
+        : 
+          o .i. son i mbraighid. p .i. 
+briathar sechtair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 37.4
+          
+        . 
+          nach tan do furgaib int 
+augtur brethir for a gin sechtair bid briathar for a menmain 
+fris gair do suidev . . . <span class="frn ">illud verbum . . . illi verbo</span> . . ., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 12.410
+          
+        , 
+          411
+        . briathar cen guth .i. briathar in sgribhind, 
+nó in compoid merda `<span class="quote">the written word</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 285
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+xiii 37.7
+        . briathor insce apud Eoles (an Aeolic *<span class="frn ">βρήτρα</span> 
+seems intended, ed.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 160.
+         be sóir mo brethre `<span class="quote">I shall 
+be free as regards my word</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4c18
+        . ammi tuailṅge ar 
+mbrethre gl. uerbo (. . . æpistolas), 
+          17b5
+        . indat mbriathra gl. 
+verba, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 44b9
+        . do rad inna mbriathar sa gl. haec uerba, 
+
+          46a19
+        . imfresnat a ngníme fria mbriathra `<span class="quote">their deeds conflict 
+with their words</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 31b30
+        . 
+          deich míli briathar, 
+            12d25
+          
+        . 
+          it 
+immaircidi dunni inna briathrasa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 22c5
+          
+        . ni aithirgi ho 
+briathraib nammá cen gním gl. non usque ad uerba, 
+          23a11
+        . 
+olc hi cridiu ┐ briathra aildi `<span class="quote">fair words</span>', 
+          55a11
+        . 
+          ar chomallad 
+do briatharsu, 
+            39a12
+          
+        . ni sulbir in b.<span class="oRef">¤</span>
+         gl. sermo contemptibilis, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 17b4
+        . taibred for mb.<span class="oRef">¤</span> ráth spirito do chách gl. sermo 
+vester, 
+          37c28
+        . briathra aildi la cechtar de fri alaile gl. 
+sermone, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 31a24
+        . 
+          inna briathra radas, 
+            42c4
+          
+        . níbat 
+briathra nach aili gl. non explorata loquar, 
+          68c10
+        . eritiu 
+briathar ho neuch anall gl. reddendique sermonis, 
+          59a15
+        . 
+
+          frissaní immeraidtis hua briathrib, 
+            61c12
+          
+        . briathar lám . . . 
+briathar súle . . . briathar glunæ . . . briathar choirp gl. 
+membrorum motus sermo, 
+          138a2
+        . int ord nobeth fornaib 
+briathraib gl. dictorum hunc habet ordinem, 
+          27d22
+        . 
+          inna 
+briathra grecdi se, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 72a2
+          
+        . 
+          hi mbrethir hi cocell hi ṅgním, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 253.11
+          
+         (Stowe M.). for brethir `<span class="quote">in word</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 15d5
+        . 
+intan tra batar forsna briathraib se `<span class="quote">when they were thus 
+talking</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 307.15
+         (Hy. ii Pref.). umaldóit for (fri, <span class="lbl">v.l.</span>) 
+bréthir `<span class="trans">
+          <span class="def">mouth-humility</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 102 § 27a
+          
+        . trea chumbair 
+ṁbriathar `<span class="trans">
+          <span class="def">compendiously</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 327.5
+        . briathar foirbthigedar in duine i ndírgi cáingníma `<span class="quote">the Word which perfects 
+man</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4d6
+        . in bethu dorairngert som issí in briathar 
+insin gl. uerbum suum in praedicatione, 
+          31a9
+        . indhí pridchite . . . brethir dǽ gl. qui laborant in uerbo et doctrina, 
+          29a12
+        . 
+
+          briathra dǽ, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 146a1
+          
+        . 
+          oc procept bréthri Dé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2173.
+          
+         as 
+esiomh . . . an bhriathar = <span class="ediltr">the word</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RSCl&#xE1;ra" title="eDIL Bibliography">RSClára</strong></span> 142a.
+         cundail 
+a b.<span class="oRef">¤</span>
+         (rhet.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3401
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 18
+        ). 
+          grāibre .i. magar .i. briathar 
+grata, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 688
+          
+         = 
+          graibhri .i. briathar ghrata, no 
+onórach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         rabert-si na briathra sa <span class="ediltr">she spoke these 
+words</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5730.
+         
+          ilar mbriathar mbláith rot char, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3614
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 30
+        ). 
+          millse briathra ḟir thochmairc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 13975 n. a
+          
+         
+(121a <span class="lbl">marg. sup.</span>). 
+          in tan . . . bói Ísu oc lábra na mbriathar-sa, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3076.
+          
+         Secundi / cain i mbriathraib bíae `<span class="quote">fair in words of 
+might</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Mar. 22.
+         cona . . . digebad cid a oen ḟocul dia 
+briathraib `<span class="quote">not to . . . take away a single word that she said</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 150.5
+        . nach duine isin tig arta-ceisi guth ┐ gním ┐ 
+bréithir <span class="ediltr">with . . . word</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 884.
+         brēthir bláith <span class="ediltr">with gentle 
+words</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 21 f
+        . dorónus dōibh dūa[i]n mbinn mbairdne, / 
+brēithir glēisi <span class="ediltr">with clear words</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 296 § 45.
+         
+          ro-slanaig 
+Ísu me d'aen brethir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2789.
+          
+         briathra Brain (of the 
+baying of a hound), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 38.15
+        . 
+          bríathra cogaidh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1920, 416.1
+          
+        . ná tabhair bréithir mbréige `<span class="quote">utter 
+no false word</span>', 
+          1924, 244 § 26
+        . Brīathra Floinn Ḟīona maic 
+Ossa (title of collection of maxims), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 10.15
+        . briathra 
+fíra `<span class="quote">just judgements</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 823.
+         briathar fhoirbhthe an 
+ughdair-se <span class="ediltr">this author's excellent saying</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 27a2
+         . ra 
+bréthir a flatha `<span class="quote">at . . . the command of their prince</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 4104
+        .</p>
+     
+      <p class="result"> 
+In phr. attá b.<span class="oRef">¤</span> (la, oc) di: intí diarobe briathar linn riam 
+gl. de quo iam dixi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 197b12
+        . in Bethfage dia ta briathar 
+i-fus <span class="ediltr">of which mention is made here</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4600.
+         
+          ni do Thempul 
+Solman . . . ro-bói briathar oc Ísu, 
+            2725
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(b)</span> <span class="trans">
+          <span class="def">blessing</span>, <span class="def">prayer</span>, good <span class="def">wishes</span>; in bad sense <span class="def">curse</span>:</span> 
+forácaib bréthir fair (a well) `<span class="quote">a blessing</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 162.25
+        . 
+          tre 
+brethir ṁBrigte, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 38303
+          
+         (`<span class="trans">
+          <span class="def">intercession</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 408.5
+        ). 
+
+          briathar .i. búaidh. fágbhaim ort briathar ┐ buaidh ar 
+Colum Cille re Domhnall mhac Aodha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         
+          foracaib 
+Pátraic breithir (.i. escaine) foraib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 28 § 78.
+          
+         dorat 
+Brigit brethir for Raith C. cona be[d] <span class="lbl">etc.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 335.34
+         
+(Hy. v Comm.). fuirimh . . . / briathar doréir righ na rind / ar 
+Ch. <span class="ediltr">lay a curse on C.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 314 § 8
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(c)</span> <span class="trans">
+          <span class="def">word</span>, <span class="def">promise</span>, <span class="def">assurance</span>; <span class="def">pledge</span>, <span class="def">vow</span>:</span> darm brethir 
+(<span class="lbl">sic leg.</span>) tra . . . isatt ailsiu damsa <span class="ediltr">upon my word</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3918
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 43
+        ). 
+          dar ar mbréithir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR2" title="eDIL Bibliography">CRR²</strong></span> 23.
+          
+         do brīathar bad fīr 
+`<span class="quote">let thy word be true</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 172 § 3.
+         
+          ag so mo briathar ris . . . 
+nach ticfaind . . . ┐ is briathar eile damh . . . nach gébaind, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1439.
+          
+         ni ro-gabsat uada acht a bréthir do comallad friu 
+<span class="ediltr">save only that he should fulfil his promise to them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 908.
+         
+? 
+          dligid bés brēithir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 15.2
+          
+         (`<span class="quote"> `perhaps' merits a 
+promise</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlv 71 § 36
+        ). co tanic mac N. ar breithir asin 
+tig himag <span class="ediltr">under a guarantee of protection</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1239.5
+        . 
+gēmadh í an bhriathar bheag <span class="ediltr">though it were a mere promise</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ButlerPoems" title="eDIL Bibliography">Butler Poems</strong></span> 1243
+        . Phrases with verbs: dabiur bréthir . . . 
+na fuil <span class="lbl">etc.</span> `<span class="trans">I <span class="def">swear</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 747
+        . 
+          do-beram ar mbréthir . . . 
+cunad fír, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 284.
+          
+         dobeirim fom bréithir a bhfiadhnaisi an 
+Dúilim <span class="ediltr">I swear in the presence of the Creator</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 77.16
+        . 
+tuc dā brēithir <span class="ediltr">pledged his word</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 191.
+         
+          da-oṅg-sa mo 
+bréthir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 181.
+          
+         do radh dhá bréithir . . . nach rachad <span class="ediltr">he 
+vowed</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> i 1.17
+        . ni thánic dar a bréthir <span class="ediltr">did not 
+break his word</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 12 § 17.
+         
+          tucus mo bréthir ris . . . ┐ ní 
+faris ticfaither, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 179.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(d)</span> <span class="trans">Legal <span class="def">statement</span>, <span class="def">testimony</span>:</span> 
+          is iat na tri fira is luga a 
+enechus: lorg ┐ briathar ┐ suilgnais. A lorg on mír gan 
+urlabra, a briathar on mir co n-urlabra ┐ a sulgnais on ceill 
+maith gan urlabra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 42 § 63.
+          
+         na hechlacha, 
+cor indligthech, cin breithir, ni berat coibchi muna thisat fri 
+dligi <span class="ediltr">without guarantee</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 272. y Comm.
+         ? 
+          fasc tres 
+brethar an is nesam i n-urd, 
+            i 268.14
+          
+        . 
+          na tri briathra da fasc 
+na athgabala . . . gur ab edh adbera don tres brethir i n-urd 
+aisnesin: ro gabuis t'athgabhail, 
+            302.23 
+          
+        , 
+          26 Comm.
+         ni fastann acht na tri briathra .i. in lin fear, ┐ in lin ceall, ┐ in 
+la sundradhach (of the testimony of the mac bec or m. enncai), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2431.2
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 35a-b
+          
+        ). tecmaltar a insce dó hi teora 
+bríathra <span class="ediltr">his statement is assembled by him into three words</span> 
+(of testimony of the fer midboth), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 40.
+         Attrib. 
+<span class="case g">g</span>
+        <span class="number s.">s.</span>: aithne breithre
+         `<span class="trans">a <span class="def">verbal</span> <span class="def">charge</span>
+        </span>' (one of seven deposits 
+that require to be restored), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 196.3
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(e)</span> <span class="trans">Gramm. <span class="def">verb</span>:</span> 
+          
+            briathar . . . <span class="frn ">uerbum</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 300.
+          
+         
+          ind 
+infinit in e ón bréthir in o, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 54a16
+          
+        . amal as ṁbriathar 
+gníma <span class="frn ">aperio</span>
+         <span class="ediltr">an active verb</span>, 
+          145b4
+        . 
+          fríssin bréthir as <span class="frn ">sum</span>
+          , 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 228.36
+          
+         (PCr.). 
+          ara forcmatis in tuisel sainredach inna 
+brethre hua mbiat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 149a5
+          
+        . 
+          itar in di brethir so, 
+            203a16
+          
+        . 
+
+          ar in ṁbrethir ṅdiuit, 
+            140a4
+          
+        . dia techtat briathra in -go gl. 
+si a uerbis sint in `go' desinentibus, 
+          112b3
+        . 
+          on brethir is 
+axarcisto, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 22.10 Comm.
+          
+         
+          in dobriathar .i. do 'g-a 
+rada nach briathar he, 
+            4.11 Comm.
+          
+         on brethir choitchind 
+asberar sufragor gl. [s]uffragare, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gild.Lor." title="eDIL Bibliography">Gild. Lor.</strong></span> 1.
+        
+      </p>
+    
+  
+  
+    <p class="result"> 
+Compds. With nouns. in Briatharchath ban Ulad <span class="ediltr">War 
+of Words</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8039.
+       gur uo briathor-chealga brēgacha ro 
+chan `<span class="quote">deceitful . . . words</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 138.28
+      . ag bríathar-chomrādh re aroile `<span class="trans">
+        <span class="def">conversation</span>
+      </span>', 
+        46. 23
+      . 
+        drem dub dorcha 
+brisess bruth, / atbelat fri briathar-chruth, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 633.29
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 242b85
+      ). Bríatharthecosc Con Culaind inso (heading of 
+precepts of C.C. to king of Tara), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3465
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 25
+      ). With adjj. 
+co Bresal ṁbrec ṁbriatharchaem <span class="ediltr">of the fair words</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 
+83a53
+      . 
+        bērus bre[i]th brīathargla[i]n, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 199.27
+        
+      . derdilinne an eoil oirrdirc / firinne a beoil briathoirgilc (-gilc for 
+-glicc ed.) <span class="trans">
+        <span class="def">wise</span> of <span class="def">speech</span>
+      </span>, 
+        ii 350.11
+      . a Bricriu báeth briatharguirt `<span class="trans">
+        <span class="def">sour-worded</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 424 § 45.
+       sámud būan bríatharísel `<span class="trans">
+        <span class="def">low-voiced</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 63 § 1.
+       a bhille bhriatharmhaill 
+`<span class="quote">o letter of tardy words</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Review" title="eDIL Bibliography">Ir. Review</strong></span> 1913, 624 § 13
+      . an 
+bhuidhean bhriatharnar <span class="ediltr">of modest speech</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 75.29
+      . 
+With adj. as <span class="pos subst." style="color: #ff8000">subst.</span> don bhriatharthaoi bhinn <span class="trans">
+        <span class="def">quiet-spoken</span> 
+<i>one</i> (of a lady)</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 117.51
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="29255">lac</h3><span class="citation">Cite this: eDIL s.v. lac or <a class="reference" href="29255">dil.ie/29255</a></span><br/></div><div class="col-sm-9 result_content">
+   
+
+
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype o,&#x101;">o,ā</span>. With -o- in <span class="case d">d</span>
+      <span class="number s.">s.</span> and <span class="case g">g</span>
+      <span class="number s.">s.</span> (as in cas = cos), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. 
+§ 40.
+       <span class="trans">
+        <span class="def">weak</span>, <span class="def">feeble</span>
+      </span>. Of persons: 
+        in tí as l.<span class="oRef">¤</span> is dó is méla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+307b21
+        
+      . 
+        a chruachaidhi lenaim laic (: brait), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 104 § 200
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> i 27 § 59
+      ). 
+        a leanaib laic (: cait), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span>
+           93 § 140
+        
+      . Freq. 
+of hair <span class="trans">
+        <span class="def">soft</span>, <span class="def">smooth</span>
+      </span>: 
+        ó Concobair na cíabh lag, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 
+70
+        
+      . In metonymy: a chiabh lacch `<span class="quote">thou lady of clinging 
+tresses</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 659
+      . 
+        a chiabh lag, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 41.6
+        
+      . 
+        a earrla 
+lag, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 46.5
+        
+      . 
+        ar teccuscc da thrilis loig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 
+97 § 11
+        
+      . Of other parts of the body: 
+        a basa taise laga 
+leabhaire, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 91
+        
+      . 
+        a suile lacca liatha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 155a30
+        
+      . 
+In a variety of other applications: 
+        na lochta cen lomrim l.<span class="oRef">¤</span>
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 331b40
+        
+      . Tech na Fían, nirbo long l.<span class="oRef">¤</span>
+       `<span class="quote">it was no mean hall</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 18.59
+      . 
+        nir l.<span class="oRef">¤</span> a ḟal, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4306
+        
+      . 
+        nirbo l.<span class="oRef">¤</span> in 
+lenamain, 
+          375b4
+        
+      . 
+        nír lag a dhal, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 56b15
+        
+      . 
+        ní l.<span class="oRef">¤</span> rogní 
+iarcóir cath, / in rí dorat mór ndígal, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3943
+        
+      . 
+        th'aire ar 
+fhās na n-abhall lag, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 195 § 4
+        
+      . 
+        a thuir nach tor lag, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 934
+        
+      . 
+        gér lag an long 'na raibhe Peadar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2067.
+        
+       
+
+        lag an foirgneadh aga mbi fulang . . . lag, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 5117
+        
+       -
+        8
+      . 
+With neg. of copula as laudatory epithet and in chevilles: 
+
+        ní láthar l.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3737
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 12
+      ). 
+        ós Lifi Lagnech nách lacc 
+(: tochmarc), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 82.67
+        
+      . 
+        Lugaid nar l.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 19477.
+        
+       
+
+        tri hingena in láich nad lac, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 156.5
+        
+      . 
+        líth nad 
+lacc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 136.15
+        
+      . 
+        ní lúad lac, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 146.9
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 106 § 4
+      ). 
+        miad nar l.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> § 29
+        
+      . 
+        ni tres lag, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 64.5
+        
+      . 
+
+        a chreach bhó ar Laighnibh ní lag, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1180.
+        
+      
+      <span class="lbl"> Cf.</span> 
+
+        sluagh na serda . . . / . . . lúardaib l.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6791.
+        
+      
+    </p>
+  
+  
+    <p class="result"> 
+As <span class="pos adv." style="color: #ff8000">adv.</span> 
+        roleigsed . . . a srein co lag asa lamaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4479
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span style="color: #ff8000">Compar.</span> 
+        is laigide na lochta / mé ar m'intinn go harrochta, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxi 9
+        
+      . 
+        loige a-chách ar geóir chuige, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 12.7
+        
+      . 
+
+        trí téad is laige táin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 293.14
+        
+      . 
+        is lagaide an 
+urraim ó fhile . . . dlíghthear dháibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> i 122.7
+        
+      .</p>
+  
+  
+    <p class="result"> 
+As <span class="pos subst." style="color: #ff8000">subst.</span>: 
+        cuirfid lamha ar laguibh ┐ slaineoghthar iad, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 5751
+        
+      . 
+        an tréan 'san lag, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 711.
+        
+       <span class="lbl">Cf.</span> 
+
+        forroilged la Gartán dabach i llac mara, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SCano" title="eDIL Bibliography">SCano</strong></span> 15
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 1
+      ) 
+where l.m. is taken by Editor (following O'Brien, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xi 87
+      ) 
+to mean <span class="ediltr">shallow of the sea</span> (a part of the beach accessible only 
+at certain low tides), but is perh. to be referred to loc (e).</p>
+  
+  
+    <p class="result"> 
+Compds. With nouns. 
+        <span class="oRef">¤</span>báid: ná déantair lat lagbháidh `<span class="quote">be not 
+remiss in love</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 4.43
+      . 
+        <span class="oRef">¤</span>bothán: lag-bhotháin tógbhaid 
+<span class="frn ">fragiles domos</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 54.5
+      . 
+        <span class="oRef">¤</span>chreitem: 
+        lagchreidiomh an tí 
+bhíos ar úrnaighthe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/P&#xE1;rl.namB." title="eDIL Bibliography">Párl. na mB.</strong></span> 2887
+        
+      . 
+        <span class="oRef">¤</span>gabáil: gan rann 
+dá oigealaoidh lais ón laggabháil `<span class="quote">poor treatment</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 
+19.8
+      . 
+        <span class="oRef">¤</span>lúb: 
+        Óilléan Carrún laglúb líomhtha léir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> 
+xxxi
+        
+       l.<span class="oRef">¤</span>-thomus: lagthomhas meidhe Míchíl (of sin), 
+        <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 
+15.15
+      . 
+        <span class="oRef">¤</span>urán: glor gan l. `<span class="quote">without weakness</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/HyMaine" title="eDIL Bibliography">Hy Maine</strong></span> 132.28
+      .</p>
+  
+  
+    
+      <p class="result"> 
+With adjj. (<span class="edilb">a</span>) dvandva compds.: 
+          <span class="oRef">¤</span>buide: 
+          a fholt lagbhuidhe 
+líneach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Top.Poems2" title="eDIL Bibliography">Top. Poems²</strong></span> 1580
+          
+        . 
+          <span class="oRef">¤</span>lebar: a fholt laig-leabhar 
+chladh gcam <span class="ediltr">soft and long</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 105.24
+        . 
+          <span class="oRef">¤</span>remor: lama 
+lacremra litarrda aice <span class="ediltr">flabby</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4029.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) Formed with adjj. formed from nouns: 
+          <span class="oRef">¤</span>brígach: 
+          ná 
+bí laig-bhrígheach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Isaiah</strong></span> xli 10
+          
+        . 
+          <span class="oRef">¤</span>chroidech: 
+          eaglach nó lagchroidhech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Deuteronomy</strong></span> xx 8
+          
+        . 
+          <span class="oRef">¤</span>lámach: 
+          curtha ┐ laglámhach, 
+            2
+          
+         
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Sam.</strong></span> xvii 2
+        . 
+          <span class="oRef">¤</span>radarcach: 
+          atáid ar súile lagradharcach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Lament.</strong></span> v 17
+          
+        . 
+          <span class="oRef">¤</span>rúnach: don aithrigheach lagrúnach <span class="ediltr">weak 
+of purpose</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 2185
+        . 
+          <span class="oRef">¤</span>spiraitech: 
+          do na daoinibh 
+laigspioraideacha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 772
+          
+        . 
+          <span class="oRef">¤</span>ṡúilech: ina ḟanntassib bána 
+┐ ina n-ímágib laccṡuileacha <span class="ediltr">dim-eyed</span> (of starving men), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 
+154b60
+        . 
+          <span class="oRef">¤</span>thuirsech: 
+          do chréachtghuin mé go lagthúirseach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 81.
+          
+        
+      </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

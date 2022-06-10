@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="409">ad-cuirethar</h3><span class="citation">Cite this: eDIL s.v. ad-cuirethar or <a class="reference" href="409">dil.ie/409</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                -athralor, -ralór, atlathar, it-ralai, -atralaid, -roláid, athrola, athralsat, doathlasat, athchuirid</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (*
+        aith-cuir-, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 499
+        
+      ) <span class="mood subj.">subj.</span> <span class="tns pres.">pres.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        -athralor, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 419
+        
+       = 
+        -ralór, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6875
+        
+      . <span class="lbl">Cf.</span> 
+        
+          atlathar dal, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 130.19
+        
+      . <span class="per 3">3</span> <span class="number sg.">sg.</span> 
+        it-ralai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDC" title="eDIL Bibliography">BDC</strong></span> 124.315
+        
+      . ? <span class="per 2">2</span> <span class="number pl.">pl.</span> 
+        -atralaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 417
+        
+       = 
+
+        -roláid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6874
+        
+      . <span class="tns Perf.">Perf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        athrola, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 104
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        athralsat, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 428
+        
+       = 
+        doathlasat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6884
+        
+      . Later as simple 
+vb. athchuirid (in bardic verse athchraid), based on prot. 
+stem and <span class="pos vn." style="color: #ff8000">vn.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=athchor">athchor</a></span>, <span class="lbl">q.v.</span> </p>
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">I</span> Trans.</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">restores</span>, <span class="def">returns</span>, <span class="def">transmits</span>, <span class="def">entrusts</span>:</span> ?cofristacor 
+aidchuirtis duaithis form gl. insultantes obiecirent, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 118c3
+           
+(text prob. faulty, see note and 
+            <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 500
+          . Perh. to be 
+referred to II). In the follg. three exx. probably <span class="voice pass.">pass.</span>, but 
+<span class="lbl">cf.</span> intrans. use below: adcuiretar (adcuirethar, MS) do hógi 
+`<span class="quote">they return to integrity</span>' (of the elements in a compound), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 73b2
+          . adcuireddar doláni `<span class="quote">they return to completeness</span>', 
+
+            202b3
+          . is tre ḟír ḟlathemon ad-mórchatha crícha cu námat 
+curetar <span class="ediltr">great battalions are despatched to the territories of 
+enemies</span>(?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 81 § 11
+          . taítsi co n-atralaid for ndíberg im 
+thírsea <span class="ediltr">come and wreak again</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 417
+           = 
+            conod roláid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+6874
+            
+          . atomcuirethar sūas dó as mo ethar `<span class="quote">raised myself up</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 87.20
+           (impers. use?). 
+            adcuired suás a sceith, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+167b54
+            
+          . 
+            cur athcuir a amsaine ac ri B., 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> v 200 § 13
+            
+           `<span class="quote">took 
+military service with</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 184
+          . o'n aidchi ra h-athchuread 
+Eriu ar h-au A. <span class="ediltr">since the night when Ireland was committed to 
+the keeping of</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 110.1
+          . ro athchuirset da urchur . . . eturru
+<span class="ediltr">exchanged two shots</span>, 
+            254.16
+          . madh fir fheib atralaid / mo 
+riar[a] gan dermat / bidh leo a righe . . . `<span class="quote">if they render as due 
+honour(?) my dues</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Misc.Hag.Hib." title="eDIL Bibliography">Misc. Hag. Hib.</strong></span> 28.17
+          . basseadh díoghal 
+dobert Dia foraibh cecib cruth atrala `<span class="quote">however it came to 
+pass</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2252.9
+           (<span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-cuirethar">do-cuirethar</a></span>). doratad crech . . . / 
+conid-atharla Lugaid (<span class="lbl">sic leg.</span>, Corr.) `<span class="quote">a raid was made . . . 
+so L. made reprisals</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 202.30
+          , 
+            v p. 134
+          . 
+achraidh sí an grás sul ghuidhthir <span class="ediltr">she bestows grace before it 
+has been prayed for</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 24.18
+          .</p>
+       
+        <p class="result"> 
+In Laws of the return of a fief (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 rath">2 rath</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=turchrecc">turchrecc</a></span>): 
+cen anfolta flatha fora n-athcuirther <span class="ediltr">to whom is given back</span> 
+(Thurn.), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 386 § 51
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 318
+          ). in tan is é in grad 
+flatha . . . do rat itir rath dia céli athcuirid seic co seotu, 
+┐ athcuiridh comarba for comarba gen seoto <span class="ediltr">returns . . . 
+transmits</span>(?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1636
+           (H. 5.15, 18a). 
+            rath éirneis aire 
+tuisi do aire árd, ní athcuirither co n-athcuirither comorbo for 
+comarbo . . . ní athcuirither co tormala saoghal cach ngraid 
+for araili, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2231
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/NeroA.vii" title="eDIL Bibliography">Nero A vii</strong></span>, 154b
+            
+          ), <span class="lbl">cf.</span> 
+            1635
+           (H. 5.15, 
+17b). Of a child: mac adchuirthur for fine n-athur <span class="ediltr">a child 
+which is returned to its father's `<span class="frn ">fine</span>'</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sench.M&#xF3;r" title="eDIL Bibliography">SM Facs.</strong></span> 56a
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+198.5
+          ). ben slethe .i. ní fitir cia for a nathcuirfeadh (<span class="lbl">i.e.</span> on 
+whom she should father her child?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2006
+           (H. 4.22, 31). 
+Note also: da fagha sé duine ar a ndenaigh a hathcor . . . 
+athcuire[d] (of a sick wife), 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2308
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 23b
+            
+          ). Glossing 
+fris-cuirethar: 
+            tri neichi . . . na firathcuired na comedaidh 
+orba, <span class="lbl">gl.</span> nad[f]rithrolat, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sench.M&#xF3;r" title="eDIL Bibliography">SM Facs.</strong></span> 17a
+              
+            
+           ( 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 212. 14
+           
+Comm.).</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">removes</span>, <span class="def">expels</span>, <span class="def">rejects</span>:</span> 
+            indmus manaig adcuirithear 
+o [e]aclais, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 430.x
+            
+          . intan ro atcuirius a sidh for in 
+senadh <span class="ediltr">rejected</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5043
+          . intan rohath[ch]uired asa 
+deacht é `<span class="quote">when he had been divested of his godhead</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+2319
+          . athchuiris uad an sleig <span class="ediltr">hurled</span>, 
+            4501
+          . ro athchuir 
+cloidhemh an rígh uadha `<span class="quote">resigned the King's sword</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 
+1418.20
+          . as i sin adhaigh . . . ro h-athchuirid na h-ainfessa
+<span class="ediltr">when ignorance was set aside</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 100.9
+          . nír hachradh cách ó 
+chridhe (: athchar) <span class="ediltr">none have been driven from His heart</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 71.35
+          . atlochar don Rí adrala `<span class="quote">who repulsed it</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Misc.Hag.Hib." title="eDIL Bibliography">Misc. Hag. Hib.</strong></span> 43 § 63
+          .</p>
+       
+        <p class="result"> 
+? secip ní atcuire sind dib-línib ro-s-cluineb-sa in ni sin
+`<span class="quote">whatever thing he shalt ask of us both</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1430
+          .</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> Intrans.: ath-ralsat . . . dochum nÉrenn <span class="ediltr">they returned</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 428
+         = 
+          doathlasat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6884
+          
+        . co ro athcuired doridisi 
+cusin corp <span class="ediltr">that he should return</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 31
+         (LB) = co n-igsed ar 
+cúlu, LU (
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 192
+        ). intan adcuirtís inna fochlói <span class="ediltr">when they 
+returned to their caves</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> ix 474.19
+        . is inn adcuirethar
+<span class="ediltr">thither he returns</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 320
+        . 
+          ro athchuir Ua C. a cendus 
+Oirghiall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1102.6
+          
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

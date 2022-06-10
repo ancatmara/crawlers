@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="37834">slán</h3><span class="citation">Cite this: eDIL s.v. slán or <a class="reference" href="37834">dil.ie/37834</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                slán-seiss</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype o,-&#x101;">o, ā</span>
+    </p>
+   
+    
+      <p class="result">
+        <span class="edilb">I</span>
+      </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">whole</span>, <span class="def">sound</span>, <span class="def">unimpaired</span>, <span class="def">healthy</span>, <span class="def">safe</span>
+          </span>: s.<span class="oRef">¤</span> gl. 
+sospes, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 66a27
+          . 
+            
+              <span class="frn ">salu[u]s</span> .i. slan, 
+              <span><strong class="pop" style="color:blue" href="bibliography/KZ" title="eDIL Bibliography">KZ</strong></span> xxxiii 72 § 48
+            
+          . 
+            
+              <span class="frn ">sanus</span> 
+.i. s.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 633
+            
+          . is airi asbiur ám am s.<span class="oRef">¤</span>
+           ` <span class="quote">'tis therefore, verily, 
+I say "I am whole"</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 143a1
+          . 
+            mad slaán in ball iarna galar, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12b11
+            
+          . cid ind aimser indat sláin ennaic som gl. salui 
+innocentes, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 76a6
+          . huand fairsingmenmnaigi sláin, gl. 
+magnanimiatate (<span class="lbl">sic</span>) salua, 
+            136a14
+          . 
+            ind foisitiu . . . imfolngi 
+in duine s.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4d33
+            
+          . dobert in cú in caírig s.<span class="oRef">¤</span>
+           (sláin, <span class="lbl">v.l.</span> See 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> p. 157
+          , 
+            676
+          ). 
+            rí ro-sáer Susannam sláin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+7357
+            
+          . 
+            rod duschi súan s.<span class="oRef">¤</span> subach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3593
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 30
+          ). a gell s.<span class="oRef">¤</span> 
+cona ḟuillem do aisiuc <span class="ediltr">the whole pledge with its interest to be 
+returned</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 288
+          . dar cend trín a sotha sláin `<span class="quote">in return for a third of their whole progeny</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;il.MhicN&#xE9;ill" title="eDIL Bibliography">Féil. Mhic Néill</strong></span> 297.29
+          . 
+
+            tri hanairt slana, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2221
+            
+          . 
+            conarlaic dó . . . | siriud s.<span class="oRef">¤</span> na 
+saccraide, 
+              3036
+            
+          . 
+            tangcatar . . . s.<span class="oRef">¤</span> amach óna slogaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 
+88.1
+            
+           (<span class="pos adv." style="color: #ff8000">adv.</span> ?). 
+            amhail téid éin-bhiadh amháin . . . i ndochar don 
+easlán ┐ i dtarbha don duine sh.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1113
+            
+          . Of a judgement: 
+ra-huicc-siut bretha slana `<span class="quote">sie erhielten (fällten) heile (= volle, 
+richtige?) Urteilssprüche</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> 9 § 12
+          . midair mesemnacht 
+s.<span class="oRef">¤</span>
+           `<span class="quote">he passed a sound judgement</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 10.y
+          . In phrase is s.<span class="oRef">¤</span> 
+a menmae <span class="trans">is <span class="def">joyful</span>, in <span class="def">high</span> <span class="def">spirits</span>
+          </span>: 
+            niba slániu de latt do 
+menma . . . dia n-aicigther, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6118
+            
+          . ro badh s.<span class="oRef">¤</span> a menma ┐ 
+roptar buidhigh dia thuitim leó `<span class="quote">were in high spirits</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 
+1814.2
+          . In adverbial expression <span class="frn ">slán c(h)íall</span>: lotar as slán chéill dia tuaith '<span class="quote">they went safe</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 71
+          . 
+            slancheill chein duib, a muindter, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 536, cf. 3166
+            
+          . In greetings: s.<span class="oRef">¤</span> bee gl. sana sis, ave, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 494 § 103
+          
+(Enchir. Aug.). 
+            s.<span class="oRef">¤</span> ann dá súainleabthuibh sróil, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 
+1112
+            
+          . ná rab s.<span class="oRef">¤</span> 
+d'ḟéasóig an ḟir `<span class="quote">bad health to the fellow's beard</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 37.2
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">saved</span> (in spiritual sense):</span> 
+            is tre sodin bid s.<span class="oRef">¤</span> a anim som, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9b7
+            
+          . 
+            cid natat sláin ind huli mátchobra, 
+              28b1
+            
+          . 
+            in-tíí 
+baithsither ┐ creitfes biaid se s.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3705
+            
+          . 
+            diam s.<span class="oRef">¤</span> a cubus 
+bid s.<span class="oRef">¤</span> a anum, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 32.20
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">Of a person <span class="def">noble</span>, <span class="def">perfect</span>
+          </span> (<span class="lbl">cf.</span> meaning (e) <span class="lbl">infra</span>): la slúag 
+s.<span class="oRef">¤</span> soer sodath `<span class="quote">noble</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Aug. 10
+          . sūi slān sothchernda 
+sochlach <span class="ediltr">perfect, accomplished</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> i 48 § 2
+          . 
+            Samson s.<span class="oRef">¤</span> 
+serig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5356
+            
+          . cleithi laighean leghnidhe | suí s.<span class="oRef">¤</span> seghainn 
+sochlach `<span class="quote">a perfect, comely, prudent sage</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 512.14
+          . 
+            do 
+sruithib slánaib sochenélachaib fer nÉrend olchena, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 
+124.18
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) With blíadain <span class="trans">
+            <span class="def">full</span>, <span class="def">complete</span>
+          </span>: 
+            ar ni tosceli argumint acht 
+bliadni sláin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 18.32
+            
+           (BCr.). 
+            tri bliadna trichat ropsat 
+slána do Christ, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2544
+            
+          . 
+            o roptar slána a secht mbliadna, 
+
+              9045
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 79
+          ). bliadhain ┐ trí fichid fá s.<span class="oRef">¤</span> dó ag teacht i 
+nÉirinn `<span class="quote">he had completed his 61st year</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 217
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) Legal <span class="trans">
+            <span class="def">exempt</span>, <span class="def">non-liable</span>, <span class="def">safe</span>
+          </span>: is iat daine i[s] slan don 
+eclais do leagan as `<span class="quote">the persons whom it is safe for the church 
+to let escape</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 236.1
+          . is slan doib uile dia mbe trebuire 
+<span class="ediltr">they are all exempt</span>, 
+            v 146.24
+          . 
+            atait secht n-aithne . . . nocha 
+dlegat a taisic .i. is slan gach aithne dib so uile, 
+              190.27 Comm
+            
+          . 
+
+            slan cach tothlaigthe dia fiastar cach a saithiud, 
+              iii 12.12
+            
+          . 
+
+            sellach lan feich . . . ┐ sellach slan, 
+              i 240.26
+            
+          . bit sellaig slana 
+and chena .i. cleirig, ┐ mna, <span class="lbl">etc.</span>, 
+            242.10
+          . 
+            slan cach soc[h]omsa, 
+cach soc[h]obus, eslan cach n-ecobus i cain lanamna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Stud.inE.Ir.Law" title="eDIL Bibliography">Stud. in E. Ir. Law</strong></span> 2 § 1
+            
+          = 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 342.5
+          . imdich cach corp a meamra, 
+ma[d] socorp, sognimuch, sobesuch, slan, sofoltach <span class="ediltr">free from 
+legal liability</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 369 § 30
+          = 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 278.20
+          . bid slan 
+tú o fholaid Crist `<span class="quote">thou shalt be free from the enmity of Christ</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 803
+          . <span class="trans">
+            <span class="def">deprived</span> of, <span class="def">not</span> <span class="def">entitled</span> to</span>: co ffoccarthaoi s.<span class="oRef">¤</span> é 
+d'ionchaibh a chomairgedh `<span class="quote">that they might proclaim him not 
+entitled to protection</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1072.17
+          
+        </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> <span class="pos Subst." style="color: #ff8000">Subst.</span> Of persons <span class="itype o">o</span>, <span class="gen m.">m.</span> In abstr. sense <span class="itype o">o</span>, <span class="gen n.">n.</span> s.<span class="oRef">¤</span> (ón 
+choroighecht) <span class="gen m.">m.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 38
+        . <span class="itype s.">s.</span> <span class="gen m.">m.</span> 
+          § 96
+        . </p>
+      
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">a person <span class="def">free</span> from <span class="def">legal</span> <span class="def">disability</span>, a <span class="def">sound</span> person</span>: in tan 
+immurgu is creicc iter dá s.<span class="oRef">¤</span> is comsruit[h]iu naidm `<span class="quote">wenn es 
+jedoch ein Kauf zwischen zwei Vollständigen (mit gleichwertigen 
+Objekten) ist</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 22.30
+           (translated 
+            <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 10 § 30
+          ). 
+
+            lan cach slan, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 12.12
+            
+           
+            .i. is [s]lan he ima astad o bias 
+lanad folad comtoirnithi ann .i. is amail no beth lan fola ann 
+dia mbe a slanugad o cind, 
+              20 Comm
+            
+          . 
+            fáilid cech s.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 13.11
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">wholeness</span>, <span class="def">completeness</span>, the state of being <span class="def">uninjured</span>, 
+<span class="def">health</span> (physical and moral):</span> ferr s.<span class="oRef">¤</span> sásad `<span class="quote">it is better to be 
+healthy than glutted</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlv 77.x
+          . 
+            go n-ar therno as an gcath 
+idir sh.<span class="oRef">¤</span> ┐ othrus d'fhearaibh Mumhan, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 92 § 42
+            
+          . 
+            da leicced 
+Poimp da miledhaib slan a claideb d'imbirt forra-somh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+3753
+            
+          . s.<span class="oRef">¤</span> a mhenman <span class="trans">full <span class="def">desire</span>
+          </span>: ar a doilgi leis can slan (lan, 
+<span class="lbl">v.l.</span>) a menman do tharrachtain for a naimdibh `<span class="quote">because of 
+his distress in not having taken full vengeance on his enemies</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1476
+          . 
+            s.<span class="oRef">¤</span> a mhenman d'échtaibh ┐ d'aidhbenaibh 
+d'faghbhail forra, 
+              <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 286.2 (fo. 75b)
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">immunity</span>, <span class="def">freedom</span> from <span class="def">compensation</span>, <span class="def">safety</span>
+          </span>: 
+            rod bi slan 
+sert[h]oimilt caich di arailiu cen ecubus, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Stud.inE.Ir.Law" title="eDIL Bibliography">Stud. in E. Ir. Law</strong></span> 
+54 § 26
+            
+           (= 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 388.14
+          ). 
+            dligid slan craidhe a reir breitheaman, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 58.5
+            
+          . 
+            slan .i. maithem, <span class="frn ">ut est</span> ni slánaigethar 
+truagh triunu . . . nach eitir leo a n-agra um aní berait uatha, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1410
+            
+          . atbert co tibred slan do Laignib ar tidnacal 
+Mailodrain dó <span class="ediltr">that he would spare the Leinstermen in return for 
+the surrender of M.</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B512" title="eDIL Bibliography">Rawl. B 512</strong></span>, 115d17
+          . ronbia s.<span class="oRef">¤</span> do neoch 
+dorigni-siu `<span class="quote">we shall be absolved from your offences</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 
+136.44
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+            <span class="def">indemnity</span>, <span class="def">compensation</span>
+          </span>: 
+            cate s.<span class="oRef">¤</span> a gill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 284
+            
+          . 
+
+            slan ngill fir nad urnaidit ceart fri cach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 178.5
+            
+          . 
+            is 
+dosuigiu ro suide slan ngill iar fut, ro said a slan side co ruice 
+ur-lan cumaili, 
+              340.19
+            
+          . 
+            nis fuigli nad ergeouin na bi mesach 
+slan na fretech, 
+              i 266.13
+            
+          . 
+            curub tualaing slan ┐ fretech .i. s.<span class="oRef">¤</span> 
+dara cenn budéin ┐ fretech dar cenn a fine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1632
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H5.15" title="eDIL Bibliography">H 5.15</strong></span>, 
+17a
+            
+          ). 
+            im tobach a slain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 192.12
+            
+          . saigid a slan iarum 
+ar aithgabail `<span class="quote">er betreibt darauf seine Schadloshaltung auf 
+Grund von Pfändung</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 24.11
+           (translated 
+            <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 
+13 § 42
+          ). 
+            ar-dibdai slan ┐ fuillium ┐ meath ┐ somaine fuilliuma, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 377 § 40
+            
+           (= 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 290.25
+          ). 
+            atait secht n-erca i 
+tuaith asren a fine nad con tuillit slan na somaine cidhbe 
+as-do-comra, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 182.6
+            
+          . atait secht ratha eirnither la 
+Feine ada andsum slan ┐ somuine fria tintud `<span class="quote">die Rückerstattung oder den Ersatz seiner gegebenen Werte</span>', 
+            220.10
+           (translated 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 377.24
+          ). s.<span class="oRef">¤</span> uile a ndorónad and <span class="ediltr">restitution for 
+all that was done there</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6660
+           (TBC). 
+            da fhis in tibritis 
+slan dia bhfoghail . . . asbertsat na tibritis s.<span class="oRef">¤</span> doib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 
+2976
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+            <span class="def">surety</span>, <span class="def">security</span>, <span class="def">guarantee</span>, <span class="def">agreement</span>
+          </span>: 
+            ro gabustair slanu 
+um a comulladh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 6.1
+            
+          . 
+            slan .i. achtugud, <span class="frn ">ut est</span> arna 
+combet na slana-sa . . . .i. na achtaighthi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1478
+            
+          . 
+            na slana 
+badar aturo .i. maithe Ulad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 286.25
+            
+           (Tig.). 
+            ro fuair 
+[Fergus] gur marbhadh iad tar a shlána féin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2149.684
+            
+          . 
+
+            ní gabthái fer díb sin isin bhféin . . . nó go tucdais [a] naitri 
+. . . slána tairrsib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 92.23
+            
+          . teid dagra a shlana ar O nDomnaill `<span class="quote">to make a claim on O'D. for violation of his surety</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Chl.S." title="eDIL Bibliography">L. Chl. S.</strong></span> 17
+          . 
+            mac righ Connacht do bhásughadh . . . tar 
+slánaibh ┐ comhairge Coluim Cille, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 190.9
+            
+          . 
+            a cur a 
+slanaibh fair im chert do dhénamh eter gach naon, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+203.1
+            
+          . 
+            nír chuir a cor no a slán (sláin, <span class="lbl">v.l.</span>) sinn | nírbh ál (áil, 
+<span class="lbl">v.l.</span>) linn gan dol fa dhoirr, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1002
+            
+          . 
+            biad araili, 
+slanaib síd | i ngrádaib icond ardrig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3275
+            
+          . 
+            ná heirg i 
+slánaibh síotha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 15.45
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">f</span>) <span class="trans">
+            <span class="def">challenge</span>, <span class="def">defiance</span>
+          </span>: dorat a slan do `<span class="quote">she defied him</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+v 276.2
+          . s.<span class="oRef">¤</span> carad nó neamhcharad | a dhul uaibhse fá eiteach 
+<span class="ediltr">I defy friend or enemy</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 20.15
+          . do ṡlán a Thaidhg 
+a ṡéana `<span class="quote">I defy you to deny it</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xv 33
+          . 
+            bíodh s.<span class="oRef">¤</span> gach 
+éinḟir eólois | go ndearna craobh chaithreach Breagh | taom 
+budh aithreach dá aigneadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 17.59
+            
+          . tugadh s.<span class="oRef">¤</span> gach fir 
+impe `<span class="quote">all men have challenged her for their own</span>' [<span class="lbl">viz.</span> Ireland], 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 466.18
+          . bīodh slān na fēine fām' fhastōghadh 
+<span class="ediltr">I defy the Fian to catch me</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FeisTigheChon&#xE1;in" title="eDIL Bibliography">Feis Tighe Chonáin</strong></span> 343
+          . s.<span class="oRef">¤</span> cogaid fá chloinn 
+Uilliam `<span class="quote">a defiance of any war against Clanwilliam</span>' (<span class="lbl">i.e.</span> a warning to all not to undertake one), 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 376.12
+          . 
+            bíoth s.<span class="oRef">¤</span> 
+cháich fá chomhardha | go bhfuil d'oighreacht ar Ḟiadh 
+bhFáil | acht foirneart gliadh dá gabháil, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 17.1
+            
+          . a sh.<span class="oRef">¤</span> soin 
+futhaibh <span class="ediltr">I defy them to do so</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 4225
+          . a sh.<span class="oRef">¤</span> fútha ainm an 
+Phapa sin do thabhairt uatha <span class="ediltr">I defy them to name</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 
+3.25
+          . tabhair mo sh.<span class="oRef">¤</span> fa Israel `<span class="quote">defy Israel</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Numbers</strong></span> xxiii 7
+          . benfat-sa de a chenn | ’s a shlán fa fheraib Érenn '<span class="quote">whatever the consequences to the people of Ireland</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> x 108 § 17
+          .</p>
+      
+    
+  
+
+    <p class="result">(<span class="edilb">g</span>) <span class="trans">
+        <span class="def">farewell</span>
+      </span>: 
+        slān na trēd, slān na tāintead, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 230 § 17
+        
+      . In phrr: 
+        slān ūaim do Leith Cuind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 230 § 14
+        
+      . 
+        léigidh so i ndán do dhéanaimh | nó no slán dá seinsgéalaibh '<span class="quote">allow these to be composed in poetry or else bid farewell to their ancient histories</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/GiollaBrighde" title="eDIL Bibliography">Giolla Brighde</strong></span> 212 § 31
+        
+      . 
+        slán agad, a Mhurcha mhóir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PCT" title="eDIL Bibliography">PCT</strong></span> 151
+        
+      .</p>
+  
+
+    
+      <p class="result"> 
+Compds.</p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) With nouns. 
+            <span class="oRef">¤</span>aeb <span class="trans">
+            <span class="def">perfect</span> <span class="def">beauty</span> (?):</span> 
+            ri rodelb 
+datha na ṅgaeth | rosderb fri sratha s., 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 54
+            
+          . 
+            <span class="oRef">¤</span>aisecc <span class="trans">
+            <span class="def">safe</span> 
+<span class="def">return</span>, <span class="def">restoration</span>
+          </span>: do comallad brēithir . . . Coluimcille ria 
+slánaisec . . docum a mathar doridhissi <span class="ediltr">for his safe return</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xxiv 62 n. 5
+          . 
+            <span class="oRef">¤</span>alt: 
+            iarom ba halacht Mugain | s. rodá samsubaid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4300
+            
+          . 
+            <span class="oRef">¤</span>abb <span class="trans">
+            <span class="def">noble</span> <span class="def">abbot</span>
+          </span>: 
+            ranag i Rachrainn na righ 
+| gu slanab sil Cuinn is Che[i]n, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 53.10
+            
+          . 
+            <span class="oRef">¤</span>breth: dia 
+sasar slanbrethaib seanc[h]a[d] la Feine <span class="ediltr">complete, correct 
+judgement</span> (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 458.9
+          . 
+            <span class="oRef">¤</span>chaingen: 
+            ri co saidbrib 
+slanchaingen, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8097
+            
+          . 
+            <span class="oRef">¤</span>chotlud <span class="trans">
+            <span class="def">sound</span> 
+<span class="def">sleep</span>
+          </span>: 
+            s. Iohannis, 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Dec. 27
+            
+          . 
+            <span class="oRef">¤</span>chrécht <span class="trans">a <span class="def">wound</span> in the 
+<span class="def">state</span> of <span class="def">healing</span>, a <span class="def">healed</span> <span class="def">wound</span>
+          </span> (?): 
+            atrái a maic mór-Ulad fót 
+sláncréchtaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1812
+            
+           (rhetoric). 
+            <span class="oRef">¤</span>chride: is tre ḟir 
+flathemon . . . somaine sadaile slanchride `<span class="quote">heiles Hertz</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 
+81 § 13
+          . 
+            nis nernifi sith slaincridhe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 28.21
+            
+          . 
+            <span class="oRef">¤</span>dílgud 
+<span class="trans">
+            <span class="def">complete</span> <span class="def">forgiveness</span>
+          </span>: 
+            slandilgud cinad Adaim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1654
+            
+          . 
+            mad 
+sháil línd slan-dilgud ar cinad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5218
+            
+          . 
+            <span class="oRef">¤</span>dliged: is ed 
+didiu s. salto <span class="frn ">salua ratio</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 10.5
+          . 
+            <span class="oRef">¤</span>ḟuidir one of the 
+sub-divisions of the `fuidir' class of tenant (exact meaning 
+uncertain); see 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> p. 75
+          : ataat .uii. fuid(i)re la Feniu . . . 
+slanfuidir, soerfuidir, <span class="lbl">ibid.</span> 
+            65 § 7
+          . 
+            <span class="oRef">¤</span>íc <span class="trans">
+            <span class="def">complete</span> <span class="def">cure</span>; <span class="def">salvation</span>
+          </span>: 
+            srotha slanicí somblasta somilsi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 243a24
+            
+          . 
+            dá chur 
+san tobar shláin-íce, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4733
+            
+          . 
+            do'n chorn tsláin-íce na 
+Páise, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 52.3
+            
+          . 
+            <span class="oRef">¤</span>íccaidecht <span class="trans">
+            <span class="def">salvation</span>
+          </span>: 
+            sláinícaidecht do anmannaib <span class="ediltr">complete redemption of souls</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 168
+            
+          . 
+            <span class="oRef">¤</span>íccid, later 
+            <span class="oRef">¤</span>íccide <span class="trans">a <span class="def">saviour</span>; a 
+<span class="def">healer</span>
+          </span>: 
+            ro chreit in slánicid Isu Crist, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2270
+            
+           (FA). 
+            eipistil 
+int Ṡlánícceda ar Coimded-ne, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 192 § 1
+            
+          . as éisim 
+sláinícidhe tsíl Adhaim aithremail <span class="ediltr">the healer</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 205.13
+          . 
+Also <span class="trans">a <span class="def">salve</span>, <span class="def">balsam</span>
+          </span>: 
+            admuinur in slánicid foracab Diancecht 
+lia muntir corop slán ani forsate, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 249.9
+            
+          . 
+            cengal na 
+mbuidél ina roibe in tslániccidh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xix 40.9
+            
+          . 
+            <span class="oRef">¤</span>ṡén <span class="trans">
+            <span class="def">healing</span> 
+<span class="def">omen</span>
+          </span>: 
+            lossa síde ┐ lubi ícci ┐ slansén, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2478
+            
+          . 
+            <span class="oRef">¤</span>ṡúilige: 
+ro geallad nem ┐ s. (slánsánlige, <span class="lbl">v.l.</span>) don tí la[sa] mbíad . . . 
+in t-ámrad-sa Senaín <span class="ediltr">good eyesight</span> (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 225.3
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) With adjj. 
+            <span class="oRef">¤</span>chréchtach: 
+            go beith sleamhain sláin-chréachtach dhó, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2321
+            
+          `<span class="quote">in a state of healthy, rapidly-healing wounds</span>?' Gl. 
+            slánaigid triana fertaib . . . corbat 
+sláincrechtaig dia éis, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3127
+            
+          . 
+            dobhí slemhon sláin-chrechtach iarsin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 102.7
+            
+          . 
+            <span class="oRef">¤</span>dírech <span class="trans">quite <span class="def">straight</span>
+          </span>: 
+
+            emuin .i. eomuin, <span class="frn ">eo rectum uel bonum</span> moin <span class="frn ">a monte</span>. emuin 
+didiu slándīrech, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 388
+            
+          . 
+            <span class="oRef">¤</span>etarg(g)airech: rop s. fírión 
+iter lobru ┐ tríunu <span class="ediltr">impartial</span> (lit. <span class="ediltr">soundly-mediating</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 526
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) With verb: slán-seiss <span class="trans">
+            <span class="def">hail</span>
+          </span> (lit. <span class="ediltr">thou shalt sit safe</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8242
+          
+( 
+            <span><strong class="pop" style="color:blue" href="bibliography/HailBrigit" title="eDIL Bibliography">Hail Brigit</strong></span> 1
+          ). See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=saidid">saidid</a></span>.</p>
+       
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

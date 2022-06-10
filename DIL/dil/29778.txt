@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="29778">léigenn</h3><span class="citation">Cite this: eDIL s.v. léigenn or <a class="reference" href="29778">dil.ie/29778</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                legend</p></div><div class="col-sm-9 result_content">
+   
+
+
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen n.">n.</span> (Lat. <span class="frn ">legendum</span>) <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=l&#xE9;gaid">légaid</a></span>. <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        a legend
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+84d4
+        
+      . Originally used only of Latin ecclesiastical learning (as 
+opp. to senchas, fénechas, etc.).</p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">act of <span class="def">studying</span>, <span class="def">reading</span>
+        </span>: ni do legund and docoadsa 
+`<span class="quote">it was not to study there that I had come</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 18d6
+        . 
+          ni 
+legend ro llegusa la Petor, 
+            19a6
+          
+        . 
+          ro bá óc legund, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 148a15
+          
+        . 
+
+          ar legend leo, 
+            8
+          
+        . is huise a legend gl. legendus, 
+          59b6
+        . 
+<span class="frn ">(accentum . . . acutum) . . . legendo (in grauem conuertitur)</span> 
+.i. o légund .i. hi filedacht <span class="ediltr">in reading</span>, 
+          213a10
+        . a tanic do 
+néblégund a tír do legund `<span class="quote">to read whatever sacred reading 
+had come into the country</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 136.21 (§ 25)
+        . 
+          mac 
+becc oc léigiunn a tṡalm la Mael ruain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 12.12
+          
+        . fri 
+toeb legind mic Coin [Ulad] <span class="ediltr">in addition to the instructing of 
+Cú Ulad's son</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Misc.Arch.Soc." title="eDIL Bibliography">Misc. Arch. Soc.</strong></span> 146.6
+        .</p>
+     
+      <p class="result"> 
+Attrib. <span class="case g">g</span>
+        <span class="number s.">s.</span> áes léiginn <span class="trans">
+          <span class="def">clerical</span> <span class="def">students</span>
+        </span>
+        <span class="trans">; learned <span class="def">monks</span>, <span class="def">teachers</span>
+        </span> (
+          <span><strong class="pop" style="color:blue" href="bibliography/ChurchOrg.inIr." title="eDIL Bibliography">Church Org. in Ir.</strong></span> 344
+        ): ind áisso gráid <span class="frn ">et</span> 
+legind `<span class="quote">the clergy and students</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 29a13
+        . 
+          in t-oes graid 
+don ernaigthi / . . . / oes legind do forcetul, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 261b49
+          
+         = 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 408b42
+        . a llán di lebraib .i. dia tudecht do áes légind 
+<span class="ediltr">to instruct students in them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9638
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 210.20
+        ). 
+both léiginn <span class="trans">
+          <span class="def">cell</span>, <span class="def">study</span>
+        </span>: 
+          ainm do boith légind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1146
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 122
+        ). fer léiginn <span class="ediltr">professor of sacred scripture and 
+theology in a monastic school</span>, often a bishop, abbot or `airchinnech' (see below). Colgan, Trias Thaumaturga, translates as 
+<span class="quote">Scholasticus, seu Lector Ardmachanus</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TriasThaum." title="eDIL Bibliography">Trias Thaum.</strong></span>
+           p. 298
+         = 
+          fer leiginn 
+Aird Macha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 524.z
+          
+         (A.D. 1012). <span class="frn ">Archischolasticus, seu 
+supremus Moderator scholae Ardmachanae,</span> <span class="lbl">ibid.</span> = 
+          ardfer 
+leiginn Aird Macha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 596.17
+          
+         (A.D. 1056). 
+          Taicthech . . . 
+fer leginn Aird Macha <span class="frn ">quieuit</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Inisf." title="eDIL Bibliography">Ann. Inisf.</strong></span> 808
+          
+         (<span class="lbl">cf.</span> <span class="frn ">dormitatio 
+Toictich, abbatis Ard Machae</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 809
+        ). 
+          sai litri .i. in ti ac ata 
+saidecht na litri .i. in fear leginn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 102.8 Comm
+          
+        . 
+          dorat 
+. . . rí Erenn deich mbú cecha bliadhna . . . do fer leiginn 
+Ard Macha . . . ar leighinn do dhenamh do macaibh leighinn 
+Erenn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> ii 160.x
+          
+        , 
+          z 0
+        . 
+          ro-fer leighinn do bhí na espuc a 
+Ráth bhoth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> ii 224.2
+          
+        . 
+          ro chinnset clérigh Ereann na 
+badh fer leighinn i ccill i nErinn an fer na badh dalta 
+Arda Macha cédus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1146.13
+          
+         (which Colgan translates 
+<span class="frn ">sacrae Paginae seu Theologiae Professor</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TriasThaum." title="eDIL Bibliography">Trias Thaum.</strong></span> 
+p. 309
+        ). feras léiginn see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=feras">feras</a></span>. mac léiginn <span class="trans">
+          <span class="def">clerical</span> 
+<span class="def">student</span>
+        </span>: 
+          canas tic mac leghind / ticim o Chluain chelbind / 
+iar leghadh mo leghind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 93 § 142
+          
+        . 
+          a macca lēginn 
+lēgaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 688
+          
+        . 
+          mac légind . . . .i. Ninnid scolaige, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 76.13
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">reading</span> <span class="def">aloud</span>
+        </span>: 
+          éisdecht re l.<span class="oRef">¤</span> láinbinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 158.22
+          
+        . 
+          gid 
+cantar na sailm . . . / gé atá léighenn uas in linn, 
+            105.5
+          
+        . 
+          ag 
+radh leghinn isin leabar so, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xi 198.37
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">learning</span>, <span class="def">doctrine</span>
+        </span>: la hógi alt légend `<span class="quote">perfection of high 
+studies</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Sept. 26
+        . 
+          mac Mail da lua in leginn léir, 
+            114.18
+          
+         
+(= 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> i 58 § 130
+        ). 
+          lēgenn Pātraic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 303 § 13.
+          
+         
+légend Hérenn Ross Ailithre <span class="ediltr">Ireland's centre of learning</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 17
+        . 
+          ro alt . . . ind ingen . . . fri légend ┐ gáis ┐ eladain, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 279a48
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 413.28
+        ). 
+          ar a mhed do ḟilideacht ┐ do 
+bhriathraibh ┐ do legeand rothaisigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 78
+          
+        . Eo Mugna 
+. . . / dariac[h]t anall ra leas leigind / crand adceas a 
+n-Eirind uill <span class="ediltr">for the benefit of learning</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> x 82 § 55.
+         
+
+          léigheann cruaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 59.23
+          
+        . 
+          legend na hecluissi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 
+254.25 (§ 250)
+          
+        . 
+          do ghlac an eagluis san ccomhairle Thrionta 
+. . . le leighean S. Auguisdin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 3495
+          
+        . 
+          ar órnáid an 
+léighinn ┐ na liteardhachta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/P&#xE1;rl.namB." title="eDIL Bibliography">Párl. na mB.</strong></span> 139
+          
+        . See noíbléigenn <span class="lbl">s.v.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=no&#xED;b">noíb</a></span>.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">In Laws (mostly Comm.) <span class="def">written</span> <span class="def">law</span> (as oppd. to 
+that preserved orally):</span> 
+          besid n-ecnuigiu .i. i leabruib .i. a 
+leginn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>
+             ii 280.14 Comm
+          
+        . deir in leiginn: <span class="frn ">criminosus criminosum accusare non potest</span> (<span class="lbl">sic leg.</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 674
+        -
+          5
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, p. 
+329
+        ). <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 713
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, col. 521
+        ) and adeir in lex 
+`<span class="quote">qui in possessione</span> (<span class="lbl">sic leg.</span>) etc.', 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span>
+           624
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, col. 463
+        -
+          4
+        ). 
+ni fuil in legend cen saire (<span class="lbl">i.e.</span> all learned in the law are 
+entitled to some degree of nobility), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 102.7 Comm
+        . 
+Differentiated from fénechas: 
+          breitheam tri mberla (.i. 
+fenechus ┐ filidecht ┐ legend), 
+            100.18 Comm
+          
+        . breitem teora 
+mbret .i. bret feni ┐ breth filed ┐ breath berla bain bias . . . 
+breitheamh bus eolach isna teora brethaib .i. i fenechus ┐ 
+i filidecht ┐ i legend. . . . Berla bain .i. bus eolach a legind 
+du neoch taidleas feneachus de `<span class="quote">who is learned in the written 
+law as far as the</span> feinechus <span class="ediltr">is concerned therewith</span>', 
+          92.16
+        -
+          21
+Comm
+        . Equated with fénechas: 
+          tri cuir . . . nach airmead liubair 
+na Feine .i. im (? in) leigind .i. liubair in feinechais, 
+            438.5 Comm
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+          <span class="def">text</span>, a <span class="def">reading</span>
+        </span>: ind legind gl. lectionis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 35a11
+        . is 
+ed adfet a legend gl. secundum lectionis fidem, 
+          84d4
+        . i 
+n-immfognam ┐ i ssreith legind `<span class="quote">in construction and in order 
+of reading (in a connected text</span>?)', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 30a12
+         (gl. in lectione). 
+
+          is ed lēgthair 'sind lēgund, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 23.32
+          
+        . 
+          legeand, gramadach, is gluas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 54
+          
+        . leighend rochruaidh (of a Latin 
+hymn), 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 206.33
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) <span class="trans">
+          <span class="def">instruction</span>, <span class="def">education</span>, <span class="def">study</span>
+        </span>: ni recar less legind and 
+<span class="ediltr">there is no need for instruction there</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12c3
+        . 
+          ingen óc 
+alaind co ndagcheneul ┐ co ndaglégund, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 279b24
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 
+414.17
+        ). o tainic aimser leiginn dó <span class="ediltr">when the time came for 
+him to be taught</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 812
+        . légend la sobeóil senōir 
+<span class="ediltr">being instructed by an eloquent elder</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 65 § 11
+        . 
+          adubairt 
+go mbiadh fri leighenn iarsin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iii 14.13
+          
+        . léighionn 
+caguidh is cunntois `<span class="quote">training in warfare and computation</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1919, 439 § 4
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">g</span>) an Léigheann Órdha = <span class="frn ">Legenda Aurea</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 59.30
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">h</span>) In phrases. do-gní léigenn do <span class="trans">
+          <span class="def">teaches</span>, <span class="def">instructs</span>
+        </span>: 
+denad in eacluis leginn do <span class="ediltr">let the church instruct him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iii 40.12 Comm
+        . do-rinneadh lēighean dō iar sin `<span class="quote">he was 
+educated</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 69.158
+        . 
+          ar leighinn do dhénam do 
+macaibh leighind Ereann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1170.z
+          
+        . tíachtain léiginn 
+see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=t&#xED;acht">tíacht</a></span>; note also: conabu indligthech na graidh eagna cin 
+co haithighdís egluis, uair atá [tiachtain] léighinn acu(d) 
+ina aighidh <span class="ediltr">because they can plead that they are engaged in 
+teaching</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 331
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, col. 256
+        ) (<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 124.22 
+Comm
+        .).</p>
+    
+  
+  
+    <p class="result"> 
+Compd. 
+        <span class="oRef">¤</span>ḟer: 
+        bean Ḟéilimidh ní ḟeich í / dí gu breith 
+léighindḟir lé, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1840.
+        
+      
+    </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="33060">nél</h3><span class="citation">Cite this: eDIL s.v. nél or <a class="reference" href="33060">dil.ie/33060</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                nél, nél, neóil, níul, néol, niuil, néoil, níulu, néolu, nél, néll, néalta</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen m.">m.</span> (orig. <span class="gen neut.">neut.</span>?) <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        in nél
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 83a4
+        
+      . 
+        á nél
+        , 
+          82d11
+        
+       (`<span class="quote">its 
+cloud</span>', Thes.; acc. to 
+        <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 53 § 397
+       á = neut. art.). <span class="case g">g</span>
+      <span class="number s.">s.</span> (Mid. Ir.) 
+niúil, neóil. <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        níul, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8030
+        
+      ; Mid.Ir. also néol (neól). <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+
+        niuil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 120d11
+        
+      ; Mid.Ir. also 
+        néoil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 230b5
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        níulu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+25b23
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8108.
+       
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8584.
+       
+        néolu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1703.
+        
+       <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        inna nél
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 108c9
+        
+      , <span class="lbl">cf.</span> 
+        144d4
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5805.
+       In Mid.Ir. the form néll is 
+common (already in LU). néull (<span class="case g">g</span>
+      <span class="number s.">s.</span> -iúi-, -eói-, <span class="case d">d</span>
+      <span class="number s.">s.</span> -iú-, -eó-), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. § 75
+       (nél, néll <span class="lbl">v.l.</span>). Mod.Ir. <span class="number pl.">pl.</span> often néalta.</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">a <span class="def">cloud</span>
+        </span>; gl. nubes, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25b23
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 108c9
+        , 
+          120d11
+        . 
+          nēl 
+<span class="frn ">quasi uēl a nomine uēlum</span>, ar is fial ē etruinde ┐ grēin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 989.
+          
+         nell, gl. nebulae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 337.
+         
+          nel derg teintide, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+8025.
+          
+         
+          ticfa fleochud . . . asind níul dorcha, 
+            8030
+          
+        . 
+          ní thaudchaid 
+nél dar gréin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 66.
+          
+         
+          columa niúil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1714.
+          
+         nel .i. solus, 
+<span class="frn ">ut est</span> co tuitet nemhe niuil truim `<span class="quote">a heavy cloud's poisons</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1281
+         (gloss due to misunderstanding, <span class="lbl">cf.</span> nél solus 
+ <span class="ediltr">a bright cloud</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5860
+        ). 
+          céin beti neóil im gréin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 38.48
+          
+        . 
+          co tangadur néoill deirid láe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7291.
+          
+         
+          co 
+roa niulu nime, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8108.
+          
+         
+          cia rosia . . . co neolu nime, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+6063.
+          
+         
+          amail niullu fleochuidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5665.
+          
+         
+          a fil do lindaib 
+isin domun, etir niula ┐ srotha ┐ aibhne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 134 § 112.
+          
+         
+          re 
+funiud nell na nona, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1778
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6280
+        ), <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 10.
+         a 
+moich-néll na maidne <span class="ediltr">the early morning mists</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2102.11
+        . 
+
+          néall na hoidhche, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 1556.
+          
+         
+          neóill thiugha an 
+aiéir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">2 Samuel</strong></span> xxii 12.
+          
+         
+          neulla tiugha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Job</strong></span> xxii 14
+          
+        . 
+          an tsíon is 
+teó i neóllaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xxi 29
+          
+        .</p>
+     
+      <p class="result">
+        <span class="pos pn" style="color: #ff8000">pn</span> 
+rí nél <span class="trans">
+          <span class="def">king</span> <i>of (the) clouds</i>
+        </span>, common <span class="trans">epithet of <span class="def">Deity</span>
+        </span>, <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 
+May 11
+        , 
+          Aug. 27
+        , 
+          Ep. 398.
+         immon ríg os nélaib, <span class="lbl">ib.</span> 
+          Prol. 22
+        , 
+ <span class="lbl">cf.</span> 
+          Ep. 566.
+         
+          a mmo Choimdiu néll!, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 293 y
+          
+        .</p>
+     
+      <p class="result"> 
+In wider sense: 
+          ro thatin in slog aingel . . . co mbatar ina 
+niúl gel imme, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7239.
+          
+         
+          fó troim-nell teineadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1964. 
+24
+          
+         . fig. 
+          dom dhíon ar nélaibh na plágh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 236.6
+          
+         (perh. 
+in sense <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=n&#xE9;l (b)">b</a></span>).</p>
+     
+      <p class="result"> 
+Occas. used apparently of complexion or expression of 
+countenance: <span class="lbl">cf.</span> 
+          mar Ḟer ṅdiad nél ndatha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4023
+          
+         (<span class="quote">F. von 
+der Wolkenfarbe</span>, Wind., an allusion to the pallor of death; 
+but possibly a play on the meaning of the name Fer d., <span class="lbl">cf.</span> 
+the <span class="pos npr." style="color: #ff8000">npr.</span> 
+          Fernéll, 
+            4891
+          
+        ). 
+          sgaíledh néll ngeal do grúaidheadh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. ex. 1237.
+          
+         
+          corp tana truagh | nemhglan a nél, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i p. 26 § 12
+          
+        . 
+          néal seirce 'na silleadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> x 5.
+          
+        
+      </p>
+    
+  
+  
+     
+
+      <p class="result">(<span class="edilb">b</span>) <span class="trans">a <span class="def">swoon</span>, <span class="def">faintness</span>, <span class="def">stupor</span>
+        </span> (freq. in <span class="number pl.">pl.</span>): 
+          dos-fánic nél . . . 
+co tarmairt héc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1687
+          
+         = 
+          tanic nell chuice, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 112b28
+          
+        . 
+
+          darochair nél ┐ tam ┐ tassi bar Coinculaind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3968
+          
+         = 
+tuitis taimhnell for C., St. 
+          co torchair ┐ coro laig nél fair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+328b49
+          
+        . 
+          atrochratar . . . i nnélaib ┐ i tassib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 265b22
+          
+         = 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/MU" title="eDIL Bibliography">MU</strong></span> 26.14
+        ; <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 6601.
+        
+         téid L. i néall <span class="ediltr">swoons</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 
+4544
+        . 
+          dororchair C. a nel . . . duscid C. asa nel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Death-talesoftheUlsterheroes" title="eDIL Bibliography">Death-tales of the Ulster heroes</strong></span> 
+38.6
+          
+        , 
+          7
+        . 
+          ro eirigh S. asa niull, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 158.1
+          
+        . 
+          ro eirigh asa 
+neoll, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 27.4
+          
+        . 
+          atrachtatar . . . asa nellaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 7.11
+          
+        . 
+? 
+          'san domnach ruc Muire in mac Crist co nellaib ar midnacht, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 144 § 15
+          
+         (perh. in lit. sense). 
+          dochuaidh a n-eaxdasis 
+[= <span class="frn ">exstasis</span>] .i. a néul spioradálta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 330.9
+          
+        . 
+          go ndeachaidh sí a néalaibh báis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> iv 162.14
+          
+        . 
+          tromnella tiugba[i]s, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 190.9
+          
+        . nell troch ┐ fordergadh fola <span class="ediltr">the stupor of those 
+about to die</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 220.14
+        . 
+          néll naíden, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 53 § 25
+          
+        , 
+see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=no&#xED;diu">noídiu</a></span>. bid n.<span class="oRef">¤</span> do Nár, ní ba nert, | tíachtain chucum-sa 
+dar cert <span class="ediltr">weakness (defeat</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 48.85
+        . </p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">b</span>
+        2) <span class="trans">a <span class="def">vision</span>, <span class="def">dream</span>:</span> néall fir choirr ós cionn Tomáis, | néall maighre ós mhac na flatha '<span class="quote">a vision of a hunch-back over Thomas; the vision of a salmon over the lord’s son</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xviii 142 § 25
+        . gan togra a-noir agad neoll '<span class="quote">no claim to keep thee in the West … is made by thy dream</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 15 § 12
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) in B. na filed, <span class="trans">
+          <span class="def">sea</span>:</span> 
+          co torracht Coirbri tar nell, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 
+103.4
+          
+         = 
+          dar muir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 186.23
+          
+        .</p>
+    
+  
+  
+    <p class="result"> 
+Compds. 
+        <span class="oRef">¤</span>bendacht: 
+        beandacht nime, nélbendacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 560.6
+        
+      . 
+        <span class="oRef">¤</span>bruig: fri nelbruig (i.e. <span class="ediltr">heaven</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 123a2
+      . 
+
+        <span class="oRef">¤</span>ceo: co neillchiachaib nimi <span class="ediltr">cloud-mists</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 230b5
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 
+978
+      ). 
+        <span class="oRef">¤</span>cith: mar gréinghail an néillcheatha (<span class="ediltr">light) shower</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 296
+       (<span class="lbl">cf.</span> cithnél s.v. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 cith">1 cith</a></span>). 
+        <span class="oRef">¤</span>gal <span class="trans">`<span class="def">cloud-strife</span>', <span class="def">cloud-rack</span>:</span> 
+
+        tromnélghal dorcha dubhcíach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 470
+        
+      , <span class="lbl">cf.</span> 
+        3817
+      . 
+        trom-nellgala dluithi doburda duibciach, 
+          4420
+        
+      . 
+        <span class="oRef">¤</span>glaine: Loch 
+Néil cona nélglaine `<span class="quote">cloudy brightness</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 406.30
+      . 
+With adj.: do nim nell-solus <span class="ediltr">of bright clouds</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 243a19
+      ; <span class="lbl">cf.</span> 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5860
+       where n. solus is prob. not a compd.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

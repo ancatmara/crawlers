@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="21871">1 fíach</h3><span class="citation">Cite this: eDIL s.v. 1 fíach or <a class="reference" href="21871">dil.ie/21871</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                feich, fiach, dfēch, féich, fíachu, feich</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span>  <span class="itype o">o</span>, <span class="gen m.">m.</span> <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        ind feich
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 55a7
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        fiach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 2b25
+        
+      . (for 
+
+        dfēch, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 17b1
+        
+      &gt; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 239.20
+      , see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=d&#xE9;g">dég</a></span>). <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        féich, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+4a10
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        fíachu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 7053
+        
+      . </p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <i>an</i> <span class="def">obligation</span>, <i>a</i> <span class="def">payment</span> <span class="def">due</span> 
+<span class="def">debt</span>, also <span class="def">legal due</span>, <span class="def">fine</span>, <span class="def">penalty</span>:</span> iar fíach (gl. secundum 
+debitum) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 2b25
+        . 
+          nipa deoladacht acht bid fíach, 
+            2b26
+          
+        . 
+ind feich
+         (gl. debiti) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 55a7
+        . dlegtir féich dúib `<span class="quote">debts are 
+owed by you</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4a10
+        . meni dlessad ḟiachu do neoch <span class="ediltr">unless 
+someone owed him debts</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2988
+        . is me dliges fíachu 
+`<span class="quote">'tis I that am entitled to dues</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 70
+        . intí dia ndligi 
+ḟiachu dosfothlaig fair <span class="ediltr">he who owes thee debts, demand them 
+from him</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 122a45
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 184
+        ). 
+          intí dia ndligi ḟiachu 
+saig fair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span>
+             116 b 37
+          
+        . 
+          deich meic Conaill Cloen ... a cōic dīb 
+frislontis a fēich a cōic aile ronascitis a fēich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 155a16
+          
+        . 
+gebait im fiachu <span class="ediltr">I will accept it in satisfaction of my dues</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 73
+        . 
+          ni f.<span class="oRef">¤</span> opaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5668
+          
+         (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=opad">opad</a></span>). 
+          ni gébed Joseph 
+nach fiach | óna tuathaib acht mad biad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3389
+          
+        . 
+          ní gata 
+Adomnan fiachu ar flaith ┐ eclais ┐ fine dia mbi dír, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xE1;inAd." title="eDIL Bibliography">Cáin Ad.</strong></span> 29
+          
+        . oiret bé [in maer] ic tabach fhiach <span class="ediltr">while the steward 
+is levying the dues</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 57.13
+        . In Law-tracts: 
+          fiach 
+ní ro dlomthar do flaithib (.i. is fiachach aní aisnéither ... 
+do gelladh dona gradaib flatha), 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 717
+          
+         (&lt; 
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, c. 
+523
+        ). <span class="lbl">Cf.</span> 
+          is fiach ní dlomthar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 176.5
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TE" title="eDIL Bibliography">TE</strong></span> 
+3
+        ). 
+          do saire ar fiachaib sin i n-urradhus, ┐ nochon uil saeire 
+ar biadh i n-urradhus amhail ata i cain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2351
+          
+         (&lt; 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. B 506</strong></span>, 
+f. 40
+        ). fíach dleghar dimse sunn indiu <span class="ediltr">the debt which is 
+due from me here to-day</span> (`<span class="quote">die Schuld die ich hier heute schulde</span>') 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> § 53
+        . gaib fort laim fiach damsa huaīt <span class="ediltr">undertake 
+to pay me the debt</span> 
+          § 51a0
+        . ni beir fothuth fiachu <span class="ediltr">feeding</span> (of 
+the creditor by the debtor) <span class="ediltr">does not absolve debts</span> 
+          § 63
+        . 
+fiadnaisi con-oi ... fiachu <span class="ediltr">witness safeguards debts</span> <span class="lbl">ib.</span> duine 
+atā ag tobach fiach, cidh ēric fogla, cidh feich cuir no cunnartha `<span class="quote">fine for injury or debts of bargain or contract</span>' (i.e. 
+ <span class="ediltr">payment due by reason of bargain</span>, etc.) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 352.12 Comm.
+         
+atá in rāith aca atmāil co ndechaidh risna fiachaib <span class="ediltr">the 
+surety admits that he guaranteed the dues</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 43
+        . 
+icuidh in rāith féin na fiacha <span class="lbl">ib.</span> Dist. from `<span class="frn ">díre</span>': atait 
+secht tobaig ... nacon dlegat dire na fiacha ... for nech a 
+n-elo `<span class="quote">seven levyings which are not entitled to `<span class="frn ">dire</span>' nor 
+debts from a person for deserting</span>' 
+          178.2
+        . 
+          digaib di diriu 
+fiach a nothrusa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> § 10
+          
+         (but: fiacha .i. corpdiri 
+
+          § 19
+        ). secht fuile ... nacon tuillit fiachu na othrus <span class="ediltr">seven 
+blood[shed]s that do not incur fines or sick maintenance</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+v 142.2
+        . 
+          an tí dofeith biodhbadha i ttuaith ... doslí fiacha 
+amhail gach mbiodhbaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 35.16
+          
+        . secht n-athgabala ... is inti nodo gaib asren fiach ina ngabail `<span class="quote">pays fine 
+for taking them</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 254.3
+        . cach oín tobó fiachu inna 
+cānae `<span class="quote">everyone who shall levy the dues of the Law</span>' [<span class="lbl">sc.</span> of 
+Adomnán; the fines due from violators of it] 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xE1;inAd." title="eDIL Bibliography">Cáin Ad.</strong></span> 48
+        . 
+in tan dombongatar feich <span class="lbl">ib.</span> folongat comnaidm fiach 
+`<span class="quote">sustain a joint contract of debts</span>' <span class="lbl">ib.</span> 
+          dia ngontar maic 
+[e]annaic ... is dia n-uamaib adnacail tiaguit a feich, ┐ a 
+feich erradais dia flaithib a finib, 
+            40
+          
+        . 
+          it cobfiachaigh tra 
+fir ┐ mna hi cacha fiachaib beccaib ┐ móraib ..., 
+            45
+          
+        . sellach 
+lánfeich ┐ sellach lethfeich <span class="ediltr">a looker-on who incurs full fine ... 
+half-fine</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 240.25
+        . 
+          an baile a ndlegar bas o tuaith 
+gabar feich o eclais, 
+            iv 236.13
+          
+        . Somet. used for <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=&#xE9;ric">éric</a></span>, see 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> p. 120 n. 2
+        . With gen. <span class="trans">of <span class="def">offence</span>:</span> fiach indlighidh 
+athgabala <span class="ediltr">fine for illegal distress</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 86.17 Comm.
+         
+          co ro 
+ica in flaith fiach na gubreithe, 
+            v 178.16 Comm
+          
+        . 
+          is fiach 
+dítin in gach ní dibh sin on eclais, 
+            iv 234z
+          
+        . 
+          it é féich thairmthechta in domnaig .i. unga ... for fer imthéit ..., 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 
+204.14
+          
+        . mas do marbad indilsigh docuaidh ┐ dilsech dorala 
+do marbad, fiach maigne ┐ imraid uaid don indilsech risi 
+ndechaid (`<span class="quote">fine in respect of place and of intention</span>') 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iii 136.14
+        . 
+          ar ḟiach n-iomraidhte, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 50.19
+          
+        .</p>
+     
+      <p class="result"> 
+Rarely with gen. <span class="trans">of <span class="def">creditor</span>:</span> ó nach féadann ... dul ó 
+fhiachaibh an Airdríogh <span class="ediltr">escape his debt to the Lord</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> 
+iv 5
+        . </p>
+     
+      <p class="result"> 
+Theol.: log dún ar ḟiachu <span class="frn ">debita nostra</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7937
+         ( 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Matthew</strong></span> 
+vi 12
+        ). 
+          maith dhuinn ar bhfiacha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;H&#xE9;odhusa" title="eDIL Bibliography">Ó Héodhusa</strong></span> 84
+          
+        . 
+gurab iomdha fiacha luighes oraind ag Dia ar son ar bpecaidh 
+<span class="lbl">ib.</span> </p>
+     
+      <p class="result"> 
+<span class="trans">Hence in general, <i>a</i> <span class="def">penalty</span>, <span class="def">punishment</span>:</span> 
+          f.<span class="oRef">¤</span> a mescai, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 148.6
+          
+        . <span class="trans">Of religious <span class="def">penance</span>:</span> iar tabirt feich <span class="ediltr">after 
+giving dues</span>, i.e. <span class="ediltr">doing penance</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 43
+        . f.<span class="oRef">¤</span> n-aidci 
+lúoin do tabairt isind sathurn <span class="ediltr">to perform Sunday night's 
+penance on Saturday</span> 
+          § 26
+        . 
+          doberair dia sathairn im noin 
+fiach aibne na hoidche luain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 11b7
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RuleofTallaght" title="eDIL Bibliography">Rule of Tallaght</strong></span> 78
+        ). ni 
+ta bar f.<span class="oRef">¤</span> aibne <span class="ediltr">flagellation is not inflicted [is not paid</span>] 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 30
+        . arra troiscthe do fiachaib aibne <span class="ediltr">flagellation 
+equivalent to fasting</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 490.22
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">b</span>) <span class="trans">
+          <i>a</i> <span class="def">duty</span>, <span class="def">obligation</span> 
+(esp. in <span class="number pl.">pl.</span>):</span> meabhair donti dian fiacha (.i. dona senchadhaibh) <span class="ediltr">whose duty it is (to remember</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> i 112.4
+        . 
+fiacha orthaibh a furtacht <span class="ediltr">they were bound to help it</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Miscell.Celt.Soc." title="eDIL Bibliography">Miscell. Celt. Soc.</strong></span> 354.20
+        . 
+          ós d'ḟiachaibh airdríogh Mumhan | do 
+rígh Éireann umhlughadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> ix 3
+          
+        . (atá) d'fiachaib 
+for (ar) <span class="trans">is <span class="def">incumbent</span> on, is a <span class="def">duty</span>, <span class="def">obligation</span> of:</span> 
+          gonadh 
+aire sin bhíos fiacha aige oraind is na deghoibrighthibh 
+léigmíd thorainn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;H&#xE9;odhusa" title="eDIL Bibliography">Ó Héodhusa</strong></span> 110
+          
+        . 
+          ata ... coimétt an tire 
+sin d'fiachaibh oruinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 87.34
+          
+        . 
+          an biathachas do bhí 
+d'f.<span class="oRef">¤</span> orra do thabhairt, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 2628
+          
+        . 
+          i n-aghaidh gach 
+laoi dá raibhe d'fhiachaibh orra bheith ar an bhfásach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4898
+          
+        . do bhí d'ḟ.<span class="oRef">¤</span> air gan a rún do nochtadh <span class="ediltr">he was 
+bound not to reveal his secret</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 2684
+        . 
+          an tan do bhiadh 
+d'ḟ.<span class="oRef">¤</span> orra aifreann do rádh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4515
+          
+        . 
+          a ndlighthear dhíom 
+... ní coir dhamh a iarraidh a chur dhíom acht a dhiol do 
+bhrigh go bhfuil sē d'fhiachaibh orm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RuleofTallaght" title="eDIL Bibliography">Rule of Tallaght</strong></span> 12.19
+          
+        . 
+
+          comhaill do gheallamhuin amail dobeth si [d]fiachaib (<span class="lbl">sic 
+leg.</span>] ort, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 140.16
+          
+        . d'fiachaibh ar lucht inotachta na 
+cathrach almsa do denomh <span class="ediltr">those who enter the city are 
+obliged to give alms</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 100.5
+        . 
+          d'ḟ.<span class="oRef">¤</span> ar an Iustis Donn 
+Iohn do leiccen iomlán, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2302.3
+          
+        . cuirim d'ḟiachaib 
+ar ... <span class="trans">I <span class="def">compel</span> ... to:</span> 
+          cuirid orm d'ḟiachaibh ... dol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 
+3.16
+          
+        . 
+          cuiris d'f.<span class="oRef">¤</span> air ascnámh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 118.17
+          
+        . without 
+ar and pers.: <span class="trans">I <span class="def">cause</span>:</span> cuirfidh mé dfíachaibh a náthrughadh <span class="ediltr">I will cause them to be removed</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Jerem.</strong></span> xv 4
+        . gaibim 
+d'fiachaib orm <span class="ediltr">I take on me as a duty:</span> 
+          díon a threabh ... 
+do ghabh d'fh.<span class="oRef">¤</span> air, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 222.32
+          
+        . téit i fiachaib ar 
+ <span class="trans">is laid to the <span class="def">charge</span> of, <span class="def">serves</span> as a <span class="def">claim</span> on:</span> air féin ar túis 
+téid i bhfiachaibh <span class="ediltr">it is he that first incurs the obligation</span> (<span class="lbl">i.e.</span> 
+his deed rebounds on himself) 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 29.28
+        . nár dhligh sí 
+dul i bhf.<span class="oRef">¤</span> ar Éireannchaibh <span class="ediltr">it ought not to be brought as 
+a charge against</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 10.13
+        . 
+          na leig cathaighthe an 
+dhiabhail do dhol a bhf.<span class="oRef">¤</span> oirne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;H&#xE9;odhusa" title="eDIL Bibliography">Ó Héodhusa</strong></span> 86.13
+          
+         (a 
+paraphr. of 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Matthew</strong></span> vi 13
+        ).</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">c</span>) <span class="trans">a <span class="def">fee</span>, <span class="def">guerdon</span>, <span class="def">payment</span>:</span> ar 
+a hícc ba hé in f.<span class="oRef">¤</span> in chluain <span class="ediltr">this was the payment, the meadow</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 156y
+        . 
+          dorad Finn fiach a leanna do C., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1607
+          
+        . 
+          do berim adám ech ... duit, ... fiach indsma 
+na sleigi, 
+            4909
+          
+        . feich baistedha <span class="ediltr">baptismal fees</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 45.32
+        . 
+ <span class="lbl">Cf.</span> f.<span class="oRef">¤</span> féile, in a list of wild fruits, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> p. 116
+         (prob. 
+merely a cheville, but given by 
+          <span><strong class="pop" style="color:blue" href="bibliography/P.OC." title="eDIL Bibliography">P. O'C.</strong></span>
+        , <span class="lbl">s.v.</span> f.<span class="oRef">¤</span>
+         f.<span class="oRef">¤</span> `<span class="quote">a fowl or 
+other novelty, procured for a festival or holiday</span>'). <span class="trans">
+          <span class="def">Price</span> 
+<span class="def">equivalent</span>:</span> 
+          as eadh bá dior dhó seacht fichit damh, acht 
+asé f.<span class="oRef">¤</span> ro toibhgheadh ann, fiche uinge ar ceithri céd d'airgeat 
+ghil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1142.17
+          
+         (= 
+          as e a fiach ..., 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 1161
+          
+        ). 
+          uingi d'ór 
+no a fiach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 140.19
+          
+        . <span class="lbl">Cf.</span> use in chevilles in SR: Percoba 
+cainiu cach f.<span class="oRef">¤</span>
+         (<span class="ediltr">fairest of guerdons</span> ?) 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span>
+           2485
+        . mó cach f.<span class="oRef">¤</span>
+         
+
+          2635
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

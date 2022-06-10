@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="41892">tríar</h3><span class="citation">Cite this: eDIL s.v. tríar or <a class="reference" href="41892">dil.ie/41892</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                tríur, tríallaidtríar, triúr, triur</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen m.">m.</span> (trí + 
+        fer, 
+          <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 388
+        
+      , but <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 
+136
+      ). Originally disyllabic: 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Jan. 24
+      , 
+        Oct. 11
+      , <span class="lbl">etc.</span> <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+tríur, later used as <span class="case n">n</span>
+      <span class="number s.">s.</span> (triúr). 
+        tríallaidtríar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 76
+        
+      . 
+        triúr, 
+
+          § 96
+        
+      .</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">three persons</span>, <span class="def">trio</span>:</span> tigerne trír gl. trium vir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 
+399
+        . 
+          foxla triar do cethrur, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 122.y
+          
+        . 
+          biathad trir, 
+
+            v 60.10
+          
+        . 
+          nabad lia diis no thriur, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 13a4
+          
+        . ar is dochruth 
+comirsire ndesse nó in tríir `<span class="quote">unseemly is the barking (?) of 
+two or three at the same time</span>,' 
+          6
+        . 
+          it ána a ndírmann | in tríir 
+imradam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Oct. 11
+          
+        . 
+          cona thriur dedblén, 
+            Jan. 24
+          
+        . 
+          ind 
+locáin ro gabtha | déssib ocus trírib, 
+            Prol. 210
+          
+        . 
+          ní thudchatar in t.<span class="oRef">¤</span> ucut, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8971
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 72
+        ). 
+          im chomuaill in trír 
+chaurad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span>
+             8746
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 56
+        ). 
+          don tríur láth ngaile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span>
+             8719
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 54
+        ). 
+
+          can tris fer ... frisna triru, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 450.11
+          
+        . 
+          acht mad oen-triar do doeneib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 448
+          
+        . 
+          fo deilb tríir, 
+            2803
+          
+        . 
+          is hé in triar 
+irdaircc tri derbráthir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 109
+          
+        . 
+          triur ri cach n-amus, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 22
+          
+        . 
+          is iat sin in cetna triar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6412
+          
+        . 
+          co mbia triur 
+óigred oc fir husarachta, 
+            7587
+          
+        . 
+          triar talchar trenfher, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2880
+          
+        . 
+          rothoit in triur-sa dib les, 
+            2835
+          
+        . 
+          tainic Calcus 
+┐ a thriar ban, 
+            <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1952
+          
+        . 
+          triúr ar n-éag do aith-bheodhaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> iv 25
+          
+        . 
+          triúr mac do bhádar ag Brian, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 21.20
+          
+        . 
+          an triar easgcarad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2127
+          
+        . 
+          do thoisg an 
+trír chéadna, 
+            2141
+          
+        . na trí trír-si <span class="ediltr">this (band of) nine men</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LBranach" title="eDIL Bibliography">LBranach</strong></span> 2659
+         (see note).</p>
+     
+      <p class="result"> 
+Appositional <span class="case dat.">dat.</span> with poss. pron.: 
+          biit a triur do anmaim 
+ind eiúin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 93a2
+          
+        . 
+          comtis ainmmnidi a triur, 
+            7b2
+          
+        . 
+          lotar 
+dó a triur churad co hEmain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9033
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 78
+        ). 
+          is hé ba 
+sinser dóib a tríur, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span>
+             9057
+          
+         (
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 81
+        ). 
+          Boind a ssídib a mmáthair 
+a triur, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 111
+          
+        . arusrainic-side a oinar a triur `<span class="quote">alone 
+he met them all three</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 450.6
+        . 
+          do-rónsabar bar triur 
+me-si cúnntabartach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1805
+          
+        . Without poss.: a bíathad 
+triur `<span class="quote">he is entitled to refection for three</span>' (Gloss.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 166
+        . 
+          do éimdheadar ... triúr dol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7512.
+          
+        
+      </p>
+     
+      <p class="result"> 
+<span class="trans">Of the <span class="def">Trinity</span>:</span> 
+          triar óen-fer, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lib.Hymn." title="eDIL Bibliography">Lib. Hymn.</strong></span> 114.36
+          
+        . 
+          buime 
+trír is í na hóigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> ii 6.
+          
+         
+          aobhdha an triar a trí 
+dhalta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 9.2
+          
+        . 
+          triur i n-aoncholainn amh-áin, 
+            3
+          
+        . 
+          go 
+bhfuilid na dtriur ó'n tsíorruidheacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 24.21
+          
+        .</p>
+     
+      <p class="result"> 
+In phrase tech an trír as <span class="trans">kenning for <span class="def">Tara</span>, later <span class="def">Ireland</span>
+        </span>. 
+<span class="lbl">Cf.</span> 
+          do Themraig in trír, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9913
+          
+        : 
+          braithim fós do tigh an 
+trir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ii 335.7
+          
+        . 
+          ag guaillnibh ríogh tighe an trír, 
+            340.28
+          
+        . 
+
+          's mo chroidhe ronnta ar a rannaibh | bronnta ar chlannaibh Toighe an Trír, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xliv 8.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">three things</span>:</span> 
+          comtis ainmmnidi a triur '<span class="quote">the three of them would be nominatives</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 7b2
+          
+        . 
+          is ē crand in rīg-Easa | ba hannsa lind 
+don triaar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 22 § 19
+          
+        . 
+          an trīar-sa thuirmim-si, 
+            viii 
+215.18
+          
+        . ro tirchanait in triar sin don cur-sa isin Roimh 
+`<span class="quote">those three things were then foretold in Rome</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 834
+        . 
+
+          conid sí sin in tres saobh-sanus Lethe Cuinn, ┐ is hi Cluain 
+Eraird doronta a ttriur iad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 302 § 9
+          
+        . gaibid Senchan 
+tri hairchedail. nosgab Cummaine a triur `<span class="quote">Cummaine 
+repeats the three</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 32.17
+        . iul agus aoibh is aithne | 
+dhaoibh 'n-a dtriur ní tiobhairthe `<span class="quote">those three gifts ... would 
+not be thine</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 37.11
+        .</p>
+     
+      <p class="result"> 
+Note also: 
+          ro marb sí triur mor do muintir Gargan, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7218
+          
+        . Atkinson suggests =<span class="ediltr">four</span>, on analogy of mór-feiser; perh. merely <span class="trans">
+          <span class="def">famous trio</span>
+        </span>.</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

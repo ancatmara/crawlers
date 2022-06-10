@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="14714">dásachtach</h3><span class="citation">Cite this: eDIL s.v. dásachtach or <a class="reference" href="14714">dil.ie/14714</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                dásachtaig, dásachtaid, dásachtaig, dásachtaid, dásachtaig, dássactig, dásachtacha, dasachtaich, dásachtacha, -dásachtchu, dásachtach, dian-d., er-dásachtach</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype o,-&#x101;">o, ā</span> (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=d&#xE1;sacht">dásacht</a></span>). <span class="case g">g</span>
+      <span class="number s.">s.</span> <span class="gen m.">m.</span> dásachtaig, dásachtaid, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 44.
+1 <span class="lbl">f.b.</span>
+       ; 
+        268. 3
+      . <span class="case a">a</span>
+      <span class="number s.">s.</span>
+      <span class="gen f.">f.</span> 
+        dásachtaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 406. 20
+        
+      ; 
+        dásachtaid, 
+          356. 28
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span>
+      <span class="gen f.">f.</span> 
+        dásachtaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 189a6
+        
+      . <span class="case n">n</span>
+      <span class="number pl.">pl.</span>
+      <span class="gen m.">m.</span> dássactig 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12 d 36
+       (<span class="pos adj." style="color: #ff8000">adj.</span>) ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 10. 18
+       (<span class="pos subst." style="color: #ff8000">subst.</span>). dásachtacha 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 138. 32
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1820
+       (<span class="pos adj." style="color: #ff8000">adj.</span>). <span class="case voc.">voc.</span> <span class="number pl.">pl.</span> 
+        dasachtaich, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+19 b 3
+        
+      . <span class="case d">d</span>
+      <span class="number pl.">pl.</span> and <span class="number du.">du.</span> dásachtacha (<span class="pos adj." style="color: #ff8000">adj.</span>) 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 80 a 32
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 226. 7
+      .—COMP. 
+        -dásachtchu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 60 b 2
+        
+      . <span class="pos ADV." style="color: #ff8000">ADV.</span> co 
+dásachtach. —It translates Lat. <span class="frn ">insanus, insensatus</span>.</p>
+   
+    
+      <p class="result"> 
+ <span class="edilb">I</span> <span class="trans">
+          <span class="def">Mad</span>, <span class="def">insane</span>
+        </span>. nonne dicent quod insanitis, gl. 
+          ished 
+asbérat it dássactig in dóine hísiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12 d 36
+          
+        . O insensati 
+Galatae, gl. 
+          dasachtaich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 19 b 3
+          
+        . óir tairrngidh sé go 
+dásachtach <span class="ediltr">like a madman</span> Bedel <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">2 Kings</strong></span> ix 20
+        . —<span class="trans">
+          <span class="def">mad</span>, 
+abnormally <span class="def">furious</span>, <span class="def">rabid</span>
+        </span>: dam dásachtach <span class="ediltr">a mad</span> 
+(<span class="ediltr">furious) bull, a mad stag</span>, tarb dásachtach <span class="ediltr">a mad bull</span>. 
+
+          is andsin imidrubart forsin sluag amail rotharb ndasachtach 
+dia tabar drochbéim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 240 l. 149
+          
+        . 
+          tanic Achil fó 
+ṡluag na Moesiánda amal tarb nd.<span class="oRef">¤</span> (ndasachacht, <span class="lbl">MS</span>) dia 
+t. d., 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 729
+          
+        . 
+          romgebsea ferg iarsin ┐ dongní daṁ 
+dassachtach dím, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 454 b 38
+          
+        . 
+          trí caoga daṁ d.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> vii 
+15. 10
+          
+        . Transf. 
+          maic Feidilmid daim dasachtaich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 
+152 a 33
+          
+        . bó dásachtach <span class="ediltr">a rabid cow</span>: 
+          bennachais in 
+mboin ndasachtaig ┐ ba cennuis iarsin amal chæirig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 100
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 8. 26
+        . ech dásachtach <span class="ediltr">a mad horse, 
+a fierce horse</span>: for dá nechaib diana dremna dásachtacha 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 80 a 32
+        . METAPH. is truagh an daille ┐ an dorchadas 
+doiléir dásachtach...thig don ṁeasgán ṁearbhaill úd (<span class="lbl">i.e.</span> 
+do choir na drúise), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 154. 3
+        .</p>
+     
+      <p class="result"> 
+<span class="pos Subst." style="color: #ff8000">Subst.</span> (<span class="edilb">a</span>) dásachtach <span class="itype o">o</span>, <span class="gen m.">m.</span> <span class="trans">A <span class="def">madman</span>, <span class="def">lunatic</span>, 
+one <span class="def">possessed</span> by a demon, one upon whom the <span class="frn ">dlaí fulla</span> 
+has been thrown</span>; <span class="trans">a <span class="def">werewolf</span> (?)</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/CMCS" title="eDIL Bibliography">CMCS</strong></span> xii 16
+         (
+          dásachtach .i. fo tabar dlái fulla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 
+46. 3
+          
+         ; 
+          iii 12. 3
+        ) ; translating Lat. <span class="frn ">insanus</span> and often connected 
+with such words as <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=bailedach">bailedach</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 b&#xE1;eth">1 báeth</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 dochonn">1 dochonn</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 dr&#xFA;th">2 drúth</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=mer">mer</a></span>, 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=&#xF3;inmit">óinmit</a></span>. cuibrech dasachtaid <span class="ediltr">securing a madman</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 
+268. 3
+        . 
+          ní bí in dásachtach fri æicṅdach (<span class="lbl">sic leg.</span>) ar ní 
+irmadadar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28 a 21
+          
+        . 
+          ní gaibther athgabáil drúith ná 
+dásachtaidh ná oin ná oinmiti ná haimbil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 44. 1
+            <span class="lbl">f.b.</span>
+          
+         
+
+          lánamnas genaig mer nó dasachtach fri drúth nó dásachtaig, 
+
+            <span class="lbl">ib.</span> 406. 19
+          
+        . 
+          lánamnus genaige .i. doníther tre gen og mear 
+nó dasachtach fri drúith nó dasachtaid, 
+            356. 28
+          
+        . 
+          báith 
+bailedaig drúith dochuinn dasachtaig, 
+            iii 10. 18
+          
+        . boí dásachtach isin tsléib nooirced na cuitechta <span class="quote">quidam insanus</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1528
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> v 80. 2
+        . Also of animals.—(<span class="edilb">b</span>) 
+ dásachtach <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> <span class="trans">A <i>madwoman</i>, a <span class="def">female</span> <span class="def">lunatic</span>
+        </span>: frí 
+dasachtaig, 
+          -aid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 406. 20
+          
+        ; 
+          356. 28
+        , <span class="lbl">v.</span> above. 
+          cethrar 
+do dháinib galair...duine abrachtach ┐ dásachtach ┐ dall ┐ 
+clam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> v 26. 6
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1440
+         <span class="frn ">quattuor aegrotae 
+...energumena</span>. 
+          roinaitcestar spirut deamnata i naraile 
+sruthmáthair...rogab in dasachtach sin for taircetal, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+1060
+          
+        . —<span class="ediltr">A mad cow, a cow possessed by a demon</span>: 
+          dástaigther 
+immon ṁboin co romarb .v. bú aile .i. demon dochuaid inti. 
+dodiussaig som dano na bú ┐ ícais in ndássachtaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 
+12. 29
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">II</span> Transf. of <span class="trans">one who behaves like a <span class="def">lunatic</span>, a wildly 
+<span class="def">foolish</span> or <span class="def">imprudent</span> person</span>; emphasised ér-dásachtach ; 
+translating Lat. <span class="frn ">amens</span>: sed nequaquam eritis tam amentes ut, 
+<span class="lbl">&amp;c.</span>
+        , gl. 
+          .i. ǽrdasachtaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 18 a 13
+          
+        . a Ner lái uait na 
+dóine dásachtacha so <span class="ediltr">put away from you these fools</span> (<span class="lbl">viz.</span> 
+Peter and Paul) 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1820
+        . 
+          atbar dásachtaig fén iarsinni 
+nat bí do réir Dé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 212 a 10
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">III</span> <span class="trans">Beside oneself with anger, furious, violent</span>; 
+          dreaman .i. dasachtach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/StoweGl." title="eDIL Bibliography">Stowe Gl.</strong></span> 110
+          
+        . 
+          Dauid dian dássachtach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5890
+          
+        . 
+          in duine dian d.<span class="oRef">¤</span>
+          , 
+            <span class="lbl">ib.</span> 6236
+          
+        . dásachtach (dásacht MS) 
+          borb díscir deanacht garb fíochṁar allta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 216
+          
+        . 
+          ag dianasgnaṁ dona dúrṡlógaibh 
+dásachtacha dochum Doṁnaill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 226. 7
+          
+        . 
+          rachoṁḟaicsigsetar cách dá chéile co díchéill ┐ co d.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 594
+          
+        . 
+
+          echlach side diandreman d.<span class="oRef">¤</span> dona dígair debthach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 
+177 a 9
+          
+        . 
+          badb díscir dian denmnetach d.<span class="oRef">¤</span> dúr duabsech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 
+174. 7
+          
+        ; 
+          <span class="lbl">ib.</span> 158. 9
+        . 
+          trí deichneabhair dhiana dhásachtacha 
+dhá ḟóirithin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 138. 32
+          
+        . 
+          is borb dásachtach aneolach cech 
+duine ón gentligecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 720
+          
+        . 
+          a dhuine buirb dasachtaidh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Lib.Flav." title="eDIL Bibliography">Lib. Flav.</strong></span> 17 b 1. 8
+          
+        . 
+          dá lenṁoin go díscir d.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/23E26" title="eDIL Bibliography">23 E 26</strong></span> p. 286. 27
+          
+        . 
+
+          dám d.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxii 45. 4
+          
+         (probably subst.). METAPH. <span class="trans">
+          <span class="def">violent</span>, <span class="def">vigorous</span>, <span class="def">uninhibited</span>
+        </span>: 
+          co creitt uraird dírig drésachtaich dasachtaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 189 a 6
+          
+         (descr. of Cuchulainn's chariot). 
+          abhann dhíansrothach dhásachtach '<span class="quote">swift and intensely flowing river</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/BardicMiscellany" title="eDIL Bibliography">Bardic Miscellany</strong></span> 653
+          
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lix 2
+        . 
+          dá folmuigthear an t-othur co dásachtach '<span class="quote">if the patient is violently purged</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/RSl&#xE1;inte" title="eDIL Bibliography">RSláinte</strong></span> iii 152
+          
+        . 
+          do gherr a chos, agus do theilg fuil go dásachtach '<span class="quote">cut his foot so that blood flowed freely</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xvi 42.2
+          
+        . 
+          air na bhrosdughadh ┐ air na ghríosughadh le tuile dhásachtaig an drochṡompla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> xviii 23
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">IV</span> In a good sense: <span class="trans">filled with <span class="def">enthusiasm</span>, <span class="def">spirited</span>
+        </span>: 
+
+          urduil ind éin déin dásachtaigh risi ráiter in dreollan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 
+284. 22
+          
+        . 
+          ro dúiscceadh leō damhradh dhearg-ruadha dhásachtacha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leabh.&#xF3;L&#xE1;imhsgr." title="eDIL Bibliography">Acall. (Leabh. ó Laimhsgr.)</strong></span> ii 9.15
+          
+        . 
+          ro ghluaiseadar go dāsachtach dían obann isin áth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leabh.&#xF3;L&#xE1;imhsgr." title="eDIL Bibliography">Acall. (Leabh. ó Laimhsgr.)</strong></span> ii 154.23
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">V</span> 
+          má thig duine go 
+dásachtach ara choṁarsain dá ṁarbhadh le ceilg, Bedel 
+<span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Exodus</strong></span> xxi 14
+          
+         =<span class="frn ">de industria</span>. dásachdach <span class="ediltr">presumptuous</span>, Lhuyd.</p>
+    
+  
+  
+    <p class="result"> 
+COMPS.: dian-d.<span class="oRef">¤</span>
+      , er-dásachtach.</p>
+   
+    <p class="result"> 
+ Obs., but given in most mod. Ir. and Sc. dict.</p>
+   
+    
+      <p class="result">
+        <span class="edilb">VI</span>: For the phr. derg dásachtach, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=derg">derg​</a></span>.</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

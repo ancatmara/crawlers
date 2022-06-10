@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="43155">umlacht</h3><span class="citation">Cite this: eDIL s.v. umlacht or <a class="reference" href="43155">dil.ie/43155</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                umhlacht</p></div><div class="col-sm-9 result_content">
+   
+
+
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>. <span class="gen f.">f.</span> <span class="trans">
+        <span class="def">humility</span>, <span class="def">obedience</span>, <span class="def">submission</span>
+      </span>: <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        umhlacht, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. § 26
+        
+      . 
+        ionmhuin le hÍosa an umhlocht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+5. 29
+        
+      . 
+        ní gníomh áinis an umhlocht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1921, 
+375 § 24
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> p. 259
+      ). báthadh ní ḟuighe a n-umhlocht, 
+
+      
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1921, 375 § 29
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> <span class="lbl">ib.</span>
+      ). ag so an t-udhnacht gá fhoghail | ag 
+so an umhlacht urchradhaigh (of the ruin of a sheep-pen), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1931, 81 § 13
+      . cor re hobair níorbh umhlacht, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> l 8
+      . 
+        an treas ní, umhlacht an fhomóis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+1880
+        
+      . 
+        adeir an umhlacht ris é féin d'inísliughadh fá chách, 
+
+          2959
+        
+      . 
+        atá umhlacht roimhe onóir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> xv 33
+        
+      . meisde 
+an umhlacht fhuair 'na mhacaomh <span class="trans">
+        <span class="ediltr">homage</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1927, 
+437 § 8
+      . 
+        umhlacht iomlán in gach éin-ní do thabhairt don 
+Athair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 8051
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        mac ochta na humhlochta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+20.36
+        
+      . ní dligheann airdrí ... barr umhlochta d'Eóghanchaibh `<span class="quote">increase of homage</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 7.2
+      . rí go hurramach 
+umhal | re hucht ḟeirge a ollamhan | ... is tuar umhlachta 
+d'ḟagháil `<span class="quote">submission</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1921, 112 § 2
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+p. 252
+      ). 
+        go mbídís na colna céadna soin fá chuing umhlachta 
+dá n-anmaibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2282
+        
+      . do chum umhlachda an chreidimh <span class="trans">
+        <span class="ediltr">obedience</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Romans</strong></span> i 5
+      . <span class="case a">a</span>
+      <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        dobhér sa da chionn gan 
+caill | nert, is umhlacht, is oirrim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 271.16
+        
+      . níor 
+ghabh umhlocht ó chrú Chuinn, | cnú don lubhghort ó 
+Lunnuinn `<span class="quote">homage</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 17.43
+      . 
+        an ló nar ghabhsadar 
+Goill | umhlacht mo chéile chumoinn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1928, 
+549 § 15
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> p. 285
+      ). nách fuightheá ... sbairn fa n-aghaibhthir t'umhlocht, `<span class="quote">never wert thou humbled</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 22a55
+      . 
+
+        do-ní a mbí san ḟionnmhuir d'Art | 's a mbí san ḟiodhbhuidh 
+umhlacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 100.12
+        
+      . ná gabhthar í le humhlacht, 
+`<span class="quote">with humility</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 20.50
+      . 
+        maille ré gach uile umhlachd 
+intinne, 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Acts</strong></span> xx 19
+        
+      . 
+        i gceann Néill mar do chuaidh Corc, 
+| béim ní fhuair as an umhlocht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 109.216
+        
+      . 
+gur chealg ... ceard na n-uile ar a humhlocht <span class="trans">
+        <span class="ediltr">by her 
+humility</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 27a16
+      . do chuaidh a fhearg ar umhlacht 
+`<span class="quote">gentleness</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xvii 29
+      . is dá sheineascal cúirte i 
+n-umhlacht aoise | a ghlún go talamh do threascaradh 
+bíocum <span class="trans">
+        <span class="ediltr">homage, courtesy</span>
+      </span> (?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 917
+      . fáth 
+claonta a chinn san chroichse | d'umhlacht dúinn ... 
+`<span class="quote">serving us</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1922, 252 § 23
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> p. 164
+      ). 
+ót umhlacht dot ollamhain <span class="trans">
+        <span class="ediltr">indulgence</span>
+      </span>, 
+      
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1921, 112 § 5
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+p. 253
+      ).</p>
+  
+  
+    <p class="result"> 
+Art | ag a mbí ar uaislibh umhlacht `<span class="quote">who commands 
+all nobility</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1928, 98 § 9
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> p. 
+335
+      ).</p>
+  
+  
+    <p class="result"> 
+téid an t-easbag a n-umhlocht <span class="trans">
+        <span class="ediltr">prostrated himself</span>
+      </span> (?), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 39 § 22
+      . </p>
+  
+  
+    <p class="result"> 
+<span class="trans">A <span class="def">monastic</span> <span class="def">obedience</span>
+      </span> (
+        obedientia, see <span><strong class="pop" style="color:blue" href="bibliography/DuCange" title="eDIL Bibliography">Du Cange</strong></span>, <span class="lbl">s.v.</span>
+      ; 
+`obedience, a written precept or other formal instrument 
+by which a superior in a religious order communicates to 
+one of his subjects any special precept or instruction,' 
+Cent. Dict., cited 
+        <span><strong class="pop" style="color:blue" href="bibliography/O.E.D." title="eDIL Bibliography">O.E.D.</strong></span> <span class="lbl">s.v.</span> obedience 4
+      ): 
+        do chuir an 
+tathair F. umhlacht chuige as an Roimh do dénamh 
+confirmasion ar an togha cedna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/GleaningsfromIrishmanuscripts" title="eDIL Bibliography">Gleanings from Irish manuscripts</strong></span> 53
+        
+      . 
+        brathre 
+do chur re humlacht gach aon taobh, 
+          54.23
+        
+      . 
+        imaille re 
+humhlacht gach prouinsiail ... do beith accam, 
+          72.19
+        
+      . 
+        go 
+ttáinicc amaille le humhlacht a uactaráin, 
+          77.5
+        
+       (=umhla 
+
+        78.4
+      ).</p>
+  
+  
+    <p class="result"> 
+As <span class="pos vn." style="color: #ff8000">vn.</span>: 
+        don dia dá ttugsam ar ttoil | caithidh umhlacht 
+a easbaigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 40 § 28
+        
+      . 
+        rí dá ollamh ag umhlacht, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1921, 112 § 4
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> p. 253
+      ).</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

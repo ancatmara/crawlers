@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="19799">1 éim, ém</h3><span class="citation">Cite this: eDIL s.v. 1 éim, ém or <a class="reference" href="19799">dil.ie/19799</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                ǽm, æm</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">in Glosses also ǽm, æm. Apparently a 
+by-form of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 &#xE1;m">1 ám</a></span> (<span class="lbl">q.v.</span>) of which it is often a variant reading. Used as a <span class="pos particle" style="color: #ff8000">particle</span> of asseveration or affirmation, 
+usually emphasising the word or clause which it follows, 
+but often merely expletive ; <span class="trans">
+        <span class="def">truly</span>, <span class="def">indeed</span>, <span class="def">in sooth</span>, <span class="def">then</span>
+      </span>.</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> In direct speech</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) in introducing a direct statement 
+without reference to a foregoing one : ? eimi .i. <span class="frn ">ab emind</span> .i. <span class="frn ">interiectio crepantis</span>
+           <span class="ediltr">
+            <span class="frn ">éim</span> ‘indeed!’, from <span class="frn ">emind</span>, i.e. an interjection of clattering</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> § 394
+          . a fortéitsi ǽm (gl. 
+adiuvantibus et vobis...donationis 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">2 Cor.</strong></span> i 11
+          ) 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14c3
+          . 
+is messi ém, ol M., dorat fo menmain Aililla do seirc-siu 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 127.31
+          . 
+            nir bo chucumsa ém, or sé, robo chóir dál 
+inna caurath sin do thabairt, 
+              <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 56
+            
+          . fochen om eim 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 144.16
+           = 
+            fo cean ám dhuit, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 501.25
+            
+          . maith 
+ém a Ultu, bar C., in fagaimse acaib nech <span class="lbl">etc.</span>, , <span class="ediltr">well 
+then</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> § 26
+          . is demin em nach eiberind gai <span class="ediltr">it is 
+certain, surely</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 62b14
+           ( = 
+            am, 
+              284b16
+            
+          ). 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 78.10
+          . a 
+uasail, ol se, da festasu eim, ni suaill <span class="lbl">etc.</span>, , <span class="ediltr">if thou but 
+knewest</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4517
+          . is do émh, ar sé, dodechadhsa 
+chucutsa, do innisin duit, <span class="lbl">etc.</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 82
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) in response to a question, appeal, or command : 
+citné briathra robatar? it hǽ æm inso .i. <span class="frn ">quando</span>
+          , <span class="lbl">etc.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+61b7
+          . 
+            inn é Cormac sút? is é ón ém, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 185
+            
+          . 
+            cid dogena 
+... ? ol C. dogénsa ém, ol B., imcossáit na ríg, 
+              <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 6
+            
+          . 
+            nad 
+fuarais aile? ar M. fuar-sa ém gilla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1741
+            
+          . cia cuntabairt ro boi aige...? robo doig em leis curba duine namá 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4784
+          . 
+            cia airm ita Ibar? sund ém, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1125
+            
+          . ate 
+œm ní fercaigedar (gl. numquid irascitur?) 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 24b18
+          . 
+
+            cia tintud forata na psalmu...? tintud septin eim is he fil 
+forna psalmaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 10.333
+            
+          . 
+            a treidhe arrecar do 
+cach hsairsi...ind airecar dont sairsisea..arecar eim, 
+              3.91
+            
+          . 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 501.32
+          . 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 144.20
+          . 
+            in cenel no in gne in 
+etargoiri? is cenel eim, uair dianairmidi a gnei, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 
+894.14
+            
+           (emh). 
+            859
+           (emh). 
+            do iarraid ṡocraide chucatsa 
+dodechadhsa [ar T.]... Cía no techtaindse éimh, ar P., firu 
+in talman...dus-berainnse uile letsu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 105
+            
+          . maith a 
+ingen, ar se,...in limsa doraga? dar ar mbrethir ém, ol sí, 
+fil uaib, <span class="lbl">etc.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 226.9
+          . cuire samla fair, ol M., a crúth, 
+...dath a ech...atchíu-sa ém, ol F., na dá ech, <span class="lbl">etc.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 44
+          -
+            45
+          . 
+
+            ind ēlife lim-so? ni ēlub ēm, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 38.10
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) in responding to or commenting on a statement (not 
+a direct question) : 
+            duaircibed ǽm, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 29c11
+            
+          . (haec 
+requies mea :) 
+            bid fír æm olsesom is sunt bia-sa i n-eilithri 
+co llae messa, 
+              137b7
+            
+          . ra ǽra Dia duún ǽm (gl. dirigat 
+viam nostram ad vos) 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25a31
+          . ammi fáilti ǽm calléic 
+in tribulationibus (gl. quasi tristes, semper autem gaudentes) 
+
+            16a6
+          . <span class="lbl">Cf.</span> eius femininum (atá ém) eadem, neutrum (ata 
+dano
+          ) 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 201a8
+          , 
+            9
+          . 
+            ní ragam, ol seat...bid messu dúib 
+ém, ol se, a ndogen-sa céin co tisaid lim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 6
+            
+          . 
+            a cláin trúaig 
+[or Laeg] rosíachtatar Ulaid Crúachain o chíanaib. nír 
+rathaigsem eter ém, a Láig, 
+              43
+            
+          . 
+            nir bo chucumsa ém [or 
+A.], robo chóir dál inna caurath...ní bá nech bas ferr 
+nodgléfe ém [or S.] atai-siu, 
+              56
+            
+          . Negation : co n-epertis ón 
+nadmbu choir...ní ed æm insin dorigensat <span class="ediltr">that they should 
+say it was not right...that however is not what they have 
+done</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 136b4
+          .</p>
+       
+        <p class="result"> 
+After noch : 
+            isindí nachimrindarpaise noch ǽm am 
+ísrahélde, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5a18
+            
+          .</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> In indirect speech or narrative</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) with reference to 
+a preceding statement, expressing assent or confirmation or 
+negation : nathó, for C., am scith aithbristi indiu...ba 
+fír ém dosom ani sin <span class="ediltr">he spoke indeed the truth</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 31
+          . 
+atberimse frib, ar Ísu, is oen uaib nomomairnfese. oen em 
+he o áirim ┐ nirbo oen o airilliud <span class="ediltr">one, indeed, in number</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5112
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) in introducing a clause expanding or developing a 
+preliminary general statement : sochaidi trá do nǽbaib... 
+dia rofaillsigtheá rúine flatha nimi fón cumma sin...Rofoillsiged ém do Phetar apstal ind long, <span class="lbl">etc.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 2
+           (LU). 
+
+            tinoilit i n-aigid F. Ba maith em in ti cusa tancus annsin 
+.i. F., 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 184.4
+            
+          . in Bethil...cathair sin in rig 
+Dauida, in rotusmed Ísu Crist...cubaid ém, ce mad isin 
+cathraig rigdai no genfed mac in ríg <span class="ediltr">'twas fitting indeed</span> 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6940
+          . 
+            atat noi ngraid for ainglib nime...saraphin em 
+is e in cetna grad, 
+              6234
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) often as a mere particle of transition in adding a 
+fresh statement almost = <span class="trans">
+            <span class="def">further</span>, <span class="def">moreover</span> :</span> 
+            ro tarrngired o 
+fháthib, roterchan ém Dauid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5533
+            
+          . édpraid dī túis don 
+choimdid intí...édpraid em in morail...intí... <span class="ediltr">he offers incense 
+who...and he offers myrrh who...</span> 
+            7109
+          . 
+            fedhair eim 
+banindsge for ferindsge intan isberar `is i in gobur', 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 3167
+            
+           ( = 
+            fedair dno, 
+              537
+            
+          .) feadair em ferinsce, <span class="lbl">etc.</span> 
+
+            530
+          . 
+            3161
+           (eim).</p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

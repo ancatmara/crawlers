@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="17037">dligid, </h3><span class="citation">Cite this: eDIL s.v. dligid,  or <a class="reference" href="17037">dil.ie/17037</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                dlegair, rodlecht, dligid</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> On the forms see Bergin, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Jn.Celt.Stud." title="eDIL Bibliography">Jn. Celt. Stud.</strong></span> i 183 ff
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>
+Verbs § 35
+      . <span class="lbl">Cf.</span> also 
+        § 18
+       and also <span><strong class="pop" style="color:blue" href="bibliography/Peritia" title="eDIL Bibliography">Peritia</strong></span> ix 122
+      .</p>
+   
+    <p class="result"> 
+In O.Ir. the general meaning is</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">is <span class="def">entitled</span> to, has a <span class="def">right</span> 
+to, is <span class="def">owed</span> (as a <span class="def">debt</span>)</span>, passing into the kindred sense</p>
+     
+  
+    
+      <p class="result">(<span class="edilb">b</span>) 
+ <span class="trans">
+          <span class="def">deserves</span>, <span class="def">merits</span>
+        </span>.</p>
+     
+  
+    <p class="result">
+      The construction is: dligim x do y <span class="trans">
+        <span class="def">I am 
+entitled to x</span> (thing) <i>from y</i> (person); <span class="def">y owes me x</span>; <span class="def">I deserve x 
+from y</span>
+      </span>; the corresponding pass. being: dlegair x do y <span class="trans">
+        <span class="def">x is due 
+from y</span>.</span> With Lat. dative (hence Ir. DO): 
+        dlegair discipulis 
+orare, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 26a32
+        
+      . In Mid. Ir. DO was confused with and 
+ultimately supplanted by DE, the prep. being felt rather as = 
+Lat. <span class="frn ">de</span>, <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 347.41
+      : amal rodlecht de misero <span class="ediltr">as (much 
+as) was due from a poor fellow</span>.</p>
+  
+   
+
+    
+      <p class="result">(<span class="edilb">a</span>) With DO: dligim ní duit <span class="ediltr">I have a claim on you</span> 
+(refers to <span class="ediltr">quod . . . mihi debes</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 32a20
+        . ní asriad do 
+feichemain rodligestar ní do <span class="ediltr">who had a claim upon him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+36a29
+        . meni dlessad fhíachu do neoch <span class="ediltr">unless some one . . . 
+owed him debts</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2988
+        . lind rodlecht rí Lagen do ríg Ua C. 
+ <span class="ediltr">ale to which the king of L. was entitled from the king of Uí C.</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 347.34
+        . Without prep. : dligsius Feradach <span class="ediltr">F. possessed 
+it as a right</span> (obj. `bith'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 116c20
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC4;lt.Ir.Dicht." title="eDIL Bibliography">Ält. Ir. Dicht.</strong></span> i 17 § 7
+        ). 
+síl . . . notlessad ríge forn `<span class="quote">that would have a right to reign over 
+us</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 132.30
+        . 
+          iss mé dliges fiachu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 70
+          
+        . gébat-sa a 
+tech issin ní nondligim <span class="ediltr">I will take the house in requital of what 
+is due to me</span>, 
+          73
+        . ní dlig laech a enecland dia mbé i n-ecmais 
+a arm <span class="ediltr">no warrior is entitled to honour-price</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1671
+        . 
+          a 
+curathmír do Loegairiu uair iss é nondlig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 14
+          
+        . ni dligthi 
+comardad fris <span class="ediltr">you have no right to put yourselves on a level with 
+him</span>, 
+          41
+        . 
+          in rí ac ná bia sin uile | ni dlig āirim rigraide, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> 
+iii 223.26
+          
+        . 
+          <span class="frn ">merendo pretium stupri</span> .i. dligid si fiach a saothair 
+(explanation of `merdrech'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 140
+        . 
+          bargen trichat 
+ungae . . . dlegait in bráthair im nóin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 102
+          
+        . 
+          ni dlig 
+demun dilgud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 8.23
+          
+        . magh bec as na dlig giall <span class="ediltr">out of 
+which he is not entitled to a hostage</span>, 
+          82.10 Comm.
+         
+          indlighid don 
+fechemuin . . . troscad . . . um ní nar dligustar, 
+            88.22 Comm.
+          
+         
+dlegait beich iii bliadan suire <span class="ediltr">bees are entitled to three years 
+exemption</span>, 
+          iv 164
+        . cidh urrunnus nodleisead int athair don 
+coibche <span class="ediltr">whatever share of the nuptial present the father might 
+be entitled to</span>, 
+          60.24 Comm.
+         
+          dleaghaid Muscraidi trian cach 
+turchairthe dochuirfead tond hi tir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 126b36
+          
+        . dleaghaid 
+aigidh a riar <span class="ediltr">guests are entitled to attention</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 40
+        . 
+dodligh Ua C. an marbadh ísin i ndioghal mharbhtha a 
+dearbhrathar <span class="ediltr">O'C. had a right to slay (him)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1770
+        . </p>
+     
+      <p class="result"> 
+Folld. by dependent clause: di mnai . . . dlegtae a mbreith 
+for otrus <span class="ediltr">who are entitled to sick-maintenance</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 30 § 37
+        . 
+dligim a lethid sud do rada `<span class="quote">I have a right to say such a thing</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xix 144
+        . ni dleagaid a ngabail a fhiadnaisi <span class="ediltr">they are not 
+entitled to be accepted as evidence</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 142a52
+        . dlegait flaithe 
+fonuaslaicter a ngella <span class="ediltr">chiefs are entitled to the redemption of 
+their pledges</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 24
+        . </p>
+     
+      <p class="result"> 
+With pers. obj.: ail dún descin ríg nondlig <span class="ediltr">the king who has 
+a claim on us</span> (<span class="lbl">i.e.</span> whom we serve), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 36
+        . </p>
+     
+      <p class="result"> 
+Absol.: sech gach baili a ndligim <span class="ediltr">every stead in which I 
+have rights</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 387
+        . </p>
+     
+      <p class="result"> 
+Folld. by DE: dligim dít-su .i. marbad mo chomcheili <span class="ediltr">I have 
+a claim on thee, namely, for the slaying of my comrade</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 
+184
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 122a46
+        ). atat ar commáine fair . . . dlegmait de ar 
+foirithin <span class="ediltr">we are entitled to help from him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> p. 65
+        . 
+
+          millsen dliges rī Caisil dib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 140
+          
+        . 
+          nach forbech dliges 
+rí Locha Léin de Chorco Tri, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 316
+          
+        . corr in bass do-dligis dind <span class="ediltr">shapely the hand which we owe Thee</span> (of the hand of 
+Christ), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 243 § 23
+        . 
+          an rí is damhna an rígh arís | dá 
+mharbhnaidh dím do dhleisdis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BookofOConorDon" title="eDIL Bibliography">Book of O'Conor Don</strong></span> 260a27
+          
+        . 
+
+          má dhligheann tú éinní dhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Philemon</strong></span> 18
+          
+        . <span class="lbl">Cf.</span> also 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Luke</strong></span> vii 
+41
+        , 
+          xvi 5
+        , where the prep. used is probably de.</p>
+     
+      <p class="result"> 
+Folld. by ó: (of a wound) ni dligh focruic leada on fir 
+fodadfich <span class="ediltr">is not entiled to (<span class="lbl">i.e.</span> does not give the injured party 
+a right to) payment of the leech from the man who inflicts it</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 16 § 19
+        . 
+          croidhe eile dhlighim uaidh, | an croidhe-si 
+uaim do bhris, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 50.3
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">deserves</span>, <span class="def">merits</span>:</span> ni dlig digail <span class="ediltr">he does not deserve punishment</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4c23
+        . 
+          ni dligi bennachtain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Goid." title="eDIL Bibliography">Goid.</strong></span> 180
+          
+        . 
+          dligid ecna airmitin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 15
+          
+        . 
+          dlegat péin ┐ damain forru, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+4076
+          
+        . dlegat onoir ┐ oirmitiu mor (<span class="lbl">leg.</span> oirmitin móir?) doib 
+(where doib refers to subj. of verb), 
+          1505
+        . dlegait tríst ar 
+techt ó Chríst <span class="ediltr">(men) deserve a curse when they depart from 
+Christ</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 12
+        . 
+          ni radligiusa diultud frim i Temraich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 51b9
+          
+        . nach tuc as acht drong do dligh <span class="ediltr">he brought out 
+only those who deserved it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 118
+        . 
+          ón dammain dliges 
+tria chomchétfaid n-imarbais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 242
+          
+        . 
+          ernifes do chách 
+amal dlé, 
+            248
+          
+        . is mo . . . m'indirgi inas mar dligim logad 
+(= <span class="frn ">quam ut veniam merear</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> iv 13
+        ), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 531a31
+        . 
+          dlighidh 
+gach maith a luaighidheacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4875
+          
+        . Folld. by DE: ni 
+holc rodlecht dím do ben <span class="ediltr">no evil hath thy wife deserved of me</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 388
+        . By ó: ni dlegait fiach o Dia o nach do 
+doniat saethar <span class="ediltr">they deserve (earn) no recompense from God</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 389
+        . 
+          do dhlighis achmusán uaim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 346
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">II</span> <span class="voice Pass.">Pass.</span> 
+          dlegair x do y
+      </p>
+     
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">x is <span class="def">due from</span> y; y <span class="def">owes</span> x</span>, (<span class="edilb">b</span>) <span class="trans">x is 
+<span class="def">required of</span>, is <span class="def">incumbent on</span> y</span> (where x generally a vn. or 
+clause). In O.Ir. the construction is felt to be personal, as is 
+shown by the use of pl. form; later it comes to be impers., 
+esp. in cases of type (b).</p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) ní dlegar ní duib gl. nemini quicquam debeatis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6a24
+          . 
+manud dlegar ni do gl. si aliquid . . . debet, 
+            32a18
+          . dlegtir 
+féich dúib <span class="ediltr">you owe debts</span>, 
+            4a10
+          . cia no-dlestá miach óir do 
+cech ḟir díb <span class="ediltr">though each man of them should owe a bushel of 
+gold</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 31
+          .</p>
+       
+        <p class="result"> 
+With DE: ni dlegar cimbid dim c[h]iniul <span class="ediltr">a captive is not due 
+from my tribe</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2142
+          = 
+            dom, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1579
+            
+          . imin mbiadh 
+a ndlesta in cumul de <span class="ediltr">for which the c. would be due from him</span>, 
+ 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 268 Comm.
+           Absol.: i ndlegur no na dlegur in cin 
+ <span class="ediltr">whether the debt is due or not</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 52 Comm.
+           </p>
+      
+     
+       
+
+        <p class="result"> 
+(<span class="edilb">b</span>) dlegar dom <span class="trans">I am <span class="def">bound to</span>, <span class="def">ought to</span>; absol. <i>it is</i> <span class="def">due</span>, 
+<span class="def">right</span>, <span class="def">necessary</span>:</span> dlegair domsa precept do cách gl. debitor sum, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 1b8
+          . dlegair do comalnad ind huili rechto gl. debitor est 
+universae legis faciendae, 
+            20a12
+          . dlegair doib <span class="frn ">ministrare</span>
+           gl. 
+ debent m., 
+            7a8 
+          ; 
+            13a17
+          . dlegair do neuch attlugud buide do Dia 
+gl. debiti est, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 55a7
+          . 
+            a coic cach lae d'fhiss . . . dlegair do 
+cach intliuchtach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 262
+            
+          . 
+            ised dlegur don aite in marcuigucht 
+do munadh dho, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 156 Comm.
+            
+           
+            ised dlegair don rig 
+cuindrech cáich, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4099
+            
+          . 
+            mar dlegar don cleir in chuing, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 240
+            
+          . 
+            go ndleaghair dhúinn bheith i n-oirchill ar 
+an éag, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 886
+            
+          . With depend. clause: dlegair do flaithaib 
+donimairget cach dib <span class="ediltr">it is incumbent on princes to levy</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iii 20
+          . 
+            dlegar don rig nach derna fell, 
+              <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 168a15
+            
+          . Absol.: 
+            ni 
+dlegar accubur inna ndrochgnimae, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 90d11
+            
+          . 
+            dlegair ón condib inducbal do Dia aní as inducbal dia muntair, 
+              90b13
+            
+          . dlegtair 
+samaisci móra bale na bít tairb <span class="ediltr">heifers must needs be big where 
+there are no bulls</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 72
+          . nico dlegar tuaslucud for feoil 
+ <span class="ediltr">there should be no relaxation as regards meat</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 51
+          . 
+
+            dia peccaige i nDia dleghar a chlochad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2749
+            
+          . 
+            do foillsiugud in neich dlegair do dénum hi tempul Dé, 
+              4533
+            
+          . ni 
+dligther snámh a mhúnadh dhóibh muna raibhe uisce a 
+comhfochruibe <span class="ediltr">there is no obligation to teach</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 156
+Comm.
+           
+            ní dlegar coindmed do dénum . . . forru, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 64
+            
+          . 
+
+            ní dleaghair cion staire do thabhairt ar a scríbhinn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 56
+            
+          . 
+
+            dleagur an fual do toghairm isna tedmannaibh so, 
+              <span><strong class="pop" style="color:blue" href="bibliography/23P10" title="eDIL Bibliography">23 P 10</strong></span>,
+29a33
+            
+          . <span class="tns Perf.">Perf.</span> (esp. in chevilles): feib rodlecht
+           <span class="ediltr">as was due</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+1301
+          . 
+            fuair a aidid, mar rodlecht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 6
+            
+          . 
+            ruc uan 
+degrand mar rodlecht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 153b15
+            
+          . 
+            iar n-imarbus doib nir 
+dlecht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 533a32
+            
+          .</p>
+       
+        <p class="result"> 
+Folld. by DE: 
+            dlegair duin (nó dín) dul do'n glan-rúin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+5216
+            
+          . 
+            mna delbda . . . a ndermat ni dlegar dím, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 137a12
+            
+          . 
+ni dlegur de a foirithin <span class="ediltr">he is not bound to give him relief</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+ii 58
+          . airlisi . . . ni dleghar de dire `<span class="quote">is not entitled (amenable?) 
+ to a fine</span>', 
+            70.25
+           (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=dligid III (c)">III (c)</a></span> ?). dlegair de a crod uile do breith ind <span class="ediltr">it 
+is required of him to bring</span>, 
+            iv 20 Comm.
+           
+            cach comaithech asa 
+tir dotroich, dlegar de a glanad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1082
+            
+          . ni dlegar dím 
+acht oen-ailgis isind lo sa <span class="ediltr">I am not bound to grant more than 
+one request</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 179
+          . 
+            dlegar dínn ar n-imcaissin do thimorcain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6869
+            
+          . 
+            is ed dlegar dib-sium co rocharut he-sium, 
+
+              4098
+            
+          . do chinn tslōighidh nāch dlecht diobh <span class="ediltr">to which they were 
+not bound</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 116
+           (dlecht?). 
+            ni dlegar dim gāi do rād, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 84b15
+            
+          . malairt do dligheadh dínne <span class="ediltr">the exchange I should 
+have made</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxiii 3
+          . 
+            ní dleaghair díom scéala do 
+thabhairt duit-se, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 6347
+            
+          . 
+            a mharbhnadh ní díom 
+dlíghear | ním ollamh re oirfideadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 150
+            
+          . </p>
+       
+        <p class="result"> 
+With AR, ó: dlegar ar in dar[a] fer ni dlegar on alaile <span class="ediltr">it is 
+required of</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 272.22 Comm.
+           In follg. cases there is an 
+ellipse: erlam grind [is] manach min . . . combrugaid is 
+deorad De | uadaib dlegar apdaine <span class="ediltr">it is from these that the 
+office of abbot should be filled</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 385
+          = 
+            gabthar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wortk." title="eDIL Bibliography">Wortk.</strong></span> 
+212
+            
+          ; <span class="lbl">cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ix 470.7
+          . 
+            is o Muscraidi dlegar ollam i Caisel 
+dogres, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 126b41
+            
+          .</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">III</span> In Mid. Ir. dligid is often used in act. voice in sense 
+ <span class="trans">
+          <span class="def">ought</span>, <span class="def">is bound to</span>, <span class="def">owes</span>
+        </span>, a meaning developed from above use 
+of passive, but which is implicit in some cases (esp. in neg. 
+sentences) which strictly belong to <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=dligid I">I</a></span>: ní dlig comraind 
+curadmír <span class="ediltr">the champion's bit is not entitled to division (<span class="lbl">i.e.</span> 
+should not be divided</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 68
+        . trí dorchae ná dlegat mná do 
+imthecht <span class="ediltr">into which women have no right to go</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 100
+        . 
+dligid óg eladha <span class="ediltr">it is the part of a young man (to acquire) 
+learning</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 261
+        . 
+          hiteat sin lín dath dligius cach cochull 
+oiffrind ann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 108a62
+          
+        .</p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">Of moral or legal obligation <span class="def">ought</span>, is <span class="def">bound to</span>, <span class="def">must</span>; in 
+late texts the condit. is often used of <span class="def">moral</span> <span class="def">obligation</span>
+          </span> (<span class="lbl">cf.</span> Fr. 
+<span class="frn ">il devrait</span>): 
+            an t-ollamh cuinghes gach ní . . . dligidh a bhrondadh amhail chuinghes, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 109 § 3
+            
+          . 
+            ni dlig ollamh 
+ainbfeile, 
+              § 2
+            
+          . cecha marbt[h]ar diobh . . . dlighid a íoc rí 
+Temrach <span class="ediltr">the king of T. is bound to pay for him</span>, 
+            116
+          . 
+            dligid 
+na righ . . . besa . . . do mhūna da gclannuibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 132
+            
+          . 
+
+            dlighidh seanchaid seneolus na n-airdrigh d'aisneis, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 96
+            
+          . 
+
+            dligid eascob oirned crismad coisercad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 341a49
+            
+          . dligid 
+in fili gorob feallsam <span class="ediltr">the f. ought to be a philosopher</span>, 
+            313a25
+          . 
+
+            ní sinne dlighus Eireannaigh do chabair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CF" title="eDIL Bibliography">CF</strong></span> 241
+            
+          . dlighidh 
+eól ar uile chumhachtuibh connsuineadh <span class="ediltr">he should have 
+knowledge of</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Introd. 2
+          . ós ann dhlighim biad (bead, 
+<span class="lbl">MSS.</span>) dod réir <span class="ediltr">since it is my duty, I will obey you</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> 
+xiv 5
+          . 
+            gurab eadh do dhlighfidís smuaineadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 153
+            
+          . go 
+ndligheann sé a choguas do bheith glan aige <span class="ediltr">he ought to have 
+a clear conscience</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 36
+          . níor dhlighis mo dhíon <span class="ediltr">you 
+were not bound to protect me</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxvii 8
+          . gan rún 
+bréige . . . do dlighfeadh triath Banbha breagh <span class="ediltr">ought to be 
+without</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BookofOConorDon" title="eDIL Bibliography">Book of O'Conor Don</strong></span> 255bz
+          . Of logical necessity: 
+laidaightur an teas nádúrdha acu . . . dá réir sin dlighid bheth 
+meta <span class="ediltr">consequently they are necessarily timid</span> (of inhabitants of 
+hot countries), 
+            <span><strong class="pop" style="color:blue" href="bibliography/24P3" title="eDIL Bibliography">24 P 3</strong></span>, 172.14
+          . ca dobheir gach uili allus ar 
+bíth co ndlighenn sé blais sailti do bheth air <span class="ediltr">why must all 
+perspiration have a salty taste</span>, 
+            173.24
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) Impers. construction: is aire sin nach dlig a lecud ass <span class="ediltr">it 
+is not right to release him</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2817
+          . da marbad De gin cor 
+dlig <span class="ediltr">though it was not right</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 245
+          . 
+            Breaga ┐ Cuailgne 
+. . . ni dlig a ndearmad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 356b8
+            
+          . cūisi eile rothógbattur ar 
+aird as a ndleisiod a mharbhadh <span class="ediltr">for which he ought to be killed</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 170
+          . is maith do dlisfidh a n-ulc do denam, uair is 
+adbul a n-ecoiri <span class="ediltr">it would be quite right to do them injury</span>, 
+ 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2628
+           <span class="lbl">v.l.</span> (amae dlestis, text).</p>
+      
+     
+       
+
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">Owes</span>, with DO of <span class="def">creditor</span>:</span> dligid cech rí réil | ēric Nēill 
+ón Nás <span class="ediltr">every king of N. owes Niall's eric</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 272
+          . 
+            cert 
+cech ríg . . . do chlannaib Neill . . . acht triar ni (ná, <span class="lbl">v.l.</span>) dlig 
+cert, 
+              260
+            
+          . dlestis sin onoir ndeolaid duit <span class="ediltr">they would owe thee</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 358
+          . 
+            an gradh do dhlighmíd d'ar gcomharsain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 80
+            
+          . 
+Similarly in pass., O.Ir. dlegar x do y <span class="trans">
+            <i>x is</i> <span class="def">due from</span> (<span class="def">owed by</span>) <i>y</i> 
+coming to mean <i>x is</i> <span class="def">due to</span> <i>y</i>:</span> 
+            im cert cach fenneda .i. cach set 
+dlegar don fennid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 206
+            
+          . dlegar d'Ultaib (dlegait 
+Ulaid, LL) tabach gēill <span class="ediltr">it is the right of the Ulstermen to levy</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 272
+          . 
+            dlegair do lind locha Léin | athchomarc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 260
+            
+          . 
+            dleaghair do shluagh shíol Luighdheach | 
+sreathnughadh cath sluagh Muimhneach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 3074
+            
+          
+(poem). Rarely with DE: nach airlisi . . . ni dleghar de dire 
+`<span class="quote">every "arlis"-enclosure . . . is not entitled to a fine</span>' (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 
+70
+           (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=dligid II (b)">II (b)</a></span> ?). ag seo in glacc-sa a nguin do glaicci, | a maic De, mar 
+dlegar dit <span class="ediltr">as is due to Thee</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 243 § 24
+           (construction due 
+to rhyme with ícc?).</p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

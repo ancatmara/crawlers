@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="31438">maith</h3><span class="citation">Cite this: eDIL s.v. maith or <a class="reference" href="31438">dil.ie/31438</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                maid, ferr, ferrsoun, ferra, olc, maithe, maithghníomhartha</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result"> <span class="itype i">i</span>, <span class="pos adj." style="color: #ff8000">adj.</span> and <span class="pos subst." style="color: #ff8000">subst.</span> The form maid is freq. in Wb., <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+1247.
+      
+    </p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> As <span class="pos adj." style="color: #ff8000">adj.</span> <span class="trans">
+          <span class="def">good</span>
+        </span> in various senses of the word: gl. bonus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 661.
+        
+      </p>
+      
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) in moral sense: rect maid <span class="ediltr">a good law</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3d10
+          . 
+            gním 
+olc no m.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 15a6
+            
+          . 
+            féil Mairc maith, 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> May 18.
+            
+           
+            dá noí 
+míled mathe, 
+              July 23
+            
+          . 
+            tri meicc mathi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2490.
+            
+           ben m.<span class="oRef">¤</span> nad 
+fitir fer romat <span class="ediltr">a virtuous woman</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 113.6
+          . 
+            mná córi 
+ciall-mathi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 40.
+            
+           cridiscelae maithi <span class="ediltr">good desires</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 
+§ 25.
+           
+            dena ní m.<span class="oRef">¤</span> isind lo m.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7347.
+            
+           
+            co forcetlaibh maithibh, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 886.
+            
+           As pred.: 
+            m.<span class="oRef">¤</span> días, 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Mar. 13.
+            
+           
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 108.23
+          . 
+
+            m.<span class="oRef">¤</span> do Dia-su ┐ olc ar ndee-ne, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 716.
+            
+           ata mmaithi <span class="ediltr">which 
+are good</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 89a2
+          . Used as <span class="pos subst." style="color: #ff8000">subst.</span> in <span class="gen masc.">masc.</span>, <span class="trans">a <span class="def">good</span> <span class="def">man</span>:</span> ni 
+farnic sede nach maid . . . isin domun <span class="ediltr">he found none good</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+2a21
+          . 
+            do dechrugud etir maithi ┐ ulcu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 19d2
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">of quality, state, <span class="lbl">etc.</span> <span class="def">good</span> (of its kind), <span class="def">profitable</span>, <span class="def">excellent</span>:</span> 
+            robad m.<span class="oRef">¤</span> a lúag, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4451.
+            
+           is m.<span class="oRef">¤</span> nach cualammar ┐ nach 
+fetammar (<span class="lbl">i.e.</span> <span class="frn ">omne ignotum pro mirabili</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 7.
+           maithi na 
+hairm-se <span class="ediltr">these weapons are good</span>, 
+            1098
+          . 
+            isin Temraig m.<span class="oRef">¤</span>
+            , 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 194 § 3.
+            
+           is m.<span class="oRef">¤</span> eturru <span class="ediltr">they are on good terms</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 
+266a21
+          . 
+            nir bho m.<span class="oRef">¤</span> etir Brian ┐ Tadg, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 6.13
+            
+          . <span class="lbl">Cf.</span> as m.<span class="oRef">¤</span> 
+an airde badhbhdhúin ata 'n-a mur <span class="ediltr">its wall has fully the height 
+of a bawn</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 579.17
+           (D. Mac Firbhisigh).</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">denoting <span class="def">ability</span>, <span class="def">fitness</span>, <span class="def">proficiency</span>:</span> it mathi side oc 
+aslug <span class="ediltr">skilled in seducing</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 30c13
+          . ammi mm.<span class="oRef">¤</span> oc loṅgud <span class="ediltr">we 
+are good eaters</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 252b48
+          . 
+            it mait[h]-siu oc breth for aislingi, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 67.1
+            
+          . am m.<span class="oRef">¤</span>-se for fithchill <span class="ediltr">I am good at chess</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+10804.
+           nimtha m.<span class="oRef">¤</span> do chath indiu <span class="ediltr">I am not in form for fighting</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 13.
+           batar maithi do imfulung na fían (of hostellers), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1018 (p. 87.11)
+          . doine . . . ad maithi d'uaim laide 
+<span class="ediltr">who are skilled in rhyming lays</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 306 § 10.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) folld. by prep.: m.<span class="oRef">¤</span> do <span class="trans">
+            <span class="def">good for</span>, <span class="def">to the advantage of</span>:</span> 
+            issed 
+is m.<span class="oRef">¤</span> deit, ercc co Comgald, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 66.
+            
+           corop m.<span class="oRef">¤</span> dō siu 
+ocus thall <span class="ediltr">that it may be well for him here and hereafter</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 
+47 § 17. 
+          
+          
+            is m.<span class="oRef">¤</span> don lucht tidnaicther do bás ar in coimdid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+6593.
+            
+           m.<span class="oRef">¤</span> fri <span class="trans">
+            <span class="def">good to</span>, <span class="def">kind to</span>:</span> 
+            ba m.<span class="oRef">¤</span> Curui frit?, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 28.2
+            
+          . 
+
+            asbert C. fria maccaib combtis mathi fri Fiachu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 315b52
+            
+          . 
+is m.<span class="oRef">¤</span> re corp, is fada a olc don anmain <span class="trans">
+            <span class="def">pleasant to</span>
+          </span> (of a vice), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 26.11
+          . Similarly as <span class="pos adv." style="color: #ff8000">adv.</span>: adubart-sa risin seighler beth 
+co m.<span class="oRef">¤</span> fris <span class="ediltr">to treat him well</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 76.7
+          , <span class="lbl">cf.</span> 
+            40.12
+          . With DO in 
+same sense: 
+            intí is olc dó fadéin, cia aile dia mbad m.<span class="oRef">¤</span> he?, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+5972.
+            
+           is m.<span class="oRef">¤</span> limm <span class="trans">
+            <span class="def">it seems good to me</span>, <span class="def">I like</span>, <span class="def">approve</span>:</span> mad maid 
+la Dia (= <span class="frn ">si Dominus permiserit</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14a11
+          , <span class="lbl">cf.</span> 
+            6b18
+          . 
+            issed 
+as m.<span class="oRef">¤</span> laisim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 21.
+            
+           cibe la bes m.<span class="oRef">¤</span> leo <span class="ediltr">whatever day 
+they like</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 292.18
+          . 
+            ingen uallach . . . m.<span class="oRef">¤</span> lēi teglachas, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4447
+            
+           = 
+            ba mian lē, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 22.3
+            
+          . With FRI: olsodain nad 
+m.<span class="oRef">¤</span> fri Cirine ciasperthar <span class="ediltr">Jerome does not approve of their being 
+said</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 7.235
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">of <span class="def">rank</span>, <span class="def">station</span>, <span class="def">wealth</span>:</span> is m.<span class="oRef">¤</span> fer in taige itaam <span class="trans">
+            <span class="def">wealthy</span>(?)</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 117.
+           a n-indliss araile fir m.<span class="oRef">¤</span>
+           (= <span class="frn ">patris familias cuiusdam</span>), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 95.
+           o dhoriachtatar uli m.<span class="oRef">¤</span> saich `<span class="quote">gentle and simple</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 191.
+           berthair . . . a fir mathi co hEogan <span class="ediltr">his nobles</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 313.8
+          . Oft. absol. in <span class="gen m.">m.</span> <span class="gen pl.">pl.</span> <span class="trans">
+            <span class="def">persons</span> of <span class="def">rank</span>, <span class="def">nobles</span>
+          </span> (= Lat. 
+<span class="frn ">optimates</span>):
+             mathi Ulad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 5.
+            
+           
+            mathe fer nhErend, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4249.
+            
+           
+
+            mathi Lochlainne, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 13.
+            
+           
+            righdhal mathe Erenn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 858.
+            
+           
+
+            na maithe .i. na sacairt, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6502.
+            
+           
+            maithi clerech Cene[oi]l 
+C., 
+              <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> ii 328.26
+            
+          . 
+            maithi bharūn Erenn, 
+              396.14
+            
+          . 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 752.1
+          . 
+Of women: mna ┐ maithi ┐ ingenraid na Laitinda `<span class="quote">noble 
+ladies</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 1664.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">f</span>) often used, like Eng. <span class="trans">
+            <span class="def">well</span>, as <span class="pos interj." style="color: #ff8000">interj.</span>
+          </span> at beginning of a 
+reply or statement: 
+            m.<span class="oRef">¤</span>, a thriath!, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 11.
+            
+           m.<span class="oRef">¤</span> a t[h]róig! 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 19.19
+          . 
+            m.<span class="oRef">¤</span> and, a Ibair!, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1209.
+            
+          
+        </p>
+      
+     
+      <p class="result"> 
+(<span class="edilb">g</span>) <span class="pos adv." style="color: #ff8000">adv.</span>: m.<span class="oRef">¤</span> rucais do breth <span class="ediltr">well hast thou judged</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1050.
+         
+is m.<span class="oRef">¤</span> cotlai <span class="ediltr">thou sleepest well</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 116.1
+        . m.<span class="oRef">¤</span> fuairsead 
+filidh Banbha arbh fhéidir leo do labhra <span class="ediltr">B.'s poets did well to 
+invent all they could</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> v 153.
+         With co: 
+          hore pridchas 
+co mm.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 7b15
+          
+        . nir bo lá go m.<span class="oRef">¤</span>
+         <span class="ediltr">it was not fully day</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 
+118.14
+        . gan ní do rádh acht ní bes agad co ró m.<span class="oRef">¤</span>
+         <span class="ediltr">what you 
+know very well</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 211.10.
+         As <span class="pos adv." style="color: #ff8000">adv.</span> of degree: is airdi 
+sin co m.<span class="oRef">¤</span> nā slíab Sioin <span class="ediltr">a good deal higher</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> 48.
+        
+      </p>
+     
+      <p class="result"> 
+<span style="color: #ff8000">Compar.</span> ferr (<span class="itype indecl.">indecl.</span>). maith ┐ f. ┐ ferrsom <span class="ediltr">good, better and 
+best</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 655
+         = 
+          fearr ┐ fearrson, 
+            645
+          
+        , 
+          ferrsoun, 
+            3268
+          
+         (this 
+superl. form is not found in lit.). nídad f.-si <span class="ediltr">ye are not better</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 8c7
+        . 
+          bes nocon [ḟ]err in ben, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 43.
+          
+         
+          ba f. Conchobar cach 
+rig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 217 § 5.
+          
+         
+          f. cach clú, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 293.16
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SP" title="eDIL Bibliography">SP</strong></span> ii § 2
+        ). 
+
+          is f. precept oldaas labrad ilbéelre, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12d7
+          
+        . 
+          is f. in ernaigthe 
+oldat indmusa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5616.
+          
+         is f. do laech andai-siu <span class="ediltr">he is a better 
+warrior than thou</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 101.11
+        ; <span class="lbl">cf.</span> combadad f. do loech anna 
+C. <span class="ediltr">that thou wast a better warrior than C.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 587 n.
+         cid f. 
+cid messu dom nirt <span class="ediltr">be my strength better or worse</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 38.
+         ? <span class="number pl.">pl.</span> 
+léicsius rígi dóib . . . ┐ nip ferra im rath . . . andúsa <span class="ediltr">they were 
+no better</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 52.
+         
+          dus in mbatar seoit ba ferra isin uaim andas a tucadh este, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 57.19
+          
+        . 
+          roptis ferra ... inata na seoit, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 53.14
+          
+        .</p>
+     
+      <p class="result"> 
+is f. dom <span class="trans">
+          <span class="def">it is better</span> <span class="def">for me</span>:</span> 
+          is f. dún a dénum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14b17
+          
+        . 
+          is f. 
+duit dian-fésser, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Oct. 24.
+          
+         do bad fh. dō can techt nā techt 
+mar sin <span class="ediltr">it would be better for him not to come</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7793.
+         fearr 
+damsa a n-edargairi <span class="ediltr">I had better separate them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 194 § 8.
+        
+      </p>
+     
+      <p class="result"> 
+is f. limm <span class="trans">
+          <span class="def">I think it better</span>, <span class="def">I prefer</span>:</span> is f. limm rafesid (gl. nolo 
+vos ignorare), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12a1
+        . 
+          f. lium indás anad | scarad frisin 
+ṅdomun, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 367.
+          
+         
+          ba f. lais bas do thecht dó oltas beith 
+i mbethaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6544.
+          
+         (<span style="color: #ff8000">superl.</span>) is é [is] férr límm fogéb . . . bás 
+crochi <span class="ediltr">the death of the cross is my choice</span>, 
+          2430
+        .</p>
+     
+      <p class="result"> 
+f. de <span class="trans">
+          <span class="def">the better of</span>, <span class="def">for</span>
+        </span> (<span class="lbl">s.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/KZ" title="eDIL Bibliography">KZ</strong></span> liii 82 f
+        .): manibat fer[r] 
+som de tri aesnadud inna diglae <span class="ediltr">if they be none the better</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+24c1
+        . conid ferrde lem-sa cech pian fogéb ar ainm nDé <span class="ediltr">I 
+welcome every pain that I shall suffer in God's name</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2427.
+         
+bid fearr-di frib menma bar mathar dia nom-ruca[id]-sa lib 
+<span class="ediltr">your mother's love for you will be the greater</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 56 
+§ 17
+        . feirrde mé méad a áladh <span class="ediltr">I am the better for the number of 
+his wounds</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxii 10.
+         cá feirrde an tocht doní an béal | 
+sgéal doní an rosg ar a rún? <span class="ediltr">what is gained by the mouth's 
+silence (if) the eye betrays its secret?</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 38.11 (ed. 
+1926).</p>
+     
+      <p class="result"> 
+As <span class="pos adv." style="color: #ff8000">adv.</span>: condib f. donberaid-si oldaas cách <span class="ediltr">that ye may give 
+it better</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 16c9
+        . corop f. assa f. donimdigi[d] desseirc Dé 
+<span class="ediltr">that ye may abound better and better in love of God</span>, 
+          23b1
+        .</p>
+     
+      <p class="result"> 
+<span style="color: #ff8000">Superl.</span> dech <span class="lbl">q.v.</span> Later ferr: bam-sa f. im chath ┐ comrac 
+díb <span class="ediltr">I was the best of them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 17.
+         
+          croinn . . . as f. do baí i 
+nErinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 172.21
+          
+        . 
+          aenfer rob ḟ. troccaire tanic d'ḟuil 
+na Adham-clainne, 
+            182.1
+          
+        . 
+          gach fód is fearr d'ár n-áitibh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 44.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> As <span class="pos subst." style="color: #ff8000">subst.</span> <span class="itype i">i</span>, <span class="gen neut.">neut.</span> in O.Ir. (see 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5d30
+        , 
+          33d10
+         quoted 
+below), later <span class="gen masc.">masc.</span> and in Mod.Ir. often <span class="gen fem.">fem.</span> <span class="trans">That which is 
+good; <span class="def">good</span>:</span> gl. bonum, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 798.
+        
+      </p>
+      
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) in moral sense: ná m.<span class="oRef">¤</span> robé, bad hed dogneid <span class="ediltr">whatever 
+good there is</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5d30
+          . 
+            is asse duíb maid do denum, 
+              4a4
+            
+          . nad 
+rancatar les denma m.<span class="oRef">¤</span>
+           <span class="ediltr">that they had no need to do good</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+35b25
+          . inne m.<span class="oRef">¤</span> nó uilcc <span class="ediltr">the quality of good or evil</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 39a32
+          . 
+tan is d'oen-craunn maid is uilc <span class="ediltr">since from one tree is good and 
+evil</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1247
+           (
+            uilc = olc, Stokes <span><strong class="pop" style="color:blue" href="bibliography/Academy" title="eDIL Bibliography">Academy</strong></span> No. 584, 1883
+            
+          ). 
+a maith <span class="trans">his <span class="def">virtue</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 36.
+           in lucht dianid comthrom 
+a m.<span class="oRef">¤</span> ┐ a n-olc <span class="ediltr">whose good and bad (actions) are equal</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 24.
+           
+m.<span class="oRef">¤</span> cáich d'ionnlach `<span class="quote">to attack others' good deeds</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xiv 
+33
+          . mór in m.<span class="oRef">¤</span> dó . . . Dond Cualnge do thabairt dúnni <span class="ediltr">it is 
+great goodness for him to give us the D.C.</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 121.
+           <span class="lbl">Cf.</span> 
+            mōr in 
+m.<span class="oRef">¤</span> corba cendais do Martain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 100
+            
+           (= mor in m.<span class="oRef">¤</span> do 
+M. corba cendais). <span class="number pl.">pl.</span> na maithe dogniam . . . ┐ na hulca 
+imgabamít <span class="ediltr">the good deeds we do</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6865.
+           (<span class="gen fem.">fem.</span>) gach m.<span class="oRef">¤</span> do 
+ḟoráileadh ar chách, go ngníomhuigheadh féin rompa í <span class="ediltr">every 
+good deed he enjoined on others he used to do himself first</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> 
+iii 3038.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">of state, condition, <span class="lbl">etc.</span>, <i>a good thing, a</i> <span class="def">benefit</span>; <span class="def">good</span>, 
+<span class="def">prosperity</span>
+          </span>. 
+            in tan durairngert Dia du Abracham a m.<span class="oRef">¤</span> sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+33d10
+            
+          , <span class="lbl">cf.</span> 
+            14b6
+          . atu i m'ulc, nim-fuil i m'm.<span class="oRef">¤</span>
+           <span class="ediltr">it is not well with 
+me</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2335.
+           co mbaí m.<span class="oRef">¤</span> de .i. Lugaid <span class="ediltr">so that good came of 
+it, namely (the birth of) L.</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 124b52
+          . ro línais mo meis o cach 
+m.<span class="oRef">¤</span>
+           <span class="ediltr">thou hast filled my platter with every good thing</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1359.
+           
+cia m.<span class="oRef">¤</span> nā tibre int athair dia maccu? 
+            7889
+          . nā raibhe m.<span class="oRef">¤</span> ag 
+Certán (an imprecation), 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 139.32
+          . co roibh m.<span class="oRef">¤</span> h'anora 
+fein agud! `<span class="quote">much honour be thine</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 81.19
+          , <span class="lbl">cf.</span> 
+            282.15
+          . in 
+mh.<span class="oRef">¤</span> do bhí, ná bí dhi `<span class="quote">the good that hath been, meddle not with 
+it</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 392.22
+           (early 17th cent.). 
+            an mh.<span class="oRef">¤</span> do dhéanfa 
+mé air mo phobal, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Jerem.</strong></span> xxix 32.
+            
+          
+        </p>
+       
+        <p class="result"> 
+ar m.<span class="oRef">¤</span> fri <span class="trans">
+            <span class="def">for good unto</span>, <span class="def">for the sake of</span>:</span> 
+            ní ar m.<span class="oRef">¤</span> frib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+19d28
+            
+          . 
+            ar m.<span class="oRef">¤</span> fri Duaid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 109d7
+            
+          . ar m.<span class="oRef">¤</span> friu diblinaib <span class="ediltr">for 
+their mutual advantage</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 464.27
+          . Similarly with DO: 
+
+            
+              <span class="frn ">per caritatem</span> .i. do m.<span class="oRef">¤</span> friss, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6d4
+            
+          . In <span class="number pl.">pl.</span> 
+            ar maithi (maithib) fri, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> i 335-37
+            
+          : 
+            ar maithe re hinbleoguin do nithur sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 100.11
+            
+          . 
+            ar maithi re fine, 
+              iii 542.16
+            
+          . 
+            ar mathib red' mac, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 386.15
+            
+          . 
+            ar maithib rimsa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 128.2041
+            
+          . 
+            ní ar mhaithe liom do tharraing tar sáile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xviii 17
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">concrete, <span class="def">goods</span>, <span class="def">property</span>, <span class="def">wealth</span>:</span> 
+            is lia mo m.<span class="oRef">¤</span>-sea indá 
+do m.<span class="oRef">¤</span>-siu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 58.
+            
+           m.<span class="oRef">¤</span> in talman (<span class="lbl">sic leg.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 237 § 31.
+           
+imgabsat m.<span class="oRef">¤</span> Maireda `<span class="quote">quitted Mairid's domain</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iv 64.
+           thug Brian ┐ Muimhnigh an mh.<span class="oRef">¤</span> sin leó ar chúlaibh (of 
+booty), 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 80.14
+          . 
+            beag a shuim i m.<span class="oRef">¤</span> nó maoin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> xi 10
+            
+          .</p>
+      
+    
+  
+  
+    <p class="result"> 
+COMPDS. (rarely used, generally replaced by dag-, deg-).</p>
+  
+  
+    <p class="result"> 
+? 
+        mathchorach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 116c49
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC4;lt.Ir.Dicht." title="eDIL Bibliography">Ält. Ir. Dicht.</strong></span> i 18 § 21
+       
+(= <span class="ediltr">that makes good compacts</span> Meyer). 
+        <span class="oRef">¤</span>fer: <span class="number pl.">pl.</span> 
+        maithfir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> 
+Dec. 24.
+        
+       
+        <span class="oRef">¤</span>gein: m. mairre (<span class="lbl">leg.</span> Maire), 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2733.
+       
+        Marian 
+mait[h]gein, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> 30.
+        
+       ? 
+        <span class="oRef">¤</span>glond: luchraib mathglond 
+`<span class="quote">with the lustres of good deeds</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 166.14
+      . 
+        <span class="oRef">¤</span>gním: 
+        ag 
+maoidheamh . . . na maithghníomh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 8730.
+        
+       
+        <span class="oRef">¤</span>gnímrad: 
+<span class="number pl.">pl.</span> 
+        
+          maithghníomhartha
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4339.
+        
+       
+        <span class="oRef">¤</span>greim: lith co m. <span class="trans">`<span class="def">good 
+hold</span>' (? <span class="def">profit</span>)</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2111.
+       
+        
+          <span class="oRef">¤</span>ingen, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 122.5
+        
+      . ? 
+        <span class="oRef">¤</span>ní 
+<span class="trans">a <span class="def">good</span> <span class="def">thing</span>:</span> m. Muimnech Muircertach <span class="ediltr">the treasure (glory) of 
+the Munstermen</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 430 § 1
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 51a18
+       (: flaithrī).</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

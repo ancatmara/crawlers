@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="33175">nícon</h3><span class="citation">Cite this: eDIL s.v. nícon or <a class="reference" href="33175">dil.ie/33175</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                nícon, níco, noco, nocho (n-), nocha (n-), nocha, nochan, nacon, nícon, Nícon, nocon, nochon</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adv." style="color: #ff8000">adv.</span> of negation, a strengthened form of ní, used before 
+vbs. The second element -con is expld. as perfective particle <span class="frn ">com- (con-)</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> xv 505
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/AktenMarburg" title="eDIL Bibliography">Akten Marburg</strong></span> 112-13
+       but see 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xxi 90-92
+      . Used at the 
+beginning of a main clause with the indic. (or potential or 
+optative subj.), folld. by the conjunct form of the vb. In the 
+Glosses, the particle -con is always written in conjunction 
+with the vb., ní either standing as a separate word or joined 
+to it. The initial consonant of the vb. is lenited (not always 
+expressed in MSS.).</p>
+   
+    <p class="result"> 
+In Mid.Ir. the form nícon somet. becomes níco before a 
+consonant, and is early weakened to noco (noco n- before a 
+vowel or lenited f); later with lenited c, nocho (n-), nocha (n-), 
+which prevail in later Mid.Ir.; early Mod.Ir. nocha (generally 
+eclipsing follg. cons., nochan before a vowel and lenited f), 
+still persisting in North Ireland and in Scottish Gaelic in the 
+neg. <span class="frn ">cha</span>, <span class="frn ">chan</span>.</p>
+   
+    <p class="result"> 
+In O.Ir. nacon replaces nícon in dependent clauses; this 
+construction disappears in Mid.Ir.</p>
+   
+    <p class="result"> 
+Nícon (nocon, nochon) expresses a more emphatic denial 
+than ní alone (in later usage there is not much difference).</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) nícon (níco n-): O.Ir. níconchoscram <span class="ediltr">we destroy not</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+2b21
+        . ni conchechrat <span class="ediltr">they will not love</span>, 
+          30c4
+        . ni conchloor act 
+for caínscél <span class="ediltr">may I hear nothing but good of you</span>, 
+          23b41
+        . 
+          ni-conḟil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 188a4
+          
+         (but: 
+          ní confil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12d5
+          
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 92a8
+        ). 
+          ní con-talla obbad fair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 90a2
+          
+        . nicontuislifea, gl. nihil . . . elabitur, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 27b18
+        . 
+          ní con bia cumscugud for pianad, 
+            26d12
+          
+        . 
+          ní 
+conrogab terochraic, 
+            36a32
+          
+        . ni con ruaccobrus ní, gl. nunquam 
+concupivi, 
+          136b7
+        . Before vowel: ni conairigur-sa na imned 
+ <span class="ediltr">I feel no tribulation</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 16a28
+        . 
+          ní conétada, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 188a4
+          
+        .</p>
+     
+      <p class="result"> 
+Mid.Ir. 
+          nícon tora etir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 40.
+          
+         
+          niconromolastar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 10.
+          
+         nícon-ér-sium tria bith sír <span class="ediltr">he will never rise</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+1860.
+         
+          níco dlegar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 51.
+          
+         
+          nico ro troisci, 
+            72
+          
+        . 
+          níco fil 
+crich fora flaithius, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1808
+          
+        , <span class="lbl">cf.</span> 
+          710
+        , 
+          6614
+        . 
+          nico tarut Í. nach 
+freccra, 
+            3251
+          
+        . 
+          ráthaigit na minpheccda . . . ┐ ní co ráthaigit na 
+morphecdai, 
+            3231
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) noco(n): 
+          noco rag-sa ar cuiriud mná, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 32.
+          
+         
+          noco bia 
+. . . i pēin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2043.
+          
+         
+          noco laimed nech, 
+            4877
+          
+        . 
+          noco dentar, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5551.
+          
+         
+          nech bud chalmu . . . cosindiu nocon ḟuaross, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+3674.
+          
+         
+          nocon uil nech cen imarbus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3181
+          
+         ( = nocon-ḟuil). 
+
+          noco díultab-sa ┐ nocon fhuiceb tu, 
+            3009
+          
+        . nocon cēl-sa <span class="ediltr">I will 
+not hide (it</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 296 § 37.
+         
+          noco rogenair . . . duine bad 
+choimiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2245.
+          
+         noco rom-saebad <span class="ediltr">I have not been deceived</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1795.
+         nocor ḟer banne <span class="ediltr">not a drop (of rain) fell</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 65b58
+         
+= 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 85 z
+         (nocar).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) nocho(n), nocha(n): 
+          nocho chretiub-sa duitsiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9224.
+          
+         
+
+          nochonepér rit insein, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1309.
+          
+         nocha bhí clúmh trés an gcreig 
+| nach creid . . . dhuid <span class="ediltr">there is no verdure on the rock but trusts 
+to thee</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxix 26
+        . 
+          nocha chéal, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxviii 28.
+          
+         dā 
+bfinnadh . . . nacha dingnadh maith <span class="ediltr">he would not do good</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+vii 301 § 3.
+         
+          nocho ro díultus . . . ar na bochtaib . . . nocho ro 
+fhuirgius iat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6031.
+          
+         mo lām nochor leadair duine <span class="ediltr">never 
+injured any man</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 241 § 3.
+         
+          nochan faidiubh-sa le fer, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4483
+          
+         St. 
+          nochon ḟidir mac duine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 303 § 9.
+          
+         
+          nuchun 
+eirg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 198.1
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) with eclipsis of follg. cons., due to confusion of con with 
+the preverb con- (com-), 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 210
+        , or the conj. 
+          co-n, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thurn." title="eDIL Bibliography">Thurn. Hdb.</strong></span> § 851
+          
+        ; only once in Glosses: nícon dét do nach ailiu insin 
+ <span class="ediltr">that applies</span> (téit) <span class="ediltr">to none other</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 53a17
+        . Occas. in Mid.Ir.: 
+nico mbia bríg isindi sin <span class="ediltr">that will not matter</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 66.
+         
+
+          níco mbia maith det-siu siu no táll, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1812.
+          
+         níco ndeine tú 
+fén do ícc <span class="ediltr">thou canst not heal thyself</span>, 
+          3336
+        . 
+          nico ndénat aithrige, 
+
+            6476
+          
+        . 
+          nocha mbia, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxvii 16.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) with inf. pron.; in Glosses only in three cases in Ml.: ni 
+con-d-robae-som ind rae sin <span class="ediltr">he had not that time</span>, 
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 41a5
+        . ni con-da-bia nem <span class="ediltr">they will not have heaven</span>, 
+          69a8
+        . ní cos-fuar-sa inna 
+furgrad sin <span class="ediltr">I found not those remains</span>, 
+          57d3
+         (pron. proleptic). 
+Later fairly common: 
+          nochom-tha labra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2088.
+          
+         nuchumtha ní radim de <span class="ediltr">I have nothing to say thereof</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 800
+        , <span class="lbl">cf.</span> 
+
+          1483
+        . 
+          noconom tha a samail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 7007
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 66
+        , nimtha <span class="lbl">v.l.</span>), 
+ <span class="lbl">cf.</span> 
+          8391
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 26
+        ). nocot-bia airmitiu <span class="ediltr">thou shalt have no reverence</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 847.
+         
+          nichat-léicfider sech láim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 47b42
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 
+12 § 21
+        . nochos-tibrea re cétluth <span class="ediltr">will not give her as a mate</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3502.
+         atchiam cách . . . ┐ nicon n-acci nech <span class="ediltr">no one sees 
+us</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10865
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 133.5
+        ). nichar-fail tlacht <span class="ediltr">we have no raiment</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1560.
+         
+          nocho-for-bia . . . airchra bíid, 
+            4063
+          
+        . nicos-tánic riam ┐ nicos-ticfa dírimm bas choímiu <span class="ediltr">never came to them 
+and never will come to them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 248b11
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 46
+        ) = 
+          nicus-tanic . . . noconus-ticfo, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 34.4
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) with copula (Mid.Ir., not in Glosses): nocon alaind mar 
+atai <span class="ediltr">far from lovely is thy appearance</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1305.
+         
+          noco choir 
+duin, 
+            1545
+          
+        ; <span class="lbl">cf.</span> 
+          nicon choir etir laisim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 15.
+          
+         
+          noco 
+chath nā tuitt rí, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 5.
+          
+         
+          `In béo do thigernae?' `Nocon béo 
+immorro', 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 166.
+          
+         
+          noco buidech Dia, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8371.
+          
+         nicon ed 
+ <span class="trans">
+          <span class="def">not so</span>, <span class="def">by no means</span>
+        </span> (answer to a question), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 21.
+         
+nocon ed namma <span class="ediltr">not only that</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 31.
+         
+          nicon ḟiu la credal, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 
+Prol. 111
+          
+         (nocon, nochon <span class="lbl">v.l.</span>). 
+          nochan fhoráil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxv 6
+          
+        . 
+nocha nḟer mar soin Seafraigh <span class="ediltr">S. is not a man of that sort</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. ex. 509.
+         
+          nucu maith rí ac nā bít géill, | noco maith geill 
+cen geimle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 146b35
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> iii 542 § 17
+        ). 
+          a mbrughaidh 
+nocha brónaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. ex. 782
+          
+         = nírsat brónuigh `<span class="quote">their 
+yeomen were not sad</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 116 § 24.
+         
+          noco n-annsa doman-sa 
+ata mo flaithemnus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2709.
+          
+         nochon do biuc bae dia brig 
+ <span class="ediltr">not little was his strength</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 217 § 5.
+         With pret.: 
+
+          nochorbo choimsech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6091.
+          
+         
+          nocorb éicen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 949.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">g</span>) in O.Ir. con is combined with the conj. ná (occas. nád) 
+in subord. clauses: connaconbeth leu etir <span class="ediltr">that it should not be 
+with him at all</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 35c2
+        , <span class="lbl">cf.</span> 
+          103d9
+        . 
+          connacon bet acht degnimai less, 
+            129a9
+          
+        . 
+          arnaconroib dethiden for neuch, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 15d11
+          
+        . 
+
+          connachonroib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 23d6
+          
+        . amal slaidred . . . di naconbi moín 
+ <span class="ediltr">from which no treasure is wont to be</span>, 
+          85b7
+        . nad conbiad íc dō 
+ <span class="ediltr">that there would be no healing for him</span>, 
+          58a9
+        . For a further 
+development of nacon, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=n&#xF3; co">nó co</a></span>.</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="17617">do-fairget</h3><span class="citation">Cite this: eDIL s.v. do-fairget or <a class="reference" href="17617">dil.ie/17617</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                dofairget, toirgden, tarctait, toirg, targadh, targa, toirgiustur, targa[d, targad, targasa, targa[d]-sa, dofarcaid, do-farguid, dofairgi, targ(a)id, tarc(a)id, toirgid, rothairgid, targadar, do-fairges, tarcas, tairces, targas, tarcus, taircid, doaircend, dofaircenn, tafairg, ttaireoghuin, targus-sa, do-airg, rairccset, doraircsiter, taircced</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (*to-ro-ad-guid-, Bergin, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xi 139
+      ). The deut. forms found are no doubt back-formations. <span class="mood Indic.">Indic.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+
+        dofairget, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 272.9
+        
+      . <span class="lbl">Cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 655
+      . 
+        toirgden, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 
+314
+        
+      . ? <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        tarctait, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 303
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns pres.">pres.</span> <span class="per 2">2</span> <span class="number s.">s.</span> (as <span class="mood ipv.">ipv.</span>) 
+        toirg, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 322
+        
+       (see Gloss.). <span class="per 3">3</span> <span class="number s.">s.</span> mana targadh biadh `<span class="quote">was offered</span>', <span class="lbl">leg.</span> targa <span class="ediltr">unless he offer</span> (?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 220 Comm.
+       <span class="voice Pass.">Pass.</span> <span class="number s.">s.</span> 
+dia toirgiustur
+      , <span class="lbl">ib.</span> <span class="tns Pret.">Pret.</span> and <span class="tns perf.">perf.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        targa[d, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1986
+        
+      
+<span class="lbl">etc.</span> 
+        targad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 128 ff
+        
+      . targasa, <span class="lbl">leg.</span> targa[d]-sa (?), 
+        130
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+
+        dofarcaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 46
+        
+      . 
+        do-farguid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 502.22
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+979
+      ) = 
+        dofairgi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 227.10
+        
+      . Usually targ(a)id, tarc(a)id. 
+
+        toirgid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1336
+        
+      . 
+        rothairgid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2953
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        targadar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 67
+        
+      , <span class="lbl">etc.</span> <span class="voice Pass.">Pass.</span> 
+        do-fairges, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 36 n. 6
+        
+      . 
+        tarcas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span>
+i 47
+        
+      . 
+        tairces, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2437
+        
+      . 
+        targas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 162
+        
+      . 
+        tarcus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 
+114 Comm.
+        
+       </p>
+   
+    <p class="result"> 
+Later as simple <span class="pos vb." style="color: #ff8000">vb.</span> taircid. Note also <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> doaircend, 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 210
+      . ? 
+        dofaircenn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 26 n. 7
+        
+      . ? 
+        tafairg, 
+          ii 122 
+Comm.
+        
+       <span class="mood Condit.">Condit.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        go ttaireoghuin
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 319
+        
+      . <span class="tns Pret.">Pret.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+
+        targus-sa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 20 (§ 16)
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        do-airg, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 610
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        do 
+rairccset
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1360
+        
+      . ? 
+        doraircsiter, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 26 n. 2
+        
+      . <span class="pos Vn." style="color: #ff8000">Vn.</span> 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 taircsiu">1 taircsiu</a></span>. 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs § 9
+      . </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">offers</span>, <span class="def">proffers</span>:</span> tairg tri damu dóib <span class="ediltr">offer them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 
+§§ 33
+        , 
+          34
+        , 
+          35
+        . 
+          targa[d] dhō muinci sealga, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1986
+          
+        . 
+          rothairgid Laban lán lōg | ar ingaire do Iacōb, 
+            2953
+          
+        . 
+? tuc dam th'ór is t'arget, | dāig rofairgged dam <span class="ediltr">since you have 
+offered (them) to me</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3099
+        = mēd rotfairced (<span class="ediltr">t</span> later) 
+
+          dam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2288
+          
+        . dothairced cach dib a dáil <span class="ediltr">offered (delivered</span>) 
+ <span class="ediltr">his judgement</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4521
+         (<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 292b34
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 122a2
+        ). 
+? 
+          ellgid sé saidhecht do neoch .i. dofaircenn imat toicthi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 26 n. 7
+          
+        . ? tairr .i. arinni taircther ind cach biad <span class="ediltr">all 
+food is proffered (<span class="lbl">i.e.</span> sent) into it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1262
+         (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-airicc">do-airicc</a></span> ?). 
+
+          targid cach ben díb lōg dam-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 229a33
+          
+        . 
+          doairg A. lóg don 
+choicait for cét táisech dodénad immthús dō, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 610
+          
+        ; 
+          319
+        . 
+uair nād ḟoēt uad a toirgid do <span class="ediltr">because he did not accept his 
+offer</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1336
+        . 
+          targaid . . . a thír cona thoirthe | ina 
+coibche d'óen-mnái, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 300
+          
+        . 
+          dofargaidh coícait 
+torc dia ēisi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 112
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvi 63
+        ). 
+          do tairgeadh bó aile dí 
+da cind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 58
+          
+        . ? 
+          dā trian a clain[n]e . . ., dā trian 
+etha ┐ bleachta . . . tarced fri coir [fri] fairche | dhoibh gacha 
+haidche Samna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 28b36
+          
+        = 
+          taircced, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 104
+          
+        . 
+
+          taircsed sīd ┐ cōrus ┐ comada do A., 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 208a23
+          
+        . 
+          targcaid 
+Cíarān aentaid do Cholmán, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 86
+          
+        . 
+          targaidh . . . a mancine do B. ┐ ni rogabh inní sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 41
+          
+        . 
+          fleadh do tairged 
+doibh . . . a tig Dommad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 77
+          
+        = 
+          fl. do tairced . . ., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> ii 464
+          
+        . 
+          nīr gapadh comha no cennach dar thairccset, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 64
+          
+        . 
+          fear . . . dia ttarccus comhorbus Iae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 18
+          
+        . 
+tarcas dō fa secht . . . a chert is a dliged <span class="ediltr">his legal rights were 
+offered him sevenfold</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 47
+        . fer doaircend cert ┐ dlige, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 210
+         (glossed .i. tairges). 
+          dia taircetur dlighedh do, 
+
+            i 88
+          
+        , 
+          86
+        . 
+          nir thairccset dál nā dliged, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 156
+          
+        = 
+          ni 
+taircsit, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 25b13
+          
+        . 
+          do thairg comhaidh uaidhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 106
+          
+        . 
+tairgthear leath Eireann uait-si do C. <span class="ediltr">let half Ireland be 
+offered by thee</span>, 
+          62
+        . tairgthur leth Erend uathaib <span class="ediltr">let them offer 
+to surrender</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 26
+        . 
+          tarcatar an ingin do C., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 
+4174
+          
+        . 
+          rothairg a ingen mur mnaī dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 33
+          
+        ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1141
+        . 
+
+          targas doibh seoit ┐ maine ┐ nír gabhsat iat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 162
+          
+        . 
+          do 
+thairg sé airgead dóibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Acts</strong></span> viii 18
+          
+        . hi prím rucad Crist 
+rontairc <span class="ediltr">who offered himself</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 247b49
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 158
+        ). ben 
+dofairget ar decmuic <span class="ediltr">who offers (herself</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 272
+         (glossed 
+
+          .i. tairgeas hi fein ar choibci ingnath, 
+            276
+          
+        ), <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 655
+        . 
+
+          dofarcaid M. a réir dó di ṡétaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 46
+          
+        . d'egnuib 
+(degnuíbh ?) iarthair dūisig domuin, | is dō tārctait <span class="ediltr">to him</span> 
+(Patrick) <span class="ediltr">they offer it</span> (= <span class="ediltr">make their offers</span>) (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 303
+        . 
+da tairgim uili amus forro <span class="ediltr">if we offer (make) an onset</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 
+2978
+        . 
+          nach tairgid coimhghleic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 230
+          
+        . <span class="trans">Folld. by 
+clause, <span class="def">offers</span> (<i>to</i>), <span class="def">proposes</span> (<i>to</i>):</span> 
+          tarcid C. dosom comrac do 
+dēnam ris-seom, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4655
+          
+        . tairgidh A. tiachtain dō a comrac 
+aenfhir frit <span class="ediltr">A. offers to come and fight thee</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 2764
+        . 
+          targadar 
+do M. toidheacht lais do thabairt chatha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> 167
+          
+        . 
+Mág Suibne . . . dothairg Ó Domnaill do ghairm de <span class="ediltr">O' D. 
+offered him the title of Mac S.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 386
+        . 
+          targid F. dó 
+comad ris nobeith a port, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> ii 294
+          
+        . Perh. also: Iudas 
+rotaircestair, | do Iudib rothrēgestair <span class="ediltr">Judas proposed it</span> (?), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 345a16
+        . ? 
+          conā tucad nech co glē | cid no tharged dia-raile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SRGreene" title="eDIL Bibliography">SR (Greene)</strong></span> 2763
+          
+         (perh. belongs to <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-&#xE1;irci">do-áirci</a></span>).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">attempts</span>, <span class="def">ventures</span>:</span> tairg ueith ullam 'na oirchill <span class="ediltr">strive 
+to be ready</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 138
+        . 
+          dia bréige d'adhradh ná tairg, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;H&#xE9;odhusa" title="eDIL Bibliography">Ó Héodhusa</strong></span> 125
+          
+        . 
+          nā tairgedh aenduine aguibh cosaint do 
+dēnum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 48
+          
+        . nā tairgi[d]si cur ré tuicsin cumacht an 
+airdrig <span class="ediltr">do not attempt to understand</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 384
+        = 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 
+146
+        . 
+          issed do thairgdis, slige nimhe do gabáil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 390
+          
+        . 
+          do 
+thairg L. a dhenamh ┐ níor ḟét é, 
+            xxix 112
+          
+        . 
+          annsa sligid do 
+thaircc A. do réidhiugud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> 237
+          
+        . 
+          crēd fār thairc sē an 
+fairce do siubal ina commōr-sin do sdoirm ?, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 230
+          
+        . Note 
+also: ro-fedar intí bad maith do do dul diantairgimis <span class="ediltr">if we 
+chose to send him</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 226
+        . gluaisis an inghen annsin | re 
+hesccara Dē dūiligh, | nir taircc re dāil budh decra <span class="ediltr">she never 
+attempted a harder tryst</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 382
+        . ? 
+          dothairced cach dib 
+a dáil | do cech leith immon sanctáir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4521
+          
+        . <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-&#xE1;irci">do-áirci</a></span>.</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,1182 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="19139">duine</h3><span class="citation">Cite this: eDIL s.v. duine or <a class="reference" href="19139">dil.ie/19139</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                duine, dune, duini, duni, duine, dune, duini, duiniu, duniu, duinu, duini, duni, duine, duini, duni, duine, duini, doín-, dóini, dóini, doini, dúini, doeni, dóini, doini, dáini, daini, dóinib, doinib, dáinib, dainib, dóenib, dóine, doine, dáine, daine, doeine, dáine, doíne, daíne, duin-, dune, duíne, duine, duinib, nduinib, dúinib, dúini, duini</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype io">io</span>, <span class="gen m.">m.</span> <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        duine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4d6
+        
+      , 
+        8b8
+      , <span class="lbl">etc.</span>; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 35c23
+      , <span class="lbl">etc.</span>; 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+450
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> <span class="lbl">pass.</span>
+       
+        dune, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 33c12
+        
+      , 
+        35c33
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 433
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 133.24
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3509
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 27
+      ). 
+        duini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3284
+        
+      , 
+        3601
+      , 
+        4645
+      . 
+
+        duni, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 449
+        
+      , 
+        2901
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 18
+      ; ? 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 222.11
+      . <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        duine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+4d33
+        
+      , 
+        21b15
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 74b14
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 215
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 186
+      , <span class="lbl">etc.</span> 
+        dune, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> 
+v 81
+        
+      . 
+        duini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6236
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        duiniu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 20d2
+        
+      , 
+        54b2
+      , 
+        54b11
+      , <span class="lbl">etc.</span> 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 17b1
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 239.17
+      ); 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cambr." title="eDIL Bibliography">Cambr.</strong></span> 38a
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 246.29
+      ). 
+
+        duniu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1745
+        
+       LU. 
+        duinu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 173.22
+        
+      . 
+        duini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+4b3
+        
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7889
+      . 
+        duni, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 49b8
+        
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3941
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 44
+      ). 
+        duine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+ <span class="lbl">pass.</span>
+        
+      , the usual form in later lang. <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        duini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12a29
+        
+      , 
+        
+          b12
+      ; 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 35c31
+      , 
+        74b13
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 28b20
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cambr." title="eDIL Bibliography">Cambr.</strong></span> 37d
+        
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Tur." title="eDIL Bibliography">Tur.</strong></span> 86
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1144
+      , 
+
+        7884
+      . 
+        duni, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 195.7
+        
+      , 
+        219.4
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3875
+      . 
+        duine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8230
+        
+      , 
+
+        8272
+       (usual form in later lang.). 
+        dune, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> § 10
+        
+      . <span class="case v">v</span>
+      <span class="number s.">s.</span> 
+        duini, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 1c8
+        
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 70d4
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4016
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 46
+      ). In <span class="number pl.">pl.</span> with stem doín-. 
+ <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        dóini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 8a14
+        
+      , 
+        22a30
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 69b1
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Nov. 6
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 643
+      ; 
+        in 
+dóini
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12d36
+        
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 39a23
+      . 
+        doini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 33c1
+        
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 27d1
+      , 
+        36d16
+      , 
+
+        51d77
+      . 
+        dúini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 132.33
+        
+      . 
+        doeni, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7781
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        dóini, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 20d1
+        
+      , 
+        28b3
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 138c1
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 421
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 57
+      . 
+        doini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+51b8
+        
+      , 
+        55d21
+      , <span class="lbl">etc.</span> 
+        dáini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 121c12
+        
+      . 
+        daini, 
+          134d3
+        
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        dóinib, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3a5
+        
+      , 
+        18c5
+      , 
+        24d4
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 24b3
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4014
+      . 
+        doinib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 24b14
+        
+      , 
+
+        51d12
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 189b9
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3122
+      . 
+        dáinib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3280
+        
+      , 
+        3876
+      , <span class="lbl">etc.</span> 
+
+        dainib, 
+          964
+        
+      , 
+        5115
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> § 34
+      . 
+        dóenib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3910
+        
+      , 
+        5364
+      , 
+        7535
+      , <span class="lbl">cf.</span> 
+
+        448
+      , 
+        1977
+      . <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        dóine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4d4
+        
+      , 
+        5c16
+      , 
+        7c13
+      . 
+        doine, 
+          18c13
+        
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+16b12
+      , 
+        31a12
+      , 
+        14
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Tur." title="eDIL Bibliography">Tur.</strong></span> 45
+      , 
+        65
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cambr." title="eDIL Bibliography">Cambr.</strong></span> 37b
+        
+      . 
+        dáine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> § 2
+        
+      . 
+
+        daine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5920
+        
+      . 
+        doeine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 986
+        
+      . <span class="case v">v</span>
+      <span class="number p.">p.</span> 
+        dáine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5536
+        
+      . </p>
+   
+    <p class="result"> 
+In Mid.Ir. <span class="number pl.">pl.</span> doíne, daíne (
+        doene, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 152
+        
+       LB; 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+6198
+      ). Also with stem duin- (in some cases perh. duín- for 
+O.Ir. doín-). 
+        collai dune
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2056
+        
+      . = 
+        duíne, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6571
+        
+      . 
+
+        cet duine
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 1042
+        
+      . 
+        do duinib
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 268.2
+        
+      . 
+        iar nduinib
+        , 
+          ii 
+278.21
+        
+      . 
+        ar . . . dúinib
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> vii Pref
+        
+      . (
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 354.4
+      ). 
+        
+          dúini 
+sruithi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 152
+        
+      . </p>
+   
+    <p class="result"> 
+For divergent explanations of the forms see Vendryes, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xl 437
+      , Brugmann, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 595
+      , Borgström, 
+        <span><strong class="pop" style="color:blue" href="bibliography/NorsktidsskriftforSprogvidenskap" title="eDIL Bibliography">Norsk tidsskrift for Sprogvidenskap</strong></span> xii 83
+      , O'Rahilly, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 156
+      . </p>
+   
+    <p class="result"> 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. §§ 79
+      , 
+        205
+      .</p>
+   
+    <p class="result"> 
+ <span class="trans">
+        <span class="def">Human being</span>
+      </span>, in widest sense, including both sexes; in 
+sing. oft. = <span class="trans">
+        <span class="def">man</span> (in general), <span class="def">mankind</span>:</span> gl. homo, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 953
+      , 
+ <span class="lbl">cf.</span> 
+        436
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 1c8
+      , 
+        24d4
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 173.22
+       (Fulda Gl.). 
+        is e in d.<span class="oRef">¤</span> 
+cómlan, in fer ┐ in ben, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 572
+        
+      . for[s]in d.<span class="oRef">¤</span> coitchenn etir 
+firu ┐ mná <span class="ediltr">humankind in general</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 244
+       (LU). 
+        Adam 
+oenathair na ndoene, | d.<span class="oRef">¤</span> rodelb Dia na ndam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 136b15
+        
+      . 
+ó chruthughadh an d.<span class="oRef">¤</span>
+       <span class="ediltr">from the creation of man</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 4
+      . 
+
+        dorigéni Dia corp duini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12a29
+        
+      . 
+        rofitir in Coimdiu . . . 
+noregad d.<span class="oRef">¤</span> tar a timna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 108
+        
+      . go mbiaidh fios ag na 
+cineadhachuibh nách bhfuil ionnta féin acht daóine <span class="ediltr">that the 
+nations may know themselves to be but men</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Psalms</strong></span> ix 20
+      . mac an d.<span class="oRef">¤</span>
+       
+<span class="ediltr">Son of Man</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">John</strong></span> iii 14
+      . 
+        persan maic de ┐ maic duini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tur." title="eDIL Bibliography">Tur.</strong></span> 86
+        
+      . 
+mac dé mac duini (of Cú Chulainn), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 13928
+      . 
+        sainredach do 
+Dia in popul sin sech na huli doini olchenae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 129c15
+        
+      . 
+        do 
+teasragain dāini an domuin do phecadh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Death-talesoftheUlsterheroes" title="eDIL Bibliography">Death-tales of the Ulster heroes</strong></span> 14
+        
+      . 
+        di 
+doenib in domuin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 38
+        
+      . Distinguished from beings of a 
+different order: 
+        miscais Dé ┐ dóine (d.<span class="oRef">¤</span>, <span class="lbl">v.l.</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> 20
+        
+      . 
+
+        in ní as doirbh le dáinibh is soirbh le Dia, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 19
+        
+      . 
+        síd do 
+doenaib . . . indocbail Dé, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7535
+        
+      . 
+        rí doeni . . . rí aingel, 
+
+          7781
+        
+      . 
+        fri dóini, fri demnai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 152
+        
+      . conad cruim me ┐ 
+nach d.<span class="oRef">¤</span>
+       (= <span class="frn ">sum vermis et non homo</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 212
+      . 
+        ba cumma 
+cū ┐ ech ┐ dune and, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2002
+        
+      . conidh anbecht ma do 
+ḟācsat mil nā d.<span class="oRef">¤</span>
+       <span class="ediltr">beast or man</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 11
+       (Tig.). 
+        aittrebthaige na slebti etir míl ┐ cethra ┐ d.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 433
+        
+      . 
+        co ffarccabhtha na buailte fása co n-a n-indilibh iar n-écc a ndaoineadh uile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 846 (1044)
+        
+      . 
+        a l-leth ina bratán robói ┐ a 
+lleth n-aill ina d.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 236
+        
+      . 
+        ni fri biasta chathaigmit-ni acht 
+is fri dóini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 37
+        
+      . 
+        ní for fírd.<span class="oRef">¤</span> . . . acht is for corth[e] 
+cloche, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 66 Comm.
+        
+       </p>
+  
+  
+    <p class="result"> <span class="trans">gs. and gp. oft. equivalent to <span class="pos adj." style="color: #ff8000">adj.</span> <span class="def">human</span>:</span> 
+        delb duini
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Death-talesoftheUlsterheroes" title="eDIL Bibliography">Death-tales of the Ulster heroes</strong></span> 6
+        
+      . 
+        atat brechtrad i ciallaib ┐ i n-indlechtaib d.<span class="oRef">¤</span>
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 994
+        
+       (= 
+        in doini, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 7
+        
+      ). 
+        cethri cenéla liac . . . co 
+cēil ┐ chosmailius dōine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 114 § 43
+        
+      . 
+        lochrann . . . nad 
+cumgaidis sūile dōine dēicsin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2042
+        
+      . </p>
+  
+  
+    <p class="result"> 
+To denote <span class="trans">a particular <span class="def">individual</span> or <span class="def">class</span> of individuals</span> 
+esp. with adj. (<span class="trans">
+        <span class="def">person</span>, <span class="def">people</span>
+      </span>): in d.<span class="oRef">¤</span> in chainchomraic hí <span class="ediltr">that 
+man of peace</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 61c12
+      . 
+        Nuada drúi ba duni garg, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 72
+        
+      . duni óc is alaind dath (of Cú Chulainn), 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 63
+      . 
+
+        mac óig[e] é ┐ dune amra i n-ecnu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ix 459
+        
+      . 
+        duni is mó is 
+bidba d'Ultaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 18
+        
+      . duini delbda (of a woman), 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4645
+      . 
+dúini sruithi <span class="trans">
+        <span class="def">elders</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 132
+      . ní gabhadh almsana . . . 
+acht becan o dhainibh riaghalda <span class="trans">
+        <span class="def">monks</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3395
+      . 
+        fri 
+hōl do dāinib scithaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 48
+        
+      . 
+        is díomhaoineas clann na 
+ndaóine uirísiol, is bréug clann na ndaóine mór, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Psalms</strong></span> lxxii 9
+        
+      . So 
+too in composition with adjj.: 
+        ni bó cáemd.<span class="oRef">¤</span> samlaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 13576
+        
+      . 
+gruaim-d.<span class="oRef">¤</span>
+       <span class="ediltr">a surly person</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 694
+      . 
+        ní bí errach senduni, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 26
+        
+      . trí fuiric thige degduni . . . thige drochduni, 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 97
+      , 
+        98
+      . ho degdóinib gl. a bonis, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 24b3
+      . isna droch(o) 
+doini gl. in malos, 
+        4
+      . 
+        do degdóinib fer nEgept, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4014
+        
+      . 
+        mnaa 
+┐ meicc ┐ mindóene, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 6198
+        
+      . do maic, a Medb co mbāide, | 
+bat ríg, bat rodáine <span class="ediltr">great people</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 7137
+      . Note also: 
+        doi-duine .i. degduine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 450
+        
+      . In address (esp. to an unknown person or with adj.): 
+        a duini sechitú, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 70d4
+        
+      . 
+        cia thu, 
+a dh.<span class="oRef">¤</span>?, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 100
+        
+      . 
+        caoin thú féin, a dh.<span class="oRef">¤</span> bhoicht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 597
+        
+      . </p>
+  
+  
+    <p class="result"> 
+<span class="trans">Oft. taking the place of an indef. <span class="pos pron." style="color: #ff8000">pron.</span> <span class="def">anyone</span>, with neg. 
+ <span class="def">no one</span>
+      </span>; cech d.<span class="oRef">¤</span>
+       <span class="trans">
+        <span class="def">everyone</span>:</span> 
+        ní fil ní dogné dune, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 133
+        
+      . 
+
+        for cech ndāil amra dogni d.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 691
+        
+      . nocon-ḟitir duni 
+a diach <span class="ediltr">none knows</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 142
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 127a
+        
+      ). ni fail dune 
+doddecha <span class="ediltr">none can tell it</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 81
+      . 
+        ní theighim for aeidhideacht do thig d.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 82
+        
+      . 
+        a trede i n-imruimdethar cach 
+d.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 253.11
+        
+       (Stowe M.). cech d.<span class="oRef">¤</span> nosgéba <span class="ediltr">whoever shall 
+sing it</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> vii Pref
+      . 
+        dúthracht maith do cech duiniu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 
+193
+        
+      . Folld. by a part. gen. or equivalent, <span class="trans">
+        <span class="def">one</span> (of a number, 
+class of people):</span> 
+        rogabhsat na demhna d.<span class="oRef">¤</span> dona daoinibh 
+robháttar aga loscudh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 394
+        
+      . 
+        ní ruc aen-d.<span class="oRef">¤</span> do 
+chloind dō, 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 155b5
+        
+      . ní minic bhíos cumann trír | gan 
+d.<span class="oRef">¤</span> for fhodord bibh <span class="ediltr">without one of them murmuring</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 
+108
+      . <span class="lbl">Cf.</span> further: cetracha do dáinib do mathaib Cairpre 
+<span class="ediltr">forty of C.'s nobles</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvii 369
+       (Tig.). 
+        āilli Caerach inā gach 
+d.<span class="oRef">¤</span> di delbaibh na mban, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 308
+        
+      . </p>
+  
+  
+    <p class="result"> 
+With poss. adj. to denote <span class="trans">a <span class="def">friend</span>, <span class="def">follower</span>, <span class="lbl">etc.</span>; in <span class="number pl.">pl.</span> of 
+ <span class="def">family</span>, <span class="def">adherents</span>, <span class="def">countrymen</span>:</span> 
+        mo rí, mo ruiri . . . mo duni 
+álaind inmain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 534
+        
+      . 
+        Dia mo ruire, Dia mo rí, Dia mo 
+d.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 269
+        
+      . 
+        mór uireasbaidh mo dh.<span class="oRef">¤</span>-se ar dhaoinibh, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 937
+        
+      . 
+        a Mhuire . . . féag ar do dh.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> 
+liii 21
+        
+      . mo ghéanar as d.<span class="oRef">¤</span> di <span class="ediltr">happy he who is one of hers</span>, 
+        xlviii 
+23
+      . 
+        Cend Faelad . . . a dáine fén romarb, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ix 483
+        
+      . 
+        Domnall . . . rí Fortuath Laigen do marbad dia dhainib fein, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 
+1043
+        
+      . 
+        dobhér taobh rem dháoinibh fodhéin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 122
+        
+      . </p>
+  
+  
+    <p class="result"> 
+Compds. 
+        <span class="oRef">¤</span>airecht <span class="trans">
+        <span class="def">assembly</span> of <span class="def">people</span>, <span class="def">mote</span>:</span> incuirither co 
+nduinairecht `<span class="quote">let it be referred to the court</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 306
+      . 
+        <span class="oRef">¤</span>buale 
+<span class="trans">lit. <span class="def">man-fold</span>, a curved <span class="def">line</span> of <span class="def">people</span> (<span class="def">soldiers</span>) <i>formed to enclose 
+or entrap an enemy</i> (?):</span> 
+        dunibuali ursloicthi ar cind Conchobair 
+┐ buden tricho chét ac a íadad dia éis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5134
+        
+       (dunbaile, 
+-buaile, <span class="lbl">v.l.</span>), 
+        5117
+       (dún buaile, dunbhaile, <span class="lbl">v.l.</span>). 
+        <span class="oRef">¤</span>chaithe 
+ <span class="trans">
+        <span class="def">trespass</span> committed by a <span class="def">person</span>:</span> caithe ceathra ┐ duine-caithe, 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 148
+       (
+        .i. na cinta aili doniat na daine hisin ferann, 
+
+          140 Comm.
+        
+      ). 
+        fiach duine-caithe, 
+          v 268 Comm.
+        
+       
+        daine-caithib 
+.i. do gait ┐ brisid, 
+          462 Comm.
+        
+       
+        <span class="oRef">¤</span>chin <span class="trans">
+        <span class="def">crime</span> committed by a 
+<span class="def">human being</span>:</span> rucus d. (.i. in cin do-gēna dune) for rop `<span class="quote">ich 
+entschied: Menschen-Vergehen trifft das Tier</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 329 § 20
+      . 
+trí ruip conberat duinechinaid <span class="ediltr">whose trespasses count as human 
+offences</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 168
+      . 
+        co fiachaib cach ceathra ┐ duine-chindtaib (.i. . . . na cinta doniat na daine), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 462
+        
+      . 
+        <span class="oRef">¤</span>chú <span class="trans">lit. 
+<span class="def">man-hound</span>; of warriors:</span> 
+        rōinfid fuil fēne fo don | la slūag inna 
+nduinechon, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2079
+        
+      . 
+        cath Locha Daim, | hi tóethsat in duinechoin '<span class="quote">the battle of Loch Daim in which the warriors will fall</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/B.inSc&#xE1;il2" title="eDIL Bibliography">B. in Scáil²</strong></span> 36 § 11
+        
+      . 
+        <span class="oRef">¤</span>delb <span class="trans">
+        <span class="def">human</span> <span class="def">shape</span>:</span> 
+        ba cáime cech 
+duine-deilb | a cuirp, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 190
+        
+      . 
+        <span class="oRef">¤</span>diglaimm <span class="trans">
+        <span class="def">description</span> in <span class="def">verse</span> of a <span class="def">person's</span> <span class="def">form</span> and <span class="def">appearance</span> (?);</span> forming an 
+item in curriculum of the student-bard, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 29
+      . 
+        duine-diglaim .i. diglaim delba in duine, 
+          30
+        
+      . 
+        <span class="oRef">¤</span>gabáil <span class="trans">
+        <span class="def">human</span> <span class="def">booty</span>, 
+<span class="def">captives</span> (coll.):</span> 
+        imá duineghabáil ┐ imá bó-gabáil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 343
+        
+      . 
+
+        dar cenn a broite ┐ a duine gabálai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 320
+        
+      . ? 
+        <span class="oRef">¤</span>gnúis <span class="trans">of 
+<span class="def">surface</span> of earth <span class="def">peopled</span> by men:</span> bar dunegnuis in talman 
+`<span class="quote">Menschenantlitz der Erde</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5027
+       (tonngnúis, <span class="lbl">v.l.</span>). 
+        for 
+dunignúis in t., 
+          5975
+        
+       (tonng., <span class="lbl">v.l.</span>). 
+        bar dunadgnuis in t., 
+          4754
+        
+      . 
+
+        <span class="oRef">¤</span>marbad <span class="trans">
+        <span class="def">manslaughter</span>, <span class="def">murder</span>:</span> 
+        nā dēna duine-marbad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+7470
+        
+      . 
+        lucht in duine-marbtha, 
+          7524
+        
+      . 
+        pian na ndaine marvus 
+a n-aithre . . . ┐ gach dainimarbhadh olchenae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aisl.Tund." title="eDIL Bibliography">Aisl. Tond.</strong></span> 
+iv 2
+        
+      . 
+        do dēnomh sladaigheachta ┐ duinemharptha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 
+122
+        
+      . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=dunmarbad">dunmarbad</a></span>. 
+        <span class="oRef">¤</span>marbthach <span class="trans">
+        <span class="def">murderer</span>, <span class="def">homicide</span>:</span> 
+        is 
+duine-m. int-íí dobeir fuath, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7483
+        
+      . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=dunmarbthach">dunmarbthach</a></span>. 
+
+        <span class="oRef">¤</span>pláig <span class="trans">
+        <span class="def">torment</span>, <span class="def">destruction</span> of <span class="def">human</span> beings:</span> 
+        ro-imretor iaromh 
+duineplaigh forro, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 61
+        
+      . 
+        <span class="oRef">¤</span>tháide <span class="trans">lit. <span class="def">man-stealing</span>, i.e. 
+<span class="def">murder</span> with <span class="def">concealment</span> of the <span class="def">body</span>, <span class="def">secret</span> <span class="def">murder</span>
+      </span> (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 37
+      -
+        39
+      ): 
+        rucus duinithāde cen hēraic, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 366
+§ 52
+        
+      . 
+        fell ┐ fingal ┐ duinethaighe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 56 Comm.
+        
+       
+        im dindas 
+duinethaide, ima eiric iar fis, 
+          184
+        
+      . 
+        aithne na tunataide, 
+          iii 98
+        
+      . 
+? <span class="lbl">Cf.</span> 
+        don dunmharbhadh . . . madh a tunnaithigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 285
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span> 157
+      ). 
+        tuntaidhe .i. tonntaidhe .i. marbadh o nither 
+a taidhe, 
+          1967
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H4.22" title="eDIL Bibliography">H 4.22</strong></span> 13
+      ). 
+        féich dunetáiti, 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xE1;inAd." title="eDIL Bibliography">Cáin Ad.</strong></span> § 46
+        
+      . 
+
+        amal rongabsat fingala ┐ duineorcni ┐ duinetáidi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 488
+        
+      . 
+Feirgil . . . do mharbhadh i nduinethaide <span class="ediltr">F. was secretly 
+murdered</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 522
+      , 
+        ii 600
+      , 
+        iii 594
+      . 
+        Donnchadh . . . a marbadh 
+i dunathaith do lucht Airtich, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 1349 (ii 490)
+        
+      . See also 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=duineba(d)">duineba(d)</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=duineb&#xE1;s">duinebás</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=duinegin">duinegin</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=duinorcun">duinorcun</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=duinorcnid">duinorcnid</a></span>.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

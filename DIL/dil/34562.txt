@@ -1,0 +1,891 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="34562">4 prím-</h3><span class="citation">Cite this: eDIL s.v. 4 prím- or <a class="reference" href="34562">dil.ie/34562</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                príomhathair, primgin, prímgeinde, prímgeindi, primsacairt</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> (Lat. <span class="frn ">primus</span>) used as <span class="itype indecl.">indecl.</span> <span class="pos prefix" style="color: #ff8000">prefix</span> before nouns and adjectives, generally forming unstable compds.</p>
+   
+
+
+    
+      <p class="result">
+        <span class="edilb">I</span> With noun, in sense</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">first</span> (in time), <span class="def">primary</span>:</span> 
+            <span class="oRef">¤</span>airec crainn chroiche <span class="ediltr">first discovery</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> May 3
+          . 
+            <span class="oRef">¤</span>airigid `<span class="quote">first dole</span>' (i.e. <span class="ediltr">refection</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 3.16
+           (
+            <span class="oRef">¤</span>airaigid), but transld. `<span class="quote">prime 
+feast</span>', 
+            45.8
+           (perhaps true meaning). 
+            <span class="oRef">¤</span>athair `<span class="trans">a <span class="def">patriarch</span>
+          </span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/P.OC." title="eDIL Bibliography">P. O'C.</strong></span>
+           : príomhathair (of Abraham), 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Hebrews</strong></span> vii 4
+          . 
+            <span class="oRef">¤</span>bélra 
+<span class="trans">
+            <span class="def">primitive</span> (<span class="def">original</span>) <span class="def">language</span>:</span> 
+            an primberla .i. Eabhra, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> i 192.15
+            
+          . 
+            isna primbelraib .i. Ébra ┐ Grec ┐ Laten, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 150b43
+            
+          , perh. in sense (b). 
+            
+              <span class="oRef">¤</span>chúis, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RosaAngl." title="eDIL Bibliography">Rosa Angl.</strong></span> 54.14
+            
+           (= Lat. 
+<span class="frn ">causa primitiva</span>). 
+            <span class="oRef">¤</span>cuitech: ina p[h]rímchutig `<span class="quote">first meal</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 45.8
+          . 
+            <span class="oRef">¤</span>fid <span class="trans">
+            <span class="def">primary</span> <span class="def">vowel</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1433
+          . 
+            <span class="oRef">¤</span>gein <span class="itype s">s</span>, <span class="gen n.">n.</span>, also 
+            <span class="oRef">¤</span>geinde (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=geinddae">geinddae</a></span>),
+            <span class="oRef">¤</span>geine <span class="itype io,-i&#x101;">io, iā</span>. <span class="trans">
+            <span class="def">first-born</span>
+          </span> : 
+            coínistir cách a phrímgein, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 28.316
+            
+          . 
+            primgin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> 37.12
+             (s.v. prúll). 
+            prímgeinde, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4b9
+            
+          , 
+            prímgeindi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 123c8
+            
+           (<span class="case n">n</span>
+          <span class="number p.">p.</span>). 
+            co marbdais a primgeinné, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3676
+            
+          . 
+            iar marbad a primgindi, 
+              4026
+            
+          . 
+            ro marb uli primgeni Egepti, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3612
+            
+          . 
+            tabuirt i prīmgini don ecluis '<span class="quote">to be given as a firstling to the church</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/CB" title="eDIL Bibliography">CB</strong></span> 222 § 43 Comm.
+            
+           
+            guidh lemsa do primgeine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 122.17
+            
+          . prímite ┐ primgene <span class="trans">
+            <span class="def">firstlings</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 123a28
+          . 
+            mac primgeni, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6917
+            
+          . 
+            cach prímgeinit .i. cach céttuistiu '<span class="quote">every first-born, that is, every first progeny</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/CB" title="eDIL Bibliography">CB</strong></span> 36 § 43
+            
+          . 
+            <span class="oRef">¤</span>gentecht <span class="trans">
+            <span class="def">primogeniture</span>; <span class="def">birth-right</span>
+          </span>: 
+            rot-mill Esáu a p., 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8400
+            
+          . <span class="lbl">Cf.</span> 
+            <span class="oRef">¤</span>cinnect below (b). 
+            <span class="oRef">¤</span>les <span class="trans">
+            <span class="def">first-fruits</span>?</span> 
+            acht nochon-fognat mac Dé | is ní thabrat 
+a primleis (.i. a primite), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1059 (p. 92.17)
+            
+           = 
+            a primles 
+(.i. a primgin), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> p. 37.12
+            
+           = nocon-fhagbat a primless 
+<span class="ediltr">they do not find their prime good</span> (<span class="frn ">summum bonum</span>) (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 167b
+37
+          . primhleas .i. prímhide, O'Cl. 
+            <span class="oRef">¤</span>techt <span class="gen f.">f.</span> <span class="trans">
+            <span class="def">first</span> <span class="def">coming</span>:</span> 
+            o 
+primtecht Parthaloin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 316 § 5
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 14a2
+          ).</p>
+        
+
+
+      
+        <p class="result">(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">foremost</span>, <span class="def">chief</span>, <span class="def">principal</span>, and without implied comparison <span class="def">prime</span> (in quality), <span class="def">eminent</span>; a commoner use than preceding. Of persons, esp. with titles, names of callings, <span class="lbl">etc.</span>:</span> 
+
+            <span class="oRef">¤</span>apstal: 
+            prímabstal hErenn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> iii 1
+            
+          . 
+            <span class="oRef">¤</span>ammait in domain 
+<span class="ediltr">chief witch</span> (of Medea), 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3910
+          . 
+            <span class="oRef">¤</span>ara: 
+            tri prímaraid ind 
+ríg, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 113
+            
+          . 
+            <span class="oRef">¤</span>challadoír Arda Macha `<span class="quote">chief keeper of the 
+calendar</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1052.8
+          . 
+            <span class="oRef">¤</span>chomairlid <span class="ediltr">chief counsellor</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6652
+          . 
+
+            
+              <span class="oRef">¤</span>c[h]onsul, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4467
+            
+          . 
+            <span class="oRef">¤</span>chríochaire `<span class="quote">chief antiquary</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 
+ii 1052.9
+          . 
+            <span class="oRef">¤</span>dalta: Lucas . . . p. Póil <span class="ediltr">chief disciple</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5396
+          . 
+
+            <span class="oRef">¤</span>echlach: p. uile Mac Roth <span class="ediltr">chief courier</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 100
+          . 
+            risin 
+primechlaig, 
+              4239
+            
+          . Mac Roth in [ṗ]rímechlach (<span class="lbl">sic leg.</span>), 
+            5022
+          , 
+<span class="lbl">cf.</span> 
+            5150
+          . 
+            
+              <span class="oRef">¤</span>epscop, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 218 § 1
+            
+          . 
+            
+              <span class="oRef">¤</span>ḟáith, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5388
+            
+          , 
+            7132
+          . na 
+.iiii. primfaith ┐ in dā minfaith dec <span class="ediltr">major prophets</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 
+3.71
+          . 
+            tria gin in prímfatha Ysaias, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 8
+            
+          . 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 929
+           (of 
+diviners). 
+            <span class="oRef">¤</span>fiadu: ticfa féin ar prim-fiada (of Christ), 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 
+14.8
+          . 
+            
+              <span class="oRef">¤</span>ḟlaith, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 595
+            
+          . 
+            <span class="oRef">¤</span>fulachtóir: tri primfulachtore 
+ind rig <span class="ediltr">head-cooks</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 123
+          . 
+            <span class="oRef">¤</span>gaiscedach: 
+            a primgascedaig 
+ollchuicid Ulad!, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 262b2
+            
+           = 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU" title="eDIL Bibliography">MU</strong></span> 6.13
+          . 
+            <span class="oRef">¤</span>laech: tri prímlaích 
+<span class="ediltr">chief warriors</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 128
+          . <span class="lbl">Cf.</span> priomhlach .i. priomhláoch, 
+O'Cl. 
+            <span class="oRef">¤</span>laeches <span class="gen f.">f.</span>: bantrocht na primlaichas <span class="ediltr">chief lay-women</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7818
+          . 
+            
+              <span class="oRef">¤</span>liaig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 3812
+            
+          . 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 104.28
+          . 
+            
+              <span class="oRef">¤</span>martir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 
+Oct. 18
+            
+          . 
+            <span class="oRef">¤</span>mind: soscela Coluim Cille . . . primmind iartair 
+domain `<span class="quote">chief relic</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 1006
+          . 
+            
+              <span class="oRef">¤</span>óinmid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 20.5
+            
+          . 
+            
+              <span class="oRef">¤</span>ollam, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 3811
+            
+          . 
+            <span class="oRef">¤</span>pecthach: in primpeccthaig <span class="ediltr">great sinners</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+8349
+          . 
+            
+              <span class="oRef">¤</span>preceptóir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2745
+            
+           (
+            <span class="oRef">¤</span>proiceptoir). 
+            <span class="oRef">¤</span>rannaire: 
+primronnaire Patraic <span class="trans">
+            <span class="def">head-dispenser</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 3495
+          . 
+            
+              <span class="oRef">¤</span>rechtaire, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1469
+            
+          . 
+            
+              <span class="oRef">¤</span>reto[i]ridh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4469
+            
+           (of Cicero). 
+            <span class="oRef">¤</span>sacart: 
+primsacairt <span class="trans">
+            <span class="def">chief</span> <span class="def">priests</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10d15
+          . 
+            <span class="oRef">¤</span>saer (soír): 
+            tricha saér 
+do prímsáeraib hErend, 
+              <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 2
+            
+          . 
+            do acallaim prímshair na 
+ṅGréc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 218b21
+            
+          . 
+            <span class="oRef">¤</span>senchaid(e): primshenchaide na nEbraide 
+(of Josephus), 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6945
+          . 
+            príomhsheanchaidh Árda Macha, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 82 § 16
+            
+          . 
+            
+              <span class="oRef">¤</span>staraide, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> i 4.9
+            
+          . 
+            
+              <span class="oRef">¤</span>suí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 499 § 1
+            
+           
+(<span class="trans">used of <span class="def">head-teacher</span> in a monastic school</span>). 
+            
+              <span class="oRef">¤</span>thoísech, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+5388
+            
+          . 
+            p. túaithi Dé, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 142.2
+            
+           (of Moses). 
+            <span class="oRef">¤</span>ugdar: 
+            teist an 
+phríomhughdair S. Augustine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5003
+            
+          . </p>
+       <p class="result">With other nouns: 
+          <span class="oRef">¤</span>aba <span class="trans">
+          <span class="def">main</span> <span class="def">river</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 202.2
+        . 
+
+          <span class="oRef">¤</span>airecht <span class="trans">
+          <span class="def">chief</span> <span class="def">assembly</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 13
+        . 
+          <span class="oRef">¤</span>aiste: na seacht primaisti 
+`<span class="trans">
+          <span class="def">principal</span> <span class="def">metres</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1586
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 49 § 90
+        . 
+          
+            <span class="oRef">¤</span>altóir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+4265
+          
+        . 
+          
+            <span class="oRef">¤</span>bile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1816
+          
+        . 
+          <span class="oRef">¤</span>caindel: 
+          i ndelbaib primcainnel, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 13
+          
+         (
+          <span class="oRef">¤</span>choindel, LB). 
+          <span class="oRef">¤</span>cathair: 
+          in primhcathair airderc .i. 
+Babilóin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 15
+          
+        . 
+          ardespuc na primcathrach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 17
+          
+        . 
+<span class="trans">
+          <span class="def">Chief</span> <span class="def">monastery</span>
+        </span>: 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 184.29
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 4255
+        . 
+          <span class="oRef">¤</span>chenél <span class="trans">chief race</span> (
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lxvi 167-78
+        ): 
+          batar tri primcinela in here .i. feni ┐ ultaig ┐ gailni '<span class="quote">there were three chief races in Ireland: the Féni, the Ulaid and the Gáilni</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lxvi 37 §1
+          
+        . 
+          cethri prímchenela Dáil Riata, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SGS" title="eDIL Bibliography">SGS</strong></span> xx 175 (N)
+          
+        . 
+          is iat-sin cóic prímchenéla déc clainni Iaféth cona fochenélaib '<span class="quote">those are the fifteen chief races of the family of Japheth, with their subordinate races</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/SexAet." title="eDIL Bibliography">Sex Aet.</strong></span> 75 § 27
+          
+        . 
+          <span class="oRef">¤</span>chruachait 
+<span class="trans">
+          <span class="def">prime</span> <span class="def">joint</span> (<i>of</i> <span class="def">meat</span>), <span class="def">rump</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 29b28
+        . 
+          <span class="oRef">¤</span>cubat: 
+          cuic prim-chubai[t], 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2527
+          
+         (where the prefix seems otiose). 
+          
+            <span class="oRef">¤</span>chuit, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 134.6
+          
+        ; 
+          viii 135.17
+         (<span class="ediltr">chief ration or meal</span>). 
+          
+            <span class="oRef">¤</span>dorus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7356
+          
+        . 
+
+          <span class="oRef">¤</span>dún: 
+          for faidchi primdúni, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1816
+          
+        . ic togail na primdún 
+<span class="ediltr">chief fortresses</span> (of Canaan), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7342
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 118.5
+        . 
+          
+            <span class="oRef">¤</span>eclais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 174 y
+          
+        . 
+          
+            <span class="oRef">¤</span>fhéil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> June 10
+          
+        . <span class="trans">the '<span class="def">principal feast</span>' on which the saint's martyrdom is commemorated</span>:
+        
+          oiffrend cecha primfheile, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 220.9
+          
+        . 
+          <span class="oRef">¤</span>gaeth: 
+          cethri primgaetha . . . cethri fogaetha, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 47
+          
+         (winds blowing directly from the cardinal points), <span class="lbl">cf.</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4335
+        . 
+          <span class="oRef">¤</span>inad: primhined <span class="trans">
+          <span class="def">chief</span> <span class="def">abode</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6412
+        . 
+          <span class="oRef">¤</span>lepaid: 
+meic Nechtain do chur assa primlepthaib (i.e. <span class="ediltr">chief strongholds</span>), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1480
+        . 
+          <span class="oRef">¤</span>loch: 
+          prímlocha hErend, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 155
+          
+        . 
+          <span class="oRef">¤</span>long: 
+séolchrand primluṅgi móre <span class="ediltr">a large ship</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2623
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 
+3183
+        . 
+          
+            <span class="oRef">¤</span>longphort, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 542
+          
+        . 
+          <span class="oRef">¤</span>mag: do prímmaigib 
+hErend <span class="ediltr">chief plains</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 127.24
+        . 
+          
+            <span class="oRef">¤</span>oenach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2498
+          
+        . 
+          <span class="oRef">¤</span>rand: 
+anmand cheithre primrand <span class="ediltr">chief kinds of quatrain</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 51 
+§ 95
+        . 
+          <span class="oRef">¤</span>reilec: prímreilce Herend <span class="ediltr">chief burial-grounds</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4068
+        . 
+
+          rob í Tailltiu [<span class="lbl">sic leg.</span>] tres primhreileag na hEirenn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 
+150 § 2
+          
+        . 
+          <span class="oRef">¤</span>rót: 
+          coicc primroid Erenn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 4.14
+          
+        . 
+          <span class="oRef">¤</span>scél: 
+the tales which the Irish filidh were required to know were 
+divided into two classes, prímscél and foscél, see 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 189b44
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 583
+        ). iss iat so na prímscéoil .i. togla ┐ tana ┐ 
+tochmarca, <span class="lbl">etc.</span>, 
+          189b52
+        . 
+          <span class="oRef">¤</span>scol: do bhádar . . . cheithre 
+príomhscola i nEirinn <span class="ediltr">chief schools</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 2573
+        . 
+          
+            <span class="oRef">¤</span>ṡliab, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+1814
+          
+        . 
+          <span class="oRef">¤</span>slige: 
+          primsligeda in choicid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1146
+          
+        . 
+          
+            <span class="oRef">¤</span>ṡlóg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 
+Feb. 12
+          
+        . 
+          
+            <span class="oRef">¤</span>sráid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 168.15
+          
+        . 
+          
+            <span class="oRef">¤</span>ṡuide, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 117
+          
+        . 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 427
+        . 
+          <span class="oRef">¤</span>tonn: 
+          primthonna Eirenn .i. tonn Glidhna ┐ t. 
+Tuaidhe ┐ t. Rudhraigi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7999
+          
+        . </p> 
+        <p class="result">With abstracts (generally <span class="trans">with emphasizing or intensifying 
+force</span>): 
+            <span class="oRef">¤</span>acallam: 
+            dolotar flaithi Laighen . . . co a rrig .i. 
+primacallaim co Bran, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 40.2
+            
+           (`<span class="quote">to take high counsel</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 41
+          ). 
+            
+              <span class="oRef">¤</span>chéssad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Oct. 15
+            
+          . 
+            <span class="oRef">¤</span>cinnecht: 
+            in tan ruc 
+[Iacob] in primchinnecht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2920
+            
+           (<span class="ediltr">headship, supremacy</span>? or 
+<span class="ediltr">birthright</span>? <span class="lbl">cf.</span> 
+            <span class="oRef">¤</span>gentecht above). 
+            
+              <span class="oRef">¤</span>géim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 6180
+            
+           (&lt; H.1. 
+13). 
+            
+              <span class="oRef">¤</span>goibnecht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4190
+            
+          . 
+            
+              <span class="oRef">¤</span>locht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 661
+            
+          . 
+            
+              <span class="oRef">¤</span>lot, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7821
+            
+          . 
+            
+              <span class="oRef">¤</span>ṡorthan, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5304 n.
+            
+           = primordan, text.</p>
+      
+    
+  
+  
+    
+      <p class="result">
+        <span class="edilb">II</span> With adj. <span class="trans">denoting possession of quality in superlative 
+degree</span>: 
+          <span class="oRef">¤</span>álaind: 
+          mac primalaind Priaim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 430b47
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+1394
+        . 
+          
+            <span class="oRef">¤</span>arrachta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 180.322
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 30.5
+        . 
+          <span class="oRef">¤</span>coitchenn: 
+
+          morleighnidh primhcoitcheann amail Origin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3322
+          
+        ; 
+`<span class="quote">a great reader of chief congregations</span>', Stokes, perhaps rather 
+<span class="ediltr">universally known</span>. 
+          
+            <span class="oRef">¤</span>échtach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 3150
+          
+        , 
+          3315
+        . 
+          
+            <span class="oRef">¤</span>elathnach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 218b22
+          
+        . 
+          <span class="oRef">¤</span>eolach: fer frimeolach <span class="ediltr">a man of great experience</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 234 § 12
+        . 
+          <span class="oRef">¤</span>fáthacdae: 
+          sailmchetlaid primfhathacdai 
+amail Daibith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3319
+          
+         : <span class="lbl">cf.</span> 
+          <span class="oRef">¤</span>fáith above. 
+          <span class="oRef">¤</span>maith: (as 
+subst.) 
+          ronsóera la primmaithiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8146
+          
+        . 
+          <span class="oRef">¤</span>réid <span class="ediltr">very smooth</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 233a20
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

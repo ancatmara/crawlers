@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="21472">feidm</h3><span class="citation">Cite this: eDIL s.v. feidm or <a class="reference" href="21472">dil.ie/21472</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                ḟedma, fedmuim, fedman, fedmand, fedma, fedmand, feidhm, feadhma, fedhmanna, ḟedhma, fedmanda</p></div><div class="col-sm-9 result_content">
+   
+
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span>  <span class="itype n">n</span>, <span class="gen n.">n.</span> later <span class="gen m.">m.</span> <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        féidm n -úag, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6837
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> ind ḟedma
+       
+
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2967
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        fedmuim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 488.35 Comm.
+        
+       <span class="case n">n</span>
+      <span class="number p.">p.</span> fedman 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 821
+      . 
+        fedmand, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10816
+        
+       (M). <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        fedma, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 216a31
+        
+      . 
+ <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        fedmand, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 146a5
+        
+      . feidhm, <span class="gen m.">m.</span> <span class="case g">g</span>
+      <span class="number s.">s.</span> <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        feadhma, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, 
+Decl. § 41
+        
+      . <span class="number pl.">pl.</span> also fedhmanna (canamain) <span class="lbl">ib.</span> 
+        ex. 1134
+      . 
+
+        1143
+      . The primary meaning seems to be <span class="trans">
+        <span class="def">load</span>, <span class="def">stress</span>, <span class="def">strain</span>, 
+passing into the senses of <span class="def">utmost</span> <span class="def">effort</span>, <span class="def">effort</span>, <span class="def">exertion</span>; 
+<span class="def">burden</span>, <span class="def">service</span>, <span class="def">function</span>
+      </span>. The transition may be illustrated 
+by such an example as: buí f.<span class="oRef">¤</span> cuinge sesrige ina samthaig 
+ <span class="ediltr">there was the load of a plough-team in its handle</span> = <span class="ediltr">it would 
+take a plough-team to move</span> ... 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9191
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 91
+      ). 
+        carraig ... 
+a roibi f.<span class="oRef">¤</span> seisrigi do tharraing, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 942
+        
+      . <span class="lbl">Cf.</span> 
+        fri ētnu 
+dam bátár fedmand la firu Herend cosin n-aidchi sin. co 
+n-aicces la lucht in tsíde fora formnaib. dogníth samlaid 
+la E. ... is aice toísech tucad cuing for muinélaib dam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+10816
+        
+      . 
+        is leis doradadh cuing for muinélaibh damh ar tús, 
+ar is fria n-édnu na ndamh do bhíth a feidm gó sin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 103
+        
+      . 
+        dam ro boí fon feidm, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 60by
+        
+      . a n-ingeilt fo 
+fedmu[i]m (of oxen) <span class="ediltr">grazing while at work, under the yoke</span>
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 266.23
+      . .x. damu dagfedma <span class="ediltr">ten oxen able for a 
+heavy load</span> (?) 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 4.7
+      . ba he feidm toisech doriacht an 
+eclais a fh.<span class="oRef">¤</span>
+       <span class="ediltr">his (ox-drawn) load (of timber) was the first to 
+reach the church</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2558
+      . co ructha graige ┐ eti ┐ 
+fedman iarmaib <span class="ediltr">so that steeds and flocks and loads could be 
+brought along them</span> (of frozen streams and lakes) 
+        <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 821
+      . 
+[doghniat] fedmunna ramhōra do thinol ... cu nach lugha 
+inās in cnoc ... in dumha chonnaid fil aca <span class="ediltr">they are gathering 
+together great loads (of firewood</span>) 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 106.13
+      .</p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">strain</span>, <span class="def">stress</span>, <span class="def">effort</span>, <span class="def">exertion</span>, <span class="def">undertaking</span>:</span> 
+          f.<span class="oRef">¤</span> as mo, 
+| comrac re Coin Culainn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3117
+          
+        St. adfét scéla in 
+mórfedma atconnairc <span class="ediltr">enterprise</span> (<span class="lbl">i.e.</span> labor of constructing a 
+causeway) 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10826
+        . fri deiscin ind feadma dobertatar do 
+dénam an tochair `<span class="quote">the effort they put forth</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 178.7
+        . 
+ <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 758
+        St cited under <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=feirtche">feirtche</a></span>. bíd féidm ferrda ocaib 
+ <span class="ediltr">be of good courage</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6504
+        . tresim fedma <span class="ediltr">strongest 
+of effort</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 5556
+        . fedmanna ós niurt `<span class="quote">exertions 
+beyond one's strength</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 21
+        . 
+          da mbe in 
+corp athach san uaig | a dhēchsain (<span class="lbl">sic leg.</span>) is f.<span class="oRef">¤</span> firchruaid, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 239 § 27
+          
+        . beg a f.<span class="oRef">¤</span> da degbois De | deilb dā 
+tegdais <span class="ediltr">small the effort for God's hand</span> (?) 
+          236 § 8
+        . 
+          ba f.<span class="oRef">¤</span> 
+adbal d'oeinfer ... triall cosnama na cruinne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4740
+          
+        . 
+
+          tucsat f.<span class="oRef">¤</span> ferrda cacha fir furri cor chuirset assa tuinide in 
+tromchloch, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2810
+          
+        . 
+          tucsat a lāma ... chum na cloiche 
+da tarraing ... ┐ ni raibe tarba issin trenfeidm ór nir ḟētsat 
+a becc di, 
+            2754
+          
+        . briathra forránta, f.<span class="oRef">¤</span> tim `<span class="quote">violent verbiage</span> 
+ <span class="ediltr">followed by feeble effort</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 556.17
+        . 
+          dol re [a] gcosg 
+... fa feidhm ós cionn a bhfuluing, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span>, xviii 71
+          
+        . Folld. 
+by qualifying subj. gen.: f.<span class="oRef">¤</span> cēt and do nirt <span class="ediltr">he has the 
+strength of a hundred</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1006
+         (= atā nert cēd ann, St). 
+gegnaid banb ... ┐ nusberaid leo dia fuini ┐ a ḟ.<span class="oRef">¤</span> uili ann 
+ <span class="ediltr">it was as much as they all could do</span> = <span class="ediltr">it took the whole of them 
+(to carry it)</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ICM" title="eDIL Bibliography">ICM</strong></span> xiii
+         Harl.</p>
+    
+  
+  
+     
+
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">work</span>, <span class="def">service</span>, <span class="def">duty</span>, <span class="def">function</span>
+        </span> (<span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=feidm (d)">d</a></span>): ro forcongair ... 
+for dam n-allaid ... in f.<span class="oRef">¤</span> sin do denam `<span class="quote">ordered a stag to 
+do that work</span>' (<span class="lbl">i.e.</span> to take the place of an ox at the plough) 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 72.28
+        . 
+          imāin na ndam dochom a fedhma dlighthi[gh] 
+budein .i. a n-oibre, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 136.15 Comm.
+          
+         ni f.<span class="oRef">¤</span> flatha nā 
+fīrlaich duitsi aiscc feicheamnais do thabhairt ... `<span class="quote">it is 
+not the act of a prince in thee</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 284.15
+        . 
+          na grāda do 
+c[h]othugud | is f.<span class="oRef">¤</span> uasal mor aonfir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 45. 4
+          
+        . atá f.<span class="oRef">¤</span> ar 
+leith ac cach aenḟer acaind <span class="ediltr">a separate function</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5460
+        . 
+cret t'ḟeidm-si <span class="ediltr">what is thy service ?</span> 
+          5465
+        . 
+          drong ... ic na bia 
+f.<span class="oRef">¤</span> aili san cath acht a ngaire catha do tabairt, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5514
+          
+        . 
+
+          bídh a ḟis ac [gach] aenduine díb cred is f.<span class="oRef">¤</span> dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> 202
+          
+        . 
+gach fear ag freagra a fheadhma, GF, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1919, 106
+        . 
+no geibhdis betha gan f.<span class="oRef">¤</span> ndaonda leó acht ernaigthe ... 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 320.22
+        . gan feidhm ndaor ar mhnaoi <span class="ediltr">servile occupation</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> v 77
+        . do rinneas ... feidhm díbh <span class="ediltr">I have done you 
+a service</span> 
+          xxix 4
+        . déanaidh feidhm don Tighearna = <span class="frn ">servite 
+Domino</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6767
+        . 
+          is é feidhm do-níodh an coileach dó, 
+iarmhéirghe ... do choimhéad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 1120
+          
+        . gurab contrárdha na feadhma iarras Dia ar na daoinibh ┐ an feidm 
+iarras an saoghal (comm. on <span class="frn ">non potestis Deo servire et 
+Mammonae</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 9881
+        . do fedhmaim anmcharat <span class="ediltr">function</span> 
+(<span class="ediltr">obligations) of a confessor</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 408a
+          
+         <span class="lbl">marg. sup.</span> fer fedma 
+ <span class="trans">
+          <span class="def">steward</span> (?):</span> Finn .h. C., fer fedma ┐ ferannuis moir do righ 
+Connacht `<span class="trans">
+          <span class="def">agent</span>
+        </span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> 1223 (p. 266z)
+        .aes, lucht fedma 
+ <span class="trans">
+          <span class="def">soldiery</span>; <span class="def">servitors</span>, <span class="def">attendants</span>:</span> 
+          dochuir a glaslaith ┐ a aes 
+fedma ... d'argain Aeda g., 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 66.28
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 135. 325
+        . 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> iii 162.7
+        . 
+          lucht fedhma an dunaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Chl.S." title="eDIL Bibliography">L. Chl. S.</strong></span> 11
+          
+        . 
+Folld. by defining gen.: denasa f.<span class="oRef">¤</span> gabunn <span class="ediltr">act as smith</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3783
+        . f.<span class="oRef">¤</span> a ngreagh uatha orra | longa lūatha ... 
+ <span class="ediltr">on the swift ships they impose the function of their steeds</span> (?) 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. ex. 2140
+        . 
+          feidhm na gcogthach re cois long, | 
+feidhm teanchaire i dtigh ghabhonn | ... tarla oraibh 
+`god airdrígh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 19.16
+          
+        . do bhamur ... a bhfeidhm ollamh 
+ <span class="ediltr">in the capacity of ollaves</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 56 § 5
+        . ní fili ... | hí f.<span class="oRef">¤</span> 
+eoluis ilcrothaigh <span class="ediltr">in the practice of various kinds of knowledge</span>
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 237. 11
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 236
+        . 
+          ni faict[h]e ise fri f.<span class="oRef">¤</span> a lēiginn 
+┐ a grēsa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 308
+          
+        , 
+          VI 12
+        . 
+          f.<span class="oRef">¤</span> n-eclastacda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 166b5
+          
+        . 
+i bfeidhm na súiste `<span class="quote">wielding the flail</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 532.7
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <i>of a</i> <span class="def">warlike</span> <span class="def">effort</span> or <span class="def">strain</span> (often in broad sense of <span class="def">attack</span>, 
+<span class="def">onset</span>, <span class="def">defence</span>, etc.):</span> 
+          cach f.<span class="oRef">¤</span> catha ┐ comlaind ... dingebatsa 
+díb uile sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5462
+          
+         (corresp. to: eigen catha <span class="lbl">v.l.</span>). 
+          do 
+réidhighedh láithir iombuailte dona ... miledhibh sin ar go 
+bhfesdís fein f.<span class="oRef">¤</span> comhlainn a chéile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BIV2" title="eDIL Bibliography">B IV 2</strong></span>, 146b19
+          
+        . feidhm 
+na leirge a aonar air, GF, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1919, 104
+        . ar a 
+angbaigheacht i n-ionadh fedhma `<span class="quote">his valour in the field 
+of conflict</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1778.15
+        . lá feadhma <span class="trans">day of stress, <span class="def">battle</span>
+        </span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1927, 552
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/23L17" title="eDIL Bibliography">23 L 17</strong></span>, 81b
+          
+        ). an bhuidhean ... 
+bhíos iomad i n-am ḟeadhma `<span class="quote">in time of stress</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 21.6
+        . 
+re hinnarba cach fedma ┐ cach foreigne `<span class="quote">to repel every 
+attack and violence</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 160.23
+        . f.<span class="oRef">¤</span> catha <span class="trans">`<span class="def">exertion</span> of <span class="def">battle</span>', 
+ <span class="def">duty</span> of <span class="def">service</span> of a <span class="def">warrior</span> in battle:</span> dober-sa m'ḟ.<span class="oRef">¤</span> catha 
+... la P. <span class="ediltr">I will exert my battle-strength with P.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1121
+        . 
+do tabairt a fedma catha ┐ comluind leo `<span class="quote">to give them their 
+help in battle</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 74.24
+        . 
+          rogabsat ... a ffedhmanna catha 
+forra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 231.16
+          
+        . 
+          ro ba cruaidh in comthuargain ... 
+doronsat ... ic gabail a fedmann catha forru, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5907
+          
+        . 
+
+          ro láa ... fortocbhail a fedhma catha forru, 
+            2016
+          
+        . 
+
+          mongur na curad ac comghabail a bḟedhmann catha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 61
+          
+        . (for gabáil fedma <span class="lbl">cf.</span> co ngabad feidm fois <span class="ediltr">that it 
+should undertake the duty of stillness</span> (?) 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 14
+        , but in 
+the instances above there may be the notion of standing 
+up to the stress of battle, taking punishment). cia dib 
+no laccadh a fedm catha <span class="ediltr">whose battle force was weakening</span>
+
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5975
+        . 
+          roba gairit in caill comarchi uathaib iat, ┐ 
+a feidm catha forro, ┐ a ndruim riu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 176.23
+          
+        . ro-ordaigh 
+C. a ffedhmanna catha for na curadaibh <span class="ediltr">assigned to the 
+warriors their duties</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 240.4
+        [or does this belong to 
+(<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=feidm (b)">b</a></span>) ?]. <span class="lbl">Cf.</span> cur fedma: 
+          ní lamh cách ... luadh cogaidh ná 
+cur feadhma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 21.39
+          
+        . 
+          cur feadhma dóibh risan druing | 
+sluagh T. ní budh tualuing, 
+            2.11
+          
+        . <span class="case g">g</span>
+        <span class="number s.">s.</span> as attrib.: 
+          nertlia do 
+chloich ḟedhma
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 543.8
+          
+        . bertais a eire fedma leis 
+da trelamh ghaisgidh (<span class="lbl">i.e.</span> as much as he could carry) 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+p. 303 n. 5
+        . tuc fuirmed fedma do gae ... air `<span class="quote">a strenuous 
+thrust</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2817
+        . tuc fuirmeadh feadhma ... fuirre 
+(lifting a heavy stone) 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 2y
+        . is fis fedma `<span class="quote">a labour it is 
+to learn</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 62
+        . <span class="number pl.">pl.</span> tucad leo fedmanda fillti 
+for bogadaib <span class="ediltr">bending strains</span> (<span class="lbl">i.e.</span>, they strained bows 
+to test them ?) 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1275
+        . re haidhbhliu na fedmann no 
+fuilngitis <span class="ediltr">of the stresses</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5872
+        . ag airiúghadh an 
+ḟeadhma sin <span class="ediltr">perceiving their labor</span> (of men lifting a stone) 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 2.20
+        . Common in chevilles: 
+          f.<span class="oRef">¤</span> n-úag, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6837
+          
+        . 
+          f.<span class="oRef">¤</span> as 
+uaisliu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Jan. 21
+          
+        . 
+          f.<span class="oRef">¤</span> ngle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 51a30
+          
+        . 
+          f.<span class="oRef">¤</span> as détlu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 
+297 § 52
+          
+        . 
+          f.<span class="oRef">¤</span> ngialla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 204
+          
+        . Transf. of persons: 
+          in Congenchnesach ..., in f.<span class="oRef">¤</span> nach fuiliṅgther, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2205
+          
+        . 
+          gurab 
+é an feidhm nach fuloingther ... .i. Fer Diadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 
+276.7
+          
+        .</p>
+    
+  
+  
+     
+
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="ediltr">use; efficacy,</span> <span class="lbl">cf.</span> (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=feidm (b)">b</a></span>): mór a bhfeidhm i n-aimsir the 
+| d'fionnḟuaradh ceathra is daoine (of rivers), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> vi 
+71
+        . <span class="lbl">Cf.</span> ní feidhm do an Ghaoidheilg do léaghadh ... gan 
+a bfios do bheith aige do mheabhair `<span class="quote">without having them 
+by heart it is a vain effort for him to attempt</span> [he will not be 
+able for] <span class="ediltr">the reading of Irish</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 630.24
+        . bíd drong 
+... doitheagaisg ann, ionnus nach bí feidhm ... an bás do 
+bhagar orra <span class="ediltr">so that it is no use threatening them</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 554
+        . 
+dogní f.<span class="oRef">¤</span> de (re), <span class="ediltr">makes use of:</span> 
+          is é feidhm do-nídís do 
+sheicheadhaibh na dtarbh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5441
+          
+        . nachar bhfer 
+feadhma do dhéanamh re clogat é <span class="ediltr">the man to use a helmet</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 510.26
+        . </p>
+     
+      <p class="result"> 
+benaid f.<span class="oRef">¤</span> de <span class="trans">
+          <span class="def">makes use of</span>; <span class="def">causes</span> to <span class="def">work</span>:</span> 
+          ag buain 
+fheadhma dá eachraidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlix 173 § 33
+          
+        . </p>
+     
+      <p class="result"> 
+atá f.<span class="oRef">¤</span> ar <span class="trans">
+          <span class="def">there is use</span> for; <span class="def">need</span> of:</span> ní ḟuil feidhm ar th'iomarbháigh <span class="ediltr">your arguing is needless (useless</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxii 31
+        . 
+dá mbeadh f.<span class="oRef">¤</span> ar .ae. do leathnughadh <span class="ediltr">if it were needful to 
+broaden `ae'</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. Introd. 7.6
+        . 
+          ní haige an muinntir 
+a tá slán a tá feidhm ar an líaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Matthew</strong></span> ix 2
+          
+        . ort o nach 
+bfuil a bfeidhm <span class="ediltr">since they have no use for thee</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Carswell" title="eDIL Bibliography">Carswell</strong></span> 24.11
+        . 
+
+          an uair nach roibhe f.<span class="oRef">¤</span> ar chlogat ag énduine, agus dá mbiadh 
+nach aigesion do bhiadh f.<span class="oRef">¤</span> riu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 510.24
+          
+        . fuair 
+feidhm ar a ghuidhe `<span class="quote">he found his prayer efficacious</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> 50.28
+        . Without AR: 
+          is móide ata féidhm againn 
+Dia do ghuidhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 17.21
+          
+        . d'ḟ.<span class="oRef">¤</span>
+         <span class="trans">of <span class="def">use</span>, <span class="def">needful</span>
+        </span> 
+(with AR of pers.): 
+          go bhfoighe an ghloir ṡiordhaidhe ┐ 
+gach ní atá d'ḟeidhm air dochum a faghala, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;H&#xE9;odhusa" title="eDIL Bibliography">Ó Héodhusa</strong></span> 224.10
+          
+        . 
+          na neithi do bhí df.<span class="oRef">¤</span> orra do bhreth leo, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 64.17
+          
+        . éin-rí ... dob ḟearr d'ḟ.<span class="oRef">¤</span> d'Éirinn ná Niall <span class="ediltr">of 
+greater service to</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> v 70
+        . <span class="lbl">Cf.</span> má do chuireas d'ḟ.<span class="oRef">¤</span> 
+orra cuaird ... <span class="ediltr">if I have constrained them to search</span> 
+          xiv 19
+        . 
+Hence with obj. gen. <span class="trans">
+          <span class="def">need</span>, <span class="def">necessity</span>, <span class="def">occasion</span>:</span> 
+          ní bhí feidhm 
+lóirghníomha air, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 303.13
+          
+        . do gach duine do 
+beith 'na feidhm <span class="ediltr">who might need it</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> p. 132.16
+        . <span class="lbl">Cf.</span>
+mainnear i bhf.<span class="oRef">¤</span> a faire adhbha an anma <span class="ediltr">in need of guard</span> (?) 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1931, 81
+        . ag so an fáinne i bhfeidhm na ndrol <span class="lbl">ib.</span>
+
+          cor faesma .i. in cor curtar risin mac faesma ... ┐ ní ar feidm 
+gaire o geilfíne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 62.4
+          
+        .</p>
+    
+  
+  
+    <p class="result"> 
+Compds. 
+        <span class="oRef">¤</span>láidir <span class="trans">
+        <span class="def">strong</span> of <span class="def">effort</span>, <span class="def">energetic</span>:</span> 
+        fuirmeadh 
+feidmlaitir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 95 n. 1
+        
+       St. 
+        fer foirtill feidhmláidir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 
+vi 2258.9
+        
+      . 
+        gluasacht ... go foisdineach f., 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 64.17
+        
+      . -nertmar id.: a fhlaith ... fedmnertmhar `<span class="quote">mighty in enterprise</span>' 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 1850
+      . 
+        a fiodhbhacaibh ... feidhmnertmara, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 
+2130.5
+        
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

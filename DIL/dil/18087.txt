@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="18087">do-meil</h3><span class="citation">Cite this: eDIL s.v. do-meil or <a class="reference" href="18087">dil.ie/18087</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                tomil, -thoimled, do-m-meil, du-melam, d-a-melat, dorromiul, tormal, d-a-romle, doroimle, -toroimle, tormala, -thormalat, d-a-melad, thoimled, doromlad, do-s-melmais, domeltis, -tomel, -thoiméla, doromult, tormult, dus-ro-mailt, dorumalt, tormailt, doromaltatar, toml-, toiml-, tomel-, toiml-, tormal-, rothormala, toimél-, doróimless, doromel, tarmaltad, tormalt-, tomailt</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (*
+        to-mel-, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 577
+        
+      ). <span class="mood Ipv.">Ipv.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+        tomil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6c7
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+
+        -thoimled, 
+          11b18
+        
+      . <span class="mood Indic.">Indic.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> <span style="color: #ff8000">rel.</span> 
+        do-m-meil, 
+          6c7
+        
+      . <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+
+        du-melam, 
+          13c12
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        d-a-melat, 
+          10c3
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns pres.">pres.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+
+        dorromiul, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 285b38
+        
+      . 
+        arna tormal
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 119b6
+        
+      . <span class="per 2">2</span> <span class="number s.">s.</span> 
+        d-a-romle, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 62
+        
+      . 
+        doroimle, 
+          § 17
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        -toroimle, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 374.11
+        
+      . 
+        cia 
+tormala
+        , 
+          342.3
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        -thormalat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 28 § 4
+        
+      . <span class="tns Impf.">Impf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+
+        d-a-melad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10d3
+        
+      . 
+        nach thoimled
+        , 
+          11b18
+        
+      . doromlad, 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 36a29
+      . <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        do-s-melmais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 111b15
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        domeltis, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10c3
+        
+      . <span class="tns Fut.">Fut.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        -tomel, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 285b38
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        -thoiméla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FDG2" title="eDIL Bibliography">FDG²</strong></span> 8.229
+        
+      . <span class="tns Perf.">Perf.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        doromult, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> <span class="lbl">s.v.</span> fogamur
+        
+      . 
+        ní tormult
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 18a10
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        dus-ro-mailt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 109.4
+        
+      . 
+        dorumalt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2909
+        
+      . 
+        dia tormailt
+        , 
+          2804
+        
+      . 
+co tormalt, 
+        6171
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        doromaltatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5109
+        
+      . In Mid.Ir. 
+often treated as simple <span class="pos vb." style="color: #ff8000">vb.</span>, stem toml-, toiml- (somet. tóiml- in LB); <span class="mood subj.">subj.</span> tomel-, toiml-, tormal- (
+        co rothormala
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+5080
+        
+      ); <span class="tns fut.">fut.</span> toimél-; <span class="tns s.-pret.">s.-pret.</span> (by back-formation <span class="per 1">1</span> <span class="number s.">s.</span> 
+        doróimless, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l.2" title="eDIL Bibliography">Fél.²</strong></span> cxl
+        
+       gl. 
+        Sept. 8
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        doromel, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 7.3
+        
+      ). 
+        ná 
+tarmaltad
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4281
+        
+      , is perh. a <span class="tns pret.">pret.</span> <span class="voice pass.">pass.</span> formed from stem 
+tormalt-.</p>
+   
+    <p class="result"> 
+ <span class="pos Vn." style="color: #ff8000">Vn.</span> tomailt (see also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tormailt">tormailt</a></span>).</p>
+   
+    <p class="result"> 
+ <span class="trans">
+        <span class="def">Spends</span>, <span class="def">consumes</span>, <span class="def">uses up</span>:</span> <span class="frn ">quia luna</span> tomel <span class="frn ">diem solis</span> '<span class="quote">since it is the moon which consumes the solar day</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lvii 13-14 (Munich Computus)
+      . 
+        toimhéla .i. caithfidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+        
+       </p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">Esp. of food <span class="def">eats</span>:</span> 
+          
+            <span class="frn ">edo</span> .i. domeilim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 774
+          
+        . 
+          
+            <span class="frn ">edo</span> 
+toimlim, 
+            619
+          
+        . 
+          léic uait inna biada milsi <span class="frn ">et</span> tomil innahí siu 
+dommeil do chenél, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6c7
+          
+        . 
+          ce dumelmis cech tuari, 
+            10c21
+          
+        . 
+
+          tomail in séire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2905
+          
+        . 
+          gebid in mbairgin-sea ┐ tómlid hi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2989
+          
+        . 
+          cip é thóimles bairgin in choimded, 
+            5342
+          
+        . 
+          toiméldait . . . corp ┐ fuil in choimded, 
+            2998
+          
+        . 
+          mine thomhlidh 
+m'fuil 's mo c[h]orp, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxxvii 345 § 7
+          
+        . 
+          atbél-sa . . . mani 
+tomliur in lus sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2349
+          
+        . 
+          rotbia fiss uilc ┐ maithiusa 
+acht co tomli aen uball don chrund, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> iii 52.25
+          
+        . 
+
+          ceand cach mbíd int iesc, ar do tomail Isu é, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 736
+          
+        . 
+toimleth in ingen (= <span class="frn ">bibebat</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 68.8
+        . 
+          ni thoimlit 
+fín tria bithu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 175
+          
+        . 
+          feoil ┐ bainni notomuiltea leo, 
+
+            36
+          
+        . 
+          co tormolaind mo lór dona lendaib somillsi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 
+83.11
+          
+        . 
+          nír thóimless mír no banna, 
+            23.23
+          
+        . lansoer in sealb 
+domelar fer ┐ arbur; letsaor int sealb na tomelar acht fer no 
+arbur nama <span class="ediltr">the grass and corn of which is used for pasture or 
+food</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 20.24 Comm.
+         
+          bundsacha . . . do chur os na 
+lothraib asa tomlitis na coerig a cuitig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 114a24
+          
+        . 
+          immalle 
+dathómlitís a próind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> ii 392 § 22
+          
+        . 
+          co tormalaind praind, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 390
+          
+        . 
+          is annsin domeilti feis Temrach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 
+283 § 26
+          
+        . doroimliur in fleid dot méis <span class="ediltr">may I partake of</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+i 497.11
+        . 
+          an bord dia rothomail in Slanaightheoir in suiper 
+deigenach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 200.10
+          
+        . 
+          ind fhairend rotomlithea ó 
+biastaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 236 § 6
+          
+        . Used absolutely: 
+          nir thomail ┐ nír 
+suan C. co matain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 57
+          
+        . 
+          ní choitél, ní thoimél, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 
+61.25
+          
+        . 
+          in clar ar ar thomail Naem Muiri, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 169a50
+          
+        . 
+          rothomailset comdar doithenaich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 196.10
+          
+        . <span class="trans">
+          <span class="def">Ruminates</span>:</span> 
+          na 
+raip domela[t] na ba . . . na ruip na toimela[t] na capuill . . ., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 585
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span> 446
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) Of time: ar ná tormal mo saigul n-uile i ndóiri <span class="ediltr">that I may 
+not spend my whole life</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 119b6
+        . is amlaid domel Conchobar 
+a fhlaith: a trian ind lái oc decsain, <span class="lbl">etc.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 369
+        . 
+          toimlid 
+for rē mar cach sruith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4739
+          
+        . 
+          dorumalt Moysi . . . ann tres 
+raind a aimsire, 
+            3783
+          
+        . collá dot daim . . . uaire doromailt do 
+ré <span class="ediltr">thou hast spent thy time (thy time is up</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 246a8
+        . co 
+tormalta di bliadain ar míle (co rochateá, LU), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> ii 
+286.35
+        . 
+          conadh amlaid sin domhelit a mbethaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 
+183
+          
+        . nin-toiméla leth a sháiguil <span class="ediltr">he will not live out half his 
+days</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 236 § 55
+        . romarastair C. co tormail .ix. ndine a 
+nÉrinn <span class="ediltr">he outlived nine generations</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 193
+        . 
+          co tomaltus (co 
+tormalt, co rormalt-sa, <span class="lbl">v.l.</span>) na cenéla sin uli, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> ii 292.3
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">Of <span class="def">clothing</span>:</span> 
+          ní tormult . . . for n-étach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 18a10
+          
+        . 
+techta fuillema gill étaig fognama . . . domelar cach dia <span class="ediltr">of 
+the working-dress that is worn every day</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 398.1
+        . 
+domelair tlacht cen corcair <span class="ediltr">let us wear</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 278.21
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) In various applications <span class="trans">
+          <span class="def">makes use of</span>, <span class="def">enjoys</span>, <span class="def">exercises</span>:</span> 
+maisse dóine nístoimled <span class="ediltr">of men's wealth he used not to partake</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> ii 5
+         (glossed nís-caithed). 
+          dorumalt Dauid . . . a horddan, 
+a hairechass, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6989
+          
+        . doroimle banrígnacht úas bantrocht 
+Ulad <span class="ediltr">mayst thou enjoy . . . the sovranty of queenship</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 17
+        . 
+doromla Banba mbarrbricc <span class="ediltr">he shall enjoy (<span class="lbl">i.e.</span> possess) B.</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4513
+        . ba cōir cen co tomled E. in ferand <span class="ediltr">it was right that 
+E. should not possess the land</span>, 
+          1539
+        . ma ratocad damsa as me 
+domelad and argat-sa <span class="ediltr">it is I who should use</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 5.18
+        . 
+cia tormala dia fuillium <span class="ediltr">though he consume somewhat of its 
+interest</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 520.3
+         (
+          .i. cid gu n-a somuine caithes e, 
+            12 
+Comm.)
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> 66 § 9
+        ). rige dorumaltsa .l. mbliadan <span class="ediltr">I 
+have enjoyed (exercised) kingship</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 24 § 4
+        . toimled . . . 
+ord saer na sacerdóte <span class="ediltr">let him exercise</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4487
+        . ro toimli 
+breith na físi se <span class="ediltr">mayst thou experience (the fulfilment of) the 
+interpretation of this vision</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 429 § 6
+        . mairg dorumalt 
+a n-imned dorumalt-sa <span class="ediltr">who has experienced (taken) the trouble 
+I have</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 88
+        . da mbeth . . . ingen ar chóicait acum dobertha 
+duit-siu co tormalta ben díb <span class="ediltr">that thou mightst have (enjoy) one 
+of them for thy wife</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 38 § 4
+        . 
+          ni thomel-sa mo mnai, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DIV2" title="eDIL Bibliography">D IV 2</strong></span>, 53va33
+          
+        . cachtsus rosacht ind rígain | . . . | úair ná 
+tarmaltad a suth | co tarmartad a lécud <span class="ediltr">since no offspring 
+from her had been enjoyed</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4281
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 84.18
+        ). gein bad 
+chumma fri Cormac, | a Dé, in tormalt domun? <span class="ediltr">has the world 
+known any offspring like C.?</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 36.112
+         (`<span class="quote">hath the 
+world devoured</span>'? <span class="lbl">cf.</span> follg. section).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) Occas. with specific sense of <span class="trans">
+          <span class="def">wears out</span>, <span class="def">wastes</span>, <span class="def">consumes</span>
+        </span> (but this perh. *dī-mel-, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CathMaigeMucrama" title="eDIL Bibliography">CMMucr.</strong></span> 119 n. 370
+        ; cf. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=d&#xED;melte">dímelte</a></span>): cia dosroimli aes ┐ fognam <span class="ediltr">though age and service may have 
+ wasted them</span> (of cattle), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 316.18
+        ; 
+          314.36 Comm.
+         domail a déda frisin ngai <span class="ediltr">it wears out (?) its teeth</span> (of a bear), 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+3668
+         (or from <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=meilid">meilid</a></span> <span class="ediltr">grinds</span>).</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

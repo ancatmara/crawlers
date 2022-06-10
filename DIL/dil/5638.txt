@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="5638">bélrae</h3><span class="citation">Cite this: eDIL s.v. bélrae or <a class="reference" href="5638">dil.ie/5638</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                bérla, bélre, bellrae, mbéelre, mbélre, bélri, bérli, belrai, bélru, belru, il-bélre, mbélre, il-béelre, il-bélrib, béarlaoi, berla</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype io">io</span>, <span class="gen n.">n.</span> also bérla (note -rl- in Wb. ex. cited below, see 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 113
+      ). Later <span class="gen m.">m.</span>(bél). <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        
+          bélre n-echtrann, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+12c46
+        
+      . 
+        cech mb.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 42c12
+        
+      , 
+        bellrae, 
+          53d3
+        
+      . <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        a mbéelre
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+12d6
+        
+      , 
+        mbélre, 
+          13a2
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        bélri, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12a10
+        
+      . 
+        bérli, 
+          12d4
+        
+      , 
+        belrai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+31b23
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        bélru, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12b23
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 31b13
+      , 
+        belru, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 42c14
+        
+      . <span class="case a">a</span>
+      <span class="number pl.">pl.</span> 
+
+        il-bélre, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12c19
+        
+      . <span class="case g">g</span>
+      <span class="number pl.">pl.</span> 
+        inna mbélre
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 13a26
+        
+      . 
+        il-béelre, 
+
+          12d7
+        
+      . <span class="case d">d</span>
+      <span class="number pl.">pl.</span> 
+        il-bélrib, 
+          12b24
+        
+      . <span class="lbl">Cf.</span> <span class="case a">a</span>
+      <span class="number pl.">pl.</span> 
+        béarlaoi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Timth." title="eDIL Bibliography">Timth.</strong></span> 1916, 38
+        
+      , 
+
+        38 
+       
+        § 14.
+      
+    </p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> </p>
+      
+      
+        <p class="result">
+          <span class="edilb">(a)</span> <span class="trans">
+            <span class="def">speech</span>, <span class="def">language</span>:</span> in belrai gl. ling[u]æ, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 28b13
+          . 
+máel dub fair ┐ belra formend leiss `<span class="quote">stammering speech</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 114
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 7599
+          ). ro chren a berla cach ṁbrúit <span class="ediltr">his 
+words (?) provided every history</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4424.
+           
+            bídh . . . / sbéis 
+ag mnáibh i mbēarla mBriain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 230
+            
+          . 
+            aslinge .i. 
+<span class="frn ">absque linga</span> .i. cen bērla nó tengaid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 66.
+            
+           dúil bélrai 
+<span class="ediltr">glossary</span> (belonging to the curriculum of the eighth year of 
+poetic training) : duili bélraí (berla, <span class="lbl">v.l.</span>) <span class="frn ">sicut est</span> duil dromma 
+cett (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=3 d&#xFA;il">3 dúil</a></span>) `<span class="quote">Glossare</span>' (182.21), 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 50 § 92.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+<span class="edilb">(b)</span> <span class="trans">Of specific <span class="def">languages</span>:</span> ataat ilchenéle bérli isin biuthso 
+gl. multa . . . genera lingarum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12d4
+          . du cach belru la 
+grecu `<span class="quote">to every dialect among Greeks</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 226.23
+           (PCr.). 
+
+            cech deidbli fil i mbērlæ is -ān nō -ēne dofūarusccuib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1301.
+            
+           ced belrai inso (<span class="lbl">i.e.</span> Latin), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 128.7
+          . 
+            cen berla 
+i tirib aneóil, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3448.
+            
+           gach son fordorcha gach berla 
+`<span class="quote">every obscure sound of every language</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 11.
+           
+            na dá 
+bérlai (berla, <span class="lbl">v.l.</span>) sechtmogat, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 136.16
+            
+          . 
+            ro fogluim 
+an berla nEgebtacca, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 20.9 Comm.
+            
+           
+            tresan mberla 
+Scoiteagdha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 38a30
+            
+          . 
+            isin berla Grecdaí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xxx 101.6
+            
+          . 
+
+            condat lia na cenela inaid na berlada, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 3a9
+            
+          . 
+            gen bérla in 
+tíri i ndechatar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 18.10
+            
+          . in berla i-n ro-genamar 
+<span class="ediltr">our native language</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5380.
+           
+            na berla ro cúmscaigit . . . 
+ico'n tur, 
+              5456
+            
+          . 
+            o'n berla Ebraide, 
+              5487
+            
+          . o bélraib aingel 
+(= 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">1 Corinth.</strong></span> xiii 1
+          ), 
+            5909
+          . in Tenga Bithnua labhrustair o berlu 
+angelacda `<span class="quote">in the language of angels</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 104 § 15.
+          
+        </p>
+       
+        <p class="result"> 
+<span class="trans">Of the <span class="def">noises</span> of animals:</span> 
+            do berlaib cech mil bladmair, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7263.
+            
+           belra dligthech (spoken by birds) <span class="ediltr">rational language</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 118 § 54.
+           
+            béarla na n-éan, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 56.23
+            
+          .</p>
+       
+        <p class="result"> 
+Hence <span class="trans">
+            <span class="def">people</span>, <span class="def">nation</span> :</span> 
+            ceneel na [= ná] belre, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28b1
+            
+          . 
+tuucthar hi cech belru gl. cunctis gentibus nota est, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 42c2
+          . 
+
+            in lín catrach in cech threib ┐ in lín mbélra in cech cathraig, 
+┐ in lín doine im (<span class="lbl">leg.</span> in ?) cech mbelra, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 132b30
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+<span class="edilb">(c)</span> <span class="trans">In the mod. period specially of (<i>the</i>) <span class="def">English</span> (<span class="def">language</span>) :</span> 
+
+            'san mbérla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 388 § 2.
+            
+           a hucht a bérla `<span class="quote">relying on . . . 
+her knowledge of the English language</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1530.12
+          . 
+            riaghail 
+. . . S. Clára arna tionntúdh i ngaoidhilcc as bérla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xv 6
+            
+           
+title. 
+            croinic Bhéarla Stanihurst, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 5462.
+            
+           
+            i Laidin i 
+Scoitic ioná i mBéarla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/FlowerCat." title="eDIL Bibliography">Flower Cat.</strong></span> 574.z
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/GJ" title="eDIL Bibliography">GJ</strong></span> xiv 714.67
+          ).</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> <span class="trans">In various technical phrases of special forms of language. 
+Of the five divisions of Gaelic:</span> 
+          cia lin cenel n-anmann . . . 
+forsin ngaeidilg ? . . . a cóic .i. gaeidelg ┐ bérla teibide ┐ 
+bérla Feni ┐ bérla n-etarscartha iter na feadaib aire[g]daib ┐ 
+in gnath-bérla fognus do chach olcheana, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec.Gl." title="eDIL Bibliography">Lec. Gl.</strong></span> 209.
+          
+         
+          an 
+Ghaedhealg . . . 'n-a cúig codchaibh, mar atá Béarla na 
+Féine, Béarla na bhFileadh, Bearla an Eadarscartha, Béarla 
+Teibidhe is Gnáithbhéarla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 140.
+          
+         b.<span class="oRef">¤</span> (Féine) <span class="trans">(<i>the 
+language of</i>) the <span class="def">Laws</span> ; <span class="def">law</span>, the legal <span class="def">enactments</span> :</span> 
+          epscop ┐ 
+saoi berla féne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 636.12
+          
+        . brathchai .i. bretho Cai, 
+ainm aicepta bēlri `<span class="quote">a reading of law</span>' (Index), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 125.
+         
+
+          condelg mbélri (mbearla, mberla, <span class="lbl">v.ll.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 843.
+          
+         
+          roslá 
+bérla breithemhan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 386a36
+          
+         = 
+          sós la . . ., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert.2" title="eDIL Bibliography">Leb. Cert.²</strong></span> 160.2
+          
+        . 
+suí Berla <span class="ediltr">a doctor of the `<span class="frn ">Bérla Féine</span>'</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 16.23 Comm.
+         
+(of a Leinster king) 
+          ba hollom berla Féne, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 
+344.29
+          
+        . 
+          Crith Gablach <span class="frn ">graece crisis .i. iudicium, nomen</span> 
+aiciuchta bēlrai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 229.
+          
+         
+          is e sin othrus is luga isin 
+mberla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 587
+          
+         (H. 3.18. 290). <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 140
+         cited above.</p>
+     
+      <p class="result"> 
+For b.<span class="oRef">¤</span> (bán) biait see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=biait">biait</a></span>. Note also: imróefet fri berla / o 
+Róim (glossed .i. imrádfit berla Románach), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9841.
+        
+      </p>
+     
+      <p class="result"> 
+b.<span class="oRef">¤</span> n-etarscartha: berla n-edarscartha etir na feadhaib 
+<span class="ediltr">language of separation between the vowels</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 210.
+         See 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=etarscarad">etarscarad</a></span>. b.<span class="oRef">¤</span> (na filed) <span class="trans">a <span class="def">poetic</span> <span class="def">jargon</span>, an artificial language 
+practised by the poets, `part of the sixth year's course of 
+the student-fili,'</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fili">fili</a></span> (for poems in B. na f. see Meyer, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 482
+        -
+          490
+        ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 125
+        , 
+          xiii 220
+        ). (of the ánrad poet) 
+
+          belru na filedh as a naicillidh cách dib aloile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1214
+          
+         
+(H. 2.15, 84a). b.<span class="oRef">¤</span> fortchide see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 fortchide">1 fortchide</a></span>. b.<span class="oRef">¤</span> teipide, 
+tóbaide <span class="trans">the <span class="def">selected</span> language, <span class="def">Gaelic</span>
+        </span>, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=teipe">teipe</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=teipide">teipide</a></span>, 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=t&#xF3;baide">tóbaide</a></span>: 
+          go bhfuilid focail as gach aointeangaidh ar airleagadh 
+san cheathramhadh mír don Ghaedhilg ré ráidhtear Béarla 
+Teibidhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 948.
+          
+        
+      </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

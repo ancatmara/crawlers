@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="25452">gataid</h3><span class="citation">Cite this: eDIL s.v. gataid or <a class="reference" href="25452">dil.ie/25452</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                gati, gatda, gata, gatar, gataiter, gatad, gét, conna-get, gétad, gette, gatsai, gatsait</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> 
+      <span class="mood Ind.">Ind.</span> <span class="tns pres.">pres.</span> <span class="per 2">2</span>
+      <span class="number s.">s.</span> 
+        ní gati
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 106c13
+        
+      . <span class="per 3">3</span>
+      <span class="number s.">s.</span> 
+        ní gatda
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10b1
+        
+      ; 
+        ní gata
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xE1;inAd." title="eDIL Bibliography">Cáin Ad.</strong></span> 29
+        
+      . <span class="voice pass.">pass.</span> <span class="number sg.">sg.</span> 
+        ní gatar
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iv 19.5
+        
+      . <span class="number pl.">pl.</span> 
+        gataiter, 
+          <span class="lbl">ib.</span> 9
+        
+      . <span class="mood Imper.">Imper.</span> <span class="per 3">3</span>
+      <span class="number s.">s.</span> 
+        na gatad
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 22b6
+        
+      . <span class="tns Fut.">Fut.</span> <span class="per 1">1</span>
+      <span class="number s.">s.</span> 
+        in gét
+        , 
+          9d4
+        
+      . 
+        conna-get, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 943
+        
+      . 
+<span class="mood Cond.">Cond.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        gétad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CB" title="eDIL Bibliography">CB</strong></span> 32 § 32
+        
+      . <span class="per 2">2</span>
+      <span class="number p.">p.</span> 
+        ní gette
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9c8
+        
+      . <span class="tns Pret.">Pret.</span> <span class="per 3">3</span>
+      <span class="number s.">s.</span> (with affixed pron.) 
+
+        gatsai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6691
+        
+      . <span class="per 3">3</span>
+      <span class="number p.">p.</span> 
+        gatsait, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 319 
+        
+      = 
+        <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 
+3 § 9
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B512" title="eDIL Bibliography">Rawl. B 512</strong></span>, 31c6
+      ). <span class="pos vn." style="color: #ff8000">vn.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gait">gait</a></span>, <span class="lbl">q.v.</span> </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">takes</span> <span class="def">away</span>, <span class="def">removes</span>, <span class="def">pulls</span> or <span class="def">snatches</span> away</span>. gl. furari, 
+tollere (in purely physical sense) : 
+          gat a inchind ass, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> viii 
+62.17
+          
+        . gataid C. in ṅgai ass <span class="ediltr">removes the spear</span>, 
+          iii 180.4
+        . 
+
+          gataid sidi in luirich tar a chend, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii1 184.10
+          
+        . 
+          gatair a 
+súile assa cind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 209.24
+          
+        . in corthi cloichi ... ra gat a 
+talmain ... <span class="ediltr">he tore up from the ground</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 266b48
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 647
+        ). 
+
+          ní gattad (gata, gadai <span class="lbl">v.l.</span>) dér dia grúaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 46.17
+          
+        . 
+ni gatta a curp duni go coscairthea immi (of the gae bulga) 
+<span class="ediltr">it could not be extracted from</span> ..., 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3875
+        . intan ba mithig a 
+gait de cígh <span class="ediltr">to take her from the breast</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 3 § 5
+        . 
+conna gēt-sa láma dib <span class="ediltr">I shall not remove my hands from them</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 943
+        . <span class="lbl">Cf.</span> 
+          gat laim dimm na damtathaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DIV2" title="eDIL Bibliography">D IV 2</strong></span> 53vb19
+          
+        . 
+
+          ni getar afaing asin churach-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 5.17
+          
+        . 
+          gattsat a libur 
+leó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 305.30
+          
+        . mani ghatta in ceir estibh <span class="ediltr">unless 
+ye remove the wax from your ears</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 92 § 202
+        . [na] 
+gataid for sella do for feraib <span class="ediltr">don't take your eyes from your 
+men</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1776
+        . 
+          gaduis an tsleagh as féin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 3251
+          
+        . 
+
+          nogédais tri semanda as cech sleig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 6. 22
+          
+        , With obj. 
+an abstract noun : gataid leisci lesoc `<span class="quote">sloth takes away his 
+welfare</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 104.5 Comm.
+         
+          in tan gadait clú na comarsan, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7684
+          
+        . 
+          san aois féin lé ngadtar ... sláinte ... an chuirp, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2406
+          
+        . With AR (or DE, rarely ó) of person, <span class="trans">
+          <span class="def">takes away</span> 
+(something from someone), <span class="def">deprives</span> of (occas. but not 
+necessarily of a wrongful act)</span>. AR : ní gette na brithemnachta becca erriu <span class="ediltr">you would not snatch the petty judgments from them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9c8
+        . ní gati eronn ón <span class="ediltr">thou dost not 
+take it from us</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 106c13
+        . 
+          do-rarngart-side ... gétad Pátraic biu ┐ marbu airi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CB" title="eDIL Bibliography">CB</strong></span> 32 § 32
+          
+        . 
+          ní gata A. fīachu ar flaith ... 
+... dia mbī dír, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xE1;inAd." title="eDIL Bibliography">Cáin Ad.</strong></span> 29
+          
+        . 
+          gataid Bodb a muccaidecht 
+n-airi, gatar dana a muccaidecht ar in fer atúaith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 
+244.33
+          
+        . 
+          gautuim-si nem ┐ talam foirb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 3.23
+          
+        . 
+          gétat 
+(<span class="lbl">leg.</span> gétar, ed.) orat nem, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2133
+          
+        . 
+          ni géttar nem fort 
+ind-sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 84.13
+          
+        . 
+          in ní doberar indiu gatair air amairech, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 310.4
+          
+        . nī gētam th'aird-mess horot `<span class="quote">we shall not 
+deprive you of your calculation</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 268 § 43
+        . 
+          ro gata 
+a n-airm forra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1862.18
+          
+        . 
+          log enech dond fir ar a ngatar, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iv 20.8
+          
+        . With <span class="pos vn." style="color: #ff8000">vn.</span> as obj. : 
+          salm ... getas fair-sium cendsa in Chomded d'ḟagbáil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 110 § 147
+          
+        . no géta 
+for a muintir adhall ... an tíre <span class="ediltr">that his followers might be 
+deprived of [the power of] entering the territory</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 
+
+fol. 79b
+        . DE : 
+          ná gad neamh dím, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 214
+          
+        . 
+          gad mo 
+moing dīm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 178.26
+          
+        . 
+          gettair do chend dit, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2
+            
+          
+         
+
+          247.7
+        . 
+          ragadad a chenn don druth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 42.17
+          
+        . 
+          gatais 
+Dōcha a chend desom, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2946
+          
+        . na hi ... gatus sirg dona 
+macaib beca ... <span class="ediltr">which remove dulness from little children</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 138.31 Comm.
+         g.<span class="oRef">¤</span> étach : 
+          gatuid Fraech a ētach 
+nde, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 39.23 
+          
+        = 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 201
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> i 148.28
+        . 
+          do 
+chris cáol geltais ní geada | d' fertuis do taebh seda seng, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 548
+          
+        . With ellipse of obj. : gatar (bentar <span class="lbl">v.l.</span>) 
+dibh, ┐ dénaidh bhar ffotraccadh <span class="ediltr">undress and bathe</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+18 § 37
+        . gatsat dind eoch <span class="ediltr">they stripped the horse</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iv 66.118
+        . 
+          ninderba, ni gat ni de, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 444.39
+          
+        . ó : gatuidh 
+a lán eneclann uadh co ro ica in cinuidh sin <span class="ediltr">deprives him of</span> 
+..., 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 516
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, c.
+        419). rogatar ūaim cech sal <span class="ediltr">may 
+every stain be taken from me</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 266 § 11 
+        = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sitzungsb.Pr.Akad." title="eDIL Bibliography">Sitzungsb. Pr. Akad.</strong></span> xix 367 
+§ 11
+        . 
+          Do gadadh úam mart, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 963
+          
+        . Idiom : cid 
+gatas uaib ... ci atberaid fria ? <span class="ediltr">what harm does it do you to 
+speak to her ?</span> (<span class="lbl">lit.</span> what does it take from you ?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> ix 492.1 
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1822
+        ).</p>
+     
+      <p class="result"> 
+<span class="trans">Of <span class="def">carrying</span> off <span class="def">booty</span> :</span> 
+          mor n-oir ... rosgat A ... i scoraib, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 324
+          
+        . 
+          ra gattá is ra brattá in slúag-sa indiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 6102
+          
+        . 
+
+          Ecmoṅg rogatá a bæ ... rogatta do bai ┐ do trī meicc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+iv 44.22 
+          
+        = 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 357
+        . g.<span class="oRef">¤</span> céill de <span class="trans">
+          <span class="def">takes away</span> the <span class="def">expectation</span>, 
+<span class="def">hope</span> of (something, an event):</span> o getar ciall don tsailtinchi `<span class="quote">when 
+every idea of the expectation is abandoned</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 366.3
+        . 
+`In calma gabthai fri Troiannaib ?' `Ragatad cíall deside,' 
+ar in techt <span class="ediltr">there is no longer any hope of that</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 237a22 
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1496
+        ). cech fer ... na taircébad ... dochum nEmna no 
+gatta ciall de ┐ ḟocherte a ḟert ... arnabarach <span class="ediltr">all hope of his 
+being alive was given up (?</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 26 § 14
+        . For further 
+exx. see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=c&#xED;all">cíall</a></span>.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) Specifically <span class="trans">
+          <span class="def">steals</span> :</span> 
+          bean gatas .i. doni gait, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+176.2
+          
+        , 
+          10
+        . 
+          fer gatas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iv 18 § 1
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H2.15A" title="eDIL Bibliography">H 2.15A</strong></span>, 38a
+        ). 
+          gatsait 
+latraind dá thorc díib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> p. 319 
+          
+        = 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 3 § 9
+        . 
+
+          a dhamh lé gadaighe gádthar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 243
+          
+        . 
+          mór nogataind, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 72 § 199
+          
+        . 
+          do goididar na cristaidhi in stor, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xix 
+256
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Fier." title="eDIL Bibliography">Fier.</strong></span> § 168
+        ). a ghradh goiti <span class="ediltr">his stolen love</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 30
+         
+
+          bíd na huisgeadha gadtha milis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> ix 17
+          
+        . Fig. 
+          do ghoid 
+... croidhthe fear Israel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">2 Samuel</strong></span> xv 6.
+          
+        
+      </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

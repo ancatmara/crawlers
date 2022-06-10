@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="40092">tárcud, táirciud</h3><span class="citation">Cite this: eDIL s.v. tárcud, táirciud or <a class="reference" href="40092">dil.ie/40092</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                táircthe</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype u">u</span>, <span class="gen m.">m.</span> <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-&#xE1;irci">do-áirci</a></span>.</p>
+  
+  
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">(in O. Ir.) <span class="def">causing</span>, 
+<span class="def">bringing about</span>:</span> manip ar tháircud fochricce duib `<span class="quote">unless it be for the purpose of preparing a reward for you</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+10b14
+        . ar far táirciudsi i nindocbáil `<span class="quote">for bringing you into glory</span>, 
+          13c9
+        . 
+          14c9
+        . 
+          oc táircud raith spirito dúib, 
+            14c42
+          
+        . 
+          i tarcud indocbalae domsa dia brátha, 
+            23c29
+          
+        . ar thairciud ermiten feid do dia `<span class="quote">to produce honour to God</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 47b4
+        . in clóini nísin du tairciud doib `<span class="quote">that that iniquity should be 
+caused to them</span>,' 
+          61b17
+        . amal nibad cen cinta dugnetis in 
+t.<span class="oRef">¤</span> sin damsa `<span class="quote">that infliction</span>,' 
+          74a1
+        . amal as soirb lat tairciud 
+cech laithi i ndigaid alaili `<span class="quote">to bring every day after another</span>,' 
+
+          111a5
+        . 
+          huan tárrciud gl. oblatione, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> xl 72
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 72b10
+          ). in tairciud ón 
+gl. uini oblationem, 
+          121c2
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">providing</span>, <span class="def">preparing</span>:</span> 
+          tárgud amra isin taig do 
+cholcthechaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 11044
+          
+        . 
+          do breith táircthe cruid o Ailill, 
+
+            1639
+          
+        . tarcudh solus <span class="ediltr">providing of lights</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Snedg.u.MacR" title="eDIL Bibliography">Snedg. u. Mac R</strong></span> 
+13 § 69
+        . 
+          Crist do tharcudh bethaidh ┐ sásadh don domhan, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 20.32
+          
+        . is tuirsech mé ó an targad ingnad sin `<span class="quote">with 
+this extraordinary compilation</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 128.7.
+         tan 
+tairgthe a dtuaslaicthe <span class="ediltr">when their salvation was being prepared</span> (?), 
+          567.5
+        . tarcud do drochmhái <span class="ediltr">providing for a bad 
+woman</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 72
+        . <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 73.26
+        . ? 
+          is tochrus 
+im oibil .i. tarcud febe im molc fochná, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 758
+          
+        . itargo 
+lego (=i targud lega), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 302.4 Comm.
+         <span class="trans">Of <span class="def">feasts</span>, 
+<span class="def">banquets</span>:</span> fledh do thargud do thig C. <span class="ediltr">to prepare a banquet 
+in C.'s house</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 61.3
+        . 
+          flead do tharcad dia tigerna, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 185d28
+          
+        . 
+          a fleda, a thairgthi, a tighi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2502
+          
+        . 
+
+          tosach tairc[t]hi (<span class="lbl">sic leg.</span>) is comhóil cain (: failte), 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+255.19
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">In Laws <span class="def">provision</span>, hence <span class="def">acquired wealth</span> (?):</span> cia 
+imana boaire cid log secht cumal do tarcud a cuirp fadesin, 
+acht for facba da trian a tarcuda la fine collna <span class="ediltr">seven cumals 
+of his own providing</span> (?), 
+          iii 48.17
+        . 
+          is cuimgech eiside ni do 
+timna amhail is carthanach leis dia tarcud budein, 
+            44.24 
+Comm.
+          
+         
+          an cobeis do targud a laime, 
+            45 n. 3
+          
+        . 
+          fer tathaigte 
+cen urgnam, cen urail, cen tarcud, cen tinol, 
+            ii 356.9
+          
+         (but 
+see 
+          <span><strong class="pop" style="color:blue" href="bibliography/Stud.inE.Ir.Law" title="eDIL Bibliography">Stud. in E. Ir. Law</strong></span> 63
+        , 
+          65
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">collecting</span>, <span class="def">leading</span>:</span> targadh .i. tionól, O'Cl. 
+          targud 
+índ uisci tairngiter and dar ín fearaind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 214.10 
+Comm.
+          
+         masa codnach do rine in targud tre comraiti `<span class="quote">if it 
+be a sensible adult that brought (a horse to the place) designedly</span>,' 
+
+          iii 260.7
+        . codnach do ni a tarcud mar aen (of the damage 
+done by deer and horse in hunting), 
+          456.24
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) Attrib. <span class="case g">g</span>
+        <span class="number s.">s.</span>: fer táircthe
+         <span class="trans">
+          <span class="def">inciter</span>, <span class="def">ringleader</span> (?):</span> 
+          fir 
+targuda ... .i. ... fer tairce .i. trian cotach cach fir ro taircistar .i. ro thinoilter in slog cen techt leo, 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 507
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1256
+        ). 
+          ised is fer tairci ann, duine tairgis iat co haen 
+inadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/23Q6" title="eDIL Bibliography">23 Q 6</strong></span>, fo. 13a
+            
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1692
+        ). 
+          cin aenfir for sluagh ... 
+masa targud eicne ... tucastur orru do denam in marbtha 
+... ma targud aisi ... icad fer tairce trian na secht cumala 
+a dualgus a tairci, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 114.17 ff.
+          
+         
+          fear taircthi ... re cach 
+foghail dagentar isin crich ... fear coimhgnima, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. B 506</strong></span> fo. 53b
+            
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2414
+        ). do nem-chintughadh aosa 
+tairce <span class="ediltr">the people led, incited</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span> col. 435
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 
+545
+        ).</p>
+     
+      <p class="result"> 
+targud aurduirn fri Athirne <span class="ediltr">raising his fist to A.</span> (?), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1088.
+         ? 
+          Nuald domain targada (targadaig, <span class="lbl">v.l.</span>) 
+.i. Domhnall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 52.3
+          
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

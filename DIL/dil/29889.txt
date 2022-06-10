@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="29889">lén</h3><span class="citation">Cite this: eDIL s.v. lén or <a class="reference" href="29889">dil.ie/29889</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                liuin, leoin, león, -liuna, len</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen m.">m.</span> (? orig. <span class="gen n.">n.</span>, see <span class="case n">n</span>
+      <span class="number pl.">pl.</span> below) <span class="case g">g</span>
+      <span class="number s.">s.</span> liuin(?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 
+10 § 4.
+       
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 295.31
+      . 
+        leoin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3206.
+        
+       <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        león, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+4939.
+        
+       ? <span class="case n">n</span>
+      <span class="number pl.">pl.</span> 
+        -liuna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 173.30
+        
+      . <span class="case g">g</span>
+      <span class="number pl.">pl.</span> 
+        len, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> 61
+        
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 61.
+      
+    </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">defeat</span>, <span class="def">hurt</span>, <span class="def">injury</span>, <span class="def">misfortune</span>, <span class="def">sorrow</span>
+        </span>: 
+          ar srengail 
+nAileollo asin chath mad fair no maidset nō ar guin Conchobair mad fair bad lēn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 3540
+          
+         (= 
+          róen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5880
+          
+        ). 
+
+          nocho rabadais lá liúin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 6861
+          
+         (<span class="lbl">cf.</span> 
+          lá madma, 
+            6857
+          
+        ). 
+          l.<span class="oRef">¤</span> 
+catha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 4964
+          
+        . 
+          uathmhar magh a mbia léan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> iv 123.2
+          
+        . trí ata mesa do ḟlaith: l.<span class="oRef">¤</span>, brath, míairle 
+<span class="ediltr">defeat</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 243
+         (`<span class="quote">sloth</span>'). imonrōiraid, bāg ma liūin, / 
+totim la hóga aniūil <span class="ediltr">fight of my defeat</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 10 § 4
+         
+(<span class="lbl">leg.</span> immonróirad, ed.). 
+          bruig Banba fo l.<span class="oRef">¤</span> / ni scél crotha 
+caín, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9881
+          
+        . 
+          domrigne losc l.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 18583
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> xix 548 
+§ 26
+        ). 
+          cuibiur Glindi Ridi . . . / on gaeith acher dogeip len, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 131.50
+          
+        . noco torchair Cormac cas / gan len ar a 
+aireachus `<span class="quote">with his sovereignty unimpaired</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 42 § 23.
+         
+ar do ḟlaith cen lēn (to God), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 232 § 7
+        . is mairg aṅces 
+a bidbaid / inn inbaid do chora i ll.<span class="oRef">¤</span>
+         <span class="ediltr">when he is defeated</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+18456
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> xix 544 § 19
+        ). 
+          mo chomergi-sea assin león ┐ 
+assin chess i rraba, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4939
+          
+        . 
+          atchiu ár ar Eoganchaib / 
+atchiu l.<span class="oRef">¤</span> ar Aidnechaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 373.23
+          
+        . cēn gair cech fān imthéit 
+lēn `<span class="quote">sooner or later every wandering comes to grief</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 48 
+§ 23
+         (tr. <span class="lbl">s.v.</span> fán). bad (= bat) frialmach debtha . . . arna 
+tormastar fort iliuna len lighe <span class="ediltr">so that the many sufferings of the 
+sickbed may not be added to you</span>(?) (reading tormasatar . . . 
+il-liuna lēn-lighe), 
+          viii 173.30
+         (<span class="lbl">cf.</span> phr. lige líuin below). 
+les-ainm lenus .i. inní is len no is lista leis do radha ris 
+`<span class="quote">grievous</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 230.3 Comm
+        . <span class="lbl">Cf.</span> 
+          i 192.1 Comm
+        . 
+          is fír 
+ég Í Eidirsceoil, / l.<span class="oRef">¤</span> na gcrich d'a chomhatmáil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Miscell.Celt.Soc." title="eDIL Bibliography">Miscell. Celt. Soc.</strong></span> 328.13
+          
+        . 
+          cen len cen erchra forru, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4126
+          
+        . 
+          feasach mé 
+ar bhás Uí Dhuibhne / ní doilghe liom léan oile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> iii 
+296.10
+          
+        . 
+          cen labra len, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2137
+          
+         (: scēl). an léan fhuair 
+gé do fhidir <span class="ediltr">though He knew the grief she had suffered</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+69.11
+        . 
+          a chros ós chionn na leirge, / tuar leoin dar lucht 
+aoincheirde, 
+            65.10
+          
+        . <span class="lbl">Cf.</span> 
+          8.8
+        . 
+          rí . . . / nar airigh léan budh 
+léan dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 16.9
+          
+        . 
+          creach ar chreich an t-ég-sin Airt / 
+l.<span class="oRef">¤</span> ar l.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 257.138
+          
+        . 
+          a n-uabhar súd, a rúin, 
+na hagair / ní 'sa mhó ar na leointibh laga, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> i 46 
+xliv
+          
+        . Attrib. <span class="case g">g</span>
+        <span class="number s.">s.</span> ? a .h. chuind a charbat leanaim 
+leoin acuing <span class="lbl">etc.</span> <span class="ediltr"> injury-inflicting</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 85 § 78.
+         
+
+          oglaich liuin ┐ laich leadartha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 288.11
+          
+        . In phr. 
+lige lén (líuin, léoin) <span class="trans">sick-bed, state of being <span class="def">injured</span> or <span class="def">ill</span>
+        </span>: 
+ina otharli(u)g[i]u len `<span class="quote">on his sick-bed of pain</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> 
+61
+        . ? <span class="lbl">Cf.</span> 
+          liun no len .i. toiscidh lesugtha no leptha <span class="frn ">ut est</span> 
+na bī meirg miliun (miliuin, <span class="lbl">v.l.</span>) .i. mitoiscid no milesaighthi 
+no mileptha no milen ┐ faill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1150
+          
+        . 
+          toirberis maolduirne meince fair . . . ┐ do fagaibh 'na luighi liuin ar lár an 
+atha é, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 295.31
+          
+        . 
+          ō domrala i llige leōin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sitzungsb.Pr.Akad." title="eDIL Bibliography">Sitzungsb. Pr. Akad.</strong></span> 1918, 
+371 § 1
+          
+        . na roscurthea int ech . . . / noco lessed lige líuin 
+`<span class="quote">till he should lie down forwearied</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 66.107
+        . 
+
+          isin luighe liúinn ┐ lanesláinte, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 88.37
+          
+        . <span class="lbl">Cf.</span> 
+          viii 173.30
+         
+cited above.</p>
+     
+      <p class="result"> 
+In later lang. in phrases expressing grief, dismay: mo léun 
+tu, a Oisín, uaim! <span class="ediltr">alas that I have lost thee</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> iv 246.8
+        . 
+
+          buain na craoibhe, mo lá leóin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1926, 77 § 2
+          
+        . 
+          mo 
+léan-sa . . . / saobhadh do chéadfaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 557.
+          
+         
+
+          mo léan nach faicim a shamhailt, 
+            1469
+          
+        . 
+          mo lá léin-se, a 
+Éire . . . / an chréim seo . . . do thárla leat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xv 1
+          
+        . 
+tug gan treóir mílidhe is mná / lá leóin ar tírine thú <span class="ediltr">thy loss 
+is our land's calamity</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1322.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">idleness</span>, <span class="def">sloth</span>, <span class="def">inertia</span>
+        </span>(?): 
+          féil fir nád char corplén, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 
+June 22
+          
+        . 
+          anmchara ac forcetal scēl, / senchaid lessaiges cen 
+lēn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 223.22
+          
+        . 
+          celebram is cuimrigem / cen lobra, cen 
+lēn, 
+            314 § 22.
+          
+         
+          hi teirt roguidset cen l.<span class="oRef">¤</span> / na tri mec ┐ Danhél, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 148.9
+          
+        . 
+          is ed dlegar don aos gaoth / . . . / . . . airnaighthe nād lēn / ┐ forcedal fann trēn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 298.2
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) Of persons <span class="trans">one who is <span class="def">unable</span> to <span class="def">defend</span> <span class="def">himself</span> (or his 
+interests) because of his <span class="def">youth</span>, <span class="def">debility</span>, etc.</span>: nī lūad nach 
+liūin `<span class="quote">it is not the praise of any weakling</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Misc.Hib." title="eDIL Bibliography">Misc. Hib.</strong></span> 43
+         
+(: Briūin). 
+          nochon ḟuilgitis na liūin / buille Fergusa fortriūin, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 217 § 9
+          
+         (<span class="lbl">cf.</span> 
+          meicc beca, 
+            § 8
+          
+        ). In legal context <span class="trans">
+          <span class="def">infant</span>, 
+<span class="def">minor</span>
+        </span>: 
+          ni haclaidh selb tuinidhi liuin na labra na ainbfis, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2470
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 38a
+          
+        ) 
+          .i. nocha tabair aclaidh ar in liuntach, 
+arin mac bec, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span>
+             428
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 233a
+          
+        ). Note also: cóic ingena ind 
+láich, nár liúin `<span class="quote">of the hero, who was no sluggard</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iii 88.17
+        . 
+          mo dhá dhaltán níorsad liúin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> i 1
+          
+        . nirb 
+obair liúin ro-dus-clái `<span class="quote">no idle man's work</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+122.42
+        .</p>
+    
+  
+  
+    <p class="result"> 
+The follg. exx. could be referred to either (<span class="edilb">a</span>) or (<span class="edilb">b</span>): 
+
+        Cormac cen l.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4173
+        
+       (`<span class="quote">free from sorrow</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 
+14.57
+      ). 
+        tosach lubra l.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 16.18
+        
+      . 
+        ferr lēn lubra, 
+          20.2
+        
+      . 
+cid canat tonna, toirm trén, / cen nach l.<span class="oRef">¤</span>
+       (cheville), 
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7898.
+      
+    </p>
+  
+  
+    <p class="result"> 
+Compds. 
+        <span class="oRef">¤</span>alt: loingsigh co len-alt (: mēlacht) `<span class="quote">sorry 
+plight</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Misc.Hag.Hib." title="eDIL Bibliography">Misc. Hag. Hib.</strong></span> 28.16
+      . 
+        <span class="oRef">¤</span>lige <span class="ediltr">sick-bed</span>, see 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 
+173.30
+       cited above.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

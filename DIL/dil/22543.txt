@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="22543">fócra(e), fúacra</h3><span class="citation">Cite this: eDIL s.v. fócra(e), fúacra or <a class="reference" href="22543">dil.ie/22543</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                fócre, fócru, fúacru, fuacru, focra, focra, fógra, fúagra, fógartha, fócra</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span>  <span class="itype io">io</span>, <span class="gen n.">n.</span>; later <span class="gen f.">f.</span> (<span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fo-ocair">fo-ocair</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xFA;acair">fúacair</a></span>) O. Ir. 
+ <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        fócre, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 2d17
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        fócru, 
+          31c22
+        
+      . 
+        fúacru, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10972
+        
+      . 
+
+        fuacru, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6266
+        
+      . <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        
+          focra (n-aptha), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 230z
+        
+      . 
+        
+          focra 
+(n-etechta), 
+          v 254.10
+        
+      . fógra 
+        fúagra, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. § 3
+        
+      ; 
+        Verbs 
+§ 47
+      .</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">proclaiming</span>, <span class="def">announcing</span>, <span class="def">making known</span>, <span class="def">giving 
+notice</span>:</span> cen fócre <span class="frn ">et</span> cen arigud (gl. usque ad legem peccatum 
+erat in mundo 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Romans</strong></span> v 13
+        ) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 2d17
+        . 
+          doni tri heigme ... do 
+sirḟuacra a saraigthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 266.4
+          
+        . <span class="lbl">Cf.</span> can a focrad, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 274.9
+        . is nin scribthar ag fuacra na forbaidi sin 
+ <span class="ediltr">to mark that accent</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1561
+        . 
+          cen robud cen rígḟócra, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 354
+          
+        . fa lestar togaidhe fri fóccra fírinne 
+(of a saint) 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 20 § 43
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 589
+         (fogra). 
+          amhail 
+bhíos buachaill an táibhirne ag fógra an fhíona maith, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 10678
+          
+        . amhasdrach d'fógra a claoidhte | doní cú 
+anbhfann <span class="ediltr">the feeble dog `barks to proclaim his defeat</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> 
+ xxiv 12
+        . 
+          bheith ag murmur no ag fuagradh go bhfuilmidne san gceimsi ar earraid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 194.1
+          
+        . With DO 
+of pers.: do ḟúacra na ceilge do Hectoir <span class="ediltr">to warn H. of the 
+ambush</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 1188
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 406a47
+        . mar a n-abair Críost ag 
+fógra anfhorlainn an bháis don duine, <span class="frn ">ecce venient dies</span> ... 
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Luke</strong></span> xix 43
+        ), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1061
+        . <span class="trans">Of <span class="def">denouncing</span> a fault, <span class="lbl">etc.</span>:</span> 
+          oc 
+fócru a pecctha do chách, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 31c22
+          
+        . iar fuacra a chore 
+dó `<span class="quote">after admonishing him of his fault</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 37
+        . 
+
+          co forngaire firinde, co fuagra gach claein, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 320 § 98
+          
+        . 
+
+          cen dītiun fīrindi, cen fouaccrae cloīni [<span class="lbl">sic leg.</span> ?], 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 
+450.7
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">esp. <span class="def">announcing</span>, <span class="def">proclaiming</span> (<i>a</i> <span class="def">ruler</span>):</span> 
+          atáid got 
+fhógra fuinn 's dinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 484
+          
+        . <span class="lbl">Cf.</span> 
+          rí tré iathuibh 
+dá ḟuagra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 10.8
+          
+        , which could, however, belong to (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xF3;cra(e) (g)">g</a></span>).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">a <span class="def">notice</span>, <span class="def">announcement</span>, <span class="def">summons</span>, <span class="def">ordinance</span>:</span> 
+          in tan 
+tucad in fuacra-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 363
+          
+         (= in smacht <span class="lbl">ib.</span>; = in forcongra 
+
+          366
+        ). meni dérntais dar fócra <span class="ediltr">unless they acted against the 
+decree</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 94
+        . 
+          dochuaid rechtaire in rig do fuacra for 
+P. ┐ for a muime co ndigsitiss do glanad thellaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 
+14.19
+          
+         ( 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 174
+        ). 
+          cuirid scéala go Mochuda da ḟógra 
+dhó Rathain do tréigean, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 1896
+          
+        . 
+          gur chuir fógra 
+fana hEoghanachtaibh 'ga rádh riú biadh ... do chur ... 
+chuige, 
+            3045
+          
+        . fógra chuírte ... do chor lá Presidens ... go 
+síol mB. `<span class="quote">a proclamation for holding a court was issued by 
+the President ... to Síol mB.</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1638.3
+        . 
+          foccra parlimenti do thabhairt dferaibh Ereann dia ḟorcongra for a 
+maithibh a beith imbeltaine ... in Ath Cliath, 
+            1826.19
+          
+        . 
+fógradh cruinnighthe ar chrú mB. `<span class="quote">a summons of gathering 
+... to the blood of B.</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 503.7
+        . fuáir tú fúagra = 
+`<span class="quote">thou art commanded</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> xlv 19
+        . tug Aáron fúagra <span class="ediltr">made 
+proclamation</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Exodus</strong></span> xxxii 5
+        . fuáir fógra ... ó neamh ... fios 
+do chur ortsa = `<span class="quote">was warned from God</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Acts</strong></span> 10.22
+         . ag 
+tabhairt ḟógra dhá gach áon = `<span class="quote">warning every one</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Colossians</strong></span> 
+1.28
+        . achd gu dtuga tú fógra dhó a dtáobh a ṡeachráin 
+uáir nó dhó = `<span class="quote">after the first and second admonition</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Titus</strong></span> 
+3.10
+        . stocc foccra <span class="ediltr">a summoning trumpet</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 56.16
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 111a59
+        ). Later <span class="number pl.">pl.</span> 
+          
+            fógartha ┐ aitheanta Dé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span>
+ 14.33
+          
+        .</p>
+     
+      <p class="result"> 
+<span class="trans">In Laws: <i>a</i> <span class="def">warning</span> (of <span class="def">legal</span> <span class="def">action</span>), <span class="def">summons</span>:</span> 
+          toing 
+to Dia, nach fōcre fond[o]t-ocerthar not-gebà huidhib 
+aitire cach tēchta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 22 § 65b
+          
+        . dia treise iar fócru 
+`<span class="quote">at three days' notice</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 85
+        . focra n-aptha (one of the 
+`lesa' concerning which distress extends to three days) 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>
+           
+i 230z
+         (glossed .i. smacht biata do mic bithbinig tar apadh 
+
+          234.2
+        . 
+          na séoit fōccra ┐ na seōit ōna cu cinniudh re rē, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2413
+          
+         (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 s&#xE9;t">2 sét</a></span>). Here <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=smacht">smacht</a></span> may be synon. with 
+fócra, <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 363
+         above). focra la foircsin `<span class="quote">warning by 
+eyewitness</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>
+           ii 308.21
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SMFacs." title="eDIL Bibliography">SM Facs.</strong></span> 35b
+          
+        ). 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 382  (`<span class="quote">Verkündigung bei Überblicken</span>'). 
+          do fet focra folad .i. as remtechtai lium foccra abaid ┐ troisci do tabairt fair anas fola 
+athgabhala do gabhail de, 
+            <span><strong class="pop" style="color:blue" href="bibliography/23P3" title="eDIL Bibliography">23 P 3</strong></span>, 23aa
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1874
+        ). f.<span class="oRef">¤</span> 
+n-étéchta <span class="trans">an <span class="def">illegal</span> <span class="def">challenge</span>:</span> 
+          focra n-etechta (... i. crand 
+do togbail ... .i. conicfad tobach a fiach o mudh aile), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+v 254.10 (256.21)
+          
+        . masa aonfear dib dorine in fuacra 
+n-etechta sunn, ┐ ní errecht in fer eile ina adhaigh (of a 
+challenge in a place where fighting is prohibited), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 
+389
+         (&lt; 
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 295
+        ) = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 304 Comm.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">summoning</span>, <span class="def">suing</span> (?):</span> in fili oca fúacru fora nglinne 
+┐ a nadmand `<span class="quote">summoning them by their sureties</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> 
+47.14
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10972
+        ; occ accrui ┐ oc fuacra <span class="lbl">v.l.</span> <span class="lbl">Cf.</span> na secht 
+filid dia ṅglámad ┐ dia n-erḟuacra `<span class="quote">satirize and denounce</span>' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 161
+        ). <span class="lbl">Cf.</span> next.</p>
+    
+  
+  
+     
+
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+          <span class="def">denouncing</span>
+        </span> (with FOR, AR of pers.): fógra ar ṡeanchaidh 
+madh fiú a locht `<span class="quote">to denounce a sage</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xiv 15
+        . 
+          gur 
+coir ... fuagra air mur iodhaladhraightheoir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 195
+          
+        . 
+
+          Ó M. ... d'ēcc ... ┐ a mac do ghabhail a ionaid a hucht na 
+bainrioghna. araill do dhaoinibh uaisle a chinidh acc 
+fóccra ┐ acc fuaidreadh fair a ndiaidh an anma sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 
+2092.16
+          
+        . <span class="lbl">Cf.</span> é fein d'fogra mar brághaidh [<span class="lbl">sic</span>] don bhainrioghain `<span class="quote">he was declared the Queen's prisoner</span>' 
+          v 1688.3
+        . 
+See (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xF3;cra(e) (g)">g</a></span>). Here perhaps: 
+          déna dam dóibh focra lethamnas, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 295 § 24
+          
+        . 
+          desimrecht ar trefoccul focra dorigne 
+F., 
+            293 n. 17
+          
+         = 
+          in treḟoclach focrai, 
+            293.18
+          
+         (where t.f.<span class="oRef">¤</span>
+         is 
+applied to an ingenious specimen of indirect satire). 
+          trefocal 
+fócra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 92.10
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) <span class="trans">
+          <span class="def">giving</span> <span class="def">notice</span> of <span class="def">battle</span>, <span class="def">declaring</span> <span class="def">war</span>, <span class="def">challenging</span>
+        </span> (with 
+FOR of person): ar na tíset óic ... do ḟuacra comraic forru 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1150
+        . techta do dul ... do ḟúacra chatha for Troiánaib, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 555
+        . 
+          cath d'foccra forra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 132z
+          
+        . 
+          coccadh d'fógra 
+fair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1120.2
+          
+        . 
+          comracc d'focra do R. ... ar D., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1279 § 6
+          
+        . 
+          eirge d'focra in comraic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 478.18
+          
+        . 
+a uagra catha ar Crumthann `<span class="quote">the C. have the proclamation 
+of his battles</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/HyMaine" title="eDIL Bibliography">Hy Maine</strong></span> 163  (= a furogra 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/U&#xED;Maine" title="eDIL Bibliography">Uí Maine</strong></span> 46ra22
+        ).</p>
+    
+  
+  
+     
+
+      <p class="result"> 
+(<span class="edilb">g</span>) <span class="trans">
+          <span class="def">proscription</span>, <span class="def">banishment</span>, <span class="def">outlawry</span>:</span> fo thrí ... rodiultsat fir Herenn fria filedu ... Dā cēt ar mīli a lín isin cetna 
+ḟocru ... In fuacra tānise ... `<span class="quote">the first proscription ... the 
+second proscription</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 42
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> Introd
+        . ). 
+          bóe Dauid 
+ré mór ... fo fuacru, fo innarthaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6266
+          
+        . 
+          an tan do-beirt[h]i fōgra do c[h]liaraibh Fōdla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sitzungsb.Pr.Akad." title="eDIL Bibliography">Sitzungsb. Pr. Akad.</strong></span> 1919 v 92 § 6
+          
+         (&lt; 
+          <span><strong class="pop" style="color:blue" href="bibliography/BIV2" title="eDIL Bibliography">B IV 2</strong></span>, 155b
+          
+        ). fógra a fírḟréimhe 
+`<span class="quote">the banishment of her true race</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 192
+        . fógra dhaoibh 
+ós aird oruinn `<span class="quote">thy public proscription of me</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 3.20
+        . 
+crádh liom echtrainn da bfógra `<span class="quote">that foreigners proscribe 
+them</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 504.25
+         (<span class="lbl">cf.</span> 
+          rí tré iathuibh dá ḟuagra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 
+10.8
+          
+        ). égcert d'fhógra asedh doniad <span class="ediltr">what they do is to 
+banish injustice</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> p. 240.86
+        . <span class="lbl">Cf.</span> (<span class="edilb">e</span>).</p>
+    
+    
+      <p class="result"> 
+FOR (AR) F.<span class="oRef">¤</span>
+         <span class="trans">
+          <span class="def">banished</span>. <span class="def">outlawed</span>:</span> 
+          go ro cuirit ar fogra 
+o thír co tír, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 1018.16
+          
+        . ni ḟuair dion ... fear ar fógra 
+ó ṡíol S. `<span class="quote">banished by s. S.</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 10 8
+        . 
+          an tan do bí sé ar 
+foccra o Nera, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 362
+          
+        . beith ar faoindeal ┐ ar iogra 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1640.8
+         (`<span class="quote">wandering and proclaimed</span>' note). fer foccra 
+ <span class="trans">an <span class="def">outlaw</span>
+        </span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 275b48
+         (wrongly 
+          fócrach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 61
+          
+        ) = 
+          fer fōgra, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/CCellaig" title="eDIL Bibliography">CCellaig</strong></span> 724
+          
+        . iomdha daorbhreith ... d'ḟonn a 
+thréighte is ḟógartha `<span class="quote">from a wish to betray him and banish 
+him</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> iii 80
+        . </p>
+     
+      <p class="result"> 
+
+          dligid foendelach fuacra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 411d18
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 345d24
+         (= 
+          furfocra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 14
+          
+        ) may mean = <span class="ediltr">a stranger is entitled to 
+notice.</span> <span class="lbl">Cf.</span> Smith, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlv 33
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 288.4
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 
+374
+        ).</p>
+     
+      <p class="result"> 
+For: maithe Tuadhmumhan do focra do `<span class="trans">
+          <span class="def">submitted</span>
+        </span>' 
+(<span class="ediltr">to him</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 642.27
+        , the variants are: do creidium do 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> ii 474.26
+        ; 
+          do umhlughadh do Brian, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 580.18
+          
+        ; 
+          do 
+frecra do, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1343 § 7
+          
+        . The latter is perhaps the 
+right reading in ALC.</p>
+     
+      <p class="result"> 
+See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xFA;acair">fúacair</a></span> and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xFA;acairt">fúacairt</a></span>.</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

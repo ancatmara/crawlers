@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="24092">fo-sisedar</h3><span class="citation">Cite this: eDIL s.v. fo-sisedar or <a class="reference" href="24092">dil.ie/24092</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                fosisiur, fosisedar, fob-sisimar-ni, fosisetar, fosissetar, fosisider, -fosad, fosisefar, furoissestar, fuissither, forruised, fotisir, fotṡisiur, forruisistar, rosfaisit</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span>  <span class="tns pres.">pres.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        fosisiur, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 10.23
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> fosisedar 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Acr." title="eDIL Bibliography">Acr.</strong></span> 13b1
+      . <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        fob-sisimar-ni, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 228.42
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> fosisetar 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 140a2
+      . 
+        fosissetar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 132a1
+        
+      . <span class="mood subj.">subj.</span> <span class="tns pres.">pres.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+        
+          fosisider 
+su, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 66c1
+        
+      . [
+        -fosad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 799
+        
+       (= fossad LB) is possibly 
+<span class="tns past">past</span> <span class="mood subj.">subj.</span> of this. See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fossaid">fossaid</a></span> under wh. the form is provisionally placed]. <span class="tns fut.">fut.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        fosisefar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 58c17
+        
+      . <span class="tns perf.">perf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+
+        furoissestar, 
+          46d15
+        
+       (<span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> § 63
+       cited below). For <span class="pos vn." style="color: #ff8000">vn.</span> 
+see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fa&#xED;sitiu">faísitiu</a></span> and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xE1;es(s)am">fáes(s)am</a></span>. <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fuste">fuste</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fusti">fusti</a></span>.</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) in lit. sense <span class="trans">
+          <span class="def">stands under</span>, </span> possibly in follg. ex.: issi 
+innfine ... a tir i fuissither
+         <span class="ediltr">the land on which (the water</span>) 
+<span class="ediltr">stands</span> (i.e. is gathered into a pond) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 206.8
+        , <span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xE1;es(s)am">fáes(s)am 
+(a)</a></span> and the <span class="voice pass.">pass.</span> <span class="tns perf.">perf.</span> 
+          ba doib forruised
+             in praind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+1716
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ICM" title="eDIL Bibliography">ICM</strong></span> xi
+        ). But perh. this is a miswriting of 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=foruired">foruired</a></span>.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">confesses</span>, <span class="def">acknowledges</span>, <span class="def">admits</span>:</span> gl. fateri 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 140a2
+        , 
+ confiteri 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 46d15
+        . 
+          fosissetar a pect[h]u, 
+            132a1
+          
+        . 
+          fosisefar 
+mo pecthu, 
+            58c17
+          
+        . forusestar Loegaire ógréir Patraic 
+ <span class="ediltr">undertook (to fulfil</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9738
+        . ... a ḟirḟolaid fo-rrúisesthar 
+`<span class="quote">die er ... anerkannt hat</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 21 § 63
+        . ? 
+          fosisiur 
+fofetar fis deoda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 10.23
+          
+        . 
+          gell taisic iar frepaid fosisedar derosc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> 60
+          
+        . (i cele fuiseten) .i. fo-sisithar 
+celsini ar seotu. no fo-sesedar flaith hi cele ... do `<span class="quote">acknowledges himself a client in return for goods, or whom a lord 
+acknowledges as his client</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> p. 26 (§ 26 Comm. 7)
+        . 
+See also under (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fo-sisedar (d)">d</a></span>) below.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">professes</span>, <span class="def">avows</span>:</span> transl. <span class="ediltr">profiteri</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 66c1
+        . 
+          tris in 
+iris fosissetar i mbathis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Tur." title="eDIL Bibliography">Tur.</strong></span> 43
+          
+        . is ecen do neuch fosisedar 
+dán inna grammatic ... <span class="ediltr">who professes</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acr." title="eDIL Bibliography">Acr.</strong></span> 13b1
+        .</p>
+    
+  
+  
+     
+
+      <p class="result"> 
+(<span class="edilb">d</span>) in legal sense <span class="trans">`<span class="def">stands under</span> or for,' <span class="def">acknowledges</span>, 
+<span class="def">goes bail for</span>, <span class="def">becomes</span> <span class="def">responsible for</span>:</span> <span class="lbl">cf.</span> 
+          fotisir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 346x
+          
+        , 
+which Father Shaw, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aisl.&#xD3;eng." title="eDIL Bibliography">Aisl. Óeng.</strong></span> 63
+        , would emend 
+to : fotṡisiur `<span class="quote">I undertake your protection</span>.' ni cobrannaide 
+dan finnteda acht ni i fuisedar cuir bēl <span class="ediltr">save what verbal 
+contracts support</span> (lit. <span class="ediltr">in which ... stand as basis</span> ?) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 
+284.17
+        . ise mac faesma ... fosisiter ilar fine (.i. faoisitnighit 
+imat na fine amuigh) <span class="ediltr">whom the majority of the</span> `fine' <span class="ediltr">acknowledge</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2246
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span> f. 18a
+        ). 
+          digal fir foseisiter fine .i. 
+... in mac faosmadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 219a
+            
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 390
+        ). <span class="lbl">Cf.</span> 
+          in ndlighe 
+foessamh etir no ... in ndlighe fosister itir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 258b21
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 510
+        ). 
+          foesam .i. fo-sisithar tar crich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> 6
+          
+        . 
+<span class="trans">
+          <span class="def">Supports</span> (?):</span> 
+          im boin fosisethar carra .i. iman mboin 
+faisitnigeas imad don tuaith ┐ in brathair ro leig a chuid ara 
+cheile di, 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, c. 405
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 499
+         = fosuidethar carrudh, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 124.8
+        , with diff. comm.).</p>
+     
+      <p class="result"> 
+In : 
+          cuir neich fosisedar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/H4.22" title="eDIL Bibliography">H 4.22</strong></span>, 28
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1998
+        ), there 
+is not enough context to determine the sense. Similarly 
+
+          fosisiter orba .i. tir dibaid ┐ sealb .i. ferann athar ┐ senathar, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2247
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, p. 18
+        ). guithir dāl o C. da A. ... ┐ basisestar A. ar feraib hErend ... ┐ basisestar C. ar Ultaib <span class="ediltr">guaranteed it on behalf of</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 3416
+        . fosesegar in bandscal tar 
+cend na geni `<span class="quote">makes confession on behalf of</span>' (of prenatal 
+baptism) 
+          <span><strong class="pop" style="color:blue" href="bibliography/RuleofTallaght" title="eDIL Bibliography">Rule of Tallaght</strong></span> p. 76 § 49
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 11a47
+        ). <span class="lbl">Cf.</span> fo-b-sisimar-ni `<span class="quote">wir stehen euch bei</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 228.42
+         ; 
+          229.53
+        .</p>
+     
+      <p class="result"> 
+With acc. of pers. : 
+          táet in drúth ... ┐ fasisidar di chéin 
+Coin Culaind ar nachan-aithgné, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5869
+          
+         ( 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1400
+        , `<span class="quote">let 
+him stand at a distance from C.</span>' [?] Faraday. Perhaps this 
+belongs to next sect.).</p>
+    
+  
+  
+    <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+        <span class="def">declares</span>, <span class="def">asserts</span>, <span class="def">makes</span> <span class="def">known</span> (?) :</span> 
+        foruisedar in 
+rechtairi na briathra-sa do Mac Con, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 311.32
+        
+       = 
+
+        forruisistar, 
+          x 423.7
+        
+      . <span class="lbl">Cf.</span> 
+        me rosfaisit is rosforgaill, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 45b4
+        
+       = 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 488
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 264
+      ; possibly a late <span class="tns pret.">pret.</span> form.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

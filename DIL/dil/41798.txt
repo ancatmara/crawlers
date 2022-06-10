@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="41798">trén</h3><span class="citation">Cite this: eDIL s.v. trén or <a class="reference" href="41798">dil.ie/41798</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                trenbualad, trencheimniugad, thren-gabail, trenglacadh, tren-gresacht</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype o,-&#x101;">o, ā</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 137.
+      
+    </p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> As <span class="pos adj." style="color: #ff8000">adj.</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">strong</span>:</span> 
+            bad treúin i niriss, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 27a6
+            
+          . 
+            tríuin, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 46c23
+            
+          . 
+            donaib feraib trenaib, 
+              37b24
+            
+          . cin cach cintaid 
+triuin `<span class="quote">the debt of every powerful defaulter</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 268.18
+          . 
+
+            hi féil ... | Teolis triúin trednaig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Feb. 25
+            
+          . 
+            snaidsi-unn 
+deg-ri tomtach t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lib.Hymn." title="eDIL Bibliography">Lib. Hymn.</strong></span> 29.6
+            
+          . 
+            niurt t.<span class="oRef">¤</span> togairm 
+trinoit, 
+              133.16
+            
+          . 
+            t.<span class="oRef">¤</span> écosc at-chíu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 825
+            
+          . forngaire t.<span class="oRef">¤</span>
+           
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7562
+          . 
+            dus in fagbad ... | talmain trein, 
+              2568
+            
+          . 
+            teora 
+dúi dana trethnasa trena, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5590
+            
+          . 
+            se hech bus triuín 
+fri toghruim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 275b16
+            
+          . 
+            antrend .i. anmin tire .i. ni tren 
+fri clandugad n-arbha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 124
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 75
+          , <span class="lbl">cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Phil.Soc.Trans." title="eDIL Bibliography">Phil. Soc. Trans.</strong></span> 1859 p. 196
+          ). 
+            adchiu-sa da tharb trena, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1617
+            
+          . 
+            a chuirp Mheic Dhé is diúmhas tréan, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> 
+xxvi 29
+            
+          . 
+            bheith tréan ní haithnidh d'ollamh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 
+33.12
+            
+          . a lámh thréan dínsimhthe drong `<span class="quote">thou strong hand 
+in quelling hosts</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 19.3
+          . 
+            láimh dheas ríogh Teamhrach 
+tréine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 582.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">Gramm. ainm t.<span class="oRef">¤</span>
+             <span class="def">substantive</span>:</span> 
+            ainim t.<span class="oRef">¤</span> son, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 30a9
+            
+          . 
+cen tabairt anman t.<span class="oRef">¤</span> fríu, <span class="lbl">ib.</span> 
+            inna anmmann tréna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+28b18
+            
+          . <span class="lbl">Cf.</span> trén-úathad.</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) In phrase t.<span class="oRef">¤</span> ar <span class="trans">
+            <span class="def">powerful</span> <span class="def">over</span>:</span> 
+            tréan tú ar gach éinní 
+eile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 10.27
+            
+          . 
+            tú as tréan ar gach ní fa nimh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xx 4.
+            
+           
+            Míchéal ortha is é bhus tréan, 
+              xxii 11
+            
+          . 
+<span class="lbl">Cf.</span> ní tréan ar naoimhcheallaibh bile braonChumair `<span class="quote">this 
+hero ... will press light on holy churches</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 4.13
+          .</p>
+      
+     
+      <p class="result"> 
+<span style="color: #ff8000">Equative</span> 
+          tressithir ... séolchrand prímluṅgi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2622
+          
+        . 
+<span style="color: #ff8000">Compar.</span> tressa, tressiu, <span class="lbl">etc.</span>: 
+          combad tressa de hiress apstal, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25a14
+          
+        . 
+          intí bed tressa do fordiuclaim alaili, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 19d5
+          
+        . 
+
+          tresa, 
+            6
+          
+        . 
+          besid treisiu fri himfoiche, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 278.23
+          
+        . 
+          ar us 
+treise in da teangaid dec, 
+            v 510.7
+          
+        . 
+          is tressiu cuma inda 
+muir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 81.15
+          
+        . 
+          ba tressio tol aicniud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10730
+          
+        . 
+          bid 
+tressai indás bág Foraind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3892
+          
+        . 
+          anmunna na ṅdémna 
+ba tressi oldáti na tosig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1195
+          
+        . 
+          in n-uair ropo thressiu 
+flaith firu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 20.1
+          
+        . 
+          co mbiad a fis aigi cia aguind bus 
+threisi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1664
+          
+        . 
+          an tan fá threise dhá mhíghníomhaibh ioná dá mhaith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5725
+          
+        . Later also tréine: 
+          besi 
+treine fri eimfoiche, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 280.17 Comm.
+          
+         <span style="color: #ff8000">Superl.</span> 
+          is ed 
+ainm as tressam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lib.Hymn." title="eDIL Bibliography">Lib. Hymn.</strong></span> 129.15
+          
+        . 
+          in cliathbernaidh 
+cet as tresium thainic do shil Ádhaim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 28
+          
+        . 
+          tresim 
+fedma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 5555
+          
+        . Later treise, tréine: 
+          amal ba tresi 
+di ac dul, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2583
+          
+        . 
+          in ti dobo tresi ara ollamnacht fein, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1385.15
+          
+        . 
+          don naomh as treise tá ar nimh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 8.3
+          
+        . 
+          fear do ba treise ar a thoil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 52.11
+          
+        . 
+
+          rí is treise ┐ is tréine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3059.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> As <span class="pos adverb" style="color: #ff8000">adverb</span> <span class="trans">
+          <span class="def">strongly</span>:</span> tren doratus do menmain | missi 
+hi píangubaib ... | tússu i ṅgrianbrugaib <span class="ediltr">I remembered 
+bitterly</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1866
+        . With co: 
+          dobreth fín do ┐ ro mesca[d] 
+co t.<span class="oRef">¤</span> ┐ ro guded im dula isin comrac, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6688
+          
+        . 
+          mur do 
+chriad (<span class="lbl">sic</span>) chaim rochalcad | co tren im cach n-airfortach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 396
+          
+        . 
+          ro-chói co t.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3197
+          
+        . 
+          tainig techtairi co tren 
+┐ co tindesnach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4360
+          
+        . do bhrígh go rabhadar lucht 
+na gcríoch-so ... go tréan ar Éirinn `<span class="quote">held ... powerful sway 
+over Ireland</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 2463.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">III</span> As <span class="pos subst." style="color: #ff8000">subst.</span> <span class="itype o">o</span>, <span class="gen m.">m.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 61.
+        
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">strong man</span>:</span> 
+
+            ainm alaili thríuin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 96a4
+            
+          . oirt trīunu talman <span class="ediltr">he slew 
+the strong ones of the earth</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC4;lt.Ir.Dicht." title="eDIL Bibliography">Ält. Ir. Dicht.</strong></span> ii 6 § 2
+          . 
+            ceithri 
+triuin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 54.13 Comm.
+            
+           
+            iter lobru ┐ tríunu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 
+527
+            
+          . 
+            ro brisius aurgala | for triunu na túath, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9350
+            
+          . 
+
+            bad rí ┐ bad t.<span class="oRef">¤</span> ┐ bad tigerna dóib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 53
+            
+          . 
+            eter triunu 
+Tethrach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 26 § 97
+            
+           
+            .i. eter na treono Tethrach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+187b38
+            
+          . 
+            ar treóin ┐ ar tóisig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 38.22
+            
+          . 
+            a ndoberó ar 
+Dīa | do thriun nō do thrūagh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 172 § 4
+            
+          . 
+            in luadi 
+letrom ro bris cach tren, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 160.9
+            
+          . 
+            t.<span class="oRef">¤</span> ós mo chionn ní 
+cubaid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 475.28.
+            
+           
+            ro dhoirtset treóin an tuaisceirt 
+ina ccend, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1108.1
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) (orig. <span class="gen n.">n.</span> ?) <span class="trans">
+            <span class="def">strength</span>:</span> 
+            taoisech Bladhma tren ar thren, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 394.29
+            
+          . tren namat mallacht mo mhiond `<span class="quote">a hostile 
+power is the curse of my relics</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 286.21
+          . 
+            as mor do 
+traoitais dom trean, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 49.24
+            
+          . 
+            co n-aiseóga Día a nert 
+┐ a t.<span class="oRef">¤</span> fen do Gaedhelaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 124.36
+            
+          . 
+            fada atám fa th.<span class="oRef">¤</span> mo 
+bhidhbhadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1732
+            
+          . 
+            tréan an bheatha ní 
+buaine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 3.32
+            
+          . 
+            gan tren a nesccaratt do leicen forra, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 364.25
+            
+          . ? ní tualaing tréan dá threise ... neart ... 
+Dé do thurnamh <span class="ediltr">no power on earth</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5419
+           (or in meaning 
+(<span class="edilb">a</span>) ?).</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+Compds. (frequ. with merely intens. force, or for alliteration):</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) With nouns: 
+            <span class="oRef">¤</span>aicned: 
+            cách cona thoga trénacnid 
+chena, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 960
+            
+          . 
+            <span class="oRef">¤</span>arm <span class="trans">
+            <span class="def">strong</span> <span class="def">weapon</span>:</span> 
+            in trenarm angidi 
+ingnathach sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1250
+            
+          . 
+            <span class="oRef">¤</span>brugaid: 
+            is ann sin tainic 
+Tamun t. mac Tréin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2438
+            
+          . 
+            <span class="oRef">¤</span>eite: 
+            lúth toile 'n-a thréin-eitibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 60.8
+            
+          . 
+            <span class="oRef">¤</span>fher <span class="trans">
+            <span class="def">strong</span> <span class="def">man</span>, <span class="def">warrior</span>:</span> 
+            Trioscatal 
+trenfer tigi Concobair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5530
+            
+          . 
+            <span class="oRef">¤</span>fhogail <span class="trans">
+            <span class="def">violent</span> <span class="def">seizure</span>:</span> 
+
+            ó thóicheastal throid-mhear ... na tréanfhoghla soin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+6643
+            
+          . 
+            <span class="oRef">¤</span>gaeth <span class="trans">
+            <span class="def">strong</span> <span class="def">wind</span>:</span> 
+            treisecht na trengaithi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+4617
+            
+          . 
+            <span class="oRef">¤</span>lige <span class="trans">
+            <span class="def">oppression</span>:</span> 
+            trenlighu .i. foreicni, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 871
+            
+           
+(
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 391b
+            
+          ). foxal trenlighi nirt `<span class="quote">seizure by overwhelming 
+strength</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 268.21
+          . 
+            <span class="oRef">¤</span>lua <span class="trans">
+            <span class="def">violent</span> <span class="def">kick</span>:</span> 
+            ra bretha t. 
+tarpech da choiss úad riss, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2776
+            
+          . 
+            <span class="oRef">¤</span>mid <span class="trans">
+            <span class="def">strong</span> <span class="def">mead</span>:</span> 
+
+            im thech trenmeda, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 424.21
+            
+          . 
+            <span class="oRef">¤</span>mod <span class="trans">
+            <span class="def">valiant</span> <span class="def">work</span>:</span> 
+
+            meic Thalairc co trenmud, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> Sept. 8
+            
+          . 
+            <span class="oRef">¤</span>nia <span class="trans">
+            <span class="def">great</span> <span class="def">champion</span>:</span> 
+            is beg in cin ata acan trenníadh ugud oirne, 
+              <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1477.
+            
+           
+            <span class="oRef">¤</span>tarraing, in <span class="pos n.-pr." style="color: #ff8000">n. pr.</span> 
+            Trentarraing mac Bocachta, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 49.15
+            
+          . 
+            <span class="oRef">¤</span>timarcain: trentimarcain na tuath 
+`<span class="quote">forcible reduction</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 52.13 Comm.
+           
+            <span class="oRef">¤</span>torc <span class="trans">
+            <span class="def">mighty</span> 
+<span class="def">boar</span>:</span> 
+            cu téit an t. allaid ó chonuib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1786
+            
+          . 
+            <span class="oRef">¤</span>úathad 
+<span class="trans">
+            <span class="def">singular</span> of a <span class="def">substantive</span> (<span class="lbl">cf.</span> ainm trén):</span> 
+            trenothath, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+56b3
+            
+          . 
+            <span class="oRef">¤</span>uide: rancatar uile uile | ... | na trēnuidhe dar 
+in trāigh <span class="ediltr">with a mighty rush</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxxvii 347 § 45.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) With adjj. (forming dvandva-cpds., except in the case 
+of adjj. derived from nouns) 
+            <span class="oRef">¤</span>adbul: 
+            in talam trenadbul, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 3077
+            
+          . 
+            <span class="oRef">¤</span>armach <span class="trans">
+            <span class="def">strongly</span> <span class="def">armed</span>:</span> 
+            do thogail na Tebi 
+trenarmaigi, 
+              2729
+            
+          . 
+            <span class="oRef">¤</span>chalma: 
+            tic slog mor. ... t., 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8106
+            
+          . 
+
+            <span class="oRef">¤</span>dúalach <span class="trans">
+            <span class="def">strongly</span> <span class="def">woven</span> (?):</span> 
+            cona luirigh thruim thren-dualaigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1243
+            
+          . <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tred&#xFA;alach">tredúalach</a></span>. 
+            <span class="oRef">¤</span>máillech 
+<span class="trans">
+            <span class="def">having</span> <span class="def">strong links</span>:</span> 
+            an tréan luithreac tréanmhailleac, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/CFEg." title="eDIL Bibliography">CF Eg.</strong></span> 195
+            
+          . 
+            <span class="oRef">¤</span>óg: 
+            Airenann tuir threnóg, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> Jan. 5
+            
+          . 
+
+            <span class="oRef">¤</span>oll: 
+            Serapion tuir t., 
+              Mar. 21
+            
+          . 
+            <span class="oRef">¤</span>talchar: 
+            tucastair ... 
+tarraing-drutad tren-talcair fair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2958.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) With verbs. 
+            <span class="oRef">¤</span>buailid: 
+            trenbuailis a sgiath, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+4529
+            
+          . 
+            rotrenbuail a eocho, 
+              2609
+            
+          . <span class="pos vn." style="color: #ff8000">vn.</span> 
+            'ga trenbualad
+            , 
+              3406
+            
+          . 
+
+            <span class="oRef">¤</span>chéimnigther (<span style="color: #ff8000">rel.</span>) <span class="trans">
+            <span class="def">strongly</span> <span class="def">advances</span> (?):</span> 
+            is iat maíne 
+tréncéimnighther do céimniugh ar fer tairce trian, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 
+768
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 551
+          ). <span class="pos vn." style="color: #ff8000">vn.</span> 
+            ar na trencheimniugad as in talmain aird, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 240.5 Comm.
+            
+           
+            <span class="oRef">¤</span>chumtaigid: 
+            toccaibter 
+┐ trén-chumdaighter ... ionad onorach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 234.28
+            
+          . 
+
+            <span class="oRef">¤</span>gaibid: in énlaith | rothréngaib mo nert-sa `<span class="quote">the bird-flock that holds my strength in thrall</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 212.36
+          . 
+<span class="pos vn." style="color: #ff8000">vn.</span> 
+            da thren-gabail
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 200.9
+            
+          . 
+            <span class="oRef">¤</span>gellaid: dóib ra thrén-gell 
+in sessed `<span class="quote">to them was firmly pledged the sixth</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iii 16.184
+          . 
+            <span class="oRef">¤</span>glacaid: cia tír nā ro thrēnglacc trell ? `<span class="quote">what 
+territory did he not stoutly grip awhile</span> ?' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 85 
+§ 34
+          . <span class="pos vn." style="color: #ff8000">vn.</span> 
+            tre corp an tailginn do thadhall, ┐ do trenglacadh
+            , 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 274.28
+            
+          . 
+            <span class="oRef">¤</span>gonaid: 
+            rothrengon cach aroili, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+4517
+            
+          . 
+            <span class="oRef">¤</span>greisid: 
+            rotrengreis a each, 
+              3999
+            
+          . <span class="pos vn." style="color: #ff8000">vn.</span> 
+            ac tren-gresacht caich, 
+              3159
+            
+          . 
+            <span class="oRef">¤</span>indsaigid: 
+            rotrenindsaig tra na 
+catha croda araili, 
+              2820
+            
+          . 
+            <span class="oRef">¤</span>letraid: 
+            co rrotrenletair a 
+sirigh, 
+              3829
+            
+          . 
+            <span class="oRef">¤</span>marbaid: 
+            cur tren-marbh Indolb ar lar an 
+átha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3856
+            
+          . 
+            <span class="oRef">¤</span>tairrngid: ro tréntairrngedh léo an 
+lúitheach sin `<span class="quote">this mighty train was drawn by them</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 
+vi 1980.12
+          .</p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

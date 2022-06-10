@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="41060">tócbáil</h3><span class="citation">Cite this: eDIL s.v. tócbáil or <a class="reference" href="41060">dil.ie/41060</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                tocbál, tucbál, tógbháil, togbháil</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> earlier tocbál, tucbál <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> <span class="pos Vn." style="color: #ff8000">Vn.</span> of Mid. Ir. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-f&#xF3;caib">do-fócaib</a></span>, 
+see 
+        <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 531
+       and 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 526
+      . tógbháil, 
+        togbháil, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs § 108
+        
+      . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tecb&#xE1;l">tecbál</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=turcb&#xE1;l">turcbál</a></span>.</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">act of <span class="def">raising</span>, <span class="def">lifting</span>:</span> 
+          la tócbáil a lámi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8536
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 39
+        ). tindarscan P. a thocbáil súas <span class="ediltr">to lift up</span> (the veil), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 168.21
+        . 
+          ac tocbail a aigchi forsin rig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 51va49
+          
+        . 
+
+          ord fresgabala din, air is ocbail a tocbail ris on grad iseal 
+cusin ngrad n-uasal, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 26.18 Comm.
+          
+         
+          ica tocbail suas 
+don tuind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 139b12
+          
+        . 
+          do gabh se ag tarraing na crann 
+asa premuib ┐ ag togbail na cairrgedh co mór cloch da 
+n-aitibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 2531
+          
+        . 
+          foillsighthear dhí dul dá dtógbháil | trí cuirp do cuireadh i n-uaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> iii 29
+          
+        . 
+          budh 
+séan creach dá céadtógbháil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 85.2
+          
+        . 
+          togbáil 
+(: bogláim) a siúil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs ex. 962
+          
+        . droitced togbala a dul 
+isin cathraigh sin `<span class="trans">
+          <span class="def">drawbridge</span>
+        </span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 284.19
+        . 
+          aderar an 
+coriandrum do togbáil lanna an croicinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/23P10" title="eDIL Bibliography">23 P 10</strong></span>, i 40a13
+          
+        . 
+
+          da mbia in sicne ar na togail suas cuir suil tordoigi ris da 
+turnum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/23F19" title="eDIL Bibliography">23 F 19</strong></span>, 24vb 36
+          
+        . briar .i. delg co tocbail for a 
+cinn .i. bri tulach <span class="trans">
+          <span class="def">handle</span>
+        </span> (Plummer, MS. notes), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 86
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 
+64
+        ). aran tocbala `<span class="trans">
+          <span class="def">kneaded</span> <span class="def">bread</span>
+        </span>' (=<span class="frn ">panis bene subactus</span>), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RosaAngl." title="eDIL Bibliography">Rosa Angl.</strong></span> 114.24
+         (prob. translator understood <span class="frn ">b. subactus</span> as `<span class="trans">
+          <span class="def">well-risen</span>
+        </span>'). Of raising song: 
+          ní dligend cantairecht cōir | do tōcbāil agun altōir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 115 § 27
+          
+        . 
+
+          ri tócbail a gotha do'n t-shacart, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5337
+          
+        . t.<span class="oRef">¤</span> sanaise 
+<span class="trans">
+          <span class="def">revealing</span> of a <span class="def">secret plan</span> made between <span class="def">lord</span> and céle:</span> 
+          togbail 
+sanaisi .i. na flatha dó, ┐ fogail a-ndlesta lan n-eneclaindi 
+don fiaith ro-chograstar and ┐ ar a meid ro bo dith leis a 
+indisin air, laneneclann on cheile indti, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xvi 407.17
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">act of <span class="def">causing</span>, <span class="def">exciting</span>:</span> 
+          fá togbail fergi ┐ fhuasaidi P. 
+... sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1164
+          
+        . 
+          ni heter leisin adhbar urcoideach sin 
+beth a n-aenball amhain gan teinnus do togbail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/23P10" title="eDIL Bibliography">23 P 10</strong></span>, i 26b14
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">c</span>) <span class="trans">act of <span class="def">elevating</span>; <span class="def">exposing</span>, <span class="def">showing</span>:</span> tocbál 
+(a ocbal, Gwynn) 
+          in cailich iarna lándiurug, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 253.3
+          
+        . 
+a toucbail (a thurcbal <span class="lbl">v.l.</span>) in cech bliadain `<span class="quote">that they should 
+be exposed</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 240.1
+        . 
+          oca aurail do neuch fairsiom 
+guidhi dé laisiom ┐ tócbale soscéli fris, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 158.22
+          
+        . 
+
+          Cengciges airdd Machae cen aigi cen tucbail scrine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 
+312.4
+          
+        . 
+          togbhail chuirp Chriosd, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 328.5
+          
+        . 
+
+          tri coicait ban ... do thócbail annochta ┐ annáre dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+1360
+          
+        . togbhail .i. taisbénadh, O'Cl. <span class="lbl">Cf.</span> 
+          gabaitt for togbail 
+a fedhmann catha ┐ a ngniomh gaisgidh os áird, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 
+i 84.7
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">understand</span>
+        </span> (in grammatical tracts; see McKenna, 
+<span><strong class="pop" style="color:blue" href="bibliography/Bard.Synt.Tr." title="eDIL Bibliography">Bard. Synt. Tr.</strong></span> 255 ff.
+        ): ceart sunnradh uathaidh 
+┐ iollraidh re thogbháil orra; lochtach gan togbháil iad 
+`<span class="quote">[the phrase] may be singular or plural, the context should 
+show which</span>,' 
+          256 ex. 13
+        . sunnradh é ┐ iad re thogbáil air 
+`<span class="quote">it may be taken as singular or plural</span>,' 
+          257 ex. 21
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">e</span>) In 
+phr. t.<span class="oRef">¤</span> cind <span class="trans">
+          <span class="def">appearing</span>:</span> 
+          ingen briugad cétaig cáim | ... do 
+thócbáil chind, nirbo chol, | don churaid ina chotlod, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 174.103
+          
+        . 
+          nir lamad cend do tocbail doib noco 
+tancadur da tigib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1348.6
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">f</span>) <span class="trans">act of <span class="def">building</span>:</span> 
+
+          do tocbail droichit, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 134.26
+          
+        . 
+          ar thocbail a mūir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 
+70vb38
+          
+        . 
+          ní cheil maissi dona mnáib | Temair cen taissi 
+ar tócbáil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 6.2
+          
+        . 
+          trī dūin tenna do thōgbāil, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1108
+          
+        . 
+          Croch Naem do tocbail a manestir na Builli, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1312.8
+          
+        . 
+          baile mōr ar n-a thōgbāil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 
+78.z
+          
+        . 
+          caol-tuir chneas-aolta chloch ... do thógbháil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+5608
+          
+        . 
+          a thógbháil a dtrí lá, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Matthew</strong></span> xxvi 61
+          
+        . Used of agent: 
+tocbháil ceall ┐ cadhus <span class="trans">
+          <span class="def">builder</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 192.14
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">g</span>) <span class="trans">act of 
+<span class="def">bringing up</span>, <span class="def">educating</span>:</span> 
+          a chomalta aen tige ... ┐ aen togbala, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 292.10
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">h</span>) <span class="trans">act of <span class="def">extolling</span>, <span class="def">exalting</span>:</span> nipu thacuir 
+tucbál hic `<span class="quote">it were not fitting to extol here</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 221r1
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/KZ" title="eDIL Bibliography">KZ</strong></span> 
+xxxi 245
+        ). 
+          naemseanchas naem Indsi Fail | d'eolchaib is 
+toisc a thocbail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 49va3
+          
+        . 
+          uair as fada atú can mo bladh 
+do thogbail ag togail na Teibi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4062
+          
+        . 
+          toircheas na 
+hóighe is é an fáidh | aice do fhuair a thógbháil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+9.7
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">i</span>) <span class="trans">act of <span class="def">upholding</span>, <span class="def">assisting</span>:</span> 
+          iar ttóccbháil fedb ┐ 
+iriseach Iosa a ngach ionad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 273 § 248
+          
+        . 
+          ro buī ag 
+cothughadh ┐ ag tōgbāil chreidimh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 136.23
+          
+        . 
+          mé 
+gach aonbhocht do b'fhíor dáibh | do bhíodh taobhnocht 
+gan tógbháil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 29.27
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">j</span>) <span class="trans">act of <span class="def">levying</span>:</span> 
+          ic tocbail 
+giall ┐ cana do as cach aird, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 180.7
+          
+        . 
+          cioscháin 
+Laighen ... do toccbáil ┐ do thiomsucchad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 264 § 225
+          
+        . 
+
+          gur chuirsiod a maor ... do thógbháil chíosa ar Sionóideachuibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 336.3
+          
+        . 
+          ma targa giall in fechemun 
+toicheda gella ocus airge uaidh fén don bidhbuid, ocus nir 
+gabadh uadh, acht a tocbhail tairis ..., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 138.12 Comm.
+          
+         
+t.<span class="oRef">¤</span> comloigthe `<span class="quote">Erhebung mit Verrechnung</span>'; t.<span class="oRef">¤</span> marbtha 
+`<span class="quote">Erhebung der Tötung</span>' (<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 80
+        ): 
+          cemadh ail 
+dono do giall in tocbail comloighthi, munup ail do fechemuin toicheda, ni dingnestur acht togbail marbthu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+ii 144.13 Comm.
+          
+         
+          togbail comloigthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 113
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 
+col. 91
+        ). <span class="trans">Of <span class="def">levying</span> <span class="def">troops</span>:</span> 
+          maille re a bfuaradar do 
+thocbáil eli, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 522.3
+          
+        . 
+          do thógbhaile daoine ar Ghaoidheltacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 192.23
+          
+        . 
+          feis na Teamhrach do thogbhail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 80.11
+          
+        . 
+          cocluiche do tocbhauil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 72 § 43.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">k</span>) <span class="trans">act of <span class="def">taking</span>, <span class="def">removing</span>:</span> 
+          nīr thoill līn a tōgbhāla ... i 
+n-a timc[h]eall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 18
+          
+        . 
+          clocha ┐ ael tigi spitel na Trinnoite do tocbail chuce, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1245.3
+          
+        . tógbail ┐ tinfeadh anāla a corpaib daenna <span class="trans">
+          <span class="def">inhalation</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 370.17
+        . 
+
+          tógbháil móir bhfiadhan ar dáil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xviii 23
+          
+        . 
+          do 
+thógbháil fán dtír amach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Review" title="eDIL Bibliography">Ir. Review</strong></span> 1912, 378 § 5
+          
+        . 
+          do 
+thōgbáil <span class="frn ">uisque</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 8.9
+          
+        . 
+          ro buī a uile chios ┐ tighernus 
+dia thōgbāil chuige go Flonndrus, 
+            28.25
+          
+        . 
+          do thogmháil 
+chreach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 196.22
+          
+        . tōgbhail suas ar a mhaoin 
+<span class="ediltr">levy on, recover from his property</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xED;nLae&#xD3;Meall." title="eDIL Bibliography">Cín Lae Ó Meall.</strong></span> 20.22
+        . ar 
+neirghe da narmannuibh ┐ ar tógmháil da ttegmhálibh 
+`<span class="quote">on ... removing their difficulties</span>,' 
+          262.35
+        . antan imdaidter 
+fas an finda ... ┐ nach furtachtaigenn leiges ele do ase a 
+togbáil as ferr <span class="ediltr">remove it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/23P10ii" title="eDIL Bibliography">23 P 10</strong></span>,  ii40.2
+        .</p>
+     
+      <p class="result"> 
+<span class="lbl">Cf.</span> docuir tígerna cugud lá togbail cum comruic `<span class="quote">to choose 
+a day for combat</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 59.21
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

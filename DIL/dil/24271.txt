@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="24271">frecor</h3><span class="citation">Cite this: eDIL s.v. frecor or <a class="reference" href="24271">dil.ie/24271</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                frecor, freccor, frecur, frecru</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span>  <span class="itype o">o</span>, <span class="gen m.">m.</span> <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fris-cuirethar">fris-cuirethar</a></span>. <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        frecor, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 106b12
+        
+      . 
+
+        freccor, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 11b5
+        
+      . <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        frecur, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 43a2
+        
+      , <span class="lbl">etc.</span> <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        frecru, 
+          30d16
+        
+      .</p>
+   
+    
+      <p class="result"> 
+ <span class="edilb">I</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) in the term f.<span class="oRef">¤</span> céill (<span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fris-cuirethar">fris-cuirethar</a></span> céill) <span class="trans">
+            <span class="def">applying</span> one's mind to, <span class="def">attending to</span>, <span class="def">cultivating</span>
+          </span> (for construction 
+<span class="lbl">cf.</span> airmitiu féid and airbert biuth. <span class="lbl">Cf.</span> f.<span class="oRef">¤</span> ceille, H 3.18 , 
+cited below) : f.<span class="oRef">¤</span> ceill no frithgnom (gl. Gk. γυμνασια) 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 106b12
+          . 
+freccor céil ídol (gl. idolorum cultura) 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 11b5
+          . 
+            oc frecur 
+céill Dae, 
+              29d6
+            
+          . fri freccur cheill De. fri frecur ceill Dae 
+ 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 43a2
+          , 
+            79b2
+           (gl. cultus in both cases). 
+            du frecur cheill 
+siu a Dae, 
+              106d3
+            
+          . recht frecoir chéill cruithnechtae (gl. 
+frumentaria lex) 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 35a11
+          . <span class="lbl">cf.</span> isna frecru ceill (gl. ... in 
+cola) 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 30d16
+          . 
+            f.<span class="oRef">¤</span> ceil no trebad in talman, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 968
+            
+          . 
+            f.<span class="oRef">¤</span> 
+ceille in talman dia torad fadesin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 11ay
+            
+           = 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iv 98.15
+          . f.<span class="oRef">¤</span> céill na scor `<span class="quote">to repair the camp</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 1271
+           = 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 407a40
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 2138
+          ; <span class="lbl">cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Dares" title="eDIL Bibliography">Dares</strong></span> xxvii
+          ). 
+            bid oc f.<span class="oRef">¤</span> ceill 
+dia mathair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 344.21
+            
+           (the editor's rendering `<span class="quote">He will 
+be under the care of his mother</span>' is certainly wrong. A 
+possible rendering is : <span class="ediltr">He tends (the land) for his mother</span>, 
+or emending Bid occa f.<span class="oRef">¤</span>
+           <span class="ediltr">His mother attends to him</span>, this 
+seems less likely. The emendation : Bid a ḟ.<span class="oRef">¤</span>
+           suggested 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Aisl.&#xD3;eng." title="eDIL Bibliography">Aisl. Óeng.</strong></span> p. 48
+           is also doubtful. Ó Coileáin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xx 167-68
+          , dismisses the line as a product of the confusion of two originally separate glosses). tirfrecur céill <span class="ediltr">agriculture</span> (dist. from `fiadach') 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 137c1
+          . 
+            at buidig do thorthib in talman cen tír-frecur-ceill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 841
+            
+           (= 
+            frecar tir 
+ceill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 2.21
+            
+          , where the infixing of `tir' is peculiar).</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) hence (with omission of céill ; see Desid. Gloss. <span class="lbl">s.v.</span> 
+freacrughadh) <span class="trans">
+            <span class="def">attending to</span>, <span class="def">cultivating</span>, <span class="def">practising</span>:</span> freacar 
+.i. friotháileamh, O'Cl. freacar .i. fiadhnaisi <span class="lbl">ib.</span> seems meant 
+for freacra (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=frecrae">frecrae</a></span>). 
+            doinenn dermar ... gur tairmisc 
+frecar na talman um na treabthachaibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> iii 460
+            
+          . 
+            a[g] 
+rómhar ┐ ag freacar na talamhan dō, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xvi 94.28
+            
+          . 
+            f.<span class="oRef">¤</span> 
+n-oiged, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 46 § 11
+            
+           = 
+            fognom, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 147b22
+            
+          . gach indstraimint ... do foigeonadh d' esbog do frecur ecluisi Dé 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 252
+          . do bi foirbthe a frecur ecluisi Dé <span class="ediltr">who were 
+perfected in the service</span> ... <span class="lbl">ib.</span> ag f.<span class="oRef">¤</span> ecluisi Torón <span class="ediltr">serving the 
+church of Tours</span> (as bishop) 
+            § 255
+          . ni ro mill a tol frecur 
+a deg[g]nim uimi <span class="ediltr">his passions never injured his practice of 
+good works</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1190
+           (<span class="lbl">cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Phars." title="eDIL Bibliography">Luc. Phars.</strong></span> II 389.391
+          ). 
+            frecar na 
+subailcedh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 2a17
+            
+          . do ḟrecar Sacramuinte : 
+`<span class="quote">of the frequentation of the Sacrament</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/RSCl&#xE1;ra" title="eDIL Bibliography">RSClára</strong></span> 135b
+            
+          . creud 
+iad a chláonta olca ... ┐ an frecar do ní riú `<span class="quote">what exercise 
+he useth against them</span>' 
+            154a0
+          . tir-f.<span class="oRef">¤</span>
+           <span class="trans">
+            <span class="def">tillage</span>:</span> (fig.) t. nime 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 371c35
+           = 
+            sirfrecar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 41
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B512" title="eDIL Bibliography">Rawl. B 512</strong></span> 39a
+            
+          ). 
+<span class="lbl">Cf.</span> 
+            gan tirecor (<span class="lbl">v.l.</span> tireguir) gan trebaire gan ar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+1929
+            
+           where there is possibly a corruption of this.</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">II</span> <span class="trans">Lit. `a putting against,' hence <span class="def">objecting to</span>, <span class="def">impugning</span>, 
+<span class="def">repelling</span>:</span> <span class="lbl">cf.</span> air ropad frecor [frecorp MS] aitherrech 
+forsan oin ainm `<span class="quote">repetition of the same name would have been 
+objectionable</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 131a8
+        . tri fuile ná dlegat f.<span class="oRef">¤</span>
+         `<span class="quote">three bloodsheds that need not be impugned</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 154
+        . freccuir cach 
+domaine (.i. do athchur ass) `<span class="quote">to remove</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 22.11 (34)
+        . 
+in deoraidh frecair (a man for whom his `fine' have renounced responsibility ; expld. as one who is troublesome 
+to the `fine' by his misbehaviour). 
+          deorad freacair .i. 
+nocha n-icann a athair a chinta, 
+            v 236.2 Comm
+          
+        . (on : 
+          fear 
+dobeir fine a freitech), 
+            iii 380z
+          
+        , <span class="lbl">cf.</span> 
+          iv 250.13
+         and 
+          frecur 
+.i. firathchur, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 998
+          
+        . 
+          deora f.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 996
+          
+        . (with 
+subj. gen.) ni tualaing faosam tar freacur fine fear ... 
+fingalach <span class="ediltr">in face of the objections of the fine</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2252
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span> 
+f. 18c
+        ) = 
+          dar fricur f.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 911 
+         (where it is glossed : 
+dar sarugud fine). dar urfogra ┐ freccor in athair [<span class="lbl">sic</span>] 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 
+2290
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. B 506</strong></span>, 27ac.2
+        ) <span class="lbl">cf.</span> 
+          tar urfocra .i. riana denam, 
+┐ f.<span class="oRef">¤</span> .i. iar na denum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1996
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H4.22" title="eDIL Bibliography">H 4.22</strong></span>, 28
+        ). In phr. : i f.<span class="oRef">¤</span> 
+in chatha : dorochratar sochaide mor ... i frecur in chatha 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 115b41
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> viii 56
+        ). 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span>
+           315c10
+        , 
+          387a16
+        . 
+          <span class="frn ">bellum</span> Cuirrich 
+... <span class="frn ">ubi ceciderunt</span> M. ... ┐ D. ... hi frecur `<span class="trans">in <span class="def">mutual</span> <span class="def">combat</span>
+        </span>' (?) 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 781
+        , = in ro marbhadh M. ... ┐ D. ... hi frecar 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 382x
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

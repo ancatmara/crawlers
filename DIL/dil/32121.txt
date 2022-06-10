@@ -1,0 +1,2334 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="32121">mí-</h3><span class="citation">Cite this: eDIL s.v. mí- or <a class="reference" href="32121">dil.ie/32121</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                míochoingiolla, mmíchomlabrai, mignímu, mí-imberta, miarlig, mibésaig, micerdaigh, miceirdighi, míchlodcha, michlothaigfetar, michlothaigthi, míchóirighthe, miochóruighedh, mídúthrastar, mignethi, mi-tn-imret, nómíonoraigeadh, mitomnadar</p></div><div class="col-sm-9 result_content">
+   
+
+
+    <p class="result">pejorative <span class="pos particle" style="color: #ff8000">particle</span>, possibly (as suggested by 
+        <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> 
+ii 10
+      , <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wortk." title="eDIL Bibliography">Wortk.</strong></span> § 9
+      ) orig. a <span style="color: #ff8000">compar.</span> mis `<span class="trans">
+        <span class="def">less</span>
+      </span>', akin to 
+second syll. of Lat. <span class="frn ">nimis</span>, a view supported by the compds. 
+miscais `<span class="ediltr">hatred</span>' (&lt;cais `<span class="ediltr">love</span>'), misimbert (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=m&#xED;imbert">mí-imbert</a></span> 
+below) and perhaps misceird `<span class="ediltr">evil step</span>' (?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 392.
+       In 
+O. and earlier Mid.Ir. always pejorative, often opposed to 
+compds. with caín-; in later lang. often a mere negative. 
+Used in composition with (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=m&#xED;- compds. I">I</a></span>) nouns, (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=m&#xED;- compds. II">II</a></span>) adjs. derived from 
+nouns or participial, (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=m&#xED;- compds. III">III</a></span>) occasionally with vbs.; often used 
+in etymol. glosses, <span class="lbl">e.g.</span> 
+        milliud <span class="frn ">quasi</span> mí-shilliud .i. drochshilliud, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 858.
+        
+       The follg. list is illustrative only.</p>
+  
+   
+
+
+      <p class="result"> 
+<span class="edilb">I</span> Nouns: 
+          <span class="oRef">¤</span>accobar <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">evil</span> <span class="def">desire</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 62.
+         
+          <span class="oRef">¤</span>aided <span class="gen m.">m.</span> 
+<span class="trans">an <span class="def">evil</span> <span class="def">fate</span>, <span class="def">death</span>:</span> 
+          i mi-oidhedh .i. in drochbhas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> i 
+108 n. 6
+          
+        . 
+          <span class="oRef">¤</span>ailges <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">aversion</span>, <span class="def">loathing</span>:</span> 
+          mi-ailgis bīdh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RosaAngl." title="eDIL Bibliography">Rosa Angl.</strong></span> 270.23
+          
+        ; 
+          84.4
+        . 
+          <span class="oRef">¤</span>airde <span class="trans">an <span class="def">evil</span> <span class="def">token</span>:</span> 
+          mi-airdi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 967.
+          
+         
+
+          <span class="oRef">¤</span>airilliud <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">ill</span> <span class="def">desert</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 31c5
+        . 
+          todernama . . . ar a mmi-araltib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2750
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 254.17
+        ). 
+          <span class="oRef">¤</span>airlabra <span class="trans">
+          <span class="def">evil-speaking</span>, 
+<span class="def">bad</span> <span class="def">language</span>:</span> 
+          fer mí-urrlabra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CF" title="eDIL Bibliography">CF</strong></span> 456.
+          
+         
+          <span class="oRef">¤</span>airle <span class="trans">
+          <span class="def">evil</span> <span class="def">counsel</span>
+        </span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 243.
+         
+          tosach mi-arle malarta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 16.22
+          
+        . 
+          la mi-airle an áesa feigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2208.22
+          
+        . 
+          <span class="oRef">¤</span>airlech <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">slaughtering</span>:</span> 
+
+          oc m. a chéile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 1301.
+          
+         
+          <span class="oRef">¤</span>airlégend <span class="gen f.">f.</span> <span class="trans">a <span class="def">bad</span> (<span class="def">false</span>) <span class="def">reading</span>:</span> 
+
+          tria mi-erleginn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 9.312
+          
+        . 
+          <span class="oRef">¤</span>airmisme <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">failing to</span> <span class="def">hit</span> 
+the <span class="def">mark</span>; <span class="def">incoherence</span>:</span> re mi-urmisme briathar (of a drunken 
+man), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 215.21.
+         
+          <span class="oRef">¤</span>altar <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">bad</span> <span class="def">fosterage</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 168.1
+        . 
+
+          cen mialtur, 
+            ii 164.17
+          
+        . 
+          <span class="oRef">¤</span>altram <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">ill</span> <span class="def">nurture</span>:</span> 
+          féth meic mi-altromma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 93.26
+          
+        . 
+          <span class="oRef">¤</span>áradu <span class="trans">
+          <span class="def">evil</span> <span class="def">plight</span>:</span> 
+          mí-aradha, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 305 § 23
+          
+         (= drochdhíol, St.). meiridhin .i. mi-aradha 
+`<span class="trans">
+          <span class="def">mis-disposal</span> (?)</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1269.
+         
+          <span class="oRef">¤</span>aslach <span class="gen n.">n.</span> <span class="case g">g</span>
+        <span class="number s.">s.</span> in mí-aslaig (gl. 
+malae persuasionis), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 28b7
+        . 
+          <span class="oRef">¤</span>bal: 
+          míobhal .i. drochbhail, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         cen meirg ┐ cen m. `<span class="quote">without obscurity</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+150.2 
+        ; 
+          224.24
+        . fo mibail `<span class="trans">
+          <span class="def">ruin</span>
+        </span>', 
+          iv 178.5
+        . cóir . . . sás Murchaidh 
+go míballa `<span class="quote">that M.'s contriving should have unhappy issue</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 69.26
+        . 
+          <span class="oRef">¤</span>bés <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">evil</span> <span class="def">custom</span> or <span class="def">habit</span>:</span> 
+          in m. ┐ in 
+mí-chostud sain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 231b7
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1048
+        ). 
+          don mnai co mmíbés, 
+
+            210a58
+          
+        . 
+          ar iumad . . . a míbes, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 150a57
+          
+        . 
+          ina míbesaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+6949.
+          
+         
+          cosc meirle ┐ mibés, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 1052.3
+          
+        . 
+          <span class="oRef">¤</span>blas <span class="gen m.">m.</span>: fer míblais 
+`<span class="quote">of bad manners</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/CF" title="eDIL Bibliography">CF</strong></span> 456.
+         
+          <span class="oRef">¤</span>bolad <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">evil</span> <span class="def">odour</span>:</span> 
+          do brentaid 
+┐ míboladh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3484.
+          
+         
+          <span class="oRef">¤</span>briathar <span class="gen f.">f.</span>: ro forfacaib-seom na 
+mibriathra-sa dhoibh (<span class="lbl">i.e.</span> <span class="ediltr">curse</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 266b26
+        . 
+          <span class="oRef">¤</span>chádus <span class="gen m.">m.</span> 
+<span class="trans">
+          <span class="def">irreverence</span>, <span class="def">disrespect</span>:</span> 
+          bannaomh dá dtugadar míochádhas, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 865.
+          
+         
+          a tibhraid do micadhus do cellaib ┐ d'ecclusaib, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 127.
+          
+         
+          <span class="oRef">¤</span>chatu <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">disrespect</span>, <span class="def">disesteem</span>:</span> 
+          michatu cuirp, 
+cátu anman, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 371c40
+          
+        . micata ar in olaind `<span class="quote">the wool is undervalued</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 80.24 Comm.
+         
+          ina cataid coir . . . ina michataid, 
+
+            392.21
+          
+        . 
+          <span class="oRef">¤</span>chélmaine <span class="gen n.">n.</span> and <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">evil</span> <span class="def">prediction</span>, <span class="def">augury</span>:</span> 
+          intíí 
+doroine in michelmaine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 153a14
+          
+        . 
+          ro thirchan mor do 
+micelmaine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 63
+          
+         
+          <span><strong class="pop" style="color:blue" href="bibliography/St.MR" title="eDIL Bibliography">St. MR</strong></span> 22.10
+        . 
+          <span class="oRef">¤</span>chenél <span class="gen n.">n.</span> and <span class="gen m.">m.</span>: tre 
+burba is tre mícheinél <span class="ediltr">degeneracy of race</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 9.12
+        . <span class="trans">Med. of wounds referring to <span class="def">festering</span>, turning <span class="def">septic</span> (?)</span>: 
+          ceirin ann so bacas don cneid dul a fedanaib linnidan ┐ a rithe ┐ ar micinel fliuch, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> v 10 § 19
+          
+        . 
+          ar cnedaib teid a michinel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> v 11.4
+          
+        . 
+          <span class="oRef">¤</span>cheol <span class="gen n.">n.</span> and <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">discordant</span> <span class="def">music</span>:</span> 
+          ind miceol ro chansatt, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xiii 6.8
+          
+        . 
+          <span class="oRef">¤</span>chert <span class="trans">
+          <span class="def">wrong</span>:</span> (as pred.) 
+          is m.<span class="oRef">¤</span> in modh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ForusFoc." title="eDIL Bibliography">Forus Foc.</strong></span> 21.
+          
+         
+ní bhfuil Dia micheart <span class="trans">
+          <span class="def">unjust</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 223.11
+        . 
+          <span class="oRef">¤</span>chétfaid 
+<span class="trans">
+          <span class="def">ill-will</span>, <span class="def">grudge</span>:</span> 
+          mícheadfadh na bh Philistíneach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">1 Sam.</strong></span> xxix 
+7
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Jerem.</strong></span> x 10
+        . 
+          <span class="oRef">¤</span>chiall <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">senselessness</span>, <span class="def">folly</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 238 § 12.
+         
+
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5592.
+         ar michēll <span class="trans">
+          <span class="def">wildly</span>, <span class="def">at random</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 362.
+         
+mar nech ar mícéill <span class="ediltr">one out of his senses</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xix 44 § 57.
+         roba 
+mer miceill (of a combat), 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 6010.
+         gan miceill `<span class="trans">
+          <span class="def">ravings</span>
+        </span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RosaAngl." title="eDIL Bibliography">Rosa Angl.</strong></span> 198.5
+        . 
+          <span class="oRef">¤</span>chinnemain <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">evil</span> <span class="def">destiny</span>:</span> 
+          in mhicheinneamain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 34.13
+          
+        . 
+          do bithin michinnemhna d'eirghi 
+do na tigernaigibh, 
+            26.8
+          
+        . 
+          <span class="oRef">¤</span>chiúnas <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">disquiet</span>, <span class="def">trouble</span>:</span> 
+          a 
+míciunass an tsaeghail-se, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 248.
+          
+         
+          ag léiccen an michiúnuis 
+sin cuice, 
+            § 231
+          
+        . 
+          <span class="oRef">¤</span>chlú <span class="gen n.">n.</span> and <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">ill</span> <span class="def">fame</span>, <span class="def">evil</span> <span class="def">report</span>:</span> 
+          ráinig 
+míochlú an uilc sin fá Éirinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 2132.
+          
+         
+          ar miclú . . . ar 
+ndeaghclú, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 181.31
+          
+        . 
+          <span class="oRef">¤</span>cheomna: carthain caemna, 
+miscais míchæmna <span class="ediltr">bad cheer</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 93.26
+        . 
+          <span class="oRef">¤</span>choingell <span class="gen m.">m.</span> 
+<span class="trans">
+          <span class="def">breach</span> of <span class="def">covenant</span>, <span class="def">ill</span> <span class="def">faith</span>:</span> 
+          feall . . . ┐ mícoingeall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 137.1
+          
+        . 
+
+          michoingell do denamh . . . ar mac nD., 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 524.1
+          
+        . 
+          in fer 
+dorinne in míchongill air a thigherna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> iii 600.19
+          
+        . <span class="number pl.">pl.</span> 
+
+          
+            míochoingiolla
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Jerem.</strong></span> xiv 7.
+          
+         
+          <span class="oRef">¤</span>chomairle <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">evil</span> <span class="def">counsel</span>:</span> 
+
+          micomuirle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 120.6
+          
+        . 
+          <span class="oRef">¤</span>chomall <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">non-fulfilment</span> or 
+<span class="def">breach</span> of <span class="def">promise</span>:</span> 
+          do mícomhull . . . a ceneoil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1646.
+          
+         
+
+          tria míchomhall a mbréithre, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1176.15
+          
+        . 
+          <span class="oRef">¤</span>chomlabra <span class="gen f.">f.</span> 
+<span class="number pl.">pl.</span> inna mmíchomlabrai
+         (gl. maleloquia), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 61b26
+        . 
+          <span class="oRef">¤</span>chonách 
+<span class="gen m.">m.</span> <span class="trans">
+          <span class="def">misfortune</span>, <span class="def">ill-luck</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2718.
+        
+      </p>
+     
+      <p class="result">
+        
+          <span class="oRef">¤</span>chor <span class="gen m.">m.</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">a <span class="def">bad</span> <span class="def">throw</span>, 
+a <span class="def">miss</span>:</span> 
+            tarlaic D. . . . don tṡleig míled cen m. | urchur, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 134.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result">(<span class="edilb">b</span>) <span class="trans">legal term, an <span class="def">illegal</span> or <span class="def">invalid</span> <span class="def">contract</span>
+          </span> 
+(distinguished from dochor <span class="ediltr">a disadvantageous contract</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+xiv 373 § 35.
+           ma damut a micuru <span class="ediltr">if they acknowledge their bad 
+contracts</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 286.12
+          .</p>
+      
+     
+      <p class="result">
+        
+          <span class="oRef">¤</span>choscar <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">defeat</span>:</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 170.22
+        . 
+
+          i maidhm míochosccair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 1064.22
+          
+        . 
+          <span class="oRef">¤</span>chostud <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">ill-behaviour</span>, <span class="def">turbulence</span>:</span> 
+          in míbés ┐ in michostud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 231b7
+          
+        . 
+
+          mór an t-anḟeth ┐ in michostadh ro boí 'sin Trói, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 1901.
+          
+         
+
+          ro ghabh for miochostadh mór friss an bhfhilidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 178.
+16
+          
+        . 
+          <span class="oRef">¤</span>chrábad <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">impiety</span>:</span> 
+          lucht míochrabhaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> 
+xxviii 1.
+          
+         
+          <span class="oRef">¤</span>chride <span class="gen n.">n.</span> <span class="trans">an <span class="def">evil</span> <span class="def">heart</span>; <span class="def">rancour</span>:</span> 
+          ni errachtatar lind 
+. . . ferga na michride, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 896.
+          
+         
+          <span class="oRef">¤</span>chuimne <span class="gen f.">f.</span> <span class="trans">an <span class="def">evil</span> <span class="def">recollection</span>:</span> 
+          míchumne spiride, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 88.
+          
+         <span class="trans">
+          <span class="def">Forgetfulness</span>:</span> 
+
+          dermad nó mícuimne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 307.18.
+          
+         
+          <span class="oRef">¤</span>chuit <span class="gen f.">f.</span> <span class="trans">a <span class="def">bad</span> <span class="def">share</span>, 
+an <span class="def">inferior</span> <span class="def">portion</span>:</span> 
+          an mhíochuid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xiii 23.
+          
+         
+          <span class="oRef">¤</span>chuitiugad <span class="gen m.">m.</span>: lucht . . . michuidighthe maithesa <span class="ediltr">opponents of goodness</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1850.2
+        . 
+          <span class="oRef">¤</span>chumtach <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">misconstructing</span>; (fig.) <span class="def">dismaying</span>:</span> 
+          do meath ┐ do michumdach midlach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 230.22
+          
+        . 
+
+          <span class="oRef">¤</span>dé <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">evil</span> <span class="def">smoke</span>:</span> 
+          is mídé dūn in tene-si, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 297
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 7
+        ), 
+<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 44.3
+        . 
+          midhe .i. droichtheine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         
+          <span class="oRef">¤</span>delb <span class="gen f.">f.</span> 
+<span class="trans">
+          <span class="def">ill</span> <span class="def">appearance</span>, <span class="def">ill</span> <span class="def">looks</span>:</span> 
+          rachondaic C. mídelb ┐ míthemel bar 
+Fer D., 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3651.
+          
+         midealb fuirri (= <span class="frn ">male formata est</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 
+473.
+         
+          <span class="oRef">¤</span>dénam <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">evil-doing</span>:</span> 
+          trí mídenum frium, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 71b9
+          
+        . 
+          ar 
+ná dernat mídénom isin tig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 94.
+          
+         <span class="trans">
+          <span class="def">Not doing</span>
+        </span> (= nem-d.): 
+
+          ic denum uilc ┐ ic midenum mathusa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 239a6
+          
+        . <span class="trans">
+          <span class="def">Bad</span> <span class="def">shape</span>, 
+<span class="def">form</span>; <span class="def">ill appearance</span>
+        </span>? 
+          ag cesacht ormsa am mhídheilbh ┐ 
+a[m] midhenamh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 531 n. 1
+          
+        . 
+          <span class="oRef">¤</span>dend <span class="trans">
+          <span class="def">bad</span> <span class="def">colour</span>:</span> 
+          gnúis 
+credhbhás mídhend . . . iar n-éccaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 562.10
+          
+        . 
+          mídhionn 
+.i. droch-lí, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         
+          <span class="oRef">¤</span>derc <span class="gen f.">f.</span> <span class="trans">an <span class="def">evil</span> <span class="def">eye</span> (<span class="def">glance</span>):</span> ni uil cola nā 
+adaltrais nā mídherca <span class="ediltr">lustful glances</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 498b4
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 
+105
+        . 
+          <span class="oRef">¤</span>desimrecht <span class="gen f.">f.</span> <span class="trans">an <span class="def">evil</span> <span class="def">example</span>:</span> 
+          arna rogabthar midesmrecht díb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 30d13
+          
+        . 
+          mídesmerecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 208.9
+          
+        . 
+          <span class="oRef">¤</span>diach <span class="gen f.">f.</span> 
+<span class="trans">
+          <span class="def">evil</span> <span class="def">fate</span>; <span class="def">ill-treatment</span>:</span> 
+          for ar himredh midhiach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 6024.
+          
+         
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 68.12
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1676.14
+        . 
+          milleadh ┐ mídhiach na 
+mainistrech, 
+            vi 1926.9
+          
+        . 
+          mi-dingmaltacht '<span class="quote">unworthiness</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/3B22" title="eDIL Bibliography">3 B 22</strong></span> 109a21
+          
+        . 
+          <span class="oRef">¤</span>dóchus <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">evil</span> <span class="def">anticipations</span>; <span class="def">distrust</span>:</span> 
+an míodhóchas do bhí aige asta <span class="ediltr">the suspicions he had entertained of them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 115.10
+        . co ndechadh se a midóchus 
+air <span class="ediltr">lost faith in him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 297.
+         
+          docuatar a midochus nach 
+fedfidis imtecht, 
+            § 295
+          
+        . comartha midochuis <span class="ediltr">a hopeless sign</span> 
+(of illness), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RosaAngl." title="eDIL Bibliography">Rosa Angl.</strong></span> 276.25
+        . midhocus as trocuire Dia 
+<span class="ediltr">despair of God's mercy</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> i 78.18
+        . 
+          <span class="oRef">¤</span>dóig <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">want</span> of 
+<span class="def">hope</span>, <span class="def">despair</span>:</span> 
+          míodhóigh a méad mo cheana, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxi 10.
+          
+         
+
+          xiv 11
+        . 
+          <span class="oRef">¤</span>dúthracht <span class="gen f.">f.</span> (vn. of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=m&#xED;d&#xFA;thracair">mí-dúthracair</a></span>) <span class="trans">an <span class="def">ill</span> <span class="def">wish</span>; <span class="def">ill will</span>, 
+<span class="def">malevolence</span>:</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 20b12
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 49a18
+        
+        a. <span class="number pl.">pl.</span> inna miduthrachta 
+(gl. male vota), 
+          61b27
+        . 
+          do mídúthrachtaib demnae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> iii 6.
+          
+         
+
+          bai miscais ┐ miduthracht oc cach dia cheile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 177.6
+          
+        . 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 252.
+         
+          <span class="oRef">¤</span>écht <span class="gen m.">m.</span> <span class="trans">a <span class="def">misdeed</span>:</span> 
+          miecht mór, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 33
+          
+         App. 
+
+          <span class="oRef">¤</span>enech <span class="gen n.">n.</span> <span class="trans">
+          <span class="def">dishonour</span>; <span class="def">inhospitality</span>:</span> 
+          ma doronais mo mi-eineach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 78 § 5.
+          
+         
+          muca mieinigh, 
+            62.15
+          
+        , <span class="lbl">cf.</span> 
+          63.2
+        . 
+          <span class="oRef">¤</span>érchlos <span class="trans">
+          <span class="def">evil</span> 
+<span class="def">report</span> (?)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 22b1
+        . 
+          <span class="oRef">¤</span>fácbál <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">leaving</span> (<span class="def">animals</span>) <span class="def">unguarded</span> or <span class="def">in 
+danger</span>?</span> 
+          ar mifagbail (.i. ar in drochfagbail iter conu ┐ gatuide), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 56.19
+          
+        . 
+          <span class="oRef">¤</span>fáilte <span class="gen f.">f.</span> <span class="trans">an <span class="def">ill</span> <span class="def">welcome</span>:</span> 
+          ferait mifáelti fris, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+1391.
+          
+         
+          <span class="oRef">¤</span>fiach <span class="gen m.">m.</span>: mífíacha .i. fiach brégi <span class="ediltr">fictitious debts</span> (?), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 941.
+         
+          <span class="oRef">¤</span>fis <span class="trans">
+          <span class="def">mistake</span>, <span class="def">delusion</span>:</span> 
+          ba m. .i. ba hanfis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 
+51
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 466
+        ). 
+          <span class="oRef">¤</span>focal <span class="gen m.">m.</span> <span class="trans">an <span class="def">evil</span> <span class="def">word</span>:</span> 
+          mifocul mna di araile, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 146.32
+          
+        . 
+          atmait meicc mifhoccuil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 17.15
+          
+         (? <span class="case n">n</span>
+        <span class="number p.">p.</span>). 
+<span class="trans">A <span class="def">word</span> of <span class="def">ill</span> <span class="def">omen</span>:</span> 
+          is mifocal dūn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1018 (p. 88.17)
+          
+        . 
+As quasi-<span class="pos vn." style="color: #ff8000">vn.</span>: 
+          bator na druid ic m.<span class="oRef">¤</span> ┐ ic micelmaine dó, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxi 154.
+          
+         
+          <span class="oRef">¤</span>foclad <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">evil</span> <span class="def">speaking</span>, <span class="def">bad</span> <span class="def">news</span>:</span> 
+          dobreth a 
+mifhoclad do Ch., 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 119a16
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 175
+        ). <span class="trans">
+          <span class="def">Reviling</span>:</span> 
+          feccaid 
+in fili fora mifoclad in gilla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 127a39
+          
+        . <span class="trans">Of <span class="def">prophesying</span> <span class="def">evil</span>
+        </span>: 
+          ro-bātor trā na druīd ic mīfhocladh ┐ ic mīchēlmaine '<span class="quote">the druids were prophesying evil and uttering ill-omens</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDC" title="eDIL Bibliography">BDC</strong></span> 106.48
+          
+        . 
+          gabais for mīchēlmoine dint slúag ┐ for mīfhoclad '<span class="quote">began prophesying evil to the host and uttering ill omens</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDC" title="eDIL Bibliography">BDC</strong></span> 118.239
+          
+        . 
+          <span class="oRef">¤</span>folad <span class="gen m.">m.</span> <span class="trans">an <span class="def">illegal</span> or <span class="def">unjust</span> <span class="def">proceeding</span> (Laws):</span> 
+mana tairiset a mignima nach a mifolaid `<span class="trans">
+          <span class="def">disqualifications</span>
+        </span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 328.12
+         (`<span class="quote">widerrechtliches Gehaben</span>', Thurn. 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 389 
+§ 55
+        ). cadead mifolai[dh] daortha eclasa? Nī. beth gan 
+bathais, cin comna, <span class="lbl">etc.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/NeroA.vii" title="eDIL Bibliography">Nero A vii</strong></span> fo. 133a
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2190
+        ). 
+<span class="trans">Hence in general a <span class="def">wrong</span>, <span class="def">grievance</span> (generally in <span class="number pl.">pl.</span>):</span> a 
+mífholtae <span class="ediltr">his misdeeds</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 62 § 24
+        ; '<span class="quote">failure on his part to discharge his obligations</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Peritia" title="eDIL Bibliography">Peritia</strong></span> v 149
+        . do mifoltæ (.i. do 
+mignim), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 173.15
+        , <span class="lbl">cf.</span> 
+          174.15
+        . bá mór a mhioḟolta 
+somh fri Cenel C. <span class="ediltr">his grievances against</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1930.7
+        . 
+          ro-chuimnigh a mhifolta fodhein fri Gallaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> fo. 16a
+          
+        . 
+
+          <span class="oRef">¤</span>fortacht <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">bad help</span>, a <span class="def">hindrance</span>:</span> 
+          ni furtacht . . . acht is 
+mifurtacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4665.
+          
+         
+          <span class="oRef">¤</span>gairm <span class="gen n.">n.</span>: dá mígairm míthocaid `<span class="quote">two 
+ominous cries of ill luck</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 124.
+         
+          <span class="oRef">¤</span>gaisced <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">cowardice</span>:</span> 
+
+          ni ḟetamar . . . comairli mettachta nā mígascid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 264b1
+          
+         = 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/MU" title="eDIL Bibliography">MU</strong></span> 18.18
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 232.16
+        . 
+          <span class="oRef">¤</span>gné <span class="gen n.">n.</span> and <span class="gen f.">f.</span>: dorat m. d'ar menmain <span class="ediltr">an evil mood</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 44.
+         co m. moir fair <span class="ediltr">in sorry 
+plight</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 44.22
+        . 
+          <span class="oRef">¤</span>gním <span class="gen m.">m.</span> <span class="trans">an <span class="def">evil</span> <span class="def">deed</span>, <span class="def">misdeed</span>:</span> <span class="case a">a</span>
+        <span class="number p.">p.</span> inna 
+mignímu
+         (gl. malefacta), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 138b5
+        . slán cach mairnes mignímu 
+<span class="ediltr">who informs of misdeeds</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1272.
+         
+          dilig dam mo mígnima, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7816.
+          
+         
+          nos-millet ina mígnimaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 29.
+          
+         dorinne míghníomh re n-a giolla féin <span class="ediltr">misconducted herself</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 158 z
+        . 
+
+          <span class="oRef">¤</span>gnóe <span class="trans">
+          <span class="def">ill</span> <span class="def">favour</span>, <span class="def">dislike</span>?</span> 
+          buidhne Bretan gan míognáoi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+214 § 84.
+          
+         diomdha is míoghnaoi fear bhfuinidh `<span class="trans">
+          <span class="def">disfavour</span>
+        </span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xvi 195.1
+        . 
+          <span class="oRef">¤</span>grád <span class="gen n.">n.</span> <span class="trans">
+          <span class="def">dislike</span>, <span class="def">aversion</span>:</span> 
+          cen mígrad fri 
+nech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 261b14
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2462.2
+        . 
+          <span class="oRef">¤</span>grád <span class="gen n.">n.</span> <span class="trans">
+          <span class="def">low</span> <span class="def">rank</span> or <span class="def">status</span>:</span> 
+
+          migradh for aes ndaer . . . ┐ daeini saera ina cataid coir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+v 392.23 Comm.
+          
+         
+          <span class="oRef">¤</span>iartaige <span class="trans">
+          <span class="def">evil</span> <span class="def">result</span>, <span class="def">consequences</span>:</span> etir fhognam ┐ m. (<span class="lbl">i.e.</span> serving false gods and the ill results thereof), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 907.
+        
+      </p>
+     
+       
+
+
+        <p class="result">
+          
+            <span class="oRef">¤</span>imbert <span class="gen f.">f.</span> (<span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=m&#xED;imbeir">mí-imbeir</a></span>)</p>
+       
+        
+          <p class="result">(<span class="edilb">a</span>) <span class="trans">
+              <span class="def">playing false</span>, 
+<span class="def">deceiving</span>:</span> issi in m. asbeir (gl. imperitos decipiunt), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 17c6
+            . 
+do mí-imbirt, gl. ad decipiendum, 
+              32a8
+            . 
+              ho mí-imbirt .i. ho 
+thogais, 
+                38a13
+              
+            . 
+              do mi-imbirt críde na ṅdoíne n-amairsech, 
+
+                <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1853.
+              
+            
+          </p>
+        
+       
+        
+          <p class="result">(<span class="edilb">b</span>) <span class="trans">
+              <span class="def">maltreating</span>, <span class="def">injuring</span>:</span> 
+              in mí-imeirt dorónad ann 
+.i. mac rige nime do crochad, 
+                <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3311.
+              
+             <span class="case g">g</span>
+            <span class="number s.">s.</span> (as <span class="gen masc.">masc.</span>) adaig in 
+mí-imberta móir (<span class="lbl">i.e.</span> the Crucifixion), 
+              <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 142a24
+            . 
+              fear millte 
+┐ mi-imbeartha Gall, 
+                <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 914.5
+              
+            . 
+              lá faicsin na mi-imberta 
+dobretha for a corp, 
+                vi 2372.3
+              
+            . <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=misimbert">misimbert</a></span>.</p>
+        
+      
+     
+      <p class="result">
+        
+          <span class="oRef">¤</span>imrádud <span class="gen m.">m.</span> 
+<span class="trans">
+          <span class="def">evil</span> <span class="def">meditation</span>, <span class="def">ill thoughts</span>:</span> 
+          in mí-imradud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 79a5
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 62.
+         
+          min-choibsena do mí-imratib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RuleofTallaght" title="eDIL Bibliography">Rule of Tallaght</strong></span> § 16.
+          
+         
+
+          <span class="oRef">¤</span>indithem <span class="trans">
+          <span class="def">evil</span> <span class="def">intent</span>:</span> 
+          a mí-innithim for araile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 255.
+          
+         
+          an 
+mí-innethem baoi oca suidhe doib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> i 236.9
+          
+        . 
+          <span class="oRef">¤</span>laechas 
+<span class="gen m.">m.</span> <span class="trans">
+          <span class="def">unwarlike</span> <span class="def">behaviour</span>, <span class="def">cowardice</span>:</span> 
+          milaochas do dhenamh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+3160
+          
+         St. 
+          nir bhó bás íar mílaochas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 426.12
+          
+        . 
+          <span class="oRef">¤</span>laechdacht 
+<span class="gen f.">f.</span> <span class="lbl">id.</span> 
+          milaochdacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3157
+          
+         (St.). 
+          mílaechacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 135 
+n. 11
+          
+        . 
+          <span class="oRef">¤</span>lepaid <span class="gen f.">f.</span>: <span class="case g">g</span>
+        <span class="number s.">s.</span> (as attrib.) míleptha `<span class="trans">
+          <span class="def">bedless</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+1150.
+         
+          <span class="oRef">¤</span>lind <span class="gen f.">f.</span> ? <span class="case g">g</span>
+        <span class="number s.">s.</span> (as attrib.) co fúair mandir mílinde <span class="ediltr">met the 
+ring of battle in evil hour</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 276.4
+        . 
+          <span class="oRef">¤</span>maise <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">disfigurement</span>:</span> mimaisi (gl. dedecor), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 1103.
+         dobudh mo a 
+maisi dhó inā mhímhaisi <span class="ediltr">it was more of a beauty than a disfigurement to him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 285.22
+        . 
+          <span class="oRef">¤</span>mana <span class="trans">an <span class="def">evil</span> <span class="def">omen</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> i 86.22
+        . 
+          <span class="oRef">¤</span>méin (
+          <span class="oRef">¤</span>mian) <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">evil</span> <span class="def">desire</span>, <span class="def">disposition</span>:</span> cumann 
+míméine <span class="ediltr">an illicit attachment</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 4977.
+         
+          ar mhothughadh 
+a mhimhéine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2110.
+          
+         <span class="trans">
+          <span class="def">Dejection</span> (?)</span>: 
+          an mhímhéin ar m'aire, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xlvii 14.
+          
+         
+          <span class="oRef">¤</span>meisnech <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">discouragement</span>:</span> 
+          meatacht 
+┐ mímheisnech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 2858.
+          
+         
+          adhbhar mímheisnigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+8519.
+          
+         
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Deuter.</strong></span> i 21.
+         
+          <span class="oRef">¤</span>menma <span class="trans">
+          <span class="def">dejection</span>:</span> 
+          as é sin . . . do 
+mhédaigh mo mhímhenma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 198.619
+          
+        . 
+          re hegla ┐ mimenmoin mhoir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aisl.Tund." title="eDIL Bibliography">Aisl. Tond.</strong></span> 122.2
+          
+        . 
+          <span class="oRef">¤</span>mes <span class="trans">
+          <span class="def">misjudgement</span>, <span class="def">mistake</span>:</span> 
+
+          co finnamar cen m., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 34.21
+          
+        . 
+          asbert an ben . . . ni bo 
+mimes, a ainm dileas for cach, 
+            i 62 § 100
+          
+        . <span class="trans">
+          <span class="def">Disesteem</span>, <span class="def">disrepute</span>:</span> 
+
+          gairm cen m., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 2.
+          
+         Dóach Móelchend mímis `<span class="trans">of 
+<span class="def">ill fame</span>
+        </span>', 
+          302
+        . dochóidh an ghabhail sin . . . a m. ┐ a míonóir 
+do Dhiarmait <span class="ediltr">brought loss of esteem and honour to D.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 
+2174.3
+        . ní mímheas ar máthair nDé | gan mé im bráthair 
+dhíleas dí <span class="ediltr">no reproach to</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 52 § 5.
+         atá se . . . ar n-a 
+mhímheas ag na daoinibh <span class="ediltr">rejected of men</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Isaiah</strong></span> liii 3.
+         
+          <span class="oRef">¤</span>mír <span class="gen n.">n.</span> 
+<span class="trans">a <span class="def">bad</span> or <span class="def">dangerous</span> <span class="def">morsel</span> (<i>of food</i>):</span> 
+          mimir do cor do coin (.i. da 
+promad . . . .i. froma uptha), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 176.4
+          
+        , 
+          180
+        . 
+          <span class="oRef">¤</span>mod <span class="trans">
+          <span class="def">dishonour</span>, <span class="def">reproach</span>:</span> 
+          go tuc sé mímogh ┐ scandail mor dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 
+§ 122.
+          
+         
+          ar fhuilingis . . . do mhasla ┐ mhímhodh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 
+45.15
+          
+        . 
+          <span class="oRef">¤</span>muinteras <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">unfriendliness</span>, <span class="def">hostility</span>:</span> 
+          mothucchadh 
+míomhuinnterais ┐ airrdhe essaonta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2096.9
+          
+        . 
+          <span class="oRef">¤</span>náire <span class="gen f.">f.</span> 
+<span class="trans">
+          <span class="def">shamelessness</span>:</span> 
+          fri mnai mir co mínaire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 386a49
+          
+        . 
+          <span class="oRef">¤</span>nert <span class="gen m.">m.</span> 
+<span class="trans">
+          <span class="def">debility</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 504.36.
+         
+          <span class="oRef">¤</span>óg <span class="gen f.">f.</span> <span class="trans">an <span class="def">unchaste</span> <span class="def">woman</span>:</span> 
+          'na mío-óigh mhnaoi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1310.
+          
+         
+          <span class="oRef">¤</span>onóir <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">dishonour</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 
+vi 2174.3
+        . 
+          an mhioghonoir donither d'a n-iomhaighthibh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 215.7
+          
+        . 
+          <span class="oRef">¤</span>phairt <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">disfavour</span>, <span class="def">dislike</span>:</span> ge tām ag tuar 
+do miphairte <span class="ediltr">in danger of incurring thy disfavour</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 
+383.24
+         = ag túr do mhíopháirte `<span class="quote">profiting by thy foes</span>' (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xvi 7.
+         
+          <span class="oRef">¤</span>rand <span class="gen f.">f.</span> <span class="trans">a <span class="def">bad</span> <span class="def">share</span>; an <span class="def">evil lot</span> (?):</span> 
+          dom mac . . . bias 
+for miroind meraighthi eter drongu derbhfhine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 386b3
+          
+        . 
+
+          <span class="oRef">¤</span>rath <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">bad luck</span>, <span class="def">ill fortune</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 13.17
+        . 
+          ar derchaine ar 
+mirath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 360
+          
+         <span class="lbl">marg. sin.</span> 
+          mac míraith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1884.
+          
+         
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 
+300.10
+        . 
+          gorta mór . . . is iomad míoratha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 3724.
+          
+         
+
+          <span class="oRef">¤</span>riagail <span class="gen f.">f.</span> <span class="trans">a <span class="def">breach</span> of <span class="def">rule</span>, <span class="def">transgression</span>:</span> 
+          miriaghuil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> 
+xix 11.
+          
+         
+          <span class="oRef">¤</span>rian <span class="trans">an <span class="def">evil</span> <span class="def">course</span>:</span> 
+          ba chóir . . . nár mhian leat mo 
+mhírian, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> vi 184.8
+          
+        . 
+          <span class="oRef">¤</span>riar <span class="gen f.">f.</span> (later 
+          <span class="oRef">¤</span>réir) <span class="trans">
+          <span class="def">disobeying</span>, <span class="def">not complying with</span> (<i>the wishes of</i>)</span>, with obj. gen.: 
+          is mairg duit mo 
+mhíriar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> vi 186.12
+          
+        . muna ndearnaid mo mhíréir-si <span class="ediltr">if they 
+do not disobey me</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xvi 82.20
+        . 
+          míréir Chiaráin do dhéanamh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 833.
+          
+         gan míréir do neach <span class="ediltr">without opposing any one</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xl 29.
+         
+          <span class="oRef">¤</span>rogu <span class="trans">an <span class="def">evil</span> <span class="def">choice</span>:</span> 
+          is míraghu a denamh 
+anocht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 551.27
+          
+        .</p>
+     
+      <p class="result">
+        
+          <span class="oRef">¤</span>rún <span class="gen m.">m.</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">an <span class="def">evil</span>
+            <span class="def"> secret</span>, <span class="def">mystery</span>?</span> 
+topur . . . asa maided cech m. `<span class="quote">every kind of mysterious evil</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 28.
+           a chartad . . . ind eich móir cosin m. `<span class="quote">the 
+great horse of magic power</span>', 
+            iv 66
+          .</p>
+      
+     
+      
+        <p class="result">(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">evil</span> <span class="def">intent</span>; <span class="def">ill</span> <span class="def">will</span>, <span class="def">malice</span>:</span> 
+
+            ba forréil m. ┐ miscais forru, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 244a8
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 2023
+          ). 
+            do mhair 
+miorún an righ do Maodhócc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 225 § 123.
+            
+           ro mothaigius 
+a mírún umum <span class="ediltr">their ill will to me</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 209.12
+          . 
+            ag meabhrughadh míorúin ┐ mailíse, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3042.
+            
+          
+        </p>
+      
+     
+      <p class="result">
+        
+          <span class="oRef">¤</span>scél <span class="gen n.">n.</span> and <span class="gen m.">m.</span> 
+<span class="trans">an <span class="def">evil</span> <span class="def">report</span>; <span class="def">bad tidings</span>:</span> in lucht tuc in miscel leo (of the ten 
+spies), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 123b24
+        . mifocul ┐ misgel (= <span class="ediltr">calumny</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 56.3 
+Comm.
+         athgabail fir misciu[i]l `<span class="quote">a man by whom a calumnious 
+story has been circulated</span>', 
+          194.22
+        . iar n-indill in mísceóil <span class="ediltr">after 
+telling the evil news</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 474.34
+        . 
+          iar mísceol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 52.8
+          
+        . 
+
+          <span class="oRef">¤</span>scíam <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">ugliness</span>:</span> 
+          ar bhfaicsin mísgéimh na mná, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> vi 90.
+          
+         
+
+          <span class="oRef">¤</span>scribend <span class="trans">
+          <span class="def">bad</span> <span class="def">writing</span>, <span class="def">mistakes</span> in writing or copying?</span> 
+          míscribend do gne eolais | do lucht uilc in aneolais | nó lucht ind 
+eolais ní ferr | gníit ar múin miscribend, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 144a28
+          
+        . mo 
+dhamh [= dhú] míscribinn `<span class="quote">the place in which I scribble</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 120.6
+         (scribe's note). 
+          <span class="oRef">¤</span>shén <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">ill-luck</span>:</span> 
+          ar uair mishein, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> i 79.28
+          
+        . 
+          <span class="oRef">¤</span>spéis <span class="gen f.">f.</span>: is mor mo mīsbēis <span class="trans">
+          <span class="def">dejection</span> (?)</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 230 § 14.
+         
+          <span class="oRef">¤</span>stuaim <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">want</span> of <span class="def">sense</span>, <span class="def">ability</span>:</span> ma dorindetar misdúaim `<span class="quote">if they had acted imprudently</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 220.
+         
+
+          is eslainte ┐ as misduaim an arrsaidhecht, 
+            § 67
+          
+        . 
+          <span class="oRef">¤</span>thaeb <span class="trans">
+          <span class="def">mistrust</span>
+        </span>: 
+          tug siad dōthchas ar mhī[o]thaobh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 109 § 9
+          
+        . 
+          <span class="oRef">¤</span>thaem <span class="gen m.">m.</span> 
+<span class="trans">an <span class="def">evil fit</span>, <span class="def">paroxysm</span>, <span class="def">turn</span>:</span> feall ┐ meabal ┐ mítháem do denum 
+air `<span class="trans">
+          <span class="def">guile</span>' (?)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 70.5
+        . 
+          fóir mo mhíothaoma!, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxxi 7
+          
+        . 
+          i muirt na míothaom ┐ na mór-olc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+6637.
+          
+         
+          crádh liom do gheimhliughadh daor | 's gan tadhall 
+dhuit ar mhíthaom, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 567.18
+          
+        . 
+          <span class="oRef">¤</span>thaitnem <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">displeasure</span>:</span> 
+          míothaithnemh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> p. 40 § 172.
+          
+         
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Psalms</strong></span> vi 1.
+         
+          eagla 
+na feirge . . . ┐ an miothaitnidh [<span class="lbl">sic</span>] móir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Deuter.</strong></span> ix 19.
+          
+         
+
+          <span class="oRef">¤</span>thapad <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">mishap</span>, <span class="def">accident</span>:</span> 
+          tre dhrochfhortúin nó míothapadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 288.4
+          
+        . 
+          duine do mharbhadh dhuine oile le 
+míothapad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 104.13
+          
+        . 
+          <span class="oRef">¤</span>theist <span class="gen f.">f.</span>, <span class="trans">
+          <span class="def">ill-repute</span>:</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 314.19
+        . 
+
+          drochbhaladh mítheasta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1732.
+          
+         <span class="number pl.">pl.</span> 
+          a mítheasta . . . i 
+mbéalaibh na druinge, 
+            9530
+          
+        . 
+          <span class="oRef">¤</span>themel <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">gloom</span>:</span> 
+          rachondairc 
+C. m. mór bar Fer D., 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3651.
+          
+         
+          <span class="oRef">¤</span>thocad <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">misfortune</span>, <span class="def">ill 
+luck</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 109.
+         
+          <span class="oRef">¤</span>thoimtiu <span class="gen f.">f.</span> <span class="trans">a <span class="def">false</span> <span class="def">opinion</span>:</span> 
+          ni mithoimtiu 
+dúib-si, is fírbriathar Dé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 24d22
+          
+        . <span class="trans">
+          <span class="def">Suspicion</span>:</span> 
+          ro ghabhsat 
+Goill miothoimhdin mhóir don Iarla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1858.5
+          
+        . mithoimhdin do thabhairt dó <span class="ediltr">to suspect him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> f. 14a
+          
+        . 
+          <span class="oRef">¤</span>thol <span class="gen f.">f.</span> 
+<span class="trans">
+          <span class="def">evil</span> <span class="def">will</span> or <span class="def">inclination</span>:</span> <span class="case g">g</span>
+        <span class="number s.">s.</span> inna mmithule (gl. malae voluntatis), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 33d3
+        . 
+          gresacht . . . elscot[h]achda ┐ mitholi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 871.
+          
+         
+
+          toil a chuirp ga sirdenam | ┐ mithoil na hanma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 41
+          
+         <span class="lbl">marg. 
+inf.</span> <span class="trans">
+          <span class="def">Unwillingness</span>:</span> do mhithoil righ Sassan <span class="ediltr">against the will of</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/JRSAI" title="eDIL Bibliography">JRSAI</strong></span> ii 336.31
+        . 
+          <span class="oRef">¤</span>thorad <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">evil</span> <span class="def">fruit</span>:</span> 
+          crann cain 
+co mithorud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 267 § 2.
+          
+         
+          <span class="oRef">¤</span>thorbae <span class="trans">
+          <span class="def">ill-profit</span>, <span class="def">unprofitableness</span>:</span> 
+          is mitharba lend cach main . . . it' ingnais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 400 
+§ 4
+          
+        . 
+          teid sin a ndimhaoiness ┐ a mitharba, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 24.3
+          
+        . 
+
+          <span class="oRef">¤</span>thormach <span class="trans">
+          <span class="def">decrease</span>:</span> gl. incrementum (misunderstood as = 
+<span class="frn ">decrementum</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 756.
+         
+          <span class="oRef">¤</span>thrócaire <span class="gen f.">f.</span> <span class="trans">
+          <span class="def">mercilessness</span>:</span> 
+          an 
+mhíothrócaire ┐ an cruadháil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4392.
+          
+         
+          lucht na míthrócaire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 138.
+          
+         
+          <span class="oRef">¤</span>thurus (&lt;tururas?) <span class="trans">an <span class="def">evil</span> <span class="def">foreboding</span> or 
+<span class="def">omen</span>:</span> 
+          bui gráin mór foraib . . . ┐ míthauraras, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 63
+          
+         
+(= mithaurassa, YBL, miturusa, Eg.). 
+          batár iarsain na 
+mithaurússa (.i. drochmenmand) imómna foraib, 
+            § 36
+          
+        . 
+          bátar 
+míthurussa imda fair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 84.
+          
+         
+          batar mithurusa ┐ dorchraiti 
+. . . occo, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 180b1
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 253.5
+        . 
+          miturusa móra ┐ airrdhe 
+aighthidhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4772.
+          
+         
+          míothurusa .i. drochfhaistine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         
+<span class="lbl">Cf.</span> comthururas (gl. incursus), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 56a22
+        , 
+          24
+        . </p>
+    
+  
+   
+
+
+      <p class="result"> 
+<span class="edilb">II</span> Adjs. (chiefly those formed from nouns): 
+          <span class="oRef">¤</span>accobrach 
+<span class="trans">
+          <span class="def">having</span> <span class="def">evil</span> <span class="def">desires</span>:</span> 
+          in míocoburach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 87.
+          
+         
+          <span class="oRef">¤</span>adbal: ingen magrúin míadbail `<span class="quote">of evil power</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 136.32
+        .</p>
+    
+     
+
+
+        <p class="result"> 
+            <span class="oRef">¤</span>airlech 
+<span class="trans">
+            <span class="def">giving</span> <span class="def">evil</span> <span class="def">counsels</span> (? <span class="def">ill-advised</span>):</span> <span class="case a">a</span>
+          <span class="number s">s</span>
+          <span class="gen f.">f.</span> 
+            ni thuca in miarlig 
+míepertaig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 346a17
+            
+          .</p>
+      
+     
+      <p class="result">
+        
+          <span class="oRef">¤</span>bésach <span class="trans">of <span class="def">evil</span> <span class="def">behaviour</span>:</span> <span class="case a">a</span>
+        <span class="number s">s</span>
+        <span class="gen f.">f.</span> 
+          ni thuca 
+in lithig mibésaig
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 113.2
+          
+        . 
+          meirligh mibhésacha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 
+v 168.16
+          
+        . 
+          do pecthaibh míbhésacha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> i 83.15
+          
+        . 
+
+          <span class="oRef">¤</span>bladach <span class="trans">of <span class="def">ill fame</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 298.25
+        . 
+          <span class="oRef">¤</span>briathrach <span class="trans">
+          <span class="def">scurrilous</span>:</span> 
+
+          do mnai meblaig míbriathraig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2235
+          
+        . 
+          <span class="oRef">¤</span>cherdach <span class="trans">
+          <span class="def">plying</span> 
+an <span class="def">evil</span> <span class="def">trade</span> or <span class="def">calling</span>:</span> <span class="case v">v</span>
+        <span class="number s">s</span>
+        <span class="gen m.">m.</span> a muidh micerdaigh
+         <span class="ediltr">base hireling</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 282.11
+        . <span class="case g">g</span>
+        <span class="number s">s</span>
+        <span class="gen f.">f.</span> 
+          do mian na merdrighi miceirdighi
+          , 
+            276.19
+          
+        . 
+
+          <span class="oRef">¤</span>chétfadach: in duine . . . bhiss míchédfadach da dhedoibrightibh <span class="trans">
+          <span class="def">unconscious of</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> i 78.7
+        . 
+          <span class="oRef">¤</span>chiallmar <span class="trans">not in one's 
+<span class="def">proper senses</span>:</span> 
+          co mbat mesca miciallmair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 255a45
+          
+        . 
+          <span class="oRef">¤</span>chlothach <span class="trans">
+          <span class="def">infamous</span>:</span> <span class="case a">a</span>
+        <span class="number p">p</span>
+        <span class="gen f.">f.</span> 
+          míchlodcha
+         (gl. nefarias), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 134b4
+        . 
+
+          <span class="oRef">¤</span>chlúach <span class="trans">
+          <span class="def">ill-famed</span>:</span> 
+          sech cairrgib michluacha Sciroin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+255
+          
+        . 
+          <span class="oRef">¤</span>chlúmar <span class="lbl">id.</span>: miclemar [<span class="lbl">sic</span>], gl. difamosus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 656.
+         
+<span class="lbl">Cf.</span> 
+          míochlúiteach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Ezekiel</strong></span> xxxvi 3.
+          
+         
+          <span class="oRef">¤</span>choingellach: Israel 
+míochoingiollach <span class="trans">
+          <span class="def">backsliding</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Jerem.</strong></span> iii 6.
+         
+          <span class="oRef">¤</span>chomairlech: 
+Média m. <span class="ediltr">full of evil counsels</span> (? <span class="ediltr">designs</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 220b48
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 
+275.
+         
+          <span class="oRef">¤</span>chorach: is foglaid selba cach micorach `<span class="quote">he . . . who 
+makes a bad contract</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 202.4
+        . 
+          do cinn cach meamuir 
+micoruigh, 
+            ii 290.21
+          
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 950.
+         
+          <span class="oRef">¤</span>chráibtech <span class="trans">
+          <span class="def">impious</span>
+        </span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 338 § 2.
+         
+          <span class="oRef">¤</span>chreitmech <span class="trans">
+          <span class="def">unbelieving</span>, <span class="def">infidel</span>:</span> 
+          go ttiocfattis 
+mórán dona míchreidmechaib dochum creidme, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 232 
+§ 145
+          
+        . 
+          go hainffesach michreidmeach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 112.30
+          
+        . 
+
+          <span class="oRef">¤</span>chruthaigthe <span class="trans">
+          <span class="def">misshapen</span>:</span> gl. informis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 5a7
+        . 
+          <span class="oRef">¤</span>chuimnech 
+<span class="trans">
+          <span class="def">forgetful</span>:</span> micuimneach, gl. immemor, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 1111.
+         
+          <span class="oRef">¤</span>chumachtach: denaib michumachtgib, gl. male potentibus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+29a9
+        . 
+          <span class="oRef">¤</span>dánach (dán `destiny') <span class="trans">
+          <span class="def">ill-fated</span>, <span class="def">unlucky</span>:</span> 
+          gus in Mairt 
+mallachtaig midhánaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 110.17
+          
+        . 
+          <span class="oRef">¤</span>demonnach <span class="trans">
+          <span class="def">devilish</span>:</span> 
+          
+Pluton mebhlach midhæmunnach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 180.21
+          
+        . 
+          <span class="oRef">¤</span>dingbála 
+(<span class="case g">g</span>
+        <span class="number s.">s.</span> as <span class="pos adj." style="color: #ff8000">adj.</span>) <span class="trans">
+          <span class="def">unworthy</span>:</span> midingbala, gl. indignus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 669.
+         
+
+          me . . . am' serbfhogantaid midhingbala, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 65.
+          
+         
+          <span class="oRef">¤</span>dóchusach <span class="trans">
+          <span class="def">hopeless</span>, <span class="def">despairing</span>:</span> 
+          midhochusach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 134.22
+          
+        . 
+
+          <span class="oRef">¤</span>échtach <span class="trans">
+          <span class="def">incapable of</span> <span class="def">brave</span> <span class="def">exploits</span>:</span> 
+          bid . . . meirtnech . . . 
+miechtach bethir for fúait na Greci, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 234a36
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1279.
+         
+
+          <span class="oRef">¤</span>epertach <span class="trans">
+          <span class="def">given to</span> <span class="def">evil</span> <span class="def">speaking</span>
+        </span>? see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=m&#xED;airlech">mí-airlech</a></span> above. 
+          <span class="oRef">¤</span>ḟoclach 
+<span class="trans">
+          <span class="def">foul-mouthed</span>, <span class="def">scurrilous</span>:</span> 
+          eachlach mifoclach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 177a37
+          
+        . 
+
+          <span class="oRef">¤</span>ḟoltach <span class="trans">
+          <span class="def">wanting</span> <span class="def">proper</span> <span class="def">qualifications</span> (leg. term):</span> urgnuma in 
+mifoltaig `<span class="quote">the service of the unqualified</span>' (oppd. to sofoltach), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 366.12
+        , <span class="lbl">cf.</span> 
+          394.12
+        . 
+          <span class="oRef">¤</span>gaelmar <span class="trans">
+          <span class="def">unkinsmanlike</span>:</span> 
+          Mac M. 
+. . . do mharbhadh go míoghaolmhar lá a dearbrathair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 
+1726.15 
+          
+        ; 
+          1326.7
+        . 
+          <span class="oRef">¤</span>gnéech <span class="trans">of <span class="def">evil</span> or <span class="def">pitiable</span> <span class="def">aspect</span>:</span> 
+          cleireach 
+bocht mighneach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 165 § 36.
+          
+         
+          [aghaidh] teimlighthi 
+mignéthech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xvi 66.9
+          
+        . 
+          <span class="oRef">¤</span>labartha, -ch <span class="trans">
+          <span class="def">ill-speaking</span>:</span> 
+          go 
+míolabhartha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3039.
+          
+         
+          an béul míolabharthach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> 
+viii 13.
+          
+         cona trichait cath mbaitel . . . milabartacha (<span class="quote">barbarisch redende Schlachthaufen</span>, Wind.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5592
+         St. Windisch, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 808 n. 7
+        , would assign to this word 
+          bilaburthach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8181.
+          
+         
+          <span class="oRef">¤</span>laechda <span class="trans">
+          <span class="def">unwarlike</span>, <span class="def">craven</span>:</span> 
+          meatta míolaochdha, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7332.
+          
+         
+          <span class="oRef">¤</span>láthair `<span class="quote">without strength</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 80.16
+        . 
+          <span class="oRef">¤</span>lesaigthe 
+<span class="trans">
+          <span class="def">ill-cared</span>, <span class="def">ill-nourished</span>:</span> 
+          mílesaigthi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1150.
+          
+         fo múich 
+milessaigt[h]i `<span class="quote">under the vapours of bad feeding</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 93.
+20
+        , is prob. <span class="case g">g</span>
+        <span class="number s.">s.</span> of <span class="pos vn." style="color: #ff8000">vn.</span> 
+          <span class="oRef">¤</span>mesarda <span class="trans">
+          <span class="def">immoderate</span>:</span> 
+          drochaer mimessardha anffallain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 240.17
+          
+        . 
+          <span class="oRef">¤</span>nádurda <span class="trans">
+          <span class="def">unnatural</span>:</span> 
+
+          pecadh mínádur[dh]a na fer ┐ na mban, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> § 92
+          
+        . 
+          gluasacht minadurtha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xiv 110.10
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 42.13
+        . 
+          <span class="oRef">¤</span>náirech 
+<span class="trans">
+          <span class="def">shameless</span>:</span> 
+          le gnúis mhíonáirigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> vii 13.
+          
+         
+          <span class="oRef">¤</span>ordamail <span class="trans">
+          <span class="def">irregular</span>, <span class="def">inordinate</span>
+        </span>: 
+          bith a fis agaib gurob du dona feraib ┐ dona mnaib ... gan beith miordamail a mbiad no a ndig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> v 60 § 43
+          
+        . 
+          <span class="oRef">¤</span>órduigthe <span class="trans">
+          <span class="def">inordinate</span>
+        </span>: 
+          fonn mí-órduighthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> i 191.1002
+          
+        , cf. 192 .1007, 
+          192.1016
+        . 
+          <span class="oRef">¤</span>rathmar <span class="trans">
+          <span class="def">graceless</span>; <span class="def">unlucky</span>, <span class="def">inauspicious</span>:</span> 
+          Leaburcam . . . mirathmar 
+mallachtach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 257b29
+          
+        . 
+          gabhal mhirathmhar mhara lan do 
+piastaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 164 § 20.
+          
+         
+          'san maidin mhiorathmhair sin, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 142.15
+          
+        . 
+          <span class="oRef">¤</span>réid <span class="trans">
+          <span class="def">not smooth</span>, <span class="def">rugged</span>:</span> as <span class="pos subst." style="color: #ff8000">subst.</span> <span class="trans">a <span class="def">rough</span> or <span class="def">uneven</span> 
+<span class="def">place</span>:</span> 
+          a muigib ┐ a miredib na Bethile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 133a5
+          
+        . 
+          <span class="oRef">¤</span>rúnach 
+<span class="trans">
+          <span class="def">ill-intentioned</span>, <span class="def">malicious</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 164.23
+        . 
+          misccnech míorúnach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2324.9
+          
+        . 
+          teagasg míorúnach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 118.6
+          
+        . 
+          <span class="oRef">¤</span>scíamach 
+<span class="trans">
+          <span class="def">unsightly</span>, <span class="def">hideous</span>:</span> 
+          ech m., 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 260.14
+          
+        . mísgiamach (= <span class="frn ">ignominiosum</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 216.35.
+         
+          <span class="oRef">¤</span>snímach <span class="trans">
+          <span class="def">anxious</span>, <span class="def">distressful</span>:</span> 
+
+          sgrech aduathmur mishnimach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 64.18
+          
+        . 
+          <span class="oRef">¤</span>stuamda: 
+drochduine misduama miglic `<span class="trans">
+          <span class="def">reckless</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 287
+        , <span class="lbl">cf.</span> mí-stuaim. 
+          <span class="oRef">¤</span>thaemach <span class="trans">
+          <span class="def">troubled</span>, <span class="def">uneasy</span>:</span> 
+          i mainnir mhíothaomaigh 
+an domhain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2711.
+          
+         
+          <span class="oRef">¤</span>thaemannach (variant of preceding?): merdreach mailisech míthæmannach `<span class="trans">
+          <span class="def">unhappy</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+vi 275.17
+        . 
+          in ríghain mhalísech mhíthaomnach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xxxiii 135 § 23
+          
+        . 
+          <span class="oRef">¤</span>thesta <span class="trans">
+          <span class="def">ill-attested</span>:</span> do scríobh go meardhána 
+mítheasta <span class="ediltr">without evidence</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 10.23
+        . 
+          <span class="oRef">¤</span>thestach <span class="trans">
+          <span class="def">of evil 
+report</span>, <span class="def">infamous</span>:</span> is mítheastach a gcéime (= <span class="frn ">infames gressus 
+eorum</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1473.
+         
+          <span class="oRef">¤</span>thoicthenach <span class="trans">
+          <span class="def">unfortunate</span>
+        </span>: 
+          <span class="frn ">de infortunio iure (causari)</span> .i. den dligud mithoicthenach '<span class="quote">about the unfortunate law</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lv 8
+        . 
+          <span class="oRef">¤</span>thoimtenach: ni pá mithomtinach o neoch 
+<span class="ediltr">be not ready to think evil of others</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 26.
+         in clann colach ┐ na 
+maic mitoimdenacha <span class="trans">
+          <span class="def">evil-minded</span> (?)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DIV2" title="eDIL Bibliography">D IV 2</strong></span>, 45va11
+        . 
+          <span class="oRef">¤</span>thoiscid 
+<span class="trans">
+          <span class="def">ill-provided</span>, <span class="def">lacking</span> <span class="def">necessaries</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1150.
+         
+          <span class="oRef">¤</span>threbar <span class="trans">
+          <span class="def">imprudent</span>, <span class="def">foolish</span>:</span> 
+          a giolla mitreabair!, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> i 137.6
+          
+        . 
+          <span class="oRef">¤</span>threorach 
+<span class="trans">
+          <span class="def">weak</span>, <span class="def">inefficient</span>:</span> 
+          mílid m., 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 204.11
+          
+        . <span style="color: #ff8000">Compar.</span> 
+          gurab 
+boichte mítreoraighe é ina an té da mbenann a chuid, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;H&#xE9;odhusa" title="eDIL Bibliography">Ó Héodhusa</strong></span> 174.13
+          
+        . 
+          <span class="oRef">¤</span>thrócar <span class="trans">
+          <span class="def">merciless</span>:</span> 
+          in triar ridiri . . . do 
+marbudh co mitrocar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 35.29
+          
+        . 
+          <span class="oRef">¤</span>thrócairech <span class="trans">
+          <span class="def">merciless</span>:</span> 
+
+          don druing mhíothrócairigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4684.
+          
+         <span class="trans">
+          <span class="def">Failing to</span> <span class="def">obtain</span> 
+<span class="def">mercy</span>, <span class="def">doomed</span>:</span> anam miotrocairech `<span class="trans">
+          <span class="def">hapless</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 66 
+§ 102
+        . 
+          <span class="oRef">¤</span>thuicsech <span class="trans">
+          <span class="def">inconsiderate</span>, <span class="def">foolish</span>:</span> 
+          uaibhrecht m., 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xxiii 10.3
+          
+        . co bfedain mearda miothuiccsigh `<span class="trans">
+          <span class="def">merciless</span>' (?)</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1696.12
+        . 
+          <span class="oRef">¤</span>thuicside <span class="lbl">id.</span>: 
+          a amadáin mhituicside!, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xix 
+134 § 106.
+          
+        
+      </p>
+    
+  
+   
+
+
+      <p class="result"> 
+<span class="edilb">III</span> Verbs. mí-aipir (ess-ber-): ní m. (gl. non mala dicit), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 56d16
+        . 
+          <span class="oRef">¤</span>airlither <span class="trans">
+          <span class="def">counsels</span> <span class="def">ill</span>:</span> is besad do cach graig . . . hi 
+toin mna mi-s-r-airlestair <span class="ediltr">who has misled them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 3648.
+         
+
+          <span class="oRef">¤</span>chiallaid: do miciallad e do briathraib serba <span class="ediltr">his senses were 
+confused</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 307.15
+        . 
+          <span class="oRef">¤</span>chiallaigid (intrans.): do mhichialluigh sí dhá ttaoibh <span class="ediltr">she doted upon them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Ezekiel</strong></span> xxiii 16.
+         
+
+          <span class="oRef">¤</span>chlothaigid <span class="trans">
+          <span class="def">defames</span>:</span> <span class="voice pass.">pass.</span> <span class="tns fut.">fut.</span> ní michlothaigfetar
+         (gl. defamabuntur), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 143c3
+        . <span class="pos part." style="color: #ff8000">part.</span> michlothaigthi (gl. infaustos), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 34b1
+        . 
+          <span class="oRef">¤</span>choimétaid <span class="trans">
+          <span class="def">keeps</span> (<span class="def">observes</span>) <span class="def">ill</span>:</span> michoimétaid ar 
+saboti-ne <span class="trans">
+          <span class="def">profanes</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2587.
+         
+          <span class="oRef">¤</span>chóraigid (
+          <span class="oRef">¤</span>chóirigid) <span class="trans">
+          <span class="def">disorders</span>, 
+<span class="def">throws into</span> <span class="def">confusion</span>, <span class="def">mishandles</span>, <span class="def">maltreats</span>:</span> 
+          marbhaid ┐ 
+míochóirighid a mhuinntear, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1083.
+          
+         <span class="pos part." style="color: #ff8000">part.</span> gur bho 
+malartach . . . míchóirighthe in cúigedh <span class="trans">
+          <span class="def">disordered</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 
+134.32
+        . <span class="pos vn." style="color: #ff8000">vn.</span> 
+          do ghabh ag[a] marbadh ┐ aga miochóruighedh
+          , 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 126 § 32.
+          
+         
+          do chonncadar . . . an chríoch i mbaoghal a 
+millte is a míochóirighthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 5112.
+          
+         
+          <span class="oRef">¤</span>dúil(ig)id <span class="trans">
+          <span class="def">dislikes</span>, 
+<span class="def">loathes</span>:</span> 
+          míodhúiligh an t-anam bhíos lán an chriathar meala, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> xxvii 7.
+          
+         </p>
+    
+    
+      
+        <p class="result">
+          
+            <span class="oRef">¤</span>duthracair (dep.) <span class="trans">
+            <span class="def">wishes ill</span> (<i>to</i>):</span> <span class="per 3">3</span> <span class="number s.">s.</span> <span class="tns fut.">fut.</span> 
+            ar 
+cech ṅduine mídúthrastar dam, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 356.19
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> vii
+          ); 
+(midústhrastar, -dúthracair, -duthracur <span class="lbl">MSS.</span>).</p>
+       
+
+ 
+      <p class="result">
+        
+          <span class="oRef">¤</span>gní <span class="trans">
+          <span class="def">does ill</span>:</span> 
+<span class="pos part." style="color: #ff8000">part.</span> (as <span class="pos subst." style="color: #ff8000">subst.</span>) mignethi, gl. malefacta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 28c20
+        .</p>
+      
+
+
+        <p class="result">
+          
+            <span class="oRef">¤</span>imbeir 
+<span class="trans">
+            <span class="def">plays false</span>, <span class="def">deceives</span>:</span> <span class="mood subj.">subj.</span> <span class="tns pr.">pr.</span> <span class="per 3">3</span> <span class="number p.">p.</span> mi-tn-imret (gl. decipere), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 74b22
+          . intí mí-imerthar ón bethaid daenna (= <span class="frn ">qui . . . 
+decipitur</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4657.
+          
+        </p>
+      
+     
+      <p class="result">
+        
+          <span class="oRef">¤</span>láithrigid: do bhog ┐ do mhílaithridh 
+é féin dochum na deabhtha `<span class="quote">pressed forward</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 182.333
+        . 
+
+          <span class="oRef">¤</span>modaid <span class="trans">
+          <span class="def">treats with</span> <span class="def">disrespect</span>, <span class="def">dishonours</span>:</span> 
+          do mhiomhodhadar 
+m'ainm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Ezekiel</strong></span> xxxvi 20.
+          
+         
+          <span class="oRef">¤</span>onóraigid <span class="trans">
+          <span class="def">dishonours</span>:</span> <span class="per 3">3</span> <span class="number s.">s.</span> <span class="tns impf.">impf.</span> 
+
+          nómíonoraigeadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aisl.Tund." title="eDIL Bibliography">Aisl. Tond.</strong></span> 93 § 1.
+          
+         
+          <span class="oRef">¤</span>thadbat (to-ad-fiad-): 
+mithadbait, mitharfaid `<span class="quote">thou shewest badly, thou hast shewn 
+badly</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 16 § 16.
+         
+          <span class="oRef">¤</span>thaitnid <span class="trans">
+          <span class="def">displeases</span>:</span> 
+          an tan mhithaithnes ar ndeaghoibre re duine oile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 457.9
+          
+        . 
+          do 
+mhíothaitin anni dorinne D. ris an tTighearna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">2 Samuel</strong></span> xi 27.
+          
+         
+
+          <span class="oRef">¤</span>thomuinethar <span class="trans">
+          <span class="def">believes</span> or <span class="def">thinks evil</span>, <span class="def">suspects</span>:</span> ? <span class="mood subj.">subj.</span> 
+          ní 
+mitomnadar o neoch, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 452.29
+          
+         (<span class="lbl">cf.</span> mítoimtenach above).</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

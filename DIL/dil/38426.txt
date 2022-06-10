@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="38426">solus</h3><span class="citation">Cite this: eDIL s.v. solus or <a class="reference" href="38426">dil.ie/38426</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                solas, ṡoluis</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">(<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 so">2 so</a></span>+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 l&#xE9;s">1 lés</a></span>)</p>
+   
+    
+      <p class="result">
+        <span class="edilb">I</span> <span class="pos Adj." style="color: #ff8000">Adj.</span> <span class="itype u">u</span>, later <span class="itype o,-&#x101;">o, ā</span>
+      </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">bright</span>, <span class="def">clear</span>, <span class="def">light-giving</span>
+          </span>: 
+s.<span class="oRef">¤</span> gl. clarus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 665
+          . is rugs.<span class="oRef">¤</span>
+           gl. praeclara, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 37d18
+          . is bés 
+inna tabernacuil didiu is s.<span class="oRef">¤</span>
+           `<span class="quote">tis is the manner of the tabernacle 
+then that it is light</span>', 
+            40c15
+          . bit soilsi impo `<span class="quote">they will be alight 
+around them</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 31.22
+           (Bvn.). 
+            ba s.<span class="oRef">¤</span> in grīan īar sein | a 
+medhōn na haidhchi sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 25 § 6
+            
+          . rind s.<span class="oRef">¤</span>
+           (of a saint), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Jan. 30
+          . 
+            a gríanan co senistrib solsib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10636
+            
+          . 
+            issed is 
+coimdigh treibe and a lar ┐ a hairmedha ┐ a inada soillsi, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 326.13 Comm
+            
+          . 
+            ro-artraig . . . hi ngné solais . . . in 
+t-shnechta, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3384
+            
+          . 
+            lotar . . . isin lō s.<span class="oRef">¤</span> dochum a mban, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 224.29
+            
+          . dath mar adhairc sholais `<span class="quote">a colour like transparent horn</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 252.8
+          . an tene ┐ gach ni s.<span class="oRef">¤</span> ele `<span class="quote">and 
+every other light-giving object</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 106.16
+          . 
+            nach fuil 
+inadh . . . gan beth deallraigteach s.<span class="oRef">¤</span> on grein, 
+              98.10
+            
+          . 
+            ro delbh 
+se . . . in sliabh dorcha . . . do cach ┐ s.<span class="oRef">¤</span> taithnemach do fein, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1779
+            
+          . 
+            ag so an ré 'na ré s.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 21.42
+            
+          . 
+            lucht loingsi 
+ó lis na Beirbhe | d'ḟis deilbhe soillsi Saidhbhe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 
+1369
+            
+          . Of places: 
+            co Dun Sobairce solos, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 268a21
+            
+          . 
+            ar Mhagh 
+Luirg na learg solas, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 88.32
+            
+          . Fig. <span class="trans">
+            <span class="def">happy</span>, <span class="def">prosperous</span>
+          </span>: 
+
+            indar leo ba s.<span class="oRef">¤</span> in bliadain doibh samlaid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 85
+            
+          . Equative: tech . . . soilsidir bid hi lugburt <span class="ediltr">bright as though in a garden</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 294.16
+          . 
+            soillsidir óen na retlann, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1902
+            
+          . 
+            suillsithir 
+ri snecht a gnúis, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 538
+            
+          . 
+            soilsidir caindle cíartha | gnúis 
+meicc Cairne cíallmíadcha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 94 § 13
+            
+          . Used as <span style="color: #ff8000">compar.</span>: 
+
+            soillsithir fó secht andá grían, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2029
+            
+           (FA). <span style="color: #ff8000">Compar.</span> 
+            co 
+mba sollsi oldás grian, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6985
+            
+          . 
+            soillse é ná gach aingeal | 
+Míchéal, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxviii 44
+            
+          . 
+            nó an bhfuil ní as soillse ná so, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 37.15
+            
+          . 
+            cíoch as soillse iná réalta reoidh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 2.37
+            
+          . 
+Used <span class="pos substantivally" style="color: #ff8000">substantivally</span>: dona uaislib no dona soillsib <span class="ediltr">illustrious 
+(or distinguished) persons</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 437
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 236a
+            
+          ). As a 
+metrical term: 
+            incípít dona hanaichintibh . . . ┐ atáit da 
+earnail furri .i. s.<span class="oRef">¤</span> ┐ dorcha, is é so ín s.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 95 § 148
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">clear</span> (of sound):</span> 
+            in guth s.<span class="oRef">¤</span> labrastar o bérlu ainglecdha, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 100 § 7
+            
+          . <span style="color: #ff8000">Compar.</span> 
+            ba soillsiu ┐ ba gleu gothuib doine, 
+
+              § 8
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">clear</span>, <span class="def">lucid</span> (in intellectual sense):</span> 
+            do bi fáidhetoracht 
+C.C. . . . s.<span class="oRef">¤</span> sothuicsena, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 430.2
+            
+          . 
+            cionnas do bhiadh eólas 
+solas ar an Ttríonnóid agoibh?, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 4867
+            
+          . 
+            snadhmadh s.<span class="oRef">¤</span> 
+ar an síothcháin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 111.24
+            
+           (prose 
+            384.23
+          ). <span style="color: #ff8000">Compar.</span> 
+sloinn dúinn ní is soillse iná sin `<span class="quote">name to us more clearly</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 
+13.30
+          . <span class="pos Adv." style="color: #ff8000">Adv.</span> 
+            atbér cen snaidm co s.<span class="oRef">¤</span> | a hainm is a bunadus, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 194 § 1
+            
+          . </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> <span class="pos Subst." style="color: #ff8000">Subst.</span> <span class="itype o">o</span>. solas, <span class="gen m.">m.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 53
+        . </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">light</span>:</span> 
+            goor gach s.<span class="oRef">¤</span> 
+i suidi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 675
+            
+          . 
+            goar .i. s.<span class="oRef">¤</span> isin Fenic[h]us, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 633
+            
+          . 
+
+            mar na faicfea s.<span class="oRef">¤</span> co bráth, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7760
+            
+          . 
+            a agad ar in s.<span class="oRef">¤</span> ngrianda 
+budhdhes, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 85
+            
+          . 
+            as tríthe tháinig an solas neamhdha 
+dochum an chinidh dhaonna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 6309
+            
+          . 
+            o thainic . . . s.<span class="oRef">¤</span> 
+tratheirgi do lo arnamarch, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2195
+            
+          . 
+            degsamlacht soluis 
+an re, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 106.4
+            
+          . ní fhuil s.<span class="oRef">¤</span> mo dhearc agam (<span class="frn ">lumen 
+oculorum</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4203
+          . a ṡoluis oidhche um iarnóin (of a 
+weapon), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 33.4
+          . 
+            biodh s.<span class="oRef">¤</span> ann ┐ do bhi an s.<span class="oRef">¤</span> ann, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> i 3
+            
+          . 
+Fig. ar solas ríochoinnle, ar n-inghean Iachaimne (of Mary), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 72.11
+          . 
+            s.<span class="oRef">¤</span> eccna na hEreann, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 1098.5
+            
+           Attrib. 
+<span class="case g">g</span>
+          <span class="number s.">s.</span>: 
+            do bhí an néalsain 'n-a néal ṡoluis
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 17.13
+            
+          . in 
+nomad bl. dhec don chicil solais `<span class="quote">the solar cycle</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 306.7
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">clarity</span>, <span class="def">intelligibility</span>
+          </span>: sliocht ele . . . dobher solas da 
+ccenas `<span class="quote">another passage . . . throws light on their leadership</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Geneal.Tracts" title="eDIL Bibliography">Geneal. Tracts</strong></span> 88 § 130
+          . </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+Compds.</p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) With nouns: 
+            <span class="oRef">¤</span>bruiden: 
+            a solusbruidhnibh . . . 
+na hEmna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Comp.CC" title="eDIL Bibliography">Comp. CC</strong></span> 79.9
+            
+          . 
+            <span class="oRef">¤</span>chnes <span class="trans">
+            <span class="def">fair-skinned</span>:</span> tucus 
+Éblend soluscnis `<span class="quote">I wedded Éblenn of the radiant skin</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 
+156.14
+          . 
+            <span class="oRef">¤</span>gabáil: ag solusghabáil a pshalm ┐ a pshaltair 
+`<span class="quote">blithely chanting</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 4.11
+          . 
+            <span class="oRef">¤</span>lia: 
+            treabh na solaisleag 
+soiléir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 3.33
+            
+          . 
+            <span class="oRef">¤</span>nélgal: 
+            ba samalta re solusnellgail ciach, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5873
+            
+          . 
+            <span class="oRef">¤</span>reic: 
+            ag éisteacht re dréachtaibh ┐ re duanlaoidhibh . . . gá soluis-reic, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 111.24
+            
+           (prose 
+            384.6
+          ). 
+
+            <span class="oRef">¤</span>ruided: 
+            solusruidedh na saerchlann, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4990
+            
+          . 
+            <span class="oRef">¤</span>tech: 
+
+            ar solustighib cláraigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 763
+            
+          . 
+            <span class="oRef">¤</span>tráth: 
+            o solustrath 
+éirgi do ló co medón lái, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1804
+            
+          . 
+            na ticfa co s. éirge i 
+mbárach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 424.8
+            
+          . </p>
+      
+     
+      
+        <p class="result">(<span class="edilb">b</span>) With adjj. (incl. adjj. derived 
+from nouns) 
+            <span class="oRef">¤</span>bán: 
+            tar in sáile s., 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 4741
+            
+          . 
+            <span class="oRef">¤</span>barr: Niall 
+samglan s. `<span class="quote">of shining locks</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 108.2
+          . 
+            <span class="oRef">¤</span>bog: 
+            a dhreach 
+ṡolasbhog, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 21.18
+            
+          . 
+            <span class="oRef">¤</span>gemach: a cathbarr . . . s. fana cenn 
+<span class="ediltr">bright with jewels</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 299.11
+          . 
+            <span class="oRef">¤</span>glan: guth mór s. <span class="ediltr">clear 
+and pure</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1934
+          . broghadha . . . solus-ghlana suaithenta 
+<span class="ediltr">bright and clean</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1072
+          . 
+            <span class="oRef">¤</span>íarnaide: 
+            na slabradu . . . 
+solus-iarnaidhe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 178.3
+            
+          . 
+            <span class="oRef">¤</span>mór: 
+            dochuadur issin síd s., 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2795
+            
+          . 
+            in lind sholosmór út, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 301
+            
+          . 
+            da leaspaire 
+solusmora, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 15b16
+            
+          . 
+            <span class="oRef">¤</span>rennach: fa'n sroll-mergi . . . s. 
+senta <span class="ediltr">sparkling</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 196.7
+          . 
+            <span class="oRef">¤</span>tairthech. As <span class="pos subst." style="color: #ff8000">subst.</span>: in Solus-tairtich (name of a draught-board), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7804
+          . 
+            <span class="oRef">¤</span>taitnemach: 
+            dentar lespairedha solusthaitneamacha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 15b11
+            
+          . 
+
+            <span class="oRef">¤</span>tiug: 
+            nírbh oirchios fós a bhfaicsin | gan tracht an taoibh 
+sholuistigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 209.22
+            
+          . </p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

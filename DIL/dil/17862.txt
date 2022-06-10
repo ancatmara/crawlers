@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="17862">do-imnai, do-imna</h3><span class="citation">Cite this: eDIL s.v. do-imnai, do-imna or <a class="reference" href="17862">dil.ie/17862</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                t-animmairni, dothimarnae, doimmarnad, timna, tiomnain, Thelephus</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (*
+        to-imb-ad-no-, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 585
+        
+      ). <span class="tns Perf.">Perf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        t-animmairni, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 289
+        
+      . 
+        dothimarnae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 117a17
+        
+      . <span class="voice Pass.">Pass.</span> 
+
+        doimmarnad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 34a6
+        
+      . <span class="pos Vn." style="color: #ff8000">Vn.</span> timna. See also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=timarnad">timarnad</a></span>, where 
+only the exx. from CCath. and O'Cl. are unequivocally 
+nominal.</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">commits</span>, <span class="def">entrusts</span>, <span class="def">bequeaths</span> (with DO):</span> na foachta fo[ḟ]echar i Cain Adomnan, dligith munter Adamnain forbach de 
+. . . cit maicc ennaig, cit cléirig nó do neoch dian timnat `<span class="quote">to 
+whom they commit it</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xE1;inAd." title="eDIL Bibliography">Cáin Ad.</strong></span> 43
+        . aithne timantar <span class="ediltr">a charge 
+that is committed</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 196 Comm.
+         
+          [a]ní dobeir ┐ doimnai 
+a mathair di, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 834
+          
+        -
+          5
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span> 387b
+          
+        ). 
+          timna fri eg .i. inní 
+timnaiter i neg, in ferann, 
+            428
+          
+         (233a). secht cét ṁbó . . . 
+timnad dó tuc a Lagnib <span class="ediltr">which had been delivered over to him</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 161a28
+         (taken as <span class="pos vn." style="color: #ff8000">vn.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 106
+        ). 
+          roaithne (.i. 
+rotimain) a eclais do Pátraic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 18
+          
+        . in loc so tanimmairni Ternohc . . . er cul Peter Apstel <span class="ediltr">T. has bequeathed it</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 289
+        .  tiomnain (<span class="lbl">leg.</span> tiomnaim) mo bhú do bhochtaibh 
+ <span class="trans">I <span class="def">bequeath</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 28
+        . 
+          rotimná Teosforus . . . a ríge dia 
+éis do Thelephus
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 234a15
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1263
+        ). rostiumuin don 
+eclais gl. 
+          ag doradtar do Dia, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 270 Comm.
+          
+         
+          do thiomain flaitheas na Scitia do M. an mac fá sine aige, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 
+168
+          
+        . do thiomain sé don eaglais ar a anmain í <span class="ediltr">bequeathed 
+it for the sake of his soul</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5211
+        . nír thimna athair 
+da mac <span class="ediltr">the father leaves nothing to his son</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 346a42
+        . 
+          dá 
+dtiomnadh neach ní nach leis dá chloinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> v 141
+          
+        . 
+ <span class="trans">
+          <span class="def">Commends</span>, <span class="def">entrusts</span>:</span> 
+          timnaim ar deirc m'anum duitt-si a 
+glaicc in diabail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lib.Flav." title="eDIL Bibliography">Lib. Flav.</strong></span> i 23ra7
+          
+        . 
+          tiomnuim mo chorp ┐ 
+mh'anam . . . ar ionchaibh do thrócaire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 294
+          
+        . 
+
+          tiomnaid a n-anam do Dhia, a gcorp don uaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 8682
+          
+        . 
+
+          do thiomain a chorp ┐ a anam ar a chomairce, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 1954
+          
+        . 
+cur-ro[t]timnor . . . mor don ingnad atconnarc `<span class="quote">that I may 
+confide to thee</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 48
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) In follg. cases where obj. is a clause, meaning seems to 
+pass into that of <span class="trans">
+          <span class="def">promises</span>:</span> 
+          beo-thimnaim do Chass | bid 
+cuibrend cu sliss, | biat ecla ria Cass, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 147a36
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> xix 
+550
+        ). doraind Pátraic Ráith nAirthir | . . . | timarnae na túa 
+sa, | céne marus bith, | bes n-ed násad inna túad | . . . | nád 
+mbíad acht óenguine | fora fout co brāth <span class="ediltr">he left as bequest to 
+these ramparts that, while the world endures, thither the tribes 
+shall gather . . . that there should be but one slaughter (committed) within them</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 755
+        . 
+          timarne Patraic nat bé rí 
+hi Caisiul acht di chlaind Nad fráich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 315
+          
+         (<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 
+2293
+        ). 
+          timarnad duit ó Día . . . cona bía cuit do nach ailiu 
+i nHére acht duit t'oenur, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2764
+          
+        . 
+          timarnad duit óm 
+céliú . . . dobéra deit in mnái, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3341
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 13
+        ). 
+          timarnád 
+duit úad, doticfa slóg uad, 
+            § 20
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">enjoins</span>, <span class="def">commands</span>
+        </span> (with DO of pers.): doimmarnad 
+hosenachrib `<span class="quote">that was commanded by S.</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 34a6
+        . 
+          dorimnai 
+Dia . . . a cosc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4153
+          
+        . 
+          airmitiu do thustidib, rothimna in 
+ri, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 312
+          
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 261a6
+        . 
+          Patraic timairne in figill seo, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 491
+          
+        . timarnasat cethri prīmsuidi Erenn gres fria do 
+gach mac bethad, <span class="lbl">ib.</span> 
+          timarnai Dia doitsi dul do proicept, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 222
+          
+        . 
+          timnais Eochaid troscad ara macaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 
+148
+          
+        . 
+          timmarnad tene ruad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 39
+          
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC4;lt.Ir.Dicht." title="eDIL Bibliography">Ält. Ir. Dicht.</strong></span> ii 26
+        . 
+
+          timarnad duit-si o Día techt doc[h]um nÉirenn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 255
+          
+        . 
+timarnath duit on Dagdo con-comthastar, <span class="lbl">etc.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 345
+        . 
+
+          timarnad duit nád dechis for taired, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 108
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) In phr. do-imna celebrad (do) <span class="trans">
+          <span class="def">takes leave</span> (<i>of</i>):</span> 
+          timnait 
+celebrad dond ríg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 65
+          
+        . 
+          tiomnait celeabhradh dhó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 
+1900
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 16
+        . 
+          timnais celebrad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10346
+          
+        . 
+          rotimain 
+ceilebradh doibh ┐ roimigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 162
+          
+        . 
+          rotimain celebrad 
+do A., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 1450
+          
+        . 
+          timnas an ingin celebrad do na banfeindedaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> v 199
+          
+        . 
+          tiomnais celeabrad doib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 42
+          
+        . 
+          rothimainsed celebrad do, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 134
+          
+        . do thiomnadar ceileabhradh 
+araon <span class="ediltr">took leave of each other</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 78
+        . 
+          do hiomnadur (<span class="lbl">leg.</span> 
+do th.) cheiliubradh do Coinchulainn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 114
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 
+825
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

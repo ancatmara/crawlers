@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="31228">madae</h3><span class="citation">Cite this: eDIL s.v. madae or <a class="reference" href="31228">dil.ie/31228</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                mudu, mudu, mada, i mmudu, i mmuda, amudha, amugha, immudu, i mm.</p></div><div class="col-sm-9 result_content">
+   
+
+ 
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype io,-i&#x101;">io, iā</span>. <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        mudu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 16d4
+        
+       (as instrumental), beside 
+        in-made, 
+          19b10
+        
+      ; in Mid.Ir. the former form prevails in <span class="pos advbl." style="color: #ff8000">advbl.</span> 
+use; in 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 156a33
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 290.56
+      ) mudu and mada are 
+found together as nouns.</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> <span class="trans">
+          <span class="def">Vain</span>, <span class="def">ineffectual</span>, <span class="def">fruitless</span>
+        </span>.</p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) in Glosses with cop. or as 
+<span class="pos advb." style="color: #ff8000">advb.</span>: act massu made in chretem (gl. nisi frustra credidistis), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 13a34
+          . níba madae dam m[ḟ]oisitiu (frustrata non erit 
+confessio), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 46b12
+          . ba m.<span class="oRef">¤</span> dam du frecur cheill-siu <span class="ediltr">it was 
+vain for me to worship thee</span>, 
+            106d3
+          . made (gl. sine causa, an 
+alternative to cen fochunn), 
+            19c5
+          . 
+            reim nad mada, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 
+72 § 202.
+            
+           
+            a chorn chroes-toll tana | nirbo mada in mind, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+iii 39.8
+            
+          . abair ré Niall ni madha | guth Eoghain mic Anmchadha `<span class="quote">not lucky for him will be the curse of E.</span>' (? <span class="ediltr">not ineffectual</span>), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 438.3
+           = 
+            le N. niamda, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CS" title="eDIL Bibliography">CS</strong></span> 827.
+            
+           As attrib. with noun: 
+nicon saethar m.<span class="oRef">¤</span>
+           <span class="ediltr">no idle labour is it</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 227
+          ; quoted 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1239
+           with gl.: madha no magha .i. nemglan, whence 
+perhaps 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          : 
+            madha .i. mi-adha .i. mídhlightheach. ní hí in 
+chomairle mada, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 146b39
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> iii 544
+          ). 
+            ni cara 
+cāch cosg a baíse . . . bidh cosc mada, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 295 § 17.
+            
+           dia 
+tuc in mór-grád mada d'Áed <span class="ediltr">when she gave that great love in 
+vain</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 4.
+           issed ingaire mada | cen bú <span class="ediltr">vain herding</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 385.8
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) as <span class="pos adv." style="color: #ff8000">adv.</span>, nearly always with prep. i n-, <span class="trans">
+            <span class="def">in vain</span>, <span class="def">fruitlessly</span>, 
+<span class="def">to no purpose</span>
+          </span>; in Mid.Ir. usually i mmudu, later i mmuda, 
+amudha, amugha and probably in time confounded with 
+múdugud (Strachan 
+            <span><strong class="pop" style="color:blue" href="bibliography/VSR" title="eDIL Bibliography">VSR</strong></span> pp. 71
+          -
+            2
+           identifies the words). 
+
+            in-made .i. níbtá torbe de, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 19b10
+            
+          . is betha imaudu 
+[immudu LU] <span class="ediltr">a life wasted</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 533.
+           
+            is maith i mmudu mo 
+maith-se, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1043
+            
+           = a múcha, St. téit i mmudu (rarely 
+téit mudu) <span class="trans">is <span class="def">lost</span>, <span class="def">goes</span> to <span class="def">waste</span>, <span class="def">perishes</span>:</span> i techt mudu elimoy. 
+<span class="ediltr">for the loss of the alms</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 16d4
+           (an instrumental case in 
+apposition, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 76
+          ). ferr uma cech aicde aird, | cia théit 
+muga ní geib meirg `<span class="quote">though it go astray</span> (?) <span class="ediltr">it will not take rust</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 48 § 26.
+           m'anim ni dig immada <span class="ediltr">may not my soul be 
+lost</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 96.
+           téid a saethar i mudhu (amugha, for dimain 
+<span class="lbl">v.l.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1891.
+           
+            scribthar scela Cailti nach dechat a mudha, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7758
+            
+          , <span class="lbl">cf.</span> 
+            5346
+          . nā tiaghat mu eich imugha <span class="ediltr">let not my 
+horses come to grief</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2314.
+           errenad in met dochoid hi 
+mudu <span class="ediltr">let him pay as much as was lost</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 160 § 2.
+           cian co 
+beth biadh ann-som . . . ni rachadh a mudu (amugud, amuga 
+MSS.) <span class="ediltr">it would not be spoilt</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 188.1
+          . is ferr duit a chobuir; 
+is liach a dolu himugu <span class="ediltr">it would be sad if he should die</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 
+345.3
+          . 
+            iar tiachtain inmadha. . na hingine, 
+              x 180.7
+            
+          . rachaidh 
+an t-anam soin amudha as a phobal féin (= <span class="frn ">peribit</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+3291
+          , <span class="lbl">cf.</span> 
+            9595
+          . <span class="trans">
+            <span class="def">Goes</span> <span class="def">astray</span>:</span> 
+            docuaidh G. amughadh ona 
+muindtir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 78.22
+            
+          . 
+            ná héirigh amúgha iona casánaibh, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> vii 25.
+            
+           beirid (cuirid) i mm.<span class="oRef">¤</span>
+           <span class="trans">
+            <span class="def">causes</span> to <span class="def">perish</span>, <span class="def">does away 
+with</span>, <span class="def">loses</span>:</span> fingal etrom . . . ┐ nít berad immuchu <span class="ediltr">it would not 
+cause your death</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4300.
+           nachat-bertais immuchu <span class="ediltr">lest (the 
+wounds) should cause your death</span>, 
+            4340
+          ; in the corresponding 
+passages 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2796
+          , 
+            2813
+           the <span class="pos advb." style="color: #ff8000">advb.</span> i mm.<span class="oRef">¤</span>
+           is omitted. itbér 
+. . . cor-ros-laus immudo <span class="ediltr">that I have lost it</span> (a ring), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 
+38.15
+           (TBFraích) = 
+            cor-roda-llaus immudu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 249b40
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Med.andMod.Ir.Ser." title="eDIL Bibliography">Med. and Mod. Ir. Ser.</strong></span> v 168
+          ), 
+            co rotallus amuga, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 147.
+            
+           
+ionnus nach cuirfidhe nuachair amugha uirre <span class="ediltr">lest she be 
+baulked of a husband</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 2796.
+           is mór do chuir an 
+t-andóchas amudha (= <span class="frn ">multos perdidit</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7389.
+          
+        </p>
+       
+        <p class="result"> 
+Hence 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          : mudha .i. mudhugadh no básughadh.</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> Rarely used as <span class="pos subst." style="color: #ff8000">subst.</span>: co fúair mudu is mór-mada (maga, 
+mana <span class="lbl">v.l.</span>) `<span class="quote">destruction and utter frustration</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+290
+        . ? 
+          robí Nuadu . . . mac hui hIeir Etarscel, | ba do Mumain 
+a mada | dia mairt os Leirg Labrada, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 117 § 6
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 
+88a31
+        ). <span class="lbl">Cf.</span> also: maidm a sceith .i. sciathlach a sceith do 
+muga for a dornnaib `<span class="quote">the straps of his shield to burst</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+310.32 Comm.
+        
+      </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="9368">clannaid</h3><span class="citation">Cite this: eDIL s.v. clannaid or <a class="reference" href="9368">dil.ie/9368</a></span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (clann)</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">plants</span>, <span class="def">sows</span>
+        </span>: clandaim gl. obsero, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+146b8
+        . clandaim gl. obseris, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 228.33
+         ( 
+          <span><strong class="pop" style="color:blue" href="bibliography/PCr." title="eDIL Bibliography">PCr.</strong></span> 60b3
+        ). 
+rob clandad `<span class="quote">ye have been planted</span>' gl. radicati [estis], 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+21d6
+        . amal bid claind no clantis air is sonairt atreba ní 
+clantar `<span class="quote">as though they had planted a plant, for what is planted 
+dwells firmly</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 63b9
+        . 
+          roclann Pátraic [aball] i nAchad 
+inna Elti, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 232.18
+          
+        . 
+          acht ni ro clanda a lam fadesin . . . 
+.i. acht in ni ro saidestar a lam bodein, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 500.13
+          
+        . 
+          ani 
+clannus a lam fein . . . itir ubla ┐ arbur, 
+            502.13 Comm.
+          
+         
+
+          clandaid fedha isna muighib cor'bad caillte, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> ix 16 § 4
+          
+        . 
+
+          dobiur lim cóer ndeirg co nusroclandus i llubgort, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+iv 134.4
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">Of <span class="def">begetting</span> of <span class="def">children</span>:</span> 
+          clanais . . . Sarran Babona 
+co ro tuismeadh leó .u. meic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Nenn." title="eDIL Bibliography">Todd Nenn.</strong></span> 180.3
+          
+        . 
+          Adam. 
+Seth . . . / Eua Olla . . . / ro chlandsat claind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 16457
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">Of a weapon <span class="lbl">etc.</span> <span class="def">plunges</span> (in), <span class="def">thrusts</span> (in):</span> doticsa a 
+delg asa brut ┐ clandti inda gruaid `<span class="quote">drives it into her cheek</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 150.27
+        . 
+          co c.<span class="oRef">¤</span> . . . a gae . . . ind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 82a36
+          
+        . 
+          uair 
+ro clannustar an ccraoisigh . . . tria na sliasait, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 
+226.15
+          
+        . 
+          nos-clanna in sciain ind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 327
+          
+        . gor clannsat 
+a n-airm . . . ina torc (
+          torc .i. craidhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 494
+          
+        ), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 
+311.6
+         (B. na f.). 
+          co clandaind in cloidem-sa trit chride, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 
+42.13
+          
+        . By extension of the wound itself: i comcisi[n] aisli 
+i clanntar crecht `<span class="quote">in which the hurt is planted</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bretha" title="eDIL Bibliography">Bretha</strong></span> 30
+        . 
+<span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 90
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">Very freq. of <span class="def">driving</span> in, <span class="def">fixing</span> <span class="def">stakes</span>, <span class="def">houseposts</span>, 
+<span class="def">setting</span> up <span class="def">grave-stones</span>, <span class="lbl">etc.</span>:</span> 
+          co clandad leo in ime, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iv 140.z Comm.
+          
+         
+          corthe no chlantais in tan bad maidm 
+n-imairic. car[n]d im̅ fochertitís in tan bad n-orgain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+7031
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 67
+        ). 
+          co ro clantar mo lia ┐ co ro hagthar m'oenach 
+ṅgubae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 130b28
+          
+        . cepp i clandta do indeuin `<span class="quote">a block 
+where thine anvil might be planted</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 134.7
+        . 
+          clannais 
+liic and sin i talmain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 22276
+          
+        . 
+          fail sund gabuil . . . / . . . / 
+giá lin ros cland i talmain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 730
+          
+        . cor chland cleatha 
+and (as a sign of taking possession), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xvi 66.82
+        . 
+          airm a 
+clannfai[de] a lecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 6
+          
+        . 
+          roclandad . . . pupall Domnaill, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 236.81
+          
+        . 
+          roclann C. an cétcleath i Clúain. Atbert C. 
+. . . ic sádhudh na clethi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 4379
+          
+        . Dia romc[h]lann i 
+cceirt gan chonn `<span class="quote">thrust me in rags</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 40.12
+        . Hence, 
+<span class="trans">
+          <span class="def">buries</span>:</span> 
+          i ṅAchud cháin clantair / Nathí, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Aug. 9
+          
+        . 
+          clanntair 
+.i. adnaicther, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 453
+          
+         (citing prec.). 
+          an té i dTráigh Lí 
+is clannta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> iii 204.13
+          
+        . ? <span class="lbl">Cf.</span> also: fer clandas 
+cuithigh i tír a chéili `<span class="quote">that digs a pitfall</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 472
+        , but 
+perh. read claides. See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 claidid">1 claidid</a></span>.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) Hence also, <span class="trans">
+          <span class="def">settles</span>, <span class="def">establishes</span> (oneself)</span> (trans. and 
+intrans.): 
+          is tre ḟīr flaitheman cech comarba cona chlí inna 
+caīnorba clannus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 92 § 16
+          
+        . 
+          i flaith Chríst ro clandad / 
+ochtmoga cáin ciṅged, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Feb. 14
+          
+        . Hūi Gabla Roīrenn . . . 
+co clantais co Āth Lethnocht <span class="ediltr">so that they used to settle as far 
+as A.L.</span>? 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 34.28
+        . 
+          gabais Cobthach cīaso chīan / 
+clandais slūago, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 108 § 4
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 7357
+        ). 
+          caidhe a lín for 
+sét īar sain / dia rochlann i mBretanchaib?, 
+            xiii 3 § 5
+          
+        . 
+          crich 
+for clandsad a chuiri, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 36b27
+          
+        . ? 
+          clandtar cirb' airligther 
+cath conceard tuindi im morthír toirtheach, 
+            40a54
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) Fig. <span class="trans">
+          <span class="def">establishes</span>, <span class="def">settles</span> (of laws, institutions <span class="lbl">etc.</span>); 
+<span class="def">implants</span>:</span> cid clannas aile? Noil ┐ iuail `<span class="quote">what settles the stake? 
+An oath and prescription</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 142.1 Comm.
+         mad senaigter 
+cise noail no clanna? `<span class="quote">if it be denied, by what oath shall it 
+be settled</span>?' 
+          3 Comm.
+         
+          clandad dliged, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 2.11
+          
+        . 
+          ní 
+inna n-aicniud ro chlannad molad Dé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lib.Hymn." title="eDIL Bibliography">Lib. Hymn.</strong></span> i 71 n.37
+          
+        . 
+
+          manab dib cumachta clanntar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 254.6
+          
+        . 
+          eneclann, 
+arindī clantar i n-inc[h]aib duine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 531
+          
+        . ? 
+          for i ni 
+clanntar don oigh ina henech, in eneclann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 228.29
+Comm.
+          
+         (`<span class="quote">what is due to the virgin for her honor</span>'). 
+          inī clannus 
+i n-inchaib dib so uili, 
+            120.30 Comm.
+          
+         (`<span class="quote">which is levied for the 
+protection of</span> . . . '). Plummer, MS. notes, suggests `<span class="quote">arises, 
+proceeds from, accrues</span>'. 
+          do Ḟergal / clandad chomram, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+23438
+          
+         (`<span class="quote">who established glory</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 51 § 12
+        ).</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

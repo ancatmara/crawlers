@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="35181">rí</h3><span class="citation">Cite this: eDIL s.v. rí or <a class="reference" href="35181">dil.ie/35181</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                ríi, rí, ríg, ríg, ríg, rí, rig, ríg, ríga, riga, rígaib, ríga, rígu, righu, ríghthe, ríogh, rígh, rígh, ríghthe, ríoghaibh</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype g">g</span>, <span class="gen m.">m.</span> O.Ir. <span class="case n">n</span>
+      <span class="number s.">s.</span> ríi. 
+        rí, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28a15
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        ind ríg
+        , 
+          17d13
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 55c1
+      . 
+<span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        ríg, 
+          34a9
+        
+      , 
+        55c1
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> ríg. <span class="case v">v</span>
+      <span class="number s.">s.</span> 
+        rí, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 4
+        
+      , 
+        7
+       <span class="lbl">et pass.</span> <span class="case n">n</span>
+      <span class="number du.">du.</span> 
+
+        na dá rig
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3678
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 33
+      ). <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        inna ríg
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 23b8
+        
+      , <span class="lbl">cf.</span> 
+        85d7
+      . 
+<span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        inna ríga
+        , 
+          123c3
+        
+      . 
+        la riga
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28a1
+        
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        ho rígaib
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5a5
+        
+      . This inflexion persists in the main throughout 
+Mid.Ir.; <span class="case n">n</span>
+      <span class="number p.">p.</span> ríga also occurs; <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        rígu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3602
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 30
+      ). 
+
+        righu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 120.21
+        
+       (Eg.). In class. Irish the <span class="number pl.">pl.</span> ríghthe becomes 
+common (Keating). rí (declined like file), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. § 21
+      . 
+Mod. <span class="case g">g</span>
+      <span class="number s.">s.</span> ríogh, <span class="case a">a</span>
+      <span class="case d">d</span>
+      <span class="number s.">s.</span> rígh, <span class="case n">n</span>
+      <span class="number p.">p.</span> rígh, ríghthe, <span class="case d">d</span>
+      <span class="number p.">p.</span> ríoghaibh.</p>
+   
+    <p class="result"> 
+<span class="trans">A <span class="def">king</span>
+      </span>: transl. rex and princeps in Glosses. 
+        ní bí in rí . . . 
+fu máam nach aili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 71b10
+        
+      . amtis forbristi ind ríg, gl. 
+<span class="trans">
+        <span class="ediltr">principibus oppressis</span>
+      </span>, 
+        85d7
+      . dorimther a scel-sa hí lebraib ríg 
+<span class="trans">
+        <span class="ediltr">in the Books of Kings</span>
+      </span> (= <span class="frn ">Libri Regum</span>), 
+        23b8
+      , <span class="lbl">cf.</span> 
+        30b16
+      . 
+        aimser 
+ríg ┐ aimser breitiman ┐ aimser sacairt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 4.101
+        
+      .</p>
+  
+  
+    <p class="result"> 
+In relig. lit., esp. poetry, often of the Deity; common in SR 
+and Fél. 
+        is mebul elud rig firinne, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 7.34
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Acr." title="eDIL Bibliography">Acr.</strong></span> 17v1
+      ). 
+
+        a ṅdorigenai in rí do ḟertaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 23
+        
+      . 
+        ateoch ríg n-amra 
+n-aiṅgel, 
+          vi 1
+        
+      . 
+        for foísam ríg na ndúle, 
+          i 53
+        
+      . 
+        rí betha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+5685
+        
+      . 
+        immon ríg ós nélaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 22
+        
+      . </p>
+  
+  
+    <p class="result"> 
+In Ireland used of the various grades of chiefs from the 
+high-king (rí Érenn, rí Temra, also called ardrí in distinction 
+to other kings) through the kings of the provinces down to the 
+chiefs of peoples or districts; see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 50 fg
+      . and BR. 
+        ni 
+ba tuath tuath gan . . . rígh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 31. 10
+        
+      . 
+        ni ba rí ri gan 
+folaidh, 
+          <span class="lbl">ib.</span> 14
+        
+      . deich ríg . . . do ḟindrígaib funid | Aed Emna, 
+Niall Ailig, Fland Temra, <span class="lbl">etc.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 46a2
+      . 
+        rí ruirech: aca side 
+bid righa .i. rí cuicid ┐ ri Erenn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 226 y Comm.
+        
+       See 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> p. 13
+      . rí, túath, rí túaithe, see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> p. 104
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+xiii 47.25
+      . 
+        do gessaib ríg Temrach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 54
+        
+      . 
+        rí cach cóicid, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 118.20
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10710
+      ). 
+        d'ingenaib ríg ┐ rígthoisech Ulad, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1761
+        
+      . 
+        na ríg ┐ na toisig . . . im Concobur im ardríg 
+nUlad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 28
+        
+      . 
+        ó do ghabhadar ríghthe Éireann creideamh, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5344
+        
+      . 
+        do bhí Cormac ar na ríoghaibh ba flaitheamhla . . . da raibhe do ríghthibh i nÉirinn, 
+          4740
+        
+      . nach 
+bíodh do ghairm i nÉirinn inallód acht gairm ríogh ag a 
+bhflathaibh fearainn <span class="trans">
+        <span class="ediltr">the only title their territorial chiefs had 
+was that of king</span>
+      </span>, 
+        iii 93
+      .</p>
+  
+  
+    <p class="result"> 
+Of foreign kings: 
+        mac ríg Bretan, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 22
+        
+      . 
+        Saul . . . ri cóir 
+clainni Israhél, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5794
+        
+      . 
+        cérbo rí in domuin | Nabcodon, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 
+Prol. 93
+        
+      . do Philip . . . do ríg Román (<span class="lbl">i.e.</span> Roman emperor), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 32
+      . 
+        dedenrí na nAsarda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 144a22
+        
+      . Oenric rí in domaín 
+(<span class="lbl">i.e.</span> German emperor), 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvii 363.18
+       (Tig.). an rélta do bí 
+roim na rígaib . . . na tri rígdha (= rígthe), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> 58
+       (of the 
+Wise Kings or Magi). rí ar cach tír . . . ┐ rigthi fá droing díb 
+(<span class="lbl">i.e.</span> a king and subkings), 
+        243
+      .</p>
+  
+  
+    <p class="result"> 
+Of the head (abbot) of a monastery: 
+        Constantín rí Rathin, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Mar. 11
+        
+      . 
+        Ruadhán rígh Lothra, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> i 66 § 129
+        
+      . <span class="lbl">Cf.</span> 
+use of princeps in same sense.</p>
+  
+  
+    <p class="result"> 
+Folld. by <span class="case g">g</span>
+      <span class="number p.">p.</span> of a class, calling, <span class="lbl">etc.</span> <span class="trans">
+        <span class="def">head</span>, <span class="def">chief</span>, <span class="def">foremost</span>
+      </span>: 
+a rí láech nErend (of Cú Chulaind), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8393
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 27
+      ). 
+        rí arad 
+hErend (<span class="lbl">leg.</span> nErend) .i. ara Con Culaind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 121a27
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 
+179.31
+      ). 
+        rí ech hErend .i. in Liath Macha
+        , 
+          <span class="lbl">ib.</span> 54
+        
+      . 
+        ní tucsam 
+. . . acht ríga na slúag sin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 32
+        
+       (<span class="lbl">i.e.</span> the leading saints 
+and martyrs). 
+        na loisc ríg na fed, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 245.15
+        
+       (of some kind of 
+tree).</p>
+  
+  
+    <p class="result"> 
+For compds. see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=r&#xED;g-">ríg-</a></span>.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

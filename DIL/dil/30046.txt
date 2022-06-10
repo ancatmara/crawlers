@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="30046">lethan</h3><span class="citation">Cite this: eDIL s.v. lethan or <a class="reference" href="30046">dil.ie/30046</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/></div><div class="col-sm-9 result_content">
+   
+
+
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype o,-&#x101;">o, ā</span>
+      
+        bean leathan, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 137
+        
+      . 
+        na mná leithni, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Abstr.Nouns" title="eDIL Bibliography">Abstr. Nouns</strong></span> 255.13
+        
+      .</p>
+  
+  
+    
+      <p class="result">
+        <span class="edilb">I</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">broad</span>, <span class="def">wide</span>; <span class="def">wide-spread</span>
+          </span>: 
+            fo 
+thonnaib lir lethain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Nov. 23
+            
+          . 
+            súid . . . / ata lethna 
+lindi, 
+              Ep. 82.
+            
+           ro milled in gentlecht / cíarbo lígdae l.<span class="oRef">¤</span>
+           <span class="ediltr">wide-spread</span>, 
+            Prol. 214.
+           
+            fuar inocht Mag lethon Luirc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 
+130.22
+            
+          . 
+            fairend diarbo chumu[n]c ar thús ┐ díarbo l.<span class="oRef">¤</span> fo 
+deóid . . . in sét, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2160
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 23
+          ). 
+            lecca lethna tentide, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span>
+               2234
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span>
+             30
+          ). 
+            muir l.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Otia" title="eDIL Bibliography">Otia</strong></span> ii 82 § 5
+            
+          . 
+            berrtha lethna leo, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+181
+            
+          . Ruide mac Luigdech lethain `<span class="quote">broad-built</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iv 368.23
+          . 
+            do thraigthe luchra lethna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sitzungsb.Pr.Akad." title="eDIL Bibliography">Sitzungsb. Pr. Akad.</strong></span> 1912, 439 § 5
+            
+          . 
+
+            co laighnibh lethna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 174
+            
+          . 
+            tri fasaib leathna 
+lanmora na Lombuirde, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 35.22
+            
+          . sirtha lethna <span class="ediltr">wide-ranging</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Comp.CC" title="eDIL Bibliography">Comp. CC</strong></span> 80.7
+          . 
+            longp[h]ort lethan, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1060.
+            
+           
+
+            linnti lethna, 
+              1231
+            
+          . 
+            is l.<span class="oRef">¤</span> ┐ is fairsiung in sét, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4000
+            
+          . 
+            for 
+méis lethain, 
+              902
+            
+          . 
+            is comartha ar laidirecht an eich mong l.<span class="oRef">¤</span> 
+┐ druim gerr, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span>
+              ii 44 § 34
+            
+          . 
+            an dara ród, bhíos leathan 
+fairsing, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 9646.
+            
+           In chevilles: 
+            l.<span class="oRef">¤</span> scél, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6215
+            
+          . 
+            l.<span class="oRef">¤</span> smacht, 
+
+              1295
+            
+          . 
+            l.<span class="oRef">¤</span> slicht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AirneF." title="eDIL Bibliography">Airne F.</strong></span> 259.
+            
+           Fig. bad l.<span class="oRef">¤</span> for menme <span class="frn ">et</span> 
+for cride gl. dilatamini, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 16a15
+          . cid uathad in timna-sa 
+i ḟoclaib . . . is l.<span class="oRef">¤</span> hi ceill <span class="ediltr">of wide application</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5839.
+           In gramm., <span class="frn ">conson lethan</span> <span class="trans">a velarized <span class="def">consonant</span>
+          </span>
+          : 
+            dísbeagadh cáol no leathan, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT Introd.</strong></span> § 113
+            
+          . 
+            ag oireamhuin don fhocal bhíos roimhe bhíos an barr madh cáol no leathan é, 
+              § 149
+            
+          . 
+            gach ainm iollraidh cáol ┐ a thochlughadh lethan, 
+              § 158
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">level</span>:</span> tuicter gorab cruinn ataid fein ┐ nach l.<span class="oRef">¤</span>
+           `<span class="quote">spherical, 
+and not flat</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 88.10
+          . da madh na claraibh 
+lethna do bedis `<span class="quote">level planes</span>', 
+            4
+          .</p>
+      
+     
+      <p class="result"> 
+<span style="color: #ff8000">Equat.</span> (see Bergin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiv 142 f
+        .): 
+          duillind . . . / lether 
+seiche[d] rodoim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Snedg.u.MacR" title="eDIL Bibliography">Snedg. u. Mac R</strong></span> § 30
+          
+         (see Gwynn, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Hermathena" title="eDIL Bibliography">Hermathena</strong></span> xx 68
+        ). 
+          leithir damseithi ind oenṡúil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 
+516
+          
+        . 
+          oenṡúil . . . leithigthir damṡechi, 
+            406
+          
+        . 
+          leithidir tri 
+artemu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 252b40
+          
+        . 
+          leithir leth ndamsheiche cechtar a nda 
+thraig, 
+            23
+          
+        . 
+          lethidir cró dernann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 96 § 14
+          
+         (= 
+          lethi 
+na, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4492
+          
+        ). 
+          lethithir fria gach cethrar don droing dhaenna 
+a bhfhir ┐ a mna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 187
+          
+         (lethightir, MS.).</p>
+     
+      <p class="result"> 
+<span style="color: #ff8000">Compar.</span> as letha gl. latiore, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 44c27
+        . 
+          nícon ba letha a 
+scíath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 24.10
+          
+         (leithe, lethe, lethei, <span class="lbl">v.ll.</span>). 
+          scíath . . . / 
+ba lethiu indá damseche, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5772
+          
+        . 
+          iadais indara súil 
+connárbo lethiu indás cró snáthaiti, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4881
+          
+        . 
+          poll talman 
+bus lethne inás, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBCSt." title="eDIL Bibliography">TBC St.</strong></span> 4671
+          
+         = leithe, H, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 821 n. 2
+        . 
+
+          leithne . . . ná an fairge, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Job</strong></span> xi 9
+          
+        . Fig. <span class="trans">more <span class="def">comprehensive</span>, 
+of <span class="def">wider</span> <span class="def">application</span>
+        </span>: is lethiu enech ríg aidbriud `<span class="quote">a king's 
+honour is wider than any claim</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 235
+         (of the difficulty 
+of going security for a king). 
+          leithiu firinde fasaigib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 
+1746
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/23Q6" title="eDIL Bibliography">23 Q 6</strong></span>, 32
+        ). 
+          do trōcaire . . . as lethi cech muīn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Otia" title="eDIL Bibliography">Otia</strong></span> ii 
+97 § 31
+          
+        . patronoimic is leithe a fuirmed <span class="frn ">quam</span> a innde 
+<span class="ediltr">its application is wider (implies more) than its intrinsic 
+meaning</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 3394.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> As <span class="pos subst." style="color: #ff8000">subst.</span> <span class="trans">
+          <span class="def">broad</span> <span class="def">part</span>
+        </span>: 
+          ar l.<span class="oRef">¤</span> Locha Eirne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 26.26
+          
+        . ó 
+filltibh a occsall co llet[h]an a les `<span class="quote">to the broad of his thighs</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5238
+        . 
+          buille . . . a l.<span class="oRef">¤</span> an sceith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 295.y
+          
+        . 
+          na tri 
+lethain do horduiged isin ech .i. l.<span class="oRef">¤</span> idir a da suil ┐ idir a da 
+sáil ┐ idir a da máoil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> ii 56 § 28
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+Compds.</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) With <span class="pos nouns." style="color: #ff8000">nouns.</span> 
+            <span class="oRef">¤</span>chlais <span class="trans">
+            <span class="def">wide</span> <span class="def">trench</span>
+          </span>: 
+            ro claided 
+lethanclais landomain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3437
+            
+          . 
+            <span class="oRef">¤</span>lott <span class="trans">
+            <span class="def">widespread</span> 
+<span class="def">destruction</span>
+          </span>: 
+            teidhm leathanloit thiar is toir / bha Thrían 
+gcreachordhruic gConghoil, 
+              <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 144.151
+            
+          . 
+
+            <span class="oRef">¤</span>los <span class="trans">
+            <span class="def">broad</span> <span class="def">end</span>
+          </span>: 
+            cuarsciath . . . cona let[h]anloss inncael, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5316
+            
+          . 
+            <span class="oRef">¤</span>muir: 
+            is lūath lūi re l., 
+              <span><strong class="pop" style="color:blue" href="bibliography/Otia" title="eDIL Bibliography">Otia</strong></span> ii 82 § 7
+            
+          . 
+            <span class="oRef">¤</span>rosg: 
+
+            'na lethanrusg, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 539.4
+            
+          . 
+            <span class="oRef">¤</span>scíath: 
+            dá lethanscíath 
+landaṅgni, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3611
+            
+          . 
+            <span class="oRef">¤</span>slúasait: da let[h]ansluasait . . . ica 
+fulang `<span class="quote">two broad feet</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4034
+          . 
+            leathan-ucht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 885.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) With nouns. to form <span class="pos adjj." style="color: #ff8000">adjj.</span> 
+            <span class="oRef">¤</span>chenn: 
+            a llaigen lethanc[h]enn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5820
+            
+          . 
+            <span class="oRef">¤</span>enech: 
+            Longsech leth[an]ainech, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC4;lt.Ir.Dicht." title="eDIL Bibliography">Ält. Ir. Dicht.</strong></span> i 41 § 31.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) With adjj. forming dvandva compdd. 
+            <span class="oRef">¤</span>cháem: each 
+ríg Lifi lethanchae[i]m <span class="ediltr">broad and fair</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 90.10
+          . 
+            <span class="oRef">¤</span>ḟota: 
+
+            tíre lethanfoda Lochlann, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 153
+            
+          . 
+            <span class="oRef">¤</span>gér: 
+            na hairm līmtha 
+lethan-gēra, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1723
+            
+          . 
+            <span class="oRef">¤</span>glas: 
+            laigni . . . lethanglasa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 
+158.24
+            
+          . 
+            dubṡlega lethanglasa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 750
+            
+          . 
+            co Luimneach 
+l. / frismbarca ben, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 154.2
+            
+          . 
+            co hAlmain lethanglais 
+Laigen, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5708
+            
+          . 
+            <span class="oRef">¤</span>lebar <span class="trans">
+            <span class="def">broad</span> and <span class="def">long</span>
+          </span>: 
+            do laighnibh 
+lethanlebraibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1962
+            
+          . 
+            <span class="oRef">¤</span>mór: 
+            ind Almain lethanmoir 
+Laigen, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5862
+            
+          . 
+            laighne lethanmhóra, 
+              <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 162.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) With part. 
+            <span class="oRef">¤</span>scaílte <span class="trans">
+            <span class="def">widely-spread</span>
+          </span>: 
+            trí monga liathghlasa . . . leathansgaoilte forra, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 120.1
+            
+          .</p>
+      
+     
+      <p class="result"> 
+See also <span class="lbl">s.vv.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=bordach">bordach</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 meirlech">2 meirlech</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 muirnech">2 muirnech</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=sc&#xED;athach">scíathach</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=sl&#xFA;aistech">slúaistech</a></span>.</p>
+     
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

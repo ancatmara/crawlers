@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="671">ag</h3><span class="citation">Cite this: eDIL s.v. ag or <a class="reference" href="671">dil.ie/671</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                n-ag, ndára, t-ag, ag, -ag, n-ag, aigi, aige, haigi, hoighi, agh, oigh, aige, aighi, oighe, aige, aigh, ag, aige, aigi, aighed, aighib, agh</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> orig. <span class="itype s">s</span>, <span class="gen n.">n.</span> Later <span class="gen m.">m.</span> and <span class="gen f.">f.</span> <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        a n-ag
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 7
+        
+      . 
+        agh ndára
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 982.y
+        
+      . 
+        in t-ag
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 240.9 Comm.
+        
+       
+        in ag
+        , 
+          iv 24.12
+        
+       
+Comm. <span class="case a">a</span>
+      <span class="number s.">s.</span> -ag (aigh, <span class="lbl">v.l.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3382
+      . <span class="number du.">du.</span> 
+        da n-ag
+        , 
+          1324
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+
+        ind aigi
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 9.4
+        
+      . 
+        aige, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 550
+        
+      . 
+        na haigi
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 
+1709
+        
+      . 
+        na hoighi
+        , 
+          1715
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        agh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 240.7 Comm.
+        
+       
+        oigh, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 893
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        aige, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 518
+        
+      . 
+        aighi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 276
+        
+      , 
+
+        oighe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> i 64 § 57
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        aige, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 1.9
+        
+      . 
+        aigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 
+120.3 Comm.
+        
+       <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        ag, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 1769
+        
+      . 
+        aige, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9412
+        
+      . 
+        aigi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 
+144.15 Comm.
+        
+       
+        aighed, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 102.1
+        
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        aighib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 274
+        
+      . Note: 
+
+        a richt dā n-agaid allaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 90.2
+        
+      . agh <span class="gen m.">m.</span> and <span class="gen f.">f.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> 
+Decl. §§ 31, 45
+      . See Vendr. Lex.</p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">bovine animal, <span class="def">cow</span>, <span class="def">ox</span>:</span> íar n-él(a)úd aige <span class="ediltr">after the escape 
+of an ox (bullock</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 550
+        . a.<span class="oRef">¤</span> loige meich <span class="ediltr">an ox of the 
+value of a sack</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 347 § 8
+        . 
+          a.<span class="oRef">¤</span> i fur ┐ molt a fur ┐ muc a 
+fur, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 78.2 Comm.
+          
+         
+          fuil aidhe . . . fuil dam . . . fuil muc, 
+
+            152.3
+          
+        . 
+          a.<span class="oRef">¤</span> imsoi dia eol, 
+            268.18
+          
+        . 
+          eascaire . . . inn aighi mir, 
+iii 272.12 Comm.
+          
+         
+          a.<span class="oRef">¤</span> o cach fiur do, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 887
+          
+        . 
+          a.<span class="oRef">¤</span> fireand 
+cacha indise, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 602
+          
+        . 
+          a.<span class="oRef">¤</span> teora ferglacc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 3.14
+          
+        . 
+.xxx. aige . . . / nirbo luchtlach dó (of a cauldron), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9412
+        . 
+
+          mucc ┐ a.<span class="oRef">¤</span> ┐ dabach do cach ḟir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 12479
+          
+        . 
+          is de sin ba lán 
+in caire / do cuirthea ár aige ann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 362.19
+          
+        . tricha aigi a 
+lucht in choiri `<span class="quote">thirty cows</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 20 § 1
+        . 
+          adciadis a n-Aenach 
+Lipthí broga for aghaib bleithi, eich fo berti blaithi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+322
+          
+        . agh ndára gacha trír `<span class="quote">an incalf heifer</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 982.y
+        . 
+Fig. of a warrior: 
+          ba méthiu a n-a.<span class="oRef">¤</span> fo-rācbais-[s]iu ocainni, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 7
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">deer</span>, <span class="def">stag</span>
+        </span> (usually with <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=allaid">allaid</a></span>): 
+          na haigh allta amhuil na 
+haigh ceannda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 120.3
+          
+         = 
+          na haigi alta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1686
+          
+         
+(H. 5.15, p. 29b). 
+          ocht n-aige altai do techt . . . fon sliab, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 518
+          
+        . 
+          timmairg . . . ina fuair do muccaib ┐ d'aigib alta 
+┐ d'ernail cacha fíada, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10485
+          
+        . 
+          almai d'aigib alta . . . 
+gebis da n-ag . . . díb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1319 , 1324
+          
+        . 
+          ailbin d'aighib 
+alltaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 274
+          
+        . 
+           amal aig n-allaid . . . iter cuanairt, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+1881
+          
+        . 
+          ar cind aigi ┐ cūanart, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2508
+          
+        . 
+          in cu bis ar cae 
+aiceda . . . na naighi i n-aimsir fiadaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 144.15 Comm.
+          
+         
+
+          dosennat na secht n-aige, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 58
+          
+        . 
+          ag fiadhach ar mucaib ┐ 
+aidhib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 146.21
+          
+        . 
+          Arann na n-aighed n-imda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 102.1
+          
+        . 
+
+          oighe míolla . . . / 'na loighe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 43.11
+          
+        . maran agh 
+thaitneamhuigh <span class="ediltr">pleasant roe</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> v 19
+        . <span class="trans">Somet. <span class="def">doe</span>, <span class="def">hind</span>.</span> 
+Fig. of a person: 
+          a láogh na hoighi ó íadh Muile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SGS" title="eDIL Bibliography">SGS</strong></span> iv 
+146 § 33
+          
+        . 
+          Mac Moire . . . laogh oighe dar n-ealbha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> 
+viii 17
+          
+        .</p>
+     
+      <p class="result"> 
+Compds. ? 
+          agerna .i. laogh bo, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 970
+          
+         (H.3. 18, 416). 
+agmuilt (<span class="case g">g</span>
+        <span class="number s.">s.</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 104 § 203
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

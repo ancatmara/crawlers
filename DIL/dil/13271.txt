@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="13271">1 cruth</h3><span class="citation">Cite this: eDIL s.v. 1 cruth or <a class="reference" href="13271">dil.ie/13271</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                crotha</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype u">u</span>, <span class="gen m.">m.</span> <span class="case g">g</span>
+      <span class="number s.">s.</span> crotha. c.<span class="oRef">¤</span>
+       <span class="gen m.">m.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 72
+      . <span class="trans">
+        <span class="def">form</span>, <span class="def">shape</span>, 
+<span class="def">appearance</span>; <span class="def">beauty</span> of <span class="def">form</span>, <span class="def">shapeliness</span>
+      </span>: 
+        c.<span class="oRef">¤</span> .i. gne . . . cia c.<span class="oRef">¤</span> 
+is bunadh cach n-ae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 509
+        
+      . 
+        dorosait grein crotha 
+glain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 291
+        
+      . do thaidbred a chrotha di <span class="ediltr">to show himself to 
+her</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10193
+      . 
+        comchutrumma . . . eter ch.<span class="oRef">¤</span> ┐ écosc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fraech" title="eDIL Bibliography">Fraech</strong></span> 
+8
+        
+      . 
+        c.<span class="oRef">¤</span> cách co hEtaín, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 43
+        
+      . 
+        c.<span class="oRef">¤</span> a mban, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 88.6
+        
+      . 
+
+        eter ch.<span class="oRef">¤</span> ┐ deilb ┐ dechelt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 7472
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 102
+      ). c.<span class="oRef">¤</span> ceill <span class="ediltr">in 
+beauty and sense</span> (<span class="lbl">rhet.</span>), 
+        8441
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 30
+      ). 
+        saineamla cec doen 
+a crut, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 8
+        
+      . 
+        mesir eocha ar a méd sgeó crotha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+xiii 41.z
+        
+      . direnaiter crotha cummai `díre <span class="ediltr">is paid for maimed 
+figures</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> 64
+      . 
+        ríg rochrotha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 366.18
+        
+      . 
+
+        na crotha ilardha .i. find ┐ dub ┐ brecc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 23 n.l
+        
+      . 
+crotha na ceall `<span class="quote">condition</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xviii 66 § 36
+      . 
+        F. . . . go lí 
+ccroth, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> ii 16 § 5
+        
+      . 
+        do chinn ar áile ┐ ar ch.<span class="oRef">¤</span> clainni 
+na mban, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SmaointeB.Chr." title="eDIL Bibliography">Smaointe B. Chr.</strong></span> 5557
+        
+      . do-chuaidh c.<span class="oRef">¤</span> maith a 
+n-ēagcruth dhí `<span class="quote">she changed colour</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 71.250
+      . 
+        claochlōd crotha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1601
+        
+      . 
+        fáilte . . . / do ch.<span class="oRef">¤</span> t'aighthe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+19.12
+        
+      . i gcrothaibh fallsa <span class="trans">
+        <span class="def">disguised</span>
+      </span>, 
+        26.29
+      . 
+        an cruithsin 
+i dtarla an taobh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 96.7
+        
+      . rachuid as a cc.<span class="oRef">¤</span>
+       = <span class="ediltr">shall 
+languish</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Isaiah</strong></span> xix 8
+      . ga crotha dona ceartuibh ó mbeantur 
+íad <span class="ediltr">which grammatical forms they are derived from</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT Introd.</strong></span> § 2 (2.12)
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">In sense of <span class="def">misfortune</span>, <span class="def">distress</span>, <span class="lbl">etc.</span>
+      </span> (<span class="lbl">cf.</span> i c.<span class="oRef">¤</span>
+       with follg. 
+gen. <span class="lbl">infra</span>): an rí i gcrothuibh dhar gcinn-ne (of Christ on the 
+Cross), 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 48.25
+       `cráidhte', Gloss. 
+        a ttrén do-chóidh a 
+gcrothuibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LBranach" title="eDIL Bibliography">LBranach</strong></span> 6844
+        
+       (see n.). do-chóid an bhraoin-eangsa i gcrothaibh céimionnsa `<span class="quote">has come on hard mischances</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 35.2
+      . 
+        i gcrothaibh do-chuaidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 103.16
+        
+      . 
+
+        do-cháidh a gc.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 1775
+        
+       `<span class="quote">became a mere shadow</span> (?)', 
+Gloss.</p>
+  
+  
+    <p class="result"> 
+In prepositional phrases: a c.<span class="oRef">¤</span> mairb `<span class="quote">as one dead</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 
+3828
+      . 
+        i gc.<span class="oRef">¤</span> neoil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 17.12
+        
+      . a cc.<span class="oRef">¤</span> airdreannaigh aieóir 
+<span class="ediltr">like</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Review" title="eDIL Bibliography">Ir. Review</strong></span> 1913, 623 § 4
+      . 
+        ar bhfaicsin Críost i gc.<span class="oRef">¤</span> 
+bháis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 16.5
+        
+      . i gcrothaibh báis `<span class="quote">on the point of death</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 3198
+      . ar ndul dí i gcrothaibh cumhadh <span class="ediltr">having 
+given way to grief</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> liii 3
+      . a c.<span class="oRef">¤</span> a beith . . . tairisi 
+dó <span class="ediltr">pretending to be faithful to him</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Expugn.Hib." title="eDIL Bibliography">Expugn. Hib.</strong></span> 63
+      . i gc.<span class="oRef">¤</span> 
+ghabhála Gaoidheal `<span class="quote">about to rule all G.</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 3.7
+      .</p>
+  
+  
+    <p class="result"> 
+In <span class="pos adverbial" style="color: #ff8000">adverbial</span> phrases. in ch.<span class="oRef">¤</span> so (sin <span class="lbl">etc.</span>) <span class="ediltr">in this <span class="lbl">etc.</span> way</span>, 
+alailiu ch.<span class="oRef">¤</span>
+       <span class="ediltr">in another way</span> (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 161
+      ): 
+        isin ch.<span class="oRef">¤</span> 
+sin bimmi nóibni, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3d27
+        
+      . is inchrud sin rofitir . . . rúna 
+dée gl. ita . . . cognovit, 
+        8b10
+      . 
+        madinch.<span class="oRef">¤</span> sin beithe, 
+          18b16
+        
+      . saichi crud '<span class="quote">whatever way</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 23 b 22 (a prima manu). 
+isinch.<span class="oRef">¤</span>so romboi dossom `<span class="quote">it is thus that he has been</span>', 
+        33b1
+      . no 
+isin ch.<span class="oRef">¤</span>sa gl. uel certe ita, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 44b16
+      . alailiu ch.<span class="oRef">¤</span>
+       gl. aliter, 
+
+        98d1
+      . nírubai nach c.<span class="oRef">¤</span> ailiu `<span class="quote">it cannot be otherwise</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 7b3
+      . 
+
+        conid gau dóibsem in ch.<span class="oRef">¤</span> sin, 
+          40a15
+        
+      . inchrutsin `<span class="quote">in that 
+manner</span>', 
+        63a14
+      . níbbad bind nach c.<span class="oRef">¤</span> ailiu `<span class="quote">otherwise</span>', 
+        58b5
+      . 
+inchrutsa gl. sícuti, 
+        111a5
+      . 
+        luidseom . . . in c[h].sa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 153
+        
+      . 
+dia marbad ind c.<span class="oRef">¤</span> sin `<span class="quote">in this fashion</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 147.17
+      . 
+baghaso an crutsa <span class="ediltr">thus</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 108.9
+      . 
+        céin bes in ben in c.<span class="oRef">¤</span> 
+ucut, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 1047
+        
+      . nī hinill do crāibdech airbera bith nach c.<span class="oRef">¤</span> 
+la ṡōerbrāth fēin `<span class="quote">in any way</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 29.3
+      . fofrith ind 
+ingin inc.<span class="oRef">¤</span>so arrubartait `<span class="quote">in the form</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 345.16
+      . ba 
+biodhba cech c.<span class="oRef">¤</span>
+       `<span class="quote">in every way</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 72
+      . Later with 
+prec. prep.: . . . fo'n c.<span class="oRef">¤</span>-sin <span class="ediltr">thus</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 814
+      . fon cc.<span class="oRef">¤</span> ccétna 
+<span class="ediltr">similiarly</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 54.17
+      . 
+        do bheith san ch.<span class="oRef">¤</span>-so, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+68.14
+        
+      . 
+        Gaoidhil san ch.<span class="oRef">¤</span> chéadna-sain, 
+          92.9
+        
+      . a gníomh dá 
+chora i gc.<span class="oRef">¤</span>
+       <span class="ediltr">proving it</span> (?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 46.10
+      . crú an ochta dá 
+chora i gc.<span class="oRef">¤</span> nach . . . <span class="ediltr">ensuring</span>, 
+        95.20
+      . ? an Bhanbha do 
+bhiadh 'n-a ch.<span class="oRef">¤</span>/ a labhra do Bh. `<span class="quote">B. will be plainly seen 
+calling for B.</span>', 
+        7.8
+      .</p>
+  
+  
+    <p class="result"> 
+In quasi-<span class="pos conjunctional" style="color: #ff8000">conjunctional</span> use (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 546
+      ): c.<span class="oRef">¤</span> 
+nandat chomsuidigthi `<span class="quote">as they are not</span> . . . ', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 201b12
+      . in 
+ch.<span class="oRef">¤</span> nandrann insce `<span class="quote">as</span>', 
+        221b7
+      . inch.<span class="oRef">¤</span> donelltar <span class="frn ">mús</span>
+       `<span class="quote">as <span class="frn ">mus</span> 
+is declined</span>', 
+        109a4
+      . con-eícdid doib c.<span class="oRef">¤</span> ropridchissem `<span class="quote">how we 
+have preached</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 24c17
+      . 
+        c.<span class="oRef">¤</span> assechidi bethu <span class="frn ">et</span> nebmarbtu, 
+
+          29d24
+        
+      . ronguil Caindlech, c.<span class="oRef">¤</span> rochar `<span class="quote">even as she loved</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 238.41
+      . in c.<span class="oRef">¤</span> cétna rothairngert `<span class="quote">in the same way</span>', 
+
+        ii 30.56
+      . 
+        co méd mo chomairle / c.<span class="oRef">¤</span> codan-ic, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 220.31
+        
+      . 
+
+        c.<span class="oRef">¤</span> roncuala as
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 5252
+        
+      . 
+        c.<span class="oRef">¤</span> na tabair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 115a28
+        
+      . 
+
+        Críst, c.<span class="oRef">¤</span> ron-glea, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Jan. 5
+        
+       (`<span class="quote">a form that may purify us</span>').</p>
+  
+  
+    <p class="result"> 
+With cía, cip, <span class="lbl">etc.</span>: 
+        ci crud gl. <span class="frn ">quo modo</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 24 a 9 (a prima manu)
+      . ciac.<span class="oRef">¤</span>
+       gl. quomodo, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> i 6.31
+      . 
+        rofitir 
+ciach.<span class="oRef">¤</span> pridchimmeni, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 24d5
+        
+      . ciach.<span class="oRef">¤</span> forrassissiu gl. 
+quomodo . . . proficisti, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 38a9
+      . ciach.<span class="oRef">¤</span> nombiad inaicniud 
+denma . . . `<span class="quote">how could He be of a nature to do</span> . . .', 
+        17b26
+      . 
+cia c.<span class="oRef">¤</span> ṁbias `<span class="quote">how it will be</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 147a4
+      . 
+        
+          <span class="frn ">quatinus</span> .i. cifot l. 
+cic.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 480.24
+        
+       (Ench.<span class="oRef">¤</span> Aug.). cia cruthsaige (<span class="lbl">sic</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iv 68.19
+      . 
+        ciach.<span class="oRef">¤</span> fogebaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1131
+        
+      . cia c.<span class="oRef">¤</span> rohilaigthi 
+`<span class="quote">how were they multiplied</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 8.x
+      . cipc.<span class="oRef">¤</span> tra <span class="ediltr">however 
+it be</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12d24
+      . pridchidir doib cibc.<span class="oRef">¤</span>
+       `<span class="quote">howbeit</span>', 
+        14d34
+      . 
+        ni 
+confetor cib c.<span class="oRef">¤</span> ind / aingel fa Dia, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 100 § 31
+        
+      . c.<span class="oRef">¤</span> bat 
+ma <span class="ediltr">more vigorously</span>, 
+        66
+      . sechi ch.<span class="oRef">¤</span> dondrón, gl. si quomodo, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5d18
+      . 
+        cipē c.<span class="oRef">¤</span> i mbeid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 113.10
+        
+      . 
+        cib c.<span class="oRef">¤</span> nó 
+sdaid . . . a mbí siad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RSCl&#xE1;ra" title="eDIL Bibliography">RSClára</strong></span> 91b
+          
+        
+      . cecib c.<span class="oRef">¤</span> a mbaí a ḟír 
+`<span class="quote">be the truth as it might</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1820.z
+      . With article: 
+        in-c.<span class="oRef">¤</span> 
+a-fuilit feasa in-domain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 370.12
+        
+      . 's na crothaibh a 
+gcuala sinn `<span class="quote">in the way I heard them</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxx 27
+      . 
+Note also: na crotha éagsamhla ar a bhfaghaid na daoine 
+bás <span class="ediltr">ways</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 323
+      . 
+        ní fhuil c.<span class="oRef">¤</span> a mbearar ar .sh. nach 
+amhlaidh as cóir úaim ría, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Introd. § 13
+        
+      . </p>
+  
+  
+    <p class="result"> 
+Later in phr. i c.<span class="oRef">¤</span>
+       <span class="trans">
+        <span class="def">so</span> <span class="def">that</span>, in <span class="def">order</span> <span class="def">that</span>
+      </span>: 
+        a gc.<span class="oRef">¤</span> go rachadh 
+romhaibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> ix 27
+        
+      . 
+        i gc.<span class="oRef">¤</span> gurab cuma dhó a bhás nó 
+a bheatha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 95
+        
+      . 
+        i gc.<span class="oRef">¤</span> go bhféadfainn na sléibhte 
+d'aistriughadh, 
+          9413
+        
+      . 
+        a cc.<span class="oRef">¤</span> go mbia tú fírinneach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Isaiah</strong></span> xliii 
+26
+        
+      . 
+        a cc.<span class="oRef">¤</span> go raibhiodar cách lán dá ngrádh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BeathaS.F." title="eDIL Bibliography">Beatha S. F.</strong></span> 
+1359
+        
+      . a ccruith ná bíth súaimhnios <span class="ediltr">so that there is no peace</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/P&#xE1;rl.namB." title="eDIL Bibliography">Párl. na mB.</strong></span> 2463
+      .</p>
+  
+  
+    <p class="result"> 
+In chevilles: 
+        congloraib c.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 597
+        
+      . c.<span class="oRef">¤</span> nad meirb `<span class="quote">in no 
+uncertain wise</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 4.47
+      . 
+        c.<span class="oRef">¤</span> atchiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 37384
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 317.31
+      ). 
+        c.<span class="oRef">¤</span> adfiadhait, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2107
+        
+      . </p>
+  
+  
+    <p class="result"> 
+Compds. With noun: 
+        i gcruthmhalairt i n-Íosa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TrompanabhF." title="eDIL Bibliography">Trompa na bhF.</strong></span> 4168
+        
+      .</p>
+  
+  
+    <p class="result"> 
+With adjj.: 
+        ingen cruthalaind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiii 396.x
+        
+      . 
+        crethfait 
+clocha cruthamrai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8083
+        
+      . 
+        C. cóir cruthchaín, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 34195
+        
+      . 
+
+        C. condail cruthchaomh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 186.20
+        
+      . 
+        an clocc cruthfhalláin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Misc.Hag.Hib." title="eDIL Bibliography">Misc. Hag. Hib.</strong></span> 111.19
+        
+      . mo Cholla chaemh chruthgel,  
+        <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> March 23
+      . 
+        o chlaind chruthglain Colmain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 
+83b13
+        
+      . 
+        fir . . . crutghranna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 573
+        
+      . 
+        Oisín cruithmhín, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett2" title="eDIL Bibliography">Hackett²</strong></span> 22.41
+        
+      . 
+        re a comrādh cruthnaomt[h]a, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+x 341.6
+        
+      . 
+        áirdrígh . . . cruithniamdha calma, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FlowerCat." title="eDIL Bibliography">Flower Cat.</strong></span> 
+400.4
+        
+      . 
+        cathbarr cirach cruthordha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 2112
+        
+      . 
+        dod dhreic 
+chruithshlim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 46.5
+        
+      . 
+        tré chríochaibh an Choroinn 
+chruthsholuis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Atlantis" title="eDIL Bibliography">Atlantis</strong></span> iv 174.15
+        
+      .</p>
+  
+  
+    <p class="result"> 
+With adjj. derived from nouns: 
+        F. . . . / chruthbúadach, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8297
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 22
+      ). gusin inad cinnti . . . cruthfoclach 
+`<span class="trans">
+        <span class="def">definite</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 108.16
+      .</p>
+  
+  
+    <p class="result"> 
+With vb.: 
+        do chruthmhalartaigh sé é féin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TrompanabhF." title="eDIL Bibliography">Trompa na bhF.</strong></span> 3440
+        
+      . </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

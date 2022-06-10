@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="30495">lóg</h3><span class="citation">Cite this: eDIL s.v. lóg or <a class="reference" href="30495">dil.ie/30495</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                lúag, lúach, lóg, lóg, lógaib, lūaigh</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> also lúag, lúach, <span class="itype s">s</span>, <span class="gen n.">n.</span> 
+        
+          lóg n-enech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 19.
+        
+      
+      <span class="case -d"> d</span>
+      <span class="number s.">s.</span> 
+co lóg
+       gl. cum donis, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 84c12
+       should perh. read lógaib. 
+Later <span class="itype o">o</span>, <span class="gen m.">m.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 96.
+      
+      <span class="lbl"> Cf.</span> also <span class="case a">a</span>
+      <span class="number s.">s.</span> lūaigh (: tūaidh), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 263 § 4.
+      
+    </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">value</span>, <span class="def">equivalent</span>, <span class="def">worth</span>
+        </span>: 
+          ? as í so lóg (MS. asi. solō. g) gl. <span class="frn ">ursus</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/MittelalterlichevolkssprachigeGlossen" title="eDIL Bibliography">Mittelalterliche volkssprachige Glossen</strong></span> 14
+          
+        . 
+          l.<span class="oRef">¤</span> leith ungae di muccib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> 
+ii 239.19
+          
+         (Ardm.). 
+          imtoin[g] colpdaig nó a l.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 
+43
+          
+        . l.<span class="oRef">¤</span> a deg(g)ḟolaig do chách íarna m(b)íad (of sick-maintenance), 
+          48
+        . 
+          l.<span class="oRef">¤</span> gerta cacha bó di grán arbae, 
+            253
+          
+        . logh secht 
+set <span class="ediltr">the value of seven</span> `séts', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 158.24
+        . 
+          .uíí. cumala a 
+loghside do gres, 
+            iv 290.4 Comm
+          
+        . 
+          logh bó do chaoirib, 
+
+            132.23 Comm
+          
+        . 
+          an sét no a logh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 862
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 615
+        ). 
+inti nad mbi arbur feruid a logh do saimbiud a reir feine 
+`<span class="quote">value in summer food</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> 27
+        . a luad di eiric `<span class="quote">their 
+worth in wergild</span>', 
+          12 n.3
+        . 
+          lestra[i] lóge bó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 365.
+          
+         
+
+          ōenrī a lōga fo nim / co bruinne Rōma nī fil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> i 
+47 § 104
+          
+        . 
+          is moo recc, is mo luaig ind ingen-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> 
+i 5 § 13
+          
+         (Vita Brigitae). ar is mór do midlachaib a l.<span class="oRef">¤</span>
+         <span class="ediltr">they are 
+worth many m.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8754
+        . 
+          luágh tri lethpinginn d'aran, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> i 84.18
+          
+        . 
+          a luach do dhán díom dhlighe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+84.9
+          
+        . luach Éibhir Ḟinn <span class="ediltr">one to equal</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 32.4
+        . 
+          ní bhfuil 
+fios a lúaigh . . . ní mó thoimheostar airgiod ar son a lúacha, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Job</strong></span> xxviii 13
+          
+        , 
+          15
+        . (cryptic) 
+          loscog .i. log, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Goid." title="eDIL Bibliography">Goid.</strong></span> 78 § 237 (Dúil Laithne)
+          
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xlix-l 612
+        .</p>
+     
+      <p class="result"> 
+a l.<span class="oRef">¤</span> (soin) do (di ?) <span class="ediltr">such</span> <span class="lbl">cf.</span> leithéit (a) (iii): 
+          atá a lógh 
+d'fhuaire san oighreadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 110.47
+          
+        . 
+          a luach soin 
+d'ísle san fhochan, 
+            46
+          
+        . 
+          a luach d'éagcóir agallmha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> 
+xviii 2.
+          
+         <span class="lbl">Cf.</span> gan luach an deilc do dith rígh <span class="ediltr">the slightest amount</span> 
+(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 8 § 17.
+        
+      </p>
+     
+      <p class="result"> 
+Attrib. <span class="case g">g</span>
+        <span class="number s.">s.</span> is astaide in cunnrad o lias fola lanloighi and 
+<span class="ediltr">consideration of full equal value</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1140
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H2.15A" title="eDIL Bibliography">H 2.15A</strong></span>, 60
+        ). 
+
+          ni coir nach cor cen lanfolad .i. folad lanloigi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1757
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/23Q6" title="eDIL Bibliography">23 Q 6</strong></span>, 34b
+          
+        ). go ndiallait mhōr-lōigh `<span class="quote">splendid</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 
+236.29
+        ; 
+          60.z
+        . Perh.: 
+          lia logha, . . . lia luagha, lia briga . . . lia 
+buadha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliv 162 § 92.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">reward</span>, <span class="def">requital</span>, <span class="def">compensation</span>, <span class="def">payment</span>, <span class="def">price</span>
+        </span>: 
+          mad 
+ar l.<span class="oRef">¤</span> pridcha-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10d23
+          
+        . 
+          tri thabairt lóge mo precepte 
+dom, 
+            22
+          
+        . 
+          ropia a norpe nemde i ll.<span class="oRef">¤</span> far n-irnigde, 
+            27c12
+          
+        . 
+is ed l.<span class="oRef">¤</span> in degnima (gl. in pretio), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 129a1
+        . 
+          tale damsa a 
+log ar epirt do firinne lat, 
+            36a32
+          
+        . iter fochraic lego lin[d] 
+┐ bíatha[d] ┐ l.<span class="oRef">¤</span> n-ainme <span class="ediltr">compensation for disfigurement</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 49
+        . im déolaid fa l.<span class="oRef">¤</span> dlegar <span class="ediltr">whether they be gratis 
+or whether a fee is due</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xvii 68 § 9
+        . mad ainmín 
+immurgu is let[h]sét inna l.<span class="oRef">¤</span>-side `<span class="quote">a half-sét is the fee for that</span>', 
+
+          70 § 10
+        . 
+          is becc in l.<span class="oRef">¤</span> degedbarta ┐ degcoiri in sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 
+2724
+          
+        . i llúag m'imdergthá <span class="ediltr">compensation</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3978
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 45
+        ). 
+molad íar lúag `<span class="quote">praise after wages</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 10.5
+        . nech 
+écin . . . ro cendgad do luag ḟola Crist `<span class="quote">price</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 
+50.14
+        . coic fichit uinge d'ór . . . i llógh a mna `<span class="quote">compensation</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 274.16
+         (Tig.). 
+          is dar cend lúage locherthair lemsa 
+. . . é, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 10328
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3346
+        ). 
+          a ndoberó ar Dīa . . . do 
+thrūagh, . . . fogēba a lūach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 172 § 4
+          
+        . luach ara 
+chreich . . . / fúair Concubhar comarbha `<span class="quote">compensation</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 289.27
+        . 
+          leabhar . . . do dhíol ┐ clogat . . . do cheannach 
+. . . ar luach a leabhair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 510.23
+          
+        . manim léicther 
+ind ar l.<span class="oRef">¤</span>
+         <span class="ediltr">for a price</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 572
+        . 
+          mar luagh i ndearnain an 
+deilg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 51.7
+          
+        . gan lógh <span class="ediltr">free of charge</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 84.24
+        . 
+ar ngellad a marbtha d'Uilliam Burc do chind luaigi <span class="ediltr">for a 
+reward</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1310.5
+        . 
+          do bheirdís léo a luach ar na 
+reic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Acts</strong></span> iv 34
+          
+        .</p>
+     
+      <p class="result"> 
+Of the reward or payment given for a poem: 
+          lúag mo 
+dúane, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 52.83
+          
+        . 
+          trí chét dūan / tuctha dam i 
+llō ar lūag, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xix 77 § 3
+          
+        . 
+          noco tabair do neoch luag, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 130.8
+          
+        . 
+          duas is luach gach laoidhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 
+836
+          
+        . 
+          adubhairt C. go ttiubhradh logha ┐ sochar a sgéaluigheachta do, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> x 143.20
+          
+        .</p>
+     
+      <p class="result"> 
+In unfavourable sense, <span class="trans">
+          <span class="def">punishment</span>, <span class="def">retribution</span>
+        </span>: 
+          l.<span class="oRef">¤</span> a pecthe, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 1c3
+          
+        . 
+          far ṅdígal-si . . . rosmbia a l.<span class="oRef">¤</span>
+          , 
+            5d35
+          
+         gl. mih[i] uendictam 
+(<span class="lbl">sic</span>). 
+          rosbia luag bar n-imorbo[i]ss, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 58.26
+          
+        . 
+
+          ceim isind adbai n-iffernaidi i lluag a thuile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 142 § 158.
+          
+         
+As quasi-<span class="pos vn." style="color: #ff8000">vn.</span>: 
+          mo dhaltada . . . . . . / gé donidis faltana / 
+nocho lamhther a lūagh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 394.6
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">wage</span>, fee, special payment</span> (usually with defining gen.): 
+in luag fir fognuma `<span class="quote">the wages of an attendant</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 110.9 
+Comm
+        . <span class="lbl">cf.</span> 
+          ii 76.8 Comm
+        . aigni feimden a aignesa iar ngill 
+a loghi fris `<span class="quote">an advocate who refuses to plead after having 
+received a pledge for his fee</span>', 
+          i 216.23 Comm
+        . luach aisdir 
+<span class="ediltr">travelling expenses</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 62.3
+        . do ber logh n-anacail `<span class="quote">a 
+ransom</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> vi 183.6
+        . 
+          eter l.<span class="oRef">¤</span> ṁbaithis ┐ techta comna, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 220 § 12
+          
+        . 
+          log in belra .i. log na foglumu, no . . . log 
+a feichemnusa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 212.3
+          
+        . log berrtha `<span class="quote">the price of 
+shaving</span>', 
+          i 132.19 Comm
+        . do luach coimhéada <span class="ediltr">the reward 
+of serving thee</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 79.13
+        . l.<span class="oRef">¤</span> n-einech, see RIA 
+Dict. <span class="lbl">s.v.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 enech">1 enech</a></span> and 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> p. 85
+        . is é i luing gan luach 
+farain `<span class="quote">had not his fare</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> iv 24
+        . lór linn mar lógh 
+rífhleidhe / an ógh is inn d'aoinfhine `<span class="quote">entrance fee</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 
+65.35
+        . 
+          luach foghlama, ┐ luach leabhar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 138.26
+          
+        . im 
+log na gaire do tabairt do `<span class="quote">the fee for maintaining [his adoptive 
+father</span>]', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xvii 66 § 6 n.1
+        . ragaid l.<span class="oRef">¤</span> a iasachta dó <span class="ediltr">he shall 
+be paid for the loan of it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 7632
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 92
+        ). l.<span class="oRef">¤</span> fastóid 
+(fastaid) <span class="trans">
+          <span class="def">price</span> of (<span class="def">payment</span> for) <span class="def">providing</span> <span class="def">accommodation</span>(?):</span> 
+
+          dá lentar do dhruim comharc nó éirghe amach nó togharma 
+an airbhe ní fhuil lúach fastóidh uirre, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 46.z
+          
+        . 
+
+          gémadh fuath le Sacsaibh sinn / luach a fhastaidh i n-Éirinn, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 36.6
+          
+        . l.<span class="oRef">¤</span> impide lit. <span class="trans">
+          <span class="def">fee</span> for <span class="def">interceding</span> or <span class="def">requital</span> 
+for the <span class="def">granting</span> of a <span class="def">boon</span>
+        </span>: `It appears from a letter written 
+by Sir John Davis to the Earl of Salisbury that the ecclesiastical officer called herenach paid a fine called Loughimpy 
+to the bishop on the marriage of every (<span class="lbl">sic</span>) of his daughters', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv p. 817 n
+        . See also <span class="lbl">s.v.</span> impide. But the term 
+has a wider meaning. The follg. exx. indicate that the fee 
+was paid on the occasion of the ransoming of a prisoner 
+and on the inauguration of a chieftain: 
+          an líon oile asa 
+ffríth dá céd marcc cénmothá luach leassa ┐ impidhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 
+iv 816.14
+          
+         (<span class="lbl">an.</span> 
+          1414
+        ). 
+          dlighidh gach tighearna . . . dá ndéntar 
+i gCúigeadh Uladh . . . céd bó ar gach neach dá ndingéntar 
+tighernaidh dhíobh leith amuigh do lúach impidhe na 
+n-airdfheadhmanntach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 44.13
+          
+        . l.<span class="oRef">¤</span> lesa <span class="trans">
+          <span class="def">fee</span> <span class="def">paid</span> to <span class="def">someone</span> who 
+<span class="def">undertakes</span> some <span class="def">transaction</span> on one's <span class="def">behalf</span>:</span> luach lesa 
+(gl. praesumpticium), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 792
+        . 
+          sessed lóge in lessa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+4997
+          
+        . 
+          luagh leasa gacha hinghene righ, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 142.7
+          
+        . 
+See 
+          144n.
+         <span class="trans">Of <span class="def">payment</span> made on the occasion of the inauguration of a chief</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xviii 146
+        : 
+          gan … taoisech tuaithe do denamh isin tír gan luach lesa do mhuintir Maodhóg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 248.4
+          
+        . 
+          dlighidh rígh na Cairge a thrian | is a luach leasa ar aonrian, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> vi 162 § 17
+          
+        . 
+          do bhéaradh Dia luach leasa | damh re cois a chairdeasa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> 38 § 2
+          
+        . 
+          ar chairdeas ná ar luach leasa | mairg neach do ní an t-aighneas-sa, 
+            60 § 23
+          
+        . 
+          mar fháilte, mar luach leasa, | do-ghébhthá [cúis cairdeasa], 
+            <span><strong class="pop" style="color:blue" href="bibliography/LBranach" title="eDIL Bibliography">LBranach</strong></span> 4982
+          
+        . 
+          mar luach leasa / do gheabhthá laoi fhada, 
+            <span><strong class="pop" style="color:blue" href="bibliography/H1.14" title="eDIL Bibliography">H 1.14</strong></span>, 
+116
+          
+         (cited O'Don. Suppl.). luacha leighis <span class="ediltr">medical fees</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 547.28
+        . 
+          liaigh nach iarrann luach leighis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 62.2
+          
+        . 
+
+          do luagh mh'oileamhna ar Aonghus, 
+            69.32
+          
+        . logh othrusa 
+`<span class="quote">nursing fee</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> § 1 n.5
+        . 
+          luach in pōsta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7834.
+          
+         
+l.<span class="oRef">¤</span> saethair <span class="trans">
+          <span class="def">remuneration</span>:</span> 
+          ropia l.<span class="oRef">¤</span> far sáithir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 23c25
+          
+        . 
+is uisse l.<span class="oRef">¤</span> a saithir do chách (gl. dignus est operarius mercide 
+(<span class="lbl">sic</span>) sua), 
+          29a14
+        . 
+          l.<span class="oRef">¤</span> soethar a lám, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1662
+          
+        . l.<span class="oRef">¤</span> tinche 
+(see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tincem">tincem</a></span>) <span class="trans">
+          <span class="def">cost</span> of <span class="def">caring</span> for, <span class="def">attending</span> to</span>: meit frithgnama 
+fris ┐ loig thinche (<span class="lbl">sic leg.</span>) (of the crops, lín and glaisin), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 370.z Comm
+        . 
+          is logh einiuch ┐ is log tinche 
+fodera secht cumula aithgin in gill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 113
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 
+91
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">purchase-price</span>; as <span class="pos vn." style="color: #ff8000">vn.</span> act of <span class="def">buying</span>:</span> 
+          folam .i. fó-laim 
+. . . dobeir i llāim a chēile lōg a thīre, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 571
+          
+        . báeth 
+cách co l.<span class="oRef">¤</span> tíre `<span class="quote">till he buys land</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 31.3
+         = 
+          co 
+lluaig tíri, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 345d35
+          
+        . 
+          ferand do rúagell saccart Cenandsa 
+. . . ┐ issé so in l.<span class="oRef">¤</span> .i. xviii nungai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Misc.Arch.Soc." title="eDIL Bibliography">Misc. Arch. Soc.</strong></span> 132.18
+          
+        . 
+ni rodlecht nach císs de ria luaig ┐ ní dlegar iar na luaigh 
+(of land), 
+          136.11
+        -
+          12
+        . 
+          nī bi raith friut fer loighi tire, . . . 
+.i. ar is amail fer gin ferand aigi in fer aga mbi an fearann 
+cennaigh iarna uatuaslacadh uadha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2486
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg.88</strong></span>, 
+39b
+          
+        ). This text, perhaps also that in Tec. Corm., and the 
+context of Misc. Arch. Soc. where numerous and important 
+guarantors of the transaction are cited, seems to suggest 
+that land nominally purchased was not actually alienated 
+and could be redeemed. 
+          tincur a treibi do luag, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+284.29
+          
+         (
+          .i. do cennach, 
+            288.7 Comm
+          
+        .). <span class="lbl">Cf.</span> 
+          ii 358.4
+        , 
+          28.
+         ni bia 
+do mathair ondiu i fognam ┐ ni ba ecen a luag <span class="ediltr">to ransom her</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 5 § 12
+        . 
+          lūagh nātha do gach fer creath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 
+486 § 10
+          
+         (.i. cenduch) (B. na f.). 
+          luid clann Iacoib, ba gnim 
+cert, / do luaig bíd i tír n-Egept, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3440
+          
+        . 
+          indmass domuin 
+do-t-rega / do[t] lúaig fein a bithdoéra, 
+            3344
+          
+        . creicc lóige 
+<span class="trans">
+          <span class="def">purchase</span> <span class="def">price</span>
+        </span>: ma dia ndeicennaigter e gusan creic loige ita 
+do reir dligid `<span class="quote">if it be `well purchased' with the purchase price 
+which is according to law</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xvii 70 § 10 n.2
+        . 
+          rosuidigedh 
+a deicreic loighi side for sed .x. screbal, 
+            n.3
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+          <span class="def">interest</span>, <span class="def">profit</span>, <span class="def">advantage</span>
+        </span>: ar luach (gl. propter foenus), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 41b6
+        . luach `<span class="quote">Interest</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 102.5
+        . 
+          áirliogadh airgid 
+. . . air ṡúil luach . . . d'fhágail air a ṡon, 
+            100.3
+          
+        .</p>
+     
+      <p class="result"> 
+In prepositional phr., do l.<span class="oRef">¤</span>
+         <span class="trans">in <span class="def">consequence</span> of, as a <span class="def">result</span> of</span>: 
+
+          do lógh m'ḟaigseana ar h'uillinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 14.18
+          
+        . 
+          do luach an 
+scéil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> x 5
+          
+        . 
+          do lógh eólchaire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/GleaningsfromIrishmanuscripts" title="eDIL Bibliography">Gleanings from Irish manuscripts</strong></span> 18 § 29
+          
+        .</p>
+    
+  
+  
+    <p class="result"> 
+Compds. (<span class="edilb">i</span>) With noun. 
+        <span class="oRef">¤</span>molad: eagail liom . . . / mar 
+thánag . . . / lem dhán luachmholta tar lear `<span class="quote">gainful</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 53.3
+      . ? 
+        gilla donn gruadhchorcra geal / dá mbean drong 
+lúathmholta (<span class="lbl">leg.</span> lúach-?) logh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1664.
+        
+       
+        in luachmurchur[tha] '<span class="quote">the hired foreigner</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lii 202 § 8.5
+        
+      . (<span class="edilb">ii</span>) With 
+adj. 
+        <span class="oRef">¤</span>mór <span class="trans">of <span class="def">great</span> <span class="def">value</span>, <span class="def">precious</span>
+      </span>: 
+        ré hiodhbairt luachmhóir 
+an aifrinn do thréigean, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6050
+        
+      . 
+        mar ionnmhus luachmhór, 
+          237
+        
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

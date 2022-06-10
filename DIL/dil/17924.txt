@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="17924">doír</h3><span class="citation">Cite this: eDIL s.v. doír or <a class="reference" href="17924">dil.ie/17924</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                doer, doír, dærcis, daertuath</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype o,&#x101;">o,ā</span>. As <span class="pos subst." style="color: #ff8000">subst.</span> <span class="itype o">o</span>, <span class="gen m.">m.</span> and <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span>
+    </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">unfree</span>, <span class="def">lowborn</span>, of <span class="def">servile</span> condition or nature</span>; as <span class="trans">
+          <span class="pos subst." style="color: #ff8000">subst.</span>, 
+ <span class="def">serf</span>
+        </span> (opposed to soír <span class="ediltr">free, a freeman</span>; sometimes also to <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=mug">mug</a></span> 
+ <span class="ediltr">slave</span>. See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 saer">1 saer</a></span>); doer gl. mancipi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 51b12
+        . doer . . . .i. 
+<span class="frn ">satilitess</span>
+         (= <span class="frn ">satellites</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 318
+        . 
+          dochraid cach daer, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 229
+          
+        . 
+          saor ┐ daor, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 40
+          
+        . 
+          masa chudrumus 
+corpdire dair dair ┐ dair urraid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 999
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span> 427a
+          
+        ). 
+
+          daor urrad . . . daor deorada . . . daor murchartha . . . daor 
+daoir, 
+            2351
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 27 (28)b
+          
+         ). 
+          etir sóir ┐ dóir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 27c15
+          
+        . 
+berar . . . 'nas dáer na braiti <span class="ediltr">such of the captives as are serfs</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1696
+        . áne la dóer <span class="ediltr">skill in a serf</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 84
+        . indogbáil 
+doeir (.i. togbáil a hinde na doerclanna fri sáerudh) <span class="ediltr">uplifting 
+of the lowborn</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 26
+        . 
+          saer i suidiu ndaeir ┐ daer i suidiu 
+saeir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 18
+          
+        . mac cumaili .i. daire <span class="ediltr">of a bondswoman</span>, 
+          456 
+Comm.
+         
+          tucait na dáe[i]r ┐ na dorsaire do ḟaire na cathrach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 416
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 109b44
+        ). 
+          radeligtar a ndáer (= ndaeir) ┐ a 
+mogaid de doeraib ┐ mogadaib fer nhErend, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 423
+          
+        . 
+          mod 
+frisa mbitis cumala doera, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 324
+          
+        . dia ructhar ar mnā 
+dōera uand, biait for (ar, LU <span class="lbl">sic leg.</span>) mnā sāera for brōintib, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1129
+        . etir saera ┐ daera <span class="ediltr">freemen or serfs</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 42
+        . 
+          o 
+saeraib co daeraib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 466
+          
+        . 
+          admestar doeru drungu 
+fognama fognat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 95 § 47
+          
+        . foirb daér ar dilse <span class="ediltr">tenant-land held in fee</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 300
+        . 
+          d'fearann tsaér ┐ dhaor, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1842
+          
+        . <span class="trans">
+          <span class="def">Servile</span>, <span class="def">menial</span>:</span> oibre daora .i. oibre corpordha, 
+mur ata treabhadh, <span class="lbl">etc.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 100
+        ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;H&#xE9;odhusa" title="eDIL Bibliography">Ó Héodhusa</strong></span> 160
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">Of physical and moral qualities <span class="def">base</span>, <span class="def">ignoble</span>, <span class="def">slavish:</span>
+        </span> 
+
+          ní dóir for mbethu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5a3
+          
+        . rāter rand do dréim nar daer 
+(of Adam and his family), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 136b25
+        . 
+          ba daor a dath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Nenn." title="eDIL Bibliography">Todd Nenn.</strong></span> 282
+          
+        . 
+          duairc, doer, dressachtach a drech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 939
+          
+        . 
+o Diarmaid nar bo daer drech <span class="ediltr">of no servile aspect</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 189a34
+        . 
+
+          a rosg daor an Diabuil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxviii 320
+          
+        . 
+          conacca in n-arracht 
+ndoer ndochraid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 117b27
+          
+        . 
+          for iffern ndub ndorcha ndaer, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 52
+          
+        . fria ndiumas ndaor ndrocht `<span class="quote">enslaving pride</span>' (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 
+160
+        = 
+          fri diumus ndúr, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2964
+          
+         (<span class="lbl">sic leg.</span>). 
+          oc na slogaib 
+dubaib doeraib na ndemna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8308
+          
+        . <span style="color: #ff8000">Compar.</span>: 
+          mo choirthe 
+. . . an duirb is daoire d'fiabrasaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 168
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">enslaved</span>, <span class="def">subject</span>:</span> 
+          is daor anois a dhuthaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/GJ" title="eDIL Bibliography">GJ</strong></span> iv 10
+          
+        . 
+cella daera (a prophecy of evil times), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 196
+        . tiuccfo 
+aimser bus doer eglaiss do thuaith <span class="ediltr">when the church shall be 
+subject to the laity</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 79
+        . Derbail . . . dar daer Cul Dremne 
+ <span class="ediltr">to whom C.D. owned sway</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 141a2
+        . doer o demnaib <span class="ediltr">enslaved 
+(<span class="lbl">i.e.</span> possessed) by devils</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2226
+        . an uair do bhi t'anam 
+deilte, daor uaidh <span class="ediltr">enslaved by it</span> (the body), 
+          <span><strong class="pop" style="color:blue" href="bibliography/GJ" title="eDIL Bibliography">GJ</strong></span> iv 20
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">condemned</span>, <span class="def">deserving</span> <span class="def">punishment</span>, <span class="def">guilty</span>:</span> slān cach 
+ditiu(d); daer cach dic[h]ell `<span class="quote">every neglect is condemned</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+ii 2
+        ; 
+          124
+        . d'eagla . . . go bhfuighthi daor thú <span class="ediltr">lest thou be 
+found guilty</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> xxx 10
+        . dochuaidh síos go tigh na ndaor 
+ <span class="ediltr">the house of the damned</span> (hell), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ORah." title="eDIL Bibliography">O'Rah.</strong></span> xvii 20
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+          <span class="def">laborious</span>, <span class="def">hard</span>, <span class="def">rigorous</span>, <span class="def">painful</span>:</span> 
+          trosgadh, urnuighthe 
+. . . aithrighe dhaor, 
+            <span><strong class="pop" style="color:blue" href="bibliography/GJ" title="eDIL Bibliography">GJ</strong></span> v 85
+          
+        . 
+          is iontuigthe nach daor . . . an 
+bhreath rug Dia ar Ádhamh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3418
+          
+        . With DO: is daer don 
+liaigh inuair nach eol dó beatha an othair dórdugud <span class="ediltr">it is a bad 
+lookout for the physician</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/23P10" title="eDIL Bibliography">23 P 10</strong></span>, 153ra22
+        . atáid trí hadhbhair 
+fa' n-a daoire don droing . . . ioná don chineadh Iudaigheach 
+ <span class="ediltr">why those . . . shall fare worse than the Jews</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 100
+        . 
+innte (<span class="lbl">sc.</span> isan oidhche sin) rogheinsiodar | Bile Tortan, Eo 
+Rosa, | a n-umhla nochar dhaor dhí `<span class="quote">their homage to the night 
+was no indignity</span>' (<span class="lbl">i.e.</span> it was none the worse for that night that 
+the Trees sprang up), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 96
+        . <span class="pos Adv." style="color: #ff8000">Adv.</span> gabhaidh go d.<span class="oRef">¤</span> docamhlach iad <span class="ediltr">with rigour and severity</span> (of captives), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 108
+        . 
+foighénaidh go d.<span class="oRef">¤</span> do Dhia <span class="ediltr">he will render hard service</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 24
+        . 
+gur cheannaigh Críost ár siothcháin go d.<span class="oRef">¤</span> ar an gcrois <span class="ediltr">purchased our peace dearly</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 73
+        . 
+          clogat do cheannach 
+go d.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 22
+          
+        . cruindigh do shaidhbhris gu d.<span class="oRef">¤</span> ┐ scaoil 
+gu saor he <span class="ediltr">amass your wealth with pains</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 130
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) Hence <span class="trans">
+          <span class="def">dear</span>, <span class="def">valuable</span>, <span class="def">costly</span>
+        </span> (comm. in mod. lang.; <span class="lbl">cf.</span> 
+Eng. <span class="frn ">dear</span>): budh daor a bhfuil iona radharc <span class="ediltr">precious shall 
+their blood be in His sight</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Psalms</strong></span> lxxii 14
+        . 
+          an criostal ba dhaoire, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ORah." title="eDIL Bibliography">O'Rah.</strong></span> xxxiv 54
+          
+        . </p>
+    
+  
+  
+    <p class="result"> 
+Compds. With subst. and adjj. doír forms compds.</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) in 
+sense of <span class="trans">
+          <span class="def">unfree</span>, <span class="def">servile</span>, <span class="def">base</span>, of low condition</span> esp. freq. in 
+technical terms denoting social distinctions in Laws: 
+          <span class="oRef">¤</span>aicenta: 
+daoraicinta <span class="trans">`<span class="def">natural slave</span>', <span class="def">inferior</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 236 Comm.
+         ; 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 873
+        . 
+          <span class="oRef">¤</span>aicme <span class="trans">
+          <span class="def">serf-tribe</span>:</span> 
+          athigh ┐ doeraicme, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 1303
+          
+        . 
+
+          daoraicme gacha dúithche, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 58
+          
+        . 
+          <span class="oRef">¤</span>am(m)us <span class="trans">
+          <span class="def">serf-soldier</span>:</span> 
+
+          ocht doerammuis dia mbiathad fri seilgg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 140
+          
+        . 
+          <span class="oRef">¤</span>athech 
+ <span class="trans">
+          <span class="def">serf</span>, `<span class="def">villain</span>':</span> 
+          ni haltram nach dóerathig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 44
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Jan. 15
+        ) (but see
+          <span><strong class="pop" style="color:blue" href="bibliography/CMCS" title="eDIL Bibliography">CMCS</strong></span> i 46
+        ). 
+
+          <span class="oRef">¤</span>bard <span class="trans">a <span class="def">bard</span> of the <span class="def">second</span> class</span>, oppd. to the 
+          sóerbard, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 
+107
+          
+        . 
+          na dærbaird, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1691
+          
+        . 
+          aisti na ndærbard, 
+            1590
+          
+        . 
+
+          <span class="oRef">¤</span>bé <span class="trans">
+          <span class="def">bondwoman</span> (poet.):</span> 
+          rohir dam . . . deich ndairbé (.i. bancumala), 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 3
+          
+        . 
+          <span class="oRef">¤</span>ben <span class="lbl">id.</span>: fo dóerban dul `<span class="quote">after the fashion 
+of lowborn women</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 376
+        . 
+          <span class="oRef">¤</span>bíatach: a chuaird 
+. . . for a dóerbiatachu `<span class="trans">
+          <span class="def">base-hospitallers</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 39 n. 5
+        . 
+
+          <span class="oRef">¤</span>bothach <span class="trans">
+          <span class="def">serf-cottier</span>
+        </span>, opp. to 
+          soerb., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 288 Comm.
+          
+         
+
+          doerboth[ach]us, 
+            iv 388 Comm.
+          
+         See 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> p. 78
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> 81
+        . 
+          <span class="oRef">¤</span>chéle <span class="trans">
+          <span class="def">base</span> <span class="def">tenant</span>
+        </span> or <span class="trans">
+          <span class="def">client</span>:</span> a saerceili ┐ a daerceili, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 40 Comm.
+         
+          doercele ag in rí, 
+            ii 94 Comm.
+          
+         
+          <span class="oRef">¤</span>cherd: 
+lucht daoircheard, mar atá an drong do bhíodh ré gaibhneacht 
+nó ré ceardacht, <span class="lbl">etc.</span> <span class="trans">
+          <span class="def">artisans</span> of <span class="def">lower</span> class</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 656
+        . 
+
+          <span class="oRef">¤</span>chimbid <span class="trans">
+          <span class="def">prisoner</span>:</span> 
+          é féin . . . d'furáilemh ina dhaoirchimidh 
+díairm do mhuinntir na bainrioghna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2258
+          
+        . 
+          <span class="oRef">¤</span>chimbidecht <span class="trans">
+          <span class="def">imprisonment</span>, <span class="def">bondage</span>:</span> ar dháigh ná dáoirchimidheachta i mbattar a thír ┐ a thalamh, a chairde, <span class="lbl">etc.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 
+1896
+        . 
+          tromnemhele na daoirchimidheachta dorad Ua Néll 
+don Chalbhach, 
+            v 1584
+          
+        . 
+          <span class="oRef">¤</span>chís <span class="trans">
+          <span class="def">tribute</span>
+        </span> (exacted by conqueror): 
+
+          daircis fodhnama for feraib Eirend, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 337
+          
+        . dærcis, <span class="lbl">ib.</span> 
+
+          go gcuirfeadh fá dhaorchíos iad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 118.18
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Isaiah</strong></span> lx 17
+        . a 
+láethibh an dáoirchíosa `<span class="quote">of the enrolling</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Acts</strong></span> v 37
+        . 
+          <span class="oRef">¤</span>chlann 
+ <span class="trans">
+          <span class="def">serf-clan</span>, <span class="def">inferior</span> <span class="def">classes</span> or <span class="def">race</span>:</span> ho d[ó]erchlandib gl. exiguis 
+nationibus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 80a12
+        . cach doerchland, cach merlech <span class="trans">
+          <span class="def">lowborn</span> 
+<i>person</i> (?)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 147a47
+        . 
+          at imdha a saerchlanda . . . at [t]earca 
+a daerchlanda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 92
+          
+        . 
+          co n-ordnitis doerclanna i n-ard-clannaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 249
+          
+        . 
+          can cummusc daerc[h]lann no daescurslógh, 
+            6035
+          
+        . 
+          sé cinéala Aitheachthuath nó Daorchlann i 
+nÉirinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iv p. 13
+          
+        . 
+          sochaidhe dia saorclandaibh ┐ dia 
+ndaorchlandaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 108
+          
+        . adj. 
+          <span class="oRef">¤</span>chlan(n)da: 
+          a ceithri 
+doerclanda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3564
+          
+        = <span class="frn ">servum pecus</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Phars." title="eDIL Bibliography">Luc. Phars.</strong></span> vi 152
+        . 
+
+          a ndioghail an duinemarbhtha daorchlanda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2146
+          
+        . 
+
+          <span class="oRef">¤</span>ḟer <span class="trans">
+          <span class="def">bondsman</span>:</span> a dáirḟir (as term of reproach), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+154
+        . 
+          <span class="oRef">¤</span>ḟognam <span class="trans">
+          <span class="def">menial</span> <span class="def">service</span>, <span class="def">bondage</span>:</span> 
+          rucadh fa dochar ┐ 
+daerḟoghnam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 148
+          
+        . 
+          rochuin[n]ig C. chuccasom daerfoghnomh 
+Temrach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvi 478
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 78
+        ). 
+          <span class="oRef">¤</span>ḟuidir (tech. 
+term), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>
+        ; 
+          
+            <span class="oRef">¤</span>ḟuidres, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 580
+          
+        ; see 
+          p. 93
+         (<span class="trans">
+          <span class="def">base</span> `<span class="def">tenant-at-will</span>'</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> 64
+        , 
+          83 ff.
+         
+          <span class="oRef">¤</span>gním: 
+          fodailsed Aithechthuacha 
+fo Eirind ┐ rodead daergnim flatha Erend uasaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 350b38
+          
+        
+(? = greim, BB, see below). 
+          <span class="oRef">¤</span>macne: bertair dóermaicni dóib 
+ <span class="ediltr">their children will be serfs</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5614
+        = 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1134
+        . 
+          <span class="oRef">¤</span>mám 
+ <span class="trans">
+          <span class="def">servile</span> <span class="def">yoke</span>, <span class="def">servitude</span>:</span> 
+          fo d., 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1776
+          
+        . 
+          doermamu fognamaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 222 Comm.
+          
+         Hence denom. doirmámaigedar 
+gl. vilescere, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 93d9
+        ; 
+          101a8
+        . 
+          <span class="oRef">¤</span>mámaigthetu gl. squalor, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+20a5
+        . hon doir[ma]maigthetaid gl. squalore, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 28b1
+        . 
+
+          <span class="oRef">¤</span>manach <span class="trans">
+          <span class="def">base</span> <span class="def">tenant</span> of <span class="def">ecclesiastical</span> lands</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 873
+        . 
+
+          doermanuch ag in espoc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 94 Comm.
+          
+         
+          daermanach 
+eagalsa, 
+            iv 196 Comm.
+          
+         Abstr. dóirmanche: 
+          cen erchóiliud 
+doermancha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 142
+          
+        . 
+          <span class="oRef">¤</span>mesda: luchd daoirmheasda 
+ <span class="trans">
+          <span class="def">taskmasters</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Exodus</strong></span> i 11
+        . daoirmheasadóir <span class="trans">
+          <span class="def">taskmaster</span>
+        </span>, 
+          v 10
+        , 
+
+          13
+        ; 
+          iii 7
+        . 
+          <span class="oRef">¤</span>nemed (tech. term): 
+          atat dō neimid . . . saeirnemead 
+┐ daerneimeadh. Ite saernemead filead and .i. ecalsi, flatha, 
+filidh, feine . . . Daerneimead imorro, aes gach dāna olchena 
+. . . is do ṡaernemthib fognait, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 14
+          
+        . 
+          <span class="oRef">¤</span>opair <span class="trans">
+          <span class="def">servile</span> <span class="def">work</span>
+        </span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1760
+        . 
+          <span class="oRef">¤</span>rath (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 rath">2 rath</a></span>): 
+          daerrath cach tothlu sech fine, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 252 § 9
+          
+         (see 
+          xvi 212-13
+        ). 
+          
+            <span class="oRef">¤</span>rathas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 483
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span> 
+        
+251). 
+          <span class="oRef">¤</span>thúath: daertuath `<span class="trans">
+          <span class="def">tributary</span> <span class="def">territories</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 82
+Comm.
+         ba do daertuathaib Herind do <span class="trans">
+          <span class="def">subject</span> <span class="def">tribes</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 
+139a36
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) As pref. with pejorative or intensive force, forming 
+unstable compds. 
+          <span class="oRef">¤</span>bás: fodémat uacht ┐ gortai . . . ria 
+ndaerbásaib éitchib <span class="ediltr">before (dying) a miserable death</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 
+206b56
+        . 
+          <span class="oRef">¤</span>breth <span class="trans">
+          <span class="def">sentence</span> of <span class="def">condemnation</span>:</span> 
+          rug Dia an daoirbhreath so ar na daoinibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4
+          
+        . ni dhearnais daorbhreitheamhnas flatha <span class="trans">
+          <span class="def">tyrannical</span> <span class="def">judgment</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 102
+        . 
+          <span class="oRef">¤</span>chor: ní 
+daerchor `<span class="quote">no sorry bargain</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 410
+        . 
+          <span class="oRef">¤</span>chris: 
+daorchrios diúide `<span class="quote">austere restrictions</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 70
+        . 
+          <span class="oRef">¤</span>dál 
+ <span class="trans">
+          <span class="def">hard</span> <span class="def">judgement</span> or <span class="def">fate</span>:</span> 
+          daor-dháil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6099
+          
+        . 
+          <span class="oRef">¤</span>dálach 
+ <span class="trans">
+          <span class="def">rigorous</span>, <span class="def">severe</span>:</span> 
+          cúntas daor-dhálach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3750
+          
+        . ar na 
+hanmannaibh damanta daor-dhálacha <span class="trans">
+          <span class="def">ill-fated</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6264
+        . 
+
+          <span class="oRef">¤</span>dangen: 
+          i nhiffern ṅdúr ndáirdaṅgen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1764
+          
+        . 
+          <span class="oRef">¤</span>galar: 
+gailcind nó daergalar `<span class="trans">
+          <span class="def">haemorrhoids</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 44 (Jan. 16)
+        . 
+          flux 
+bronn no daorgaluir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/24P3" title="eDIL Bibliography">24 P 3</strong></span>, 346.2
+          
+        . 
+          <span class="oRef">¤</span>gol: 
+          ag daorghol i nguais 
+ghalair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 108
+          
+        . 
+          <span class="oRef">¤</span>greim: fodhailset tuatha aithecha 
+fo Erind ┐ roddet daergreim flatha Erend uasaib <span class="ediltr">they were 
+placed under strict subjection</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 255b36
+        . 
+          <span class="oRef">¤</span>méit: 
+          o Dealbaeth nach dealbad bréic | cinset Dealbna can daormeit, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 
+439b4
+          
+        = 
+          gaendaermeit, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 188b35
+          
+        . 
+          <span class="oRef">¤</span>múch: cen dáermūich 
+daille `<span class="quote">vile smoke of blindness</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 50
+        . </p>
+     
+      <p class="result"> 
+In adjj. 
+          <span class="oRef">¤</span>bésach: gomsa daerbésacha macneda Uladh i 
+l-leth o maithrechaibh <span class="ediltr">inherit servile ways from their mothers</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 545
+        . 
+          <span class="oRef">¤</span>buillech: deilm d. `<span class="quote">a dishonouring blow</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 234
+        . 
+          <span class="oRef">¤</span>garg: 
+          debtha dene dóergairce, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3466
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 
+§ 25
+        ). 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 173
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) Rarely with vbs.: 
+          <span class="oRef">¤</span>brissid: 
+          cor daerbris a druim ar dó 
+ann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 4871
+          
+        ; 
+          6943
+        ; 
+          6998
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="39363">1 tabairt</h3><span class="citation">Cite this: eDIL s.v. 1 tabairt or <a class="reference" href="39363">dil.ie/39363</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                tabairt, tabart, thabairt, tubairt, tabert, tabairt, tabeirt, tobairt, tabairt, tabirt, tabairt, tabart, tabarte, tabairte, tabartae, tabarta, tabhartha, tabairthe, tabairt, tabirt, tabart, tabuirt, tapuirt, taphuirtt, tobairt, tabart(h)a, thabart</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-beir">do-beir</a></span>. In O. Ir. the <span class="case d">d</span>
+      <span class="number s.">s.</span> tabairt 
+is already replacing (
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6a21
+      , 
+        16c21
+      , 
+        22c10
+      ) the older <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+tabart (
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 16c12
+      ), see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thurn." title="eDIL Bibliography">Thurn. Hdb.</strong></span> § 257
+      . 
+        thabairt, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1005
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8128
+       (
+        tabart, 
+          8198
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 185
+      ). 
+        tubairt, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> i 86.16
+        
+      . tabert, tabairt, 
+        tabeirt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 
+210.2
+        
+      , 
+        3
+      . 
+        tobairt, 
+          i 84.24 Comm.
+        
+       <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        tabairt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4c22
+        
+      . 
+
+        10d22
+      . 
+        tabirt, 
+          14d14
+        
+      . 
+        tabairt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 55a19
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 982
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+viii 192.24
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xi 8
+      . 
+        tabart, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 52.10 Comm.
+        
+       
+<span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        tabarte, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 31b3
+        
+      . 
+        11b22
+      . 
+        tabairte, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 96a7
+        
+      . 
+        tabartae, 
+
+          73b8
+        
+      . 
+        tabarta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3229
+        
+      . 
+        tabhartha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 13.47
+        
+      . 
+        tabairthe, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2106.13
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        tabairt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4c21
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 144c8
+      . 
+        tabirt, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28c8
+        
+      . 
+        tabart, 
+          18c9
+        
+      . 
+        tabuirt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> p. 100 n.
+        
+      . 
+
+        tapuirt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 241.197
+        
+      . 
+        taphuirtt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 351.10
+        
+      . 
+        tobairt, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 174.10
+        
+      . The <span class="number pl.">pl.</span> tabart(h)a is found in the sense of 
+<span class="trans">
+        <span class="def">gifts</span>, <span class="def">wages</span>
+      </span>, see <span class="lbl">infra</span>.</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">giving</span>, <span class="def">bestowing</span> (do <i>to</i>) :</span> 
+            a thabart
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 16c12
+            
+          . 
+
+            díltud tabairte trócaire, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 96a7
+            
+          . 
+            gidh olc thuilleam a 
+thabhairt, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xi 8
+            
+          . 
+            a th.<span class="oRef">¤</span> doib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6a21
+            
+          . 
+            7d14
+          . 
+            16
+          . 
+
+            24b2
+          . 
+            10d12
+          . 
+            25d18
+          . 
+            t.<span class="oRef">¤</span> uisci doib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 97d4
+            
+          . 
+            ere cámaill 
+dia t.<span class="oRef">¤</span> do'n apstal, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2002
+            
+          . 
+            fearann do th.<span class="oRef">¤</span> dó, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 
+116.17
+            
+          . With various nouns in more specialised meanings : 
+
+            ainm ... du th.<span class="oRef">¤</span> du cech ae, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 144c8
+            
+          . 
+            in lá ría t.<span class="oRef">¤</span> chatha M., 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4090
+            
+          . 
+            chath ... do thobairt da n-athair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 174.10
+            
+          . 
+
+            do t.<span class="oRef">¤</span> chomairle do, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 23b12
+            
+          . 
+            do th.<span class="oRef">¤</span> eolais do, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6767
+            
+          . 
+
+            do th.<span class="oRef">¤</span> fortachtan dam, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 86d2
+            
+          . conid don péin ... is 
+coir do neoch a menma do th.<span class="oRef">¤</span>
+           <span class="ediltr">pay attention</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2410
+          . 
+U. do bhí aga thabhairt damh (of a text) `<span class="trans">
+            <span class="def">dictating</span>
+          </span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 282.10.
+           
+            cuidiúghadh ... do th.<span class="oRef">¤</span> re haos-óg, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> xxi 26
+            
+          . 
+
+            ag t.<span class="oRef">¤</span> taeba ris, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 296.38
+            
+           (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=taeb">taeb</a></span>). do bi mac C. co n-a 
+marcsluaigh ic t.<span class="oRef">¤</span> do marchshluaigh D. `<span class="trans">
+            <span class="def">pressing upon</span>
+          </span>,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> ii 526.6
+           (a wd. omitted ?). tortha, is dual dó, do thabhairt uadh <span class="ediltr">bring forth</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> xxiv 2
+          . do thabirt testassa 
+dínn `<span class="quote">to bear witness of us</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 15a3
+          . 
+            oc tabirt coibsen, 
+
+              15c25
+            
+          . cen luige do th.<span class="oRef">¤</span>
+           <span class="ediltr">not to swear an oath</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2684.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">gift</span>, <span class="def">payment</span> (legal) :</span> t.<span class="oRef">¤</span> ... da deoin fen dober nech hi ┐ 
+nocha bi iarraidh uirraidh <span class="ediltr">a gift, one gives it of his own free 
+will, and no surety is asked for</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 484a
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1210
+          ), see 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 76
+          , and 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 354
+          . <span class="trans">Also <span class="def">gift</span> or <span class="def">payment</span> 
+<span class="def">due</span> :</span> 
+            na. .iiii. tabarta .i. tabairt uasa[i]l do uasul ┐ isil do isiul 
+┐ uasail do isiul ┐ isil do uasul, 
+              <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 18 § 8
+            
+           (gloss on 
+a paragraph dealing with cuir <span class="ediltr">contracts</span>). A different set 
+of gifts is found in: 
+            tabert rig, tabairt espscop, apert 
+(=idbairt) ar a[n]muin, tabeirt fileth, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 210.2
+            
+          , 
+            3
+          . 
+
+            atait .vii. tabarta ata dilsi cen mac cin raidh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 46 § 80
+            
+          . The gift (payment) became valid (could not 
+be recalled) after twenty-four hours or ten days according 
+to the status of the contracting parties : 
+            cach t.<span class="oRef">¤</span> do-bera 
+uasal ┐ do-berthar do uasaul, is diles ar .xxiiii. huaraib. 
+Mad isel di araili immoro, is diles a trian ar .xxiiii. huaraib 
+[┐ a da tri]an ar dechmaidh, 
+              18 § 8
+            
+          . <span class="lbl">Cf.</span> also : 
+            ní hinganta 
+a taburta ina gabala cin apadh, cin troscud, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 270.16 
+Comm.
+            
+           See 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> 35 § 38
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Stud.inE.Ir.Law" title="eDIL Bibliography">Stud. in E. Ir. Law</strong></span> 
+225.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">wages</span> :</span> 
+            tabartha ainm tuarasduil, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Gl." title="eDIL Bibliography">Metr. Gl.</strong></span> 14 § 27.
+            
+          
+        </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> <span class="trans">
+          <span class="def">taking</span>, <span class="def">bringing</span>, <span class="def">placing</span>
+        </span>.</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) du th.<span class="oRef">¤</span> in chosmailseo 
+`<span class="quote">from the putting of the comparison</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 107c16
+          . táet nech 
+uait ... dia t.<span class="oRef">¤</span>
+           <span class="ediltr">to bring it</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 311
+          . betha ... do th.<span class="oRef">¤</span>
+           <span class="ediltr">to 
+lead a life</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 156.19
+          . With ben, ingen <span class="lbl">etc.</span> <span class="trans">
+            <span class="def">taking 
+a wife</span> :</span> 
+            cen t.<span class="oRef">¤</span> mná chuca, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 7
+            
+          . 
+            dochuaid E. do taphuirtt na hingine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 351.10
+            
+          . <span class="trans">Of a woman <span class="def">taking a 
+husband</span> :</span> gen oglaich ... do thapuirt chuccut hi flaithemnus 
+(said to Medb), 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 241.197
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) The meaning is usually limited by prepositions : 
+
+            rúna do th.<span class="oRef">¤</span> á óensonaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12a10
+            
+          . 
+            ic t.<span class="oRef">¤</span> chind Á. assa 
+chriss, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 104.21
+            
+          . 
+            a bheatha do thabhairt as go measardha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 268
+            
+           (see 
+            <span><strong class="pop" style="color:blue" href="bibliography/Gadelica" title="eDIL Bibliography">Gadelica</strong></span> 65
+          ). 
+            drochscela du th.<span class="oRef">¤</span> cucai, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 129a12
+            
+          . 
+            tre bar tabirtsi dochum nirisse, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14c17
+            
+          . 
+
+            dia t.<span class="oRef">¤</span> a purgadóir chumm flaithémnais, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7408
+            
+          . cethra 
+fer n-Alban do th.<span class="oRef">¤</span> chucu <span class="ediltr">to seize</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 74.3
+          . du th.<span class="oRef">¤</span> neich 
+doib dia thorud `<span class="quote">to take some of its fruit for themselves</span>,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 102a15
+          . 
+            a th.<span class="oRef">¤</span> don tír, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 116.17
+            
+          . du th.<span class="oRef">¤</span> doraid 
+do glé <span class="ediltr">making the obscure clear</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 316.z
+          . 
+            cosc inna mban 
+... et a t.<span class="oRef">¤</span> fo chumacte a feir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 22c10
+            
+          . 
+            a tabartae fu 
+mam inna ngeintlide, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 73b8
+            
+          . ifrionn do th.<span class="oRef">¤</span> fá deara 
+`<span class="quote">consider</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 188.3
+          . dom thabhairt ar m'aoimhleas 
+<span class="ediltr">to disadvantage me</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 217.496
+          . trí th.<span class="oRef">¤</span> ind anmae 
+triúin fris `<span class="quote">through adding the substantive to it</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 30a12
+          . 
+
+            srian do th.<span class="oRef">¤</span> fria thoil, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4990
+            
+          . ag t.<span class="oRef">¤</span> traighed re taca 
+<span class="ediltr">setting foot to fulcrum</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 143.29
+          . 
+            mirr do th.<span class="oRef">¤</span> 
+im chorpaib dóine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7022
+            
+          . 
+            i t.<span class="oRef">¤</span> mic ... i tech, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 
+174.z
+            
+          . 
+            a t.<span class="oRef">¤</span> i lláim neich uaibsi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9015
+            
+          . 
+            oca t.<span class="oRef">¤</span> isin chuithi, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 75
+            
+          . 
+            gai do th.<span class="oRef">¤</span> lais, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 141
+            
+          . thú do thabhairt an 
+sgeóil sin lat `<span class="quote">that you should quote that story</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 3541
+          . 
+
+            oc t.<span class="oRef">¤</span> tana bo uait, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 101.24
+            
+          . 
+            do bar tabart ó sóscélu 
+hi forbanda rechta, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 18c9
+            
+          . fá mo thabhairt ó bhás 
+codalta <span class="ediltr">saving from</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 406.14
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) With for (later also ar) <span class="trans">
+            <span class="def">placing upon</span>, <span class="def">conferring</span> :</span> 
+
+            grad n-epscuip do thabirt forru, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28c8
+            
+          . 
+            ordad tabarte 
+gráid, 
+              31b3
+            
+          . 
+            grada do th.<span class="oRef">¤</span> forsin foirind nach dlegar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+4634
+            
+          . <span class="trans">Of <span class="def">giving a name to</span> :</span> bliadhain do thabhairt ar 
+ré an duine <span class="ediltr">to call man's life a year</span> (in a metaphor), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+5275
+          . <span class="trans">
+            <span class="def">enjoining on</span>, <span class="def">forcing on</span>, <span class="def">compelling</span> :</span> a th.<span class="oRef">¤</span> forru 
+`<span class="quote">to force them to it</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10c5
+          . 
+            fromtha (<span class="lbl">sic leg.</span>) aili do th.<span class="oRef">¤</span> 
+forro beus, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 285.12
+            
+          . 
+            do thabhairt air an droing ... 
+admháil, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> xxiv 7
+            
+          . <span class="trans">
+            <span class="def">inflicting on</span> :</span> 
+            tri th.<span class="oRef">¤</span> diglae foir, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4c21
+            
+          . a mbasa do th.<span class="oRef">¤</span> for a gnuis <span class="ediltr">to slap his face</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+3168
+          . 
+            ār mor do th.<span class="oRef">¤</span> ar macaib mec C., 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1254.15
+            
+          . 
+
+            ag t.<span class="oRef">¤</span> breitheamhnuis ... air, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 484.3
+            
+          . With frecrae : 
+cen freccra do th.<span class="oRef">¤</span> forru <span class="ediltr">not to give them an answer</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+2653.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) Frequ. also with adverbs : a ttaop ... gach taparta 
+suas is imchuibhde <span class="trans">
+            <span class="def">upbringing</span>, <span class="def">education</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 176.26
+          . 
+
+            a gclann do th.<span class="oRef">¤</span> suas a mbaos, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> xx 29
+            
+          . 
+            iar n-a t.<span class="oRef">¤</span> 
+immach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 444
+            
+          . a th.<span class="oRef">¤</span> for cóir <span class="ediltr">turning him to righteousness</span>, 
+
+            2127
+          . do sheoladh no do thabhairt asteach na hoibri-si 
+<span class="ediltr">to introduce this work</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 125
+          . lóghadh do th.<span class="oRef">¤</span> amach 
+`<span class="trans">
+            <span class="def">grant</span>
+          </span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 312.17
+          . re béal a dtabhartha i dtír `<span class="quote">to rescue 
+them</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 13.47
+          . do chum é féin ... do thabhairt a ttír 
+`<span class="quote">to live</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 6952
+           (see 
+            <span><strong class="pop" style="color:blue" href="bibliography/Gadelica" title="eDIL Bibliography">Gadelica</strong></span> 65
+          ).</p>
+       
+        <p class="result"> 
+With agaid : gan tabhairt aighthe i n-égean `<span class="quote">deeds of 
+daring</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 192.24
+          . 
+            tabhairt aighthe ar adhbhaidh 
+mbeach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 13.22
+            
+          .</p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="18356">dorn</h3><span class="citation">Cite this: eDIL s.v. dorn or <a class="reference" href="18356">dil.ie/18356</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                dornn, dord, doirnn, duirnn, dorrann, dorn, Duirn, Duirn, D., Durn</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="itype m.">m.</span> Also written dornn (-nd); form dord occurs 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 
+1823
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 40.22
+       (if not a scribal error, <span class="lbl">cf.</span> card = <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=carn">carn</a></span>). Note also <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        durrnd, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CIH" title="eDIL Bibliography">CIH</strong></span> i 52.34
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lii 140
+      . 
+        doirnn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2928
+        
+       (doirnnin, 
+<span class="lbl">v.l.</span>); 
+        for assin duirnn
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 146.31
+        
+       <span class="lbl">leg.</span> assind iurn <span class="ediltr">out of the
+iron (pot</span>). 
+        dorrann, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> i 66
+        
+      . dorn <span class="gen m.">m.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 67
+      . </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">hand</span>, <span class="def">fist</span>:</span> na durnu (gl. pugnas), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gild.Lor." title="eDIL Bibliography">Gild. Lor.</strong></span> 165
+        . 
+          robbad 
+durnn caurad ┐ robad rig ruanada, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 425
+          
+        . 
+          a dord ima 
+gāi, 
+            1823
+          
+        . 
+          laigen ina durnn, 
+            2563
+          
+        . 
+          gabaid in gilla imbirt a 
+dornn foraib, 
+            431
+          
+        . 
+          imberta claideb ar dornaib desaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+3424
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 19
+        ). 
+          méit chléib búana cechtar a dá dordn (<span class="lbl">leg.</span> 
+dornd), 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> § 58
+          
+        . 
+          métither ri durnu degléch, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 237b1
+          
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1518
+        ). 
+          rosbuailset dia mbassaib ┐ dornaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 117
+          
+        . 
+
+          senais R. a dhurna (lamha, <span class="lbl">v.l.</span>) ┐ a ruscca dósomh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 319
+§ 13
+          
+        . 
+          meni tuga biad im d.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 64.21
+          
+        . is do doarfas in d.<span class="oRef">¤</span> 
+cen rigidh (of Belshazzar), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 23a37
+        . lán duirn <span class="trans">a <span class="def">handful</span>:</span> 
+
+          gabais C. lán duirnd dind feór, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1643
+          
+        . comtrom do gach 
+ní aen-lan duirn <span class="ediltr">an equal handful of each ingredient</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/23P10" title="eDIL Bibliography">23 P 10</strong></span>, 
+79.36
+        . debaid duirn <span class="trans">a <span class="def">fight</span> with <span class="def">fists</span>:</span> 
+          da ndech i mebail | narop 
+debaid duirn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 290.2
+          
+        . 
+          da rabhair a ndeabhaidh | 
+narab deabhaidh duirn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/3C12" title="eDIL Bibliography">3 C 12</strong></span>, 122.20
+          
+        . <span class="trans">
+          <span class="def">Hand</span> as symbol</span> of 
+labour or workmanship: 
+          radis . . . nach crích no ferand bái 
+aice acht a uird ┐ a indeona ┐ a duirn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 962
+          
+        . imin 
+clochdroichit suidighus o dourn <span class="ediltr">which he erected with his own 
+hand</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 232.11 Comm.
+         
+          tri duirn ata dech for bith: d.<span class="oRef">¤</span> 
+degsháir, d.<span class="oRef">¤</span> degmná, d.<span class="oRef">¤</span> deggobann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 76
+          
+        . rindaide, 
+ráthbuige . . . i tig ríg noibdis corn, | ba hé a ndliged díles d.<span class="oRef">¤</span>
+         
+ <span class="ediltr">the right due to their handiwork</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 24
+        ; '<span class="quote">this was their proper due … a fist</span>' 
+          v 125
+        . conarba ní 
+ri mac oclaig . . . a dornd im suist no im opair <span class="ediltr">so that no son 
+of a warrior would put his hand to a flail</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 116.12
+        .</p>
+     
+      <p class="result"> 
+Fig. <span class="trans">to denote <span class="def">seizure</span>, <span class="def">possession</span>:</span> 
+          dobhen urlamhas a 
+atharda a dornaibh danar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2178.19
+          
+        . d.<span class="oRef">¤</span> i mbrollach 
+(a legal formula signifying arrest?): 
+          d.<span class="oRef">¤</span> ina brollach ar daigin 
+a fastaithe re fiachaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 164.12 Comm.
+          
+         
+          a leanmuin cu 
+hor criche ┐ d.<span class="oRef">¤</span> ina brolluch i n-or criche, 
+            ii 88.18 Comm.
+          
+         = 
+
+          lamh ina brolluch, 
+            20
+          
+        ; <span class="lbl">cf.</span> 
+          i 128.z
+        . Prov. d.<span class="oRef">¤</span> im cheo <span class="ediltr">a hand 
+round mist</span> (= <span class="ediltr">something vain or ineffectual</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laud615" title="eDIL Bibliography">Laud 615</strong></span>, 23
+        . 
+
+          na seoid adchi as d.<span class="oRef">¤</span> am cheo, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 138
+          
+        . d.<span class="oRef">¤</span> im diaid <span class="lbl">id.</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1586
+        ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 54.27
+        . 
+          dorn im gae ngreine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CIH" title="eDIL Bibliography">CIH</strong></span> iii 750.33
+          
+        , 
+cf. 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 162.24
+        . fá dornaib <span class="trans">
+          <span class="def">underhand</span>, <span class="def">secretly</span> (mod.?):</span> 
+          raelta 
+eoluis fé dhóirnibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 46
+          
+        . 
+          súgra . . . fá na ndóirnib, 
+            70
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">hand</span> as a <span class="def">measure</span> of <span class="def">length</span>:</span> d.<span class="oRef">¤</span>
+         <span class="ediltr">a measure of 6 or 4 
+inches</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODon.Suppl." title="eDIL Bibliography">O'Don. Suppl.</strong></span>
+         
+          sé troighthi . . . no da dornd déc ma do 
+dornuib toimistar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 76.21 Comm.
+          
+         
+          naoi nduirn a fot 
+. . . d.<span class="oRef">¤</span> leithet a crai . . . tri duirn a leithet ara medon, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+xiv 348.1
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 238.10
+        ). 
+          cetra duirn i n-airde, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 108.24
+          
+        . 
+
+          cubat cóic nd.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 130 § 102
+          
+        . 
+          dá dh.<span class="oRef">¤</span> décc ina leithet, trí 
+duirn ┐ dá mér i fad a eite, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 996.9
+          
+        . <span class="lbl">Cf.</span> also: in dabach 
+aile . . . fichis dornaib de <span class="ediltr">it boiled hands high</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 724
+         (see 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iii 180
+        ). 
+          in dabach tanaise con figfed durnu di, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+1367
+          
+        = rofhuich d.<span class="oRef">¤</span> uaisdi, St.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">handful</span> (= lán duirn), <span class="def">small</span> <span class="def">quantity</span>:</span> dornn biroir, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1169
+        . 
+          cia fochertha d.<span class="oRef">¤</span> lán d'fhiad-ublaib fora cenna, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 252b17
+          
+        . 
+          nir dirúais dar (= don) charpat . . . acht d.<span class="oRef">¤</span> dina 
+bassaib immon roth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 6070
+          
+        . 
+          d.<span class="oRef">¤</span> dona hasnaib . . . d.<span class="oRef">¤</span> dona 
+fer[t]sib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 3638
+          
+        . 
+          dornn do thuige ┐ d'édach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 24.31
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">blow</span> with the <span class="def">fist</span>, <span class="def">buffet</span>:</span> 
+          ní ba mó nó ó mir nó ó dúrnn nó 
+ó lúa mair[b]fes cach fer leo, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> § 94
+          
+        . 
+          marbaid cét fer dib 
+col-lūib ┐ co ndornaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 24 § 6
+          
+        . 
+          do buail d.<span class="oRef">¤</span> dásachtach 
+ar Chonán, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 339.7
+          
+        . 
+          doradus d.<span class="oRef">¤</span> dara bhél, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1428
+          
+        . 
+
+          d.<span class="oRef">¤</span> imidrubart, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1348
+          
+        . </p>
+    
+  
+  
+     
+
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+          <span class="def">handle</span>
+        </span>. Of a vessel: gl. ansa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 361.29
+         (Philarg.). 
+ballán d.<span class="oRef">¤</span>
+         `<span class="quote">a bowl of hands</span>' (<span class="ediltr">a two-handed cup</span>?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Moling" title="eDIL Bibliography">Moling</strong></span> § 14
+        
+(`<span class="quote">vessel of handfuls</span>?' Plummer MS. notes). cilorn . . . an stuag 
+as a taib no in milan duirn (<span class="trans">`the <span class="def">hand-can</span>'; can with handle</span>?), 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 134.4 Comm.
+         <span class="trans">Of a <span class="def">bell</span>:</span> 
+          ássaid bethe tría doirnn 
+(doirnnin, <span class="lbl">v.l.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2928
+          
+        . Of <span class="trans">a <span class="def">sword-hilt</span>
+        </span> (only in compds.): 
+
+          claideb dorngel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2847
+          
+        . 
+          claidbi gel-duirn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4372
+          
+        . 
+
+          claidbi ōrduirn, 
+            4396
+          
+        ; <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2045
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 310.38
+        . im chechtar 
+a dá leth-d.<span class="oRef">¤</span> in chlaidib <span class="ediltr">on each side of the hilt</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 237b37
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1548
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) <span class="trans">Exceptionally <span class="def">foot</span> (of an animal) (?):</span> 
+          d.<span class="oRef">¤</span> daimh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 
+76
+          
+         <span class="lbl">v.l.</span> (
+          .i. cos ag treabath, 
+            p. 37
+          
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">g</span>) As <span class="pos n.pr." style="color: #ff8000">n.pr.</span> <span class="gen m.">m.</span> 
+          D.<span class="oRef">¤</span> fer do Fénib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 391a
+            
+          
+        . <span class="case gen.">gen.</span> 
+          Duirn, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 682
+          
+        ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 68.2
+        . 
+          a síd Duirnn Buidhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7204
+          
+        , <span class="lbl">cf.</span> 
+          3847
+        . 
+ <span class="number pl.">pl.</span> 
+          tri Duirn
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 3515
+          
+        . As <span class="pos n.pr." style="color: #ff8000">n.pr.</span> <span class="gen f.">f.</span> 
+          
+            D.<span class="oRef">¤</span>
+             ingin Buidi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 
+70.14
+          
+        . <span class="case accus.">accus.</span> 
+          Durn, 
+            68.17
+          
+        . 
+          Dornd bean do Feinaib Temrach, 
+
+            v 472.12 Comm.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+Compds.</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) With adj.: 
+            <span class="oRef">¤</span>balc <span class="trans">
+            <span class="def">strong-fisted</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+114
+          . 
+            <span class="oRef">¤</span>chorcra <span class="trans">
+            <span class="def">crimson-fisted</span>
+          </span> (epithet of Cuchulainn), 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU" title="eDIL Bibliography">MU</strong></span> 4.23
+          . 
+
+            
+              <span class="oRef">¤</span>gel, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 272.3
+            
+          ; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 162.15
+          . 
+            <span class="oRef">¤</span>mass: Diurān dornnmas 
+ <span class="ediltr">D. of the beautiful hands</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 58 § 63
+          . 
+            <span class="oRef">¤</span>mer <span class="trans">
+            <span class="def">deft-handed</span>
+          </span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 130
+          . See also under <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=dorn (e)">(e)</a></span> above.</p>
+      
+     
+      <p class="result"> 
+(<span class="edilb">b</span>) With subst.: 
+          <span class="oRef">¤</span>chlaideb `<span class="trans">
+          <span class="def">hand-sword</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 61
+        . 
+
+          <span class="oRef">¤</span>ḟáscud <span class="ediltr">squeezing with the hands</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2521
+        . 
+          <span class="oRef">¤</span>gal: 
+          
+            <span class="frn ">bellum</span> 
+(<span class="lbl">alias</span> dorndghal) breg h-Eile re n-Ailill molt for Laighniu, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 24.4
+          
+        . 
+          in indeoin fo dorndgalaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 276 § 5
+          
+        
+(`<span class="quote">boilings with bubbles as big as fists</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iii 180
+        ). 
+          <span class="oRef">¤</span>glac: 
+
+          i ndornnglacaib doitlebra Domnaill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 116.23
+          
+        . dornnfot 
+ <span class="ediltr">a hand's length</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 76.24 Comm.
+         With adj. formed from 
+noun 
+          <span class="oRef">¤</span>gualannach: eich dorngualandaig <span class="ediltr">of a horse with 
+shoulder a hand's breadth</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 72 § 29
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

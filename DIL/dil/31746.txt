@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="31746">medón</h3><span class="citation">Cite this: eDIL s.v. medón or <a class="reference" href="31746">dil.ie/31746</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                medān, meodhan, meodun, meadhón, meadhán, meidheón, medōin</p></div><div class="col-sm-9 result_content">
+   
+
+ 
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen m.">m.</span>, 
+        
+          medān (: gerān), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 57 § 57.
+        
+       
+        meodhan, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+395a37
+        
+      , 
+        48
+       (late form). <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        meodun, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 80.24 Comm.
+        
+       
+meadhón meadhán 
+        meidheón, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. § 35.16
+        
+      .</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">middle</span>, <span class="def">centre</span> (of space or time):</span> dub a íchtur, derg a m.<span class="oRef">¤</span> 
+┐ a uachtor (of flame), 
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 21.
+         
+          for medon maige, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 11.
+          
+         
+
+          ó m.<span class="oRef">¤</span> co himbel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 343.
+          
+         
+          i mm.<span class="oRef">¤</span> na cathrach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 88.
+          
+         
+inna medón <span class="ediltr">in their midst</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 105d8
+        . 
+          a meadhon an chomhchruinnighthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> v 14.
+          
+         hi medhón a aoisi <span class="ediltr">in the flower of 
+his age</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2176.
+         (cryptic) 
+          mvincedan .i. medhón, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Goid." title="eDIL Bibliography">Goid.</strong></span> 75 § 24 (Dúil Laithne)
+          
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xlix-l 612
+        .</p>
+     
+      <p class="result"> 
+As <span class="pos adv." style="color: #ff8000">adv.</span>,absol. or with prep.: anechtur ┐ medon <span class="trans">
+          <span class="def">within</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> 
+i 311 x
+        . 
+          is medhon aratairberat ina cethra-so, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 24.18
+          
+        . 
+ar m.<span class="oRef">¤</span>
+         (gl. per medium), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 164a2
+        . 
+          isin cathair ar medhón, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 55.
+          
+         
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1766.
+         
+          nos-credet ho chride ar m.<span class="oRef">¤</span> ┐ nos-faismet o belaib sechtair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6796.
+          
+         do maccaib deorad 
+[echt]ar tir ┐ . . . dó maccaib aurrad ar m.<span class="oRef">¤</span>
+         (<span class="lbl">i.e.</span> indigenous, 
+local), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 20.
+         ceart . . . righ Caisil ó thuathaibh ar meadhon 
+(<span class="lbl">i.e.</span> internal dues), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 42.1
+        , <span class="lbl">cf.</span> 
+          60.13
+        . rann ó bon . . . ┐ rann 
+ó inn ┐ rand ar m.<span class="oRef">¤</span>
+         (legal methods of dividing property), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+i 214.15
+        . 
+          cró ar m.<span class="oRef">¤</span>
+          , 
+            215.4
+          
+        . hi mmedón, gl. intus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 158b5
+        . is 
+i mm.<span class="oRef">¤</span> dogníther . . . ni fo deud (= <span class="frn ">intrinsecus fit</span>), 
+          157b1
+        . 
+          ni 
+dianechtair acht isint saltair i mmedon, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 5.150
+          
+        . 
+dóel i medon eturru <span class="ediltr">midway between them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 314.31
+        .</p>
+     
+      <p class="result"> 
+<span class="case g">g</span>
+        <span class="number s.">s.</span> as attrib.: mēr medōin
+         <span class="ediltr">middle finger</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 29 § 33.
+         
+mí meadhoin an fómair . . . mí meadhoin an geimrid (<span class="lbl">i.e.</span> 
+October and January), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 319.32
+        , 
+          33
+        . triath . . . an 
+treana meadhóin (<span class="lbl">i.e.</span> of the `Trian Medónach'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 
+728.
+        
+      </p>
+     
+      <p class="result"> 
+Often strengthened by prefix cert-, fír-, <span class="lbl">etc.</span>: 
+          im certmedon 
+da sliasat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5210.
+          
+         hi firmedón na cuardae <span class="ediltr">the very 
+centre</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 72.
+         tendmedón traiged <span class="trans">the <span class="def">instep</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 184.
+        
+      </p>
+     
+      <p class="result"> 
+m.<span class="oRef">¤</span> aidche <span class="trans">
+          <span class="def">midnight</span>
+        </span>, often as <span class="pos adv." style="color: #ff8000">adv.</span>: 
+          tráth bá medon aidche, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 84.
+          
+         
+          eirgit asa suan medon aidche, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 130 § 103.
+          
+         
+          m.<span class="oRef">¤</span> 
+aídche dorigned talam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 154.101
+          
+        . <span class="trans">One of the <span class="def">canonical</span> <span class="def">hours</span>
+        </span>, 
+          <span class="lbl">ib.</span> 146 § 6
+        . m.<span class="oRef">¤</span> laí <span class="trans">
+          <span class="def">midday</span>:</span> 
+          i mm.<span class="oRef">¤</span> lá tánic C., 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+6066.
+          
+         
+          go midi medoin laí, 
+            3774
+          
+        . 
+          i mmedon lathi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> ii 46.
+          
+         
+
+          o trath eirgi co medan lai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 76.8
+          
+        . no treigtis a ddurtaig 
+medón láoi <span class="trans">
+          <span class="def">at noon</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 12.
+         <span class="trans">
+          <span class="def">Sext</span> (<span class="def">canonical</span> <span class="def">hour</span>):</span> 
+
+          celeberthair medon lai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 44.24
+          
+        . 
+          iii 116.11
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 
+144 § 2.
+         <span class="trans">By extension, the <span class="def">midday</span> <span class="def">meal</span>:</span> 
+          dorad cuiredh doip 
+chom a medhoin laói, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 42.16
+          
+        ; 
+          28.21
+        ; 
+          78.21
+        . <span class="trans">The 
+<span class="def">south</span> (= Lat. <span class="frn ">meridies</span>):</span> 
+          a haghaidh ar in medon lai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> 
+xix 12.1
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">the <span class="def">middle</span> <span class="def">part</span> of the <span class="def">body</span>; the <span class="def">abdomen</span>:</span> don medon (gl. 
+ventrem), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gild.Lor." title="eDIL Bibliography">Gild. Lor.</strong></span> 207.
+         
+          teidm . . . do galur medóin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4158.
+          
+         
+
+          fri moethichtur a medoin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2566.
+          
+         
+          ita mo chorp 'na 
+c[h]amra . . . da fēgainn me as mo medon, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 239 § 34.
+          
+         
+
+          betit cind ┐ chosa . . . ┐ medoin iarná tescad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 761.
+          
+         <span class="trans">The 
+<span class="def">waist</span>:</span> 
+          remithir m.<span class="oRef">¤</span> fir cach ball díb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 128.
+          
+         
+          slabrada imma 
+m.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 25.
+          
+         
+          ro bui cris . . . cengailti ina medhon, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 285.35
+          
+        . 
+<span class="lbl">Cf.</span> 
+          a chaoil, a leasrach, [a] mheadhuin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 147.
+          
+         <span class="trans">The 
+<span class="def">womb</span>:</span> 
+          táinig 'n-a dhuine . . . i meadhón Maria, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> 
+xlviii 27.
+          
+         
+          dob fiú lé . . . aenmac Dé techt ad methon, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> i 83.10
+          
+        . 
+          i meadhón a mhathar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 32 § 4.
+          
+        
+      </p>
+    
+  
+  
+    <p class="result"> 
+Compds. With subst. in sense <span class="trans">
+        <span class="def">middle</span>, <span class="def">mid-</span>:</span> 
+        <span class="oRef">¤</span>class: as a 
+medonclais <span class="ediltr">middle trench</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 202.17
+      . 
+        <span class="oRef">¤</span>cluiche, in 
+phrase: fer medónchluichi `<span class="quote">a man in the midst of the game</span>', 
+<span class="trans">a <span class="def">person</span> <span class="def">involved</span> (in an <span class="def">offence</span>, <span class="lbl">etc.</span>), an <span class="def">accessary</span> <i>to the deed</i>(?)</span>, 
+distinguished from fer láime `<span class="quote">perpetrator</span>' and sellach `<span class="quote">onlooker</span>': 
+        is amuil fer laime tigerna in con dorigne in fogail ┐ is 
+amuil fer medoncluichi tigerna in con nā derna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 
+194.26
+        
+      . 
+        cumal co leith do dire . . . for fer laime . . . a trian-side 
+for lucht medoncluithi ┐ aen-trian for seallchaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, fo. 28
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2371
+      ). 
+        <span class="oRef">¤</span>gait, in phrase: fer medōngaite `<span class="quote">middle-theft 
+man</span>' (one who gives away stolen property unwittingly, <span class="lbl">etc.</span>), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 302.19
+      , 
+        v 218.16 Comm.
+       
+        <span class="oRef">¤</span>lá <span class="trans">
+        <span class="def">noon</span>:</span> i mmidi medon-lae <span class="ediltr">at the height of noon</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 848
+      , <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3774
+       above 
+
+        <span class="oRef">¤</span>mér <span class="trans">
+        <span class="def">middle</span> <span class="def">finger</span>:</span> 
+        co remet medoinmeoir [medonm. <span class="lbl">v.l.</span>], 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5308.
+        
+       
+        <span class="oRef">¤</span>sídaigthid <span class="trans">
+        <span class="def">mediator</span>, <span class="def">reconciler</span>:</span> 
+        medhonsídhaighthi[d] muinntire nimhe ┐ talman, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 23 § 1.
+        
+       
+
+        medonsithaighid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 2.9
+        
+      . 
+        <span class="oRef">¤</span>tairismid <span class="trans">
+        <span class="def">standing</span> <span class="def">in the 
+middle</span>
+      </span> (formed to transl. mediastinus), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 37b13
+      . 
+        <span class="oRef">¤</span>testimin 
+`<span class="trans">
+        <span class="def">middle</span> <span class="def">period</span>
+      </span>' (appar. a techn. term used by O.Ir. scribes): 
+
+        is m.<span class="oRef">¤</span>-t. á fil etarru, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 27d19
+        
+      : `<span class="quote">what is between them</span> (<span class="lbl">i.e.</span> these 
+verses) <span class="ediltr">is the middle of a period</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span>
+      ; <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 50b19
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 14b3
+      , 
+
+        
+          c7
+      , 
+        22d20
+      , 
+        55d10
+      , 
+        77b7
+      .</p>
+  
+  
+    <p class="result"> 
+With adj. (rare): i mmís Martai medónréid <span class="ediltr">smooth (calm</span>) 
+<span class="trans">
+        <span class="def">in the middle</span> (?)</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 102.15
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

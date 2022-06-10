@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="35111">renaid</h3><span class="citation">Cite this: eDIL s.v. renaid or <a class="reference" href="35111">dil.ie/35111</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                rendae, riae, ria, ria, ria, riat, ririu, riris, rriri, riret, riris, rom-rir, rir, rir, ririr, rir, renar, renair, rirsitir, ríthae, rith, rithi, rir, rer, ririub, rirfes, ririss, nos-rirfind, nit-rirfider, nit-rirfithe, rec(c)aid</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> 
+      <span class="mood &#x101;-subj.">ā-subj.</span> (
+        <span><strong class="pop" style="color:blue" href="bibliography/Thurn." title="eDIL Bibliography">Thurn. Hdb.</strong></span> § 609
+      ), redupl. <span class="tns fut.">fut.</span> and <span class="tns pret.">pret.</span> Early 
+forms: <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number pl.">pl.</span> <span style="color: #ff8000">rel.</span> 
+        rendae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 120d1
+        
+      . <span class="mood subj.">subj.</span> <span class="tns pres.">pres.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+        ni riae
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 199.7
+        
+      . 
+        ni ria
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 58.5
+        
+      , <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 731
+      . 
+        ma ro ria
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1520
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        ni ria
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 54.4
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        ni riat
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28c2
+        
+      . 
+<span class="tns fut.">fut.</span> (not in Glosses) <span class="per 1">1</span> <span class="number s.">s.</span> 
+        ni ririu
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i. 11.1
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B512" title="eDIL Bibliography">Rawl. B 512</strong></span> 
+f. 32v2
+      ). <span class="per 3">3</span> <span class="number s.">s.</span> ? 
+        riris, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 119b50
+        
+      . 
+        ni rriri
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5606
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> (for 
+<span class="mood subj.">subj.</span> <span class="tns pres.">pres.</span>) 
+        nā riret
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 320 § 103
+        
+      . <span class="tns pret.">pret.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        riris, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 328.20
+        
+      . 
+        rom-rir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3c38
+        
+      . 
+        ro rir
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 106a49
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 
+498.16
+      . 
+        rir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 71
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 262
+      ) = 
+        ririr, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 907
+        
+      . 
+        ni rir
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 327.18
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 6
+      ). <span class="voice Pass">Pass</span> <span class="tns pres.">pres.</span> <span class="number s.">s.</span> 
+        renar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 360.2
+        
+       
+(<span style="color: #ff8000">rel.</span>). 
+        renair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 390.20
+        
+       (LB), beside 
+        rentar, 
+          <span class="lbl">ib.</span> 21
+        
+      . <span class="tns fut.">fut.</span> <span class="number pl.">pl.</span> 
+
+        rirsitir
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 309.12
+        
+      . <span class="tns pret.">pret.</span> 
+        ríthae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 240.1
+        
+      , 
+        2
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 
+17b1
+      ). 
+        ro rith
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3153
+        
+      , 
+        3169
+      . <span class="pos Part.-nec." style="color: #ff8000">Part. nec.</span> 
+        rithi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 36a37
+        
+       
+<span class="lbl">q.v.</span> <span class="pos Vn." style="color: #ff8000">Vn.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 reic(c)">1 reic(c)</a></span> <span class="lbl">q.v.</span> </p>
+   
+    <p class="result"> 
+In Mid.Ir. commonly treated as a weak <span class="itype &#x101;">ā</span>-stem, but the 
+<span class="per 3">3</span> <span class="number s.">s.</span> <span class="tns pret.">pret.</span> ro rir
+       (not to be confounded with ro-ír, from <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ernaid">ernaid</a></span>) 
+persists till a comparatively late period; an analogous formation is <span class="per 1">1</span> <span class="number s.">s.</span> <span class="tns pret.">pret.</span> 
+        ro rer
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 365.17
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 38.24
+      . The 
+fut. stem rir- occurs somet. in mixed formation with b- inflections: <span class="per 1">1</span> <span class="number s.">s.</span> 
+        noco ririub
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10778
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 127.30
+      ). <span class="per 3">3</span> <span class="number s.">s.</span> <span style="color: #ff8000">rel.</span> 
+        rirfes, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1073. 3
+        
+      
+      <span class="number s.">s.</span> 
+        ririss, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 235.30
+        
+      ; 
+        236.1
+      ; 
+        237.11
+       may belong 
+to another vb. <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 rigid">1 rigid</a></span>. <span class="mood cond.">cond.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        nos-rirfind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 70.14
+        
+      . 
+<span class="voice pass.">pass.</span> <span class="tns fut.">fut.</span> <span class="number s.">s.</span> 
+        nit-rirfider
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 11.1
+        
+       (YBL). <span class="mood cond.">cond.</span> <span class="number s.">s.</span> 
+        nit-rirfithe, 
+          5.2
+        
+      .</p>
+   
+    <p class="result"> 
+In later lang. superseded by rec(c)aid, which is often used 
+to gloss it in old texts.</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">sells</span>, <span class="def">barters</span>, <span class="def">exchanges</span>
+        </span>, with acc. of thing sold, FRI of 
+purchaser and AR of price or equivalent. inna ní rendae 
+.i. inna cennaige, gl. vendentium, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 120d1
+        . rom-rir, gl. 
+venundatus [sum], 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3c38
+        . 
+          ríthae int ech sin fri Colman 
+ar chumil n-arggit, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 240.2
+          
+        . 
+          ni riat na dánu diadi aran 
+indeb domunde, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28c2
+          
+        . 
+          ro rith [Ioséph] fri toisech i 
+tuaith Egept, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3169
+          
+        . 
+          an ro rir Fergus, scarad dó friss; an 
+ro chennaig Conchobar, anad aici, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 24.14
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 106a49
+        ). 
+ren ór ┐ argat ar biad <span class="trans">
+          <span class="ediltr">barter gold and silver for food</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 312.20
+        . 
+          norenaind biadh inna hecailse . . . ar seoto, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 
+82.2
+          
+        . 
+          ní ria sen-iris ar nua-hiris, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 86 § 43
+          
+        . ro rer m'eol 
+ar eidirchéin <span class="trans">
+          <span class="ediltr">I have exchanged my home for a far-off land</span>
+        </span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 38.24
+        . 
+          is hé-sidhe riris in flaith fri óssar na claindi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 328.20
+          
+         = 
+          is e rire . . . ar maine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 334.8
+          
+        . forb 
+forsa-rir Mis atharda <span class="trans">
+          <span class="ediltr">for which M. bartered his patrimony</span>
+        </span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 51
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 446
+        ) = 
+          fors-roirir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 377a3
+          
+        . 
+          ni rir (.i. ni 
+ro recc), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 6 Comm.
+          
+         
+          reanais .i. recais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec.Gl." title="eDIL Bibliography">Lec. Gl.</strong></span> 189
+          
+        . 
+          ro 
+ren side maitius an talman ar oilithre, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 300 § 2
+          
+        . 
+          renair 
+Lupait . . . rentar Pátraic fria Miliuc . . . ┐ ro rensat a dí siair, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 390.20
+          
+        -
+          3
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lib.Hymn." title="eDIL Bibliography">Lib. Hymn.</strong></span> 3, B 14
+        -
+          17
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 
+          238a16
+        -
+          18
+        ). 
+
+          gorta díofhulaing . . . co renadh an t-athair a mhac . . . ar 
+bhiadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 686.12
+          
+        . ro rensat gach tir ar tuinn <span class="trans">
+          <span class="ediltr">they exchanged 
+every land for sea</span>
+        </span> (<span class="lbl">i.e.</span> sailed on without landing?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 
+i 240.6
+         = 
+          do reatsat o thir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 19b36
+          
+        ; 
+          do rersad a tir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 
+270va24
+          
+        . With pers. obj. (gen. with added notion of forsaking, 
+renouncing): 
+          noco ririub ríg nÉrend ar fer nā fetar cenel dó, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 127.30
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10778
+        ) = 
+          nocha chrenob, 
+            <span class="lbl">ib.</span> 13
+          
+         (Eg.). 
+          ni 
+rriri bráthair a máthar ar rig n-aile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5606
+          
+         = 
+          ní rirse, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1124
+          
+         = 
+          adbert . . . nachas-rinna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 547.11
+          
+         
+(<span class="lbl">leg.</span> -rena) = 
+          ni recfaind b. mo mathar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1626
+          
+        . 
+          na riret in 
+duileama[i]n ar deman ndaor, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 320 § 103
+          
+        . 
+          nachas-rinfed ar mnaí di mnaib in domain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 221b7
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 314
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+Hence, without notion of exchange, (<span class="edilb">b</span>) <span class="trans">
+          <span class="def">gives</span> up, <span class="def">renounces</span>, 
+<span class="def">consigns</span>, <span class="def">bestows</span>
+        </span>: atrubart-sa . . . conom-rire Echaid nít-rius 
+<span class="trans">
+          <span class="ediltr">I will not go to thee till E. gives me up</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10906
+        . 
+          rir accobor 
+a sula, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 71
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 262
+        ) = 
+          ririr, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 907
+          
+        . aní ro renais ní 
+comraicfe fris <span class="trans">
+          <span class="ediltr">you shall not (again) mate with him whom you 
+have given up</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 274b19
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> xxx (C) 263.11
+        ). tri barrchais 
+Berba . . . ros rir Conall i llaim <span class="trans">
+          <span class="ediltr">handed them over to custody</span>
+        </span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 109.4
+        . 
+          hi llucc pēne rirsitir, 
+            vii 309.12
+          
+        . ni ririu dano 
+acht a bás <span class="trans">
+          <span class="ediltr">I will give nought but his death</span>
+        </span> (reply to intercession 
+for a culprit), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 11.1
+        . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ernaid">ernaid</a></span> and 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xvi 272
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

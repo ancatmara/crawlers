@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="256">1 adaig</h3><span class="citation">Cite this: eDIL s.v. 1 adaig or <a class="reference" href="256">dil.ie/256</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                aidche, oidche, adhaigh, hoidhche, adaig, aithchi, aidchi, aithche, aidche, aidchi, aithchi, adaig, aidchi, aithgi, aidhce, aidchib</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> later also aidche, oidche. <span class="itype i&#x101;">iā</span>, <span class="gen f.">f.</span> (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 
+§ 294
+      ). adhaigh <span class="gen f.">f.</span> (<span class="case g">g</span>
+      <span class="number s.">s.</span> na hoidhche
+      ), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 93
+      . Early 
+forms: <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        adaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 140c3
+        
+      . <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        aithchi, 
+          95d9
+        
+      . 
+        aidchi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 
+2451
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        aithche, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 95d10
+        
+      . 
+        aidche, 
+          21c3
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        aidchi, 
+          62c6b
+        
+      . 
+
+        aithchi, 
+          30a4
+        
+      . 
+        adaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4781
+        
+       (TBC). <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        aidchi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 279
+        
+      . 
+<span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        aithgi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 242.13
+        
+       (Ardm.) <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        aidhce, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Moling" title="eDIL Bibliography">Moling</strong></span> § 2
+        
+      . 
+<span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        aidchib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 127
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">
+        <span class="def">Night</span>:</span> 
+        a.<span class="oRef">¤</span> tar æsi laíthi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 21c3
+        
+      . 
+        ni bí a.<span class="oRef">¤</span> daitsiu, 
+          140c3
+        
+      . 
+
+        co roleg in nord neclastacda uile i noen aidche, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 308.3
+        
+      . 
+
+        a.<span class="oRef">¤</span> imlan, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 20
+        
+      . 
+        nocho rabi a.<span class="oRef">¤</span> hi Maig Inis acht soillsi 
+ainglecda and, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2997
+        
+      . 
+        nip sí sin a.<span class="oRef">¤</span> bá sámam dóib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+4683
+        
+       (TBC). 
+        combo chomsolus lá ┐ a.<span class="oRef">¤</span>
+        , 
+          8056
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 2
+      ). cach fer 
+díb a aidchi do ḟairi na cathrach, <span class="ediltr">each man had his night for 
+guarding the town</span>, 
+        9051
+       (<span class="lbl">ib.</span> 
+        80
+      ). 
+        midmedón aidchi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 219
+        
+      . 
+
+        urd aen laithi no aon oidchi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 22.24
+        
+      . 
+        scela na haidche 
+arér, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3203
+        
+      . is fri aidchi dodéchatar chuccae <span class="ediltr">by night</span> 
+(= <span class="frn ">contra noctem</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 18
+      ), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2452
+      . loisc . . . 
+longport Amlaib re naidchi, `<span class="quote">before nightfall</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 32.10
+      . 
+fuair Ioseph . . ./ ar chionn oidche . . ./ áit, <span class="ediltr">a place to stop the 
+night</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 17.7
+      . 
+        lá áluinn don oidhche gheimhridh / do-ghéanta . . ./ lá geal gémadh adhaigh é, 
+          2.13
+        
+      . 
+        gemhaidhchi 
+geimridh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 59.9
+        
+      . 
+        oidhcheadha tuirseacha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Job</strong></span> vii 3
+        
+      . 
+feis aidchi <span class="ediltr">evening meal</span>, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 feis">2 feis</a></span>. 
+        nocht .i. aidche, <span class="frn ">ut est</span> 
+tabair mo miach cruithnechta cach nochtai[d]chi sceo dee, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1285
+        
+      . <span class="trans">Of <span class="def">battle</span> fought at <span class="def">night</span>
+      </span>: 
+        cath for Gull, cath for Ergull ┐ dubadaig Immair '<span class="quote">the battle at Goll, the battle at Ergoll and the black night[-battle] of Immar (?)</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/B.inSc&#xE1;il2" title="eDIL Bibliography">B. in Scáil²</strong></span> 35 § 10
+        
+      .</p>
+  
+  
+    <p class="result"> 
+In <span class="case accus.">accus.</span>, <span class="case gen.">gen.</span> and <span class="case dat.">dat.</span> as <span class="pos adv." style="color: #ff8000">adv.</span> of time. <span class="case Accus.">Accus.</span>: in naithchi 
+n-uili <span class="ediltr">during the whole night</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 95d9
+      . 
+        amal nongnetis ón 
+gním in n-aithchi dorchi, 
+          30a4
+        
+      . 
+        ni gleter dala lasna Déisi acht 
+in n-aidchi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2451
+        
+      . 
+        canaid cét salm cech naidchi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> 
+ii 315.5
+        
+       (Hy. ii). 
+        cach nómad n-aidche, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 174
+        
+      . 
+        cech 
+noidci, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 176 § 95
+        
+      . 
+        nuall-ghul gach n-oidche, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6430
+        
+      . 
+
+        adhaig n-aen ann, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 310 § 35
+        
+      . Prob. also: doluid Duaid 
+. . . aidchi roboi cucu inna ndunad `<span class="quote">D. went one evening to 
+them into their camp</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 55c1
+      . in aidchi in gene `<span class="quote">on the night 
+of the birth</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28c12
+      . 
+        suánemuin do dénum in aidchi, 
+
+          24d14
+        
+      , 
+        26b17
+      . 
+        lasse immerordus in aidchi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 96a3
+        
+      . 
+        in a.<span class="oRef">¤</span> 
+-sin . . . ro-saerait na maccu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 412
+        
+      . 
+        an adhaigh rug Muire 
+mac, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 15.9
+        
+      . 
+        an adhuighsin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 8.13
+        
+      . tánag adhaigh 
+go hEas gCaoille <span class="ediltr">one night</span>, 
+        25.1
+      . <span class="case Dat.">Dat.</span>: trissa n-ínnaide arane-
+tersi ind aidchi (?<span class="lbl">leg.</span> isind a.<span class="oRef">¤</span>
+      , edd.) `<span class="quote">in the night</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 42c23
+      . 
+
+        ind aidhche, 
+          <span><strong class="pop" style="color:blue" href="bibliography/G50" title="eDIL Bibliography">Gael. 50</strong></span>, 128
+        
+       (`<span class="quote">at night</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 325
+      ). isind 
+aidchi dudchoisgedar `<span class="quote">on the night that follows it</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 62c6b
+      . 
+        ní 
+airgénsat bíada dóib ind a.<span class="oRef">¤</span> sin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4780
+        
+       (TBC). In <span class="number pl.">pl.</span> Dia do 
+adhradh aidhc[h]ibh laithib <span class="ediltr">by night and day</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 198.24
+      . 
+<span class="case Gen.">Gen.</span>: 
+        orggaid .c. fer cacha aidche diib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5583
+        
+       (TBC).</p>
+  
+  
+    <p class="result"> 
+In phrase (n)d'a.<span class="oRef">¤</span>
+       (where (n)d- is the remnant of the article, 
+see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> p. 161
+      ) <span class="trans">
+        <i>that</i> <span class="def">night</span> (<span class="lbl">i.e.</span> the night following 
+a specified day):</span> 
+        con-tuili íarom [i]nd adig (ndadig, ṅdadaig 
+<span class="lbl">v.ll.</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thurn.ZuIr.Hdschr.u.Lit." title="eDIL Bibliography">Thurn. Zu Ir. Hss.</strong></span> 37 § 5
+        
+      . 
+        faeiss ind ingen dádaig 
+leis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 11308
+        
+      . anais . . . ann a lla n-isin . . . ┐ in n-aidchi 
+d'adhaig `<span class="quote">that day and the following night</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 146 § 7
+       
+(TE2). co fargdais cuit na aidchi d'ádaig <span class="ediltr">until they should 
+have left behind (sufficient for) the evening meal that night</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+1954
+      . 
+        an fer muirse anocht dot marbud himbaruch d'adhuigh, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 176 § 95
+        
+      . 
+        tigid . . . uili amārach d'agaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Death-talesoftheUlsterheroes" title="eDIL Bibliography">Death-tales of the Ulster heroes</strong></span> 
+40.1
+        
+      . 
+        Dun Gaillmhe do losccadh arabhárach d'adhaigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 
+1144.8
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">In reckoning periods of time (<span class="lbl">cf.</span> Engl. <span class="def">fortnight</span>, <span class="def">se'nnight</span>):</span> 
+
+        do galur tri noidhche, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> ii 28.3
+        
+      . do trib cethorchait aidci
+`<span class="quote">thrice forty nights</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 136.8 (§ 24)
+      . 
+        foidsi S. o ruan 
+iii aithgi lais cu M. ┐ anis .iii. aithgi la suide, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 242.13
+        
+       
+(Ardm.). 
+        anait sidi leis trí laa ┐ tēora aidchi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 4
+        
+      . 
+        re ré 
+cethrachat aidhchi in corgais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 196.2 Comm.
+        
+       
+        iar teora 
+aidhcib, 
+          v 320.11
+        
+      . 
+        damnatar la trí laaib ┐ aidchib ic ól, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 
+127
+        
+      . 
+        ré cetheora n-oidhche con a láibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 30.18
+        
+      . 
+        ro 
+troicset trī lā cona n-oighthibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 43.28
+        
+      . a.<span class="oRef">¤</span> longpuirt
+<span class="ediltr">a night's encampment:</span> aidce longphort (<span class="lbl">leg.</span> -phuirt), 
+        <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+3444
+      . 
+        do batar a.<span class="oRef">¤</span> longphuirt inte, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1253.13
+        
+      . 
+        badar 
+da oidche longphuirt ag E., 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 348.15
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">
+        <span class="def">Eve</span> of a day or festival:</span> i n-aidche lúain (<span class="lbl">i.e.</span> Sunday night), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 206 § 26
+      . 
+        in ṅadaig ré notlaic, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Dec. 24
+        
+      . 
+        
+          <span class="frn ">in his 
+tribus noctibus</span> .i. aidchi dardáoin aidchi sathairn ┐ aidchi 
+ndomnaich, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 132. 26 (§ 14)
+      . 
+        o espartain aidchi 
+domnaig co hanteirt día lúain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1918
+        
+      . dia Sathairn .i. 
+oidche chásga <span class="ediltr">Easter Eve</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 92 § 42
+      . 
+        aidchi fhele Laegairi, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 268
+        
+      . aidchi samna `<span class="quote">the eve of samain</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 178.17
+      .</p>
+  
+  
+    <p class="result"> 
+See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=caidchi">caidche</a></span>.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="19294">1 dús</h3><span class="citation">Cite this: eDIL s.v. 1 dús or <a class="reference" href="19294">dil.ie/19294</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                duús, dúus</p></div><div class="col-sm-9 result_content">
+   
+
+    <p class="result">(
+        do ḟius, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> i 136
+        
+      ; 
+        duús, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5b20
+        
+      , 
+        dúus, 
+          9b19
+        
+      , 
+        26b27
+      ) 
+<span class="pos conjunction" style="color: #ff8000">conjunction</span> folld. by dependent question <span class="trans">
+        <span class="def">to see</span>, <span class="def">to find out</span> 
+(<span class="def">if</span>, <span class="def">whether</span>, <span class="lbl">etc.</span>):</span> 
+        noscrutain-se . . . d.<span class="oRef">¤</span> in retarscar cairde 
+nDæ, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 91c1
+        
+      , <span class="lbl">cf.</span> 
+        87c4
+      . d.<span class="oRef">¤</span> in nad-n-utmaligetar gl. utrum . . . 
+non nutent, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 4
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Acr." title="eDIL Bibliography">Acr.</strong></span> 10c1
+      ). 
+        239
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 17a2
+      ). fegait-se 
+for caircha dus in marat ule <span class="ediltr">to see if they are all there</span>, 
+        336.5
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 35 Comm.
+       ). 
+        condessamar in n-ubull . . . dus in fír mar 
+atbeire, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1268
+        
+      . 
+        dus in fagba sliab, 
+          2551
+        
+      . 
+        dochúaid Ionothán immach . . . d.<span class="oRef">¤</span> in rathaigfed Dauid, 
+          6152
+        
+      . 
+        tabram 
+fíanláech do seilc fair dus in tairsimmis a baegul, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1650
+        
+      . 
+
+        faitsine do denam doib dus in bud shoraid a séd, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 60
+        
+      . 
+
+        cuirid cuairt dūn dus hi (= in) fogbar tech dūn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 137.18
+        
+      
+(Eg.). rogab in cetne salm d.<span class="oRef">¤</span> cia atrebea isin chathraig <span class="ediltr">to 
+learn who will dwell</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 35b24
+      . 
+        ceist cid immeráidfem? Ní 
+ansa. dus cia cumachta as treisiu fil for talmain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 138a25
+        
+      
+= 
+        dus cumachta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 282a47
+        
+      . 
+        conniacht Medb comarli dus 
+cid dogēnad fri C., 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1656
+        
+      . 
+        ro imráid B. inna menmain d.<span class="oRef">¤</span> 
+cinnas doragad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 8
+        
+      . With dá for in: 
+        luid Boand . . . d.<span class="oRef">¤</span> dá 
+tairsed in tiprait, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 36
+        
+      . With notion of expectancy: nā scarad frisin fer d.<span class="oRef">¤</span> in ríctar tria gnaissi <span class="ediltr">until it be 
+seen whether he can be saved</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10a3
+      . an-su i ḟoss d.<span class="oRef">¤</span> in tibre 
+Dia ní duit (= <span class="frn ">expecta donec</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 83
+      . 
+        a ingen, fói la 
+Eogan d.<span class="oRef">¤</span> in biad ríge Muman uaim-se, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 314
+        
+      . arnā ructhar 
+ind ēit desin . . . dus in tair cobair ō Ultaib foo <span class="ediltr">until we see if 
+help comes</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1141
+      . asbeir . . . dús <span class="trans">
+        <span class="def">asks</span>:</span> asbert-side frie 
+d.<span class="oRef">¤</span> in dénad do chobair anma a cēli <span class="ediltr">asked her whether</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 42
+      . atbert fris dus ind aithcomraictis banscale fris 
+<span class="ediltr">asked him whether women took counsel of him</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 150
+      . </p>
+  
+  
+    <p class="result"> 
+The specific meaning of dús is often obscured and it is 
+used (with in, cia, <span class="lbl">etc.</span>) to introduce a dependent question 
+(= <span class="trans">
+        <span class="def">whether</span>, <span class="def">who</span>
+      </span> <span class="lbl">etc.</span>) after vbs. of asking, seeing, <span class="lbl">etc.</span>: 
+iarmoracht . . . d.<span class="oRef">¤</span> imbat imarcidi laissim <span class="ediltr">inquired whether he 
+held it allowable</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 137
+      . co ro iarfaig-se do R. . . . dus 
+inna rabái étach acci <span class="ediltr">asked if she had not a garment</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 82
+Comm.
+       
+        rofiarfaidh C. dúss cid rombádar na dúile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Death-talesoftheUlsterheroes" title="eDIL Bibliography">Death-tales of the Ulster heroes</strong></span> 16
+        
+      . dia deicsin dus in bruithe in tarr <span class="ediltr">to see if . . . is 
+cooked</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 825
+      . 
+        dia fegad d.<span class="oRef">¤</span> in rosmarb ind neim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> 
+
+iv Pref
+        
+      . co n-accad d.<span class="oRef">¤</span> cía las-mboth scíth <span class="ediltr">to see who was weary</span>, 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 154
+      . So with do ḟius: 
+        messi tarlaic dia ḟis d.<span class="oRef">¤</span> in diriuch 
+m'urchor, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1185
+        
+      . fóidid Cuchulaind Loeg dia fis (do fis, 
+LU) 
+        scēl dūs cia c[h]ruth mbotha isin dunad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1572
+        
+      . 
+
+        tiagar chucca do fis scēl dūs cid rochāinsid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 149
+        
+      . </p>
+  
+  
+    <p class="result"> 
+With follg. co to denote expectation or purpose: boi in 
+phailm . . . cromm, dus co n-abrad fria ergi in tii atbert fria 
+cromad <span class="ediltr">waiting till he who had told it to bend should tell it to rise</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 141b54
+      . isí comhairle doróine M. dul do Róimh d.<span class="oRef">¤</span> co 
+scribha[d] a beatha innti <span class="ediltr">to the intent that there he should write 
+his life</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 29.8
+      . With nách: dēntar carpat becc libh . . . dus 
+nach faicet na tuatha in fén mór <span class="ediltr">so that the people may not see 
+the big wain</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 94
+      . </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

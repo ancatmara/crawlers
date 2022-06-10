@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="12859">crenaid</h3><span class="citation">Cite this: eDIL s.v. crenaid or <a class="reference" href="12859">dil.ie/12859</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                -crenaim, cren(a)i, c., -chren, crenas, creanus, crenar, -crenar, -chrenat, crenad, cren, criad, crenar, crie, -criae, -criä, -cria, -crither, nocretha, nu-da-criad, criäd, criad, -ciur, ceachrad, -ciūir, -giúir, ciúir, críth, creicc, crenamain</p></div><div class="col-sm-9 result_content">
+    
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> 
+      <span class="mood Indic.">Indic.</span> <span class="tns pres.">pres.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        -crenaim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 28.26
+        
+      . <span class="per 2">2</span> <span class="number s.">s.</span> 
+        cren(a)i, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 378
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        c.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 40.24 Comm.
+        
+       
+        -chren, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 312.115
+        
+      . <span style="color: #ff8000">Rel.</span> 
+        crenas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 29d23
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 2
+      . 
+        creanus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 20.13
+        
+      . <span class="voice Pass.">Pass.</span> crenar (<span style="color: #ff8000">rel.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 
+360.1
+      . 
+        -crenar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 25.32
+        
+      . <span class="per 3">3</span> <span class="number p.">p.</span> 
+        -chrenat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10b7
+        
+      . <span class="tns Impf.">Impf.</span> 
+<span class="per 3">3</span> <span class="number s.">s.</span> 
+        crenad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 26.181
+        
+      . <span class="mood Ipv.">Ipv.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+        cren, 
+          <span><strong class="pop" style="color:blue" href="bibliography/VitaBr." title="eDIL Bibliography">Vita Br.</strong></span> 
+13
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> criad (with <span class="mood subj.">subj.</span> stem), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> 1.41
+      . <span class="voice Pass.">Pass.</span> 
+
+        crenar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 152.25
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns pres.">pres.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+        crie, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 21.33
+        
+      . 
+
+        -criae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 199.2
+        
+      . 
+        -criä, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 498.8
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        -cria, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Gl." title="eDIL Bibliography">Metr. Gl.</strong></span> 
+D. 25
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lec.Gl." title="eDIL Bibliography">Lec. Gl.</strong></span> 172
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2161
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 4(5)c
+        
+      ). <span class="voice Pass.">Pass.</span> 
+-crither (-chreder, <span class="lbl">v.l.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 140.1
+      . <span class="tns Impf.">Impf.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+? 
+        nocretha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.1782" title="eDIL Bibliography">Eg. 1782</strong></span>, 16b
+          
+        
+       cited 
+        <span><strong class="pop" style="color:blue" href="bibliography/Contribb." title="eDIL Bibliography">Contribb.</strong></span> 512
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+
+        nu-da-criad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 392.2
+        
+      . 
+        394.2
+      . 
+        no criäd
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 208
+        
+      . 
+
+        ro criad
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2161
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 4(5)c
+        
+      ). <span class="tns fut.">fut.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        -ciur, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+xii 150 § 12
+        
+       (TE). <span class="per 3">3</span> <span class="number s.">s.</span> <span class="lbl">cf.</span> cíura, 
+        <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+       <span class="mood Condit.">Condit.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        ceachrad, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec.Gl." title="eDIL Bibliography">Lec. Gl.</strong></span> 171
+        
+      . <span class="tns Pret.">Pret.</span> and <span class="tns perf.">perf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        -ciūir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 332.3
+        
+      . 
+? 
+        -giúir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xvi 65.26
+        
+      . ? 
+        rod ciúir
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 23742
+        
+      . Later with 
+general stem cren-.</p>
+   
+    <p class="result"> 
+<span class="pos Vn." style="color: #ff8000">Vn.</span> críth, creicc, crenamain.</p>
+   
+    <p class="result"> 
+<span class="trans">
+        <span class="def">Buys</span>, <span class="def">obtains</span> (di from)</span> later also <span class="trans">
+        <span class="def">sells</span>, <span class="def">dispenses</span>
+      </span> (see 
+O'Brien, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 101
+      ): 
+        fo besad fir trebuir crenas tíir 
+diachlainnd, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 29d23
+        
+      . 
+        fer creanus tir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 20.13
+        
+      . 
+
+        cren dímsa m' ingin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/VitaBr." title="eDIL Bibliography">Vita Br.</strong></span> 13
+        
+      . ? 
+        ro chren a berla cach 
+ṁbrúit, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4424
+        
+      . ní criae ní doib `<span class="quote">buy not aught for them</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 199.2
+      . 
+        cach creanus a suiri dia dan, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 14.28
+        
+       = 
+
+        crechnais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 162
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 92
+      ). coruicce . . . boin nu-dacriad 
+<span class="lbl">i.e.</span> of equal value, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 392.2
+      . Similarly: aen fer 
+dia foirinn nama do crenfadh secht cumala (of a `fidchell'), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> p. 317. x
+      . 
+        cid luaig no criäd, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 208
+        
+       `<span class="quote">though 
+he had to buy it at a price</span>', n. Colum Cille crenad brait `<span class="quote">who 
+used to redeem captives</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 26.181
+      . in ti no 
+crenfadh fora comthrom do der[g]or cech ubull dib <span class="ediltr">who 
+should buy</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 251
+      . 
+        crean .i. ceannach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+        
+       
+        crenar, 
+odhar, airlicther, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 152.27 Comm.
+        
+       ? 
+        rocrean gach 
+sidh-cuiri samna / Cichmuine fear calma in cuain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+x 78 § 22
+        
+      . ram crensitar `(<span class="quote">my sins) have sold me</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Lit." title="eDIL Bibliography">Ir. Lit.</strong></span> 
+6.9
+      . ro chren fial-garta <span class="trans">
+        <span class="def">dispensed</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4277
+      . nocha crenob 
+ríg n-Erinn fort-sa <span class="ediltr">I shall not give up the king of I. for thee</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 127.13
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/TE" title="eDIL Bibliography">TE</strong></span> 13
+      ) = 
+        -ririab, 
+          30
+        
+       (LU). a maith re 
+cliaraib ro chrean <span class="ediltr">he disposed of</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4368
+      . go gcreanfadh 
+ré déirc . . . <span class="ediltr">dissipate</span> (of wealth), 
+        <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 10049
+      . do chreanfadh 
+é féin ré tathfann eachtrann <span class="ediltr">who should devote himself to</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 3894
+      . Hence in Ó Bruad. c.<span class="oRef">¤</span> ré <span class="ediltr">expends (effort?) on, 
+attempts:</span> is mairg nár chrean re maitheas saoghalta / do 
+cheangail `<span class="quote">who hath failed to bind</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 24.1
+      . creanaid cách re 
+a chur i ndíon `<span class="quote">which everybody laboured to defend</span>', 
+        278.6
+      . 
+creanfad féin re cantain réada `<span class="quote">I myself shall attempt to play 
+something or other</span>', 
+        iii 142.7
+      . is céim cruaidh re gcreanfainn 
+[triall] `<span class="quote">which I should undertake</span>', 
+        iii 210.12
+      . Note also: 
+        ar 
+ngrádh-ne . . . ná creanadh bhur gcruadhtan linn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett2" title="eDIL Bibliography">Hackett²</strong></span> 
+1.6
+        
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

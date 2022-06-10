@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="19919">elada, elatha</h3><span class="citation">Cite this: eDIL s.v. elada, elatha or <a class="reference" href="19919">dil.ie/19919</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                -an, -na</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype n">n</span>, <span class="gen f.">f.</span> <span class="case g">g</span>
+      <span class="number s.">s.</span> -an, later also 
+        -na, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. 
+§ 9
+        
+      .</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">art</span>, <span class="def">science</span>, acquired <span class="def">craft</span> or <span class="def">skill</span>
+        </span> (in general sense 
+or of a specific branch), renders Lat. <span class="frn ">ars</span>: beanaidh ris an 
+ealadhain leighis = <span class="frn ">artis est medicinae</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 8229
+         (<span class="lbl">cf.</span> Lile 
+na hEladhan Leighis = <span class="frn ">Lilium Medicinae</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 202
+        ). 
+
+          abairt .i. <span class="frn ">ab arte</span> .i. issī abairt do-ní .i. elada, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 10
+          
+        . 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+         s. abairt. 
+          foillsigther do fis cecha healadna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 
+4940
+          
+        . lan do ecna in gach uile eladhain eter dlighedh ┐ 
+diaghacht, ḟisigecht ┐ ḟellsaime ┐ ealadhain Gaeidhilgi air 
+chena <span class="ediltr">every science including law, divinity, physic, philosophy and the art of Gaelic [composition] in general</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 
+1498
+        . 
+          do réir [<span class="lbl">sic leg.</span>] ealadhan an photeceári, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Exodus</strong></span> xxx 
+35
+          
+        . tárras deigh-ealadhain <span class="ediltr">a noble craft</span> (<span class="lbl">viz.</span> poetic art) 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxv 4
+        . gorab sec[h]ranach ealadhan an baramail 
+sin <span class="ediltr">unscientific</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 70.23
+        . Gailian Ipocráid 
+amhra | gérbh égcinnte a n-eladhna `<span class="quote">boundless as was their 
+science</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 556.5
+        . aes borb eladan <span class="ediltr">unskilled 
+workmen</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 98.11 Comm.
+         (here opp. to aes dána). 
+
+          gnimrada borba...ac na recar a les ealat[h]u, 
+            iii 174n
+          
+        .</p>
+     
+      <p class="result"> 
+<span class="lbl">Esp.</span> of <span class="trans">
+          <span class="def">literary</span> or <span class="def">poetic</span> <span class="def">art</span>, or of <span class="def">minstrelsy</span>
+        </span>, the underlying meaning being always <span class="trans">
+          <span class="def">skill</span>
+        </span>, hence the word is not 
+synonymous with éicse: 
+          aes ciuil ┐ oirfide ┐ ealadna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> 
+ii2 122.6
+          
+        . aos ealadhna (of poets), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 85
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 
+8.16
+        . uinivers na healadhna (<span class="lbl">i.e.</span> the poet's study), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Review" title="eDIL Bibliography">Ir. Review</strong></span> 1913, 594
+        . buime is ḟearr don ealodhain (of 
+one bountiful to poets and minstrels) 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 9.51
+        . bágh na 
+healadhna eadruinn <span class="ediltr">the bond of art</span> (letters, music) 
+          23.5
+        .</p>
+     
+      <p class="result"> 
+With defining gen. <span class="trans">of a particular <span class="def">craft</span> or <span class="def">calling</span>:</span> 
+
+          doneoch...is tualaing éladu imbertha airm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 91
+          
+        . 
+
+          eolus ealadhna an ghaisgidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1919, 439
+          
+        . <span class="lbl">Cf.</span> 
+bearradh...lais...a ccomhartha ealadhan re taighleoiriocht 
+<span class="ediltr">in token of (his) calling as a courier</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> iv 68.14
+        .</p>
+     
+      <p class="result"> 
+do-gní e.<span class="oRef">¤</span>
+         <span class="trans">
+          <span class="def">studies</span>, <span class="def">learns</span>, <span class="def">teaches</span> or <span class="def">practises</span> a <span class="def">craft</span>:</span> 
+          ag 
+dénum eladhan isin cathraigh sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 182 y
+          
+        . 
+          co ndenad 
+se ars memorativa .i. el[adh]na na cuimni do chach, 
+            182.7
+          
+        . 
+ní tíaghair...d'íarraidh ealathan <span class="ediltr">to seek (training in poetic</span>) 
+<span class="ediltr">art</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. ex. 315
+         ( = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 86
+        ). 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 12.6
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(b)</span> <span class="trans">of <span class="def">applied</span> <span class="def">skill</span> in any art or craft; <span class="def">workmanship</span>:</span> 
+ro derscaigestar a tech so eter adbur ┐ elathain <span class="ediltr">material 
+and workmanship</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 1
+        . screpall rob fiu in bunad ┐ da 
+screpall dorormacht ealadu ┐ frichnum air (of a metal 
+vessel; the skill and industry of the craftsman augmented 
+the value of the material), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 18.1 Comm.
+         <span class="trans">Of <span class="def">horse-training</span>:</span> 
+          don fer do-righne in eladhain...don fer do-righne in frichnumh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 48.2
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 214.7 
+Comm.
+         <span class="trans">Of <span class="def">medical</span> or <span class="def">surgical</span> <span class="def">treatment</span>:</span> da ndecha mer as a 
+inadh tarringther é ┐ cuir le suil th'ordoige 'na inadh é ┐ 
+dentar an eladha cedna air (<span class="lbl">viz.</span> apply a bandage, <span class="lbl">etc.</span>, as in 
+the case of dislocatio manus) 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 349a41
+        . 
+          nach fetir do 
+reir naduire na ndaine clocha...dfoirithin, acht do reir 
+eladhan...fetir seandaine eigin dfoirithin, 
+            353b10
+          
+        .</p>
+     
+      <p class="result"> 
+In connexion with military operations: 
+          doronsat... 
+aidhme iongnaithe d'amhainsi ealadhan ┐ inntlechta trias 
+ro ghabhsat Carrag L.C. for mhuintir F., 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 280.17
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(c)</span> of <span class="trans">
+          <span class="def">skill</span> in deception, <span class="def">craft</span>, <span class="def">cunning</span>, <span class="def">wile</span>:</span> 
+          gabaid 
+fen rigi...tria cheilg ┐ elathain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 140a42
+          
+         (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> 
+vi 78.7
+        ). 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8090
+        . 
+          mellaid demun tria eladain in drém 
+na techtait in fírDia, 
+            1950
+          
+        . 
+          na fil celg no eladu dráidechta lais, 
+            786
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 43.5
+        . trem' inntlecht ┐ trem' 
+ealadhnoib diaplaidhi <span class="ediltr">infernal arts</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 138.11
+        . 
+Here probably: ealaidhe na bpeataoi-se <span class="ediltr">manœuvres</span> (?) 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> iii 134.22
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(d)</span> <span class="trans">an <span class="def">exhibition</span> or <span class="def">specimen</span> of <span class="def">skill</span>, <span class="def">craftsmanship</span>:</span> 
+do erail eladan forru <span class="ediltr">a display of their skill (in dancing</span>) 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 893
+        . doronsat éladna inganta <span class="ediltr">performed wonderful</span> 
+(<span class="ediltr">gymnastic) feats</span> 
+          897
+        . 
+          trí fáilti coirmthige: immed ┐ 
+dúthracht ┐ elatho (.i. ealadha do thaisbeana[dh]), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 
+225
+          
+         and 
+          p. 42
+        . 
+          dob imdha céol ┐ eladhna ar an mbanais 
+sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 82.33
+          
+        . augtair na elathan ic tennad a tairngi 
+<span class="ediltr">the builders of the structure</span> (of a ship) 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 219a1
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 
+136
+        . <span class="lbl">Cf.</span> 
+          cliatha bo Raghamain ruanaid | nírb ealadhain 
+uabair [<span class="lbl">sic leg.</span> ?] iat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> x 85 z
+          
+        . <span class="trans">Of a <span class="def">literary</span> <span class="def">composition</span>:</span> 
+augtar inna healathan-sa Béid <span class="ediltr">Bede is the author of this 
+work</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 63.25
+        . S. O'D. da-rini inn ealadhu-so 
+(heading of a piece of alliterative prose), 
+          <span><strong class="pop" style="color:blue" href="bibliography/H2.7" title="eDIL Bibliography">H 2.7</strong></span>, col. 213
+        . 
+
+          don eladuin-si na Táno, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 3.3
+          
+        . 
+          ros bennach cách 
+dib elathain aroile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 4.21
+          
+        . cethardai condagar da cech 
+elathain .i. locc ┐ aimser, <span class="lbl">etc.</span> 
+          2.3
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 3
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 
+150
+        . co nderna liubra ┐ eladhna lanmora do amaindse ┐ 
+do indleacht `<span class="quote">treatises</span>' [<span class="lbl">cf.</span> above, last cit. under (<span class="edilb">b</span>)] 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xvii 417.29
+        . <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 8.12
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 183.3
+        . is 
+don Mac S.-si doroinneadh na healadnacha adchualabar 
+<span class="ediltr">these poems were composed</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/L.Chl.S." title="eDIL Bibliography">L. Chl. S.</strong></span> § 40
+        . <span class="lbl">Cf.</span> 
+
+          elada .i. eccloga .i. gobarc[h]omrád...ar a doirchi ┐ ar 
+a dot[h]uigsi, is umi aderar gobarc[h]omrad...rie, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 561
+          
+        .</p>
+    
+  
+  
+    <p class="result"> 
+COMPD.: in t-eladenmaid = <span class="frn ">artifex</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5578
+       ( = elad-d., 
+see 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Introd. § 94
+      ). <span class="lbl">Cf.</span> 
+        gusan elandenmaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 
+72.6 (n.2)
+        
+      , perhaps for eladandenmaid (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Introd. 
+§ 93
+      ). See also 
+        acunailind denmaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 72 n. 2 (E 3 5 p. 56b)
+        
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

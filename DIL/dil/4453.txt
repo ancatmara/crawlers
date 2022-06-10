@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="4453">as-luí</h3><span class="citation">Cite this: eDIL s.v. as-luí or <a class="reference" href="4453">dil.ie/4453</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                aslui, asloi, atd-lu, -elai, asluat, -elat, as-luigit, adluinn, elaind, asluad, asloa, -elammar, ciacloid, ciatloid, asloat, -élat, n-elathar, -rohéla, -erla, -ērlam, asrullat, aslóinse, -elaitís, atrullad, atluife, as-luífet, as-la, as-lōe, atlōi, at-lúi, as-lōeth, asluíd, asluiset, asruluús, -erlós, at-rulais, as-rola, as-rulla, at-rullai, atrulláe, adrullui, asrulaid, adrulaidh, -erlai, atrullaiset, -erlaiseat, atrullatar, adrullatar, -erlatar, élúd</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (*
+        ess-lu-, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 571
+        
+      ). Later also with petrified inf. 
+pron. at(ad-)-luí (or early confusion of <span class="frn ">ad- </span>and <span class="frn ">as-</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xxxv 110 n. 65
+      ). <span class="mood Indic.">Indic.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        aslui, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 21.36
+        
+      . 
+
+        asloi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 482
+        
+       (Enchir. Aug.). 
+        adlai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 197.17
+        
+      . 
+
+        atd-lu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 1028
+        
+      . 
+        -elai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 118.6
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        asluat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+44a17
+        
+      . 
+        -elat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 190.12
+        
+      . ? as-luigit, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lix 124 § 7
+        
+      . <span class="mood Indic.">Indic.</span> <span class="tns impf.">impf.</span> <span class="per 1">1</span> <span class="number s.">s.</span> adluinn 
+(adluinid text) (no elaind
+       <span class="lbl">v.l.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> ii 292. 35
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+
+        asluad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 54c21
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="mood Subj.">Subj.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        asloa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 60
+        
+       (H 3.18, 21b). <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        -elammar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1161
+        
+       (ACC). <span class="per 2">2</span> <span class="number pl.">pl.</span> ciacloid (<span class="lbl">leg.</span> ciatloid, note), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+26a2
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        asloat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 24. 15
+        
+      . 
+        -élat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 219 § 9
+        
+      . 
+? <span class="voice Pass.">Pass.</span> <span class="number sg.">sg.</span> co n-elathar
+       (-arlathar, -aicillther <span class="lbl">v.l.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 560
+       
+and Gloss. With ro: <span class="per 3">3</span> <span class="number s.">s.</span> 
+        -rohéla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 30a10
+        
+      . 
+        -erla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iv 240.3
+        
+      . <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        -ērlam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1059
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iv 92.9
+      ). 
+<span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        asrullat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 240.6
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns impf.">impf.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        aslóinse, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+59a1
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        -elaitís, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5734
+        
+      . With ro <span class="per 3">3</span> <span class="number s.">s.</span> 
+        atrullad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 
+608
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="tns Fut.">Fut.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        atluife, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 344.2
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        as-luífet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1158
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="tns Pret.">Pret.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        as-la, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1510
+        
+      . 
+        as-lōe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 343 § 34
+        
+      . 
+
+        atlōi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 698
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iv 59.15
+      ). 
+        at-lúi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 247b25
+        
+      . 
+
+        as-lōeth, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 314.7
+        
+      . 
+        asluíd, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 25b8
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        asluiset, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 64.3
+        
+      . <span class="tns Perf.">Perf.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        asruluús, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 17d16
+        
+      . 
+        -erlós, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 116
+        
+      . <span class="per 2">2</span> <span class="number s.">s.</span> 
+        at-rulais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 9
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        as-rola, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Apr. 3
+        
+      . 
+as-rulla. 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv
+       240.3. 
+        at-rullai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 535
+        
+      . 
+        atrulláe, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4376
+        
+      . 
+        adrullui, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 144.4
+        
+      . 
+        asrulaid, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+266.19
+        
+      . adrulaidh (: churaigh), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 62 § 103
+      . 
+        -erlai, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5349
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> atrullaiset (atruluiset <span class="lbl">v.l.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/AirneF." title="eDIL Bibliography">Airne F.</strong></span> 186
+      . 
+
+        -erlaiseat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 556.4
+        
+      . 
+        atrullatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 125
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvi 77
+      ). 
+
+        adrullatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 255b20
+        
+      . 
+        -erlatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4471
+        
+      .</p>
+  
+  
+    <p class="result"> 
+Later as simple vb. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=&#xE9;laid">élaid</a></span> <span class="lbl">q.v.</span> </p>
+  
+  
+    <p class="result"> 
+<span class="pos Vn." style="color: #ff8000">Vn.</span> élúd. 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs § 64
+      .</p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">escapes</span> (in physical sense):</span> 
+          ni erla nech dib acht aenfher, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 129a5
+          
+        . 
+          co ro gonad fadeín ┐ co n-erlai iar n-a guin, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 275a24
+          
+        . ? asrulaed fo ííí ┐ ro giall Ériu do fo tri <span class="ediltr">he 
+escaped</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 418b4
+         = ar aslaesead co fothri . . ., 
+          140a46
+        . 
+
+          co nerla ina longaibh iar nár a mhuintire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 682.6
+          
+        . <span class="trans">In 
+more general sense <span class="def">escapes</span>, <span class="def">absconds</span>, <span class="def">goes off</span>, <span class="def">decamps</span>:</span> 
+
+          lotar (asluat <span class="lbl">v.l.</span>) anair . . . co hA., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 442.37
+          
+        . 
+
+          atlai . . . F. for teicheadh rias na mnaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 14.20
+          
+        . 
+nech . . . oca coimet arna ra elat (of bees swarming), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iv 174.27 Comm.
+         
+          saithi beach matrollae, 
+            ii 420.10 Comm.
+         
+
+          ag iarraidh bó atrulla (do éló uaidh <span class="lbl">v.l.</span>) do bhreith laigh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 16.y
+          
+        . gur 'trulla la M. `<span class="quote">until she eloped</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Nenn." title="eDIL Bibliography">Todd Nenn.</strong></span> 
+178.4
+        .</p>
+     
+      <p class="result"> 
+With o, A(S) or DE (of the person or place escaped from): 
+
+          atrula int-ossar uad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5317
+          
+        . 
+          adlaoi uadhaib Asgall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 
+ii 1176.16
+          
+        . 
+          atdluí Crumthand . . . ass, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1527
+          
+        . 
+          nocha 
+n-érlai asin cathraigh acht cía térnai do rind gái, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 158
+          
+        . 
+
+          aen duna tesbadachaib atrulladar a Temraig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 408b23
+          
+        . 
+
+          atluí morfesser díb do Cruachnaib Aí, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1584
+          
+        . ? 
+          ni n-érlá 
+acht atrullai di rennaib gai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 224b49
+          
+        . With AR: is amne 
+asruluús airi gl. síc effugi manus eius (of St. Paul's escape), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 17d16
+        . 
+          atlui iarom fair co ndechaid issin n-áith do 
+thirad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 35.3
+          
+        . 
+          as-luífet airib húaire is a sídaib 
+doib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1158
+          
+        . in ērla . . . mo mac-sa foraib? 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 
+178.32
+        . 
+          asloíset Lagin ar Chormac, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4908
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">absconds</span>, <span class="def">evades</span>
+        </span> (a legal liability, <span class="lbl">etc.</span>). Used absolutely: 
+
+          nach deoraidh ... cintach aslai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 242.15
+          
+        . 
+          ma nerla 
+mas rulla teit for innile, 
+            240.3
+          
+         <span class="lbl">i.e.</span> if a guilty person absconds 
+his chattels become liable. 
+          ma atloat gaibter a sesci, 
+
+            ii 
+120.10 Comm.
+          
+         
+          eisce .i. bith fri hais ┐ adrulla ┐ asrenar eisce 
+immbi ceni tarracht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 436
+          
+        . With IMM (of that in 
+respect of which absconding or evasion has taken place): 
+
+          is ima log nenech atrulla in flaith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 263
+          
+         (H 3.17, 211). 
+
+          dia nel[a] impu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 194.8 Comm.
+          
+         With prep.A: 
+          ben aslui 
+a cain lanamna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 184.16
+          
+        . 
+          at-rulláe-side a giallai (an 
+giallacus <span class="lbl">v.l.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xxvii 28.9
+          
+        . co n-erlai a rrecht ind rig 
+dodrigne (of Lucifer), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 108 § 22
+        . With AR: 
+          raith ar 
+mug aslui ar a flaith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 224.4
+          
+        . 
+          athgabail eloduig aslui 
+ar a fine, athgabail fuidir aslai ar a flaith, 
+            260.18
+          
+        .</p>
+     
+      <p class="result"> 
+With accus. bésse inna fedb asluat hiris `<span class="quote">who evade the 
+faith</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 29a3
+        . 
+          slógad tar crích fri túa[i]th asidluí, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 513
+          
+        . atumluifessa .cxx. annis . . . ┐ do athcuirfe 
+cucum <span class="ediltr">it will depart from me</span> (<span class="lbl">i.e.</span> the church will be alienated 
+from me) . . . <span class="ediltr">and will revert to me</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 1842
+        . 
+          athgabail 
+. . . feicheman aslui dligid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 214.22
+          
+        . fer aslui flaith 
+`<span class="quote">a man who evades [his obligations to] lord</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> 16
+        . 
+          ma 
+as-loa cobach (.i. feichem) tra conna acmai naidm da saigid 
+fair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 13 § 44
+          
+        . 
+          ben no fer aslui gairi a mathar, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 184.16
+          
+        . With figura etymol. 
+          ba hēlud as-lōe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+xv 343 § 34
+          
+        . 
+          corup elod aslui inti imma cuirither in t-eisce, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 873
+          
+         (H 3. 17, c. 624).</p>
+     
+      <p class="result"> 
+In phrase a.<span class="oRef">¤</span> sáeth(u) <span class="trans">
+          <span class="def">dies</span>(?):</span> 
+          slúag E. . . . / asrola sáeth 
+(asaeth <span class="lbl">v.l.</span>) sétaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Apr. 3
+          
+         
+          .i. ro éla asna saethaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l.2" title="eDIL Bibliography">Fél.²</strong></span> 
+lxxi
+          
+        . 
+          asrala ri sacart saethu .i. ro la as ri na sacart a sáethu 
+.i. i n-amsir a etsecta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 710
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 38
+        ). 
+          i n-ucht fiadat 
+. . . asrola samthand saethu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 365
+          
+         <span class="lbl">marg. sup.</span> </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

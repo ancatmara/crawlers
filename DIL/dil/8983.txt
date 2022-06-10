@@ -1,0 +1,978 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="8983">cíall</h3><span class="citation">Cite this: eDIL s.v. cíall or <a class="reference" href="8983">dil.ie/8983</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                cíal, ciall</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 39
+      . Also somet. cíal in O. Ir. Glosses 
+and in poetry. 
+        nessu célaib .i. nesso ciallaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 24378
+        
+      . 
+
+        cēill: budéin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 245.6
+        
+      .</p>
+  
+  
+    
+      <p class="result">(<span class="edilb">a</span>) Of persons <span class="trans">
+          <span class="def">sense</span>, <span class="def">intelligence</span>, 
+<span class="def">mind</span>
+        </span>: 
+          nípí ciall la nech dogní insin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 29b11
+          
+        . druáilnithe 
+a ciall gl. corrupti mente, 
+          30c18
+        . nad mbí ciall la nech disluindi 
+dliged remdeicsen `<span class="quote">has no sense</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 50d1
+        . 
+          nech lasnabi 
+ciall, 
+            50d2
+          
+        . 
+          co mber[at] á céill n-erru, 
+            20b11
+          
+        . 
+          co céill ┐ chond, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3910
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 42
+        ). 
+          rom-snáidet . . . / cund, céill, curp com 
+anim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 52
+          
+        . 
+          nocho fom' cheil-si / dochuaidh do chial, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 93.22
+          
+        . leig as in drochciall fora tai ┐ dena mu chomairli-sea `<span class="quote">folly</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 576
+        . it ferr cīalla oldās cīall <span class="ediltr">two heads are better 
+than one</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 86 § 42
+        . 
+          ni techta cond 'na ceill fo-mic, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 510.4
+          
+         (
+          ciall . . . fomac, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sench.M&#xF3;r" title="eDIL Bibliography">SM Facs.</strong></span> 1b
+            
+          
+        ) glossed 
+          ciall 
+codnaid, 
+            20
+          
+        . 
+          tanic trell dia ceill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4029
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 48
+        ). 
+          ar ḟebas 
+do chrotha ┐ do ceille, 
+            8226
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 17
+        ). bae c.<span class="oRef">¤</span> dunetta aice 
+(of Dond Cúailnge), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 6162
+        . ní réid la céill mbuirp in se 
+`<span class="quote">uncouth intelligence</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 159
+        . 
+          Mugain miadmas co 
+morchéil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 824
+          
+        . 
+          in tan . . . roaisicc Dia a chell dó, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 3750
+          
+        . ata saillechta cella (<span class="lbl">sic</span>) do (of a minor), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+ii 46.18 Comm.
+         
+          Ailbhe í ar chéill 's ar chuimhne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+99.2
+          
+        . seacht gcathaoireacha céille (of the daughters of 
+Humility), 
+          55.15
+        . 
+          cíalla glice na ngente, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> i 96.260
+          
+        . dá 
+chrádh céille éadair ann <span class="ediltr">a twofold grief of mind is to be found 
+therein</span> (of death of chieftain), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 110.16
+        . 
+          ar mearughadh 
+céilli, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 111
+          
+        . com[h]lán i ccéll ┐ a ccorp `<span class="quote">sound of 
+mind and body</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RSCl&#xE1;ra" title="eDIL Bibliography">RSClára</strong></span> 114b
+          
+        .</p>
+     
+      <p class="result"> 
+More particularly <span class="trans">
+          <span class="def">wisdom</span>, good <span class="def">sense</span>, <span class="def">skill</span>
+        </span>: rángadar na 
+teachta re céill, ┐ re conailbhe, ┐ le hairmhidin `<span class="quote">wisely</span>(?)' 
+(`<span class="quote">charged with submission</span>'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 104.22
+        . 
+          ar sith, as tre cheill 
+do righneadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 12.16
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 272 vb26
+        ) = 
+          iar sisd is 
+iar ceill dorigneadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 23a16
+          
+        . 
+          in rigan ecnaid óg ḟial / tochur 
+ria no co degciall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 19297
+          
+        . 
+          tre cell ┐ tre comairli, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+6161
+          
+        . cend comhairle ┐ céille . . . Connacht (of dead chieftain), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1132.8
+        . Of course of action, ní c.<span class="oRef">¤</span>
+         with <span class="pos Vn." style="color: #ff8000">Vn.</span> <span class="trans">it is <span class="def">unwise</span> 
+to, it is <span class="def">imprudent</span> to</span>: nior chiall bheith ag ar mbrosdadh 
+<span class="ediltr">sensible thing</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 3.6
+        . 
+          ní ciall déanamh dearmaid, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 14.13
+          
+        . ní fhuil chéill id dhearadh dhún `<span class="quote">twere senseless 
+of Thee to disown me</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 77. 31
+        . níor chiall uadh <span class="ediltr">it 
+was not wise of him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 97.30
+        .</p>
+     
+      <p class="result"> 
+In transf. sense of a person: 
+          gabh, a chiall, mo chomairghe, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 67.6
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">Of bodily <span class="def">senses</span>:</span> do chiallaib gl. ad sensus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 139a1
+        . 
+cóig cialla cuirp `<span class="quote">his five senses</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xvi 135 § 56
+        . 
+          maithi a 
+roisc na nabocc maithi a cialla, 
+            v 236.83
+          
+        . 
+          mo chúig cialla 
+'gum brath bíd, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> ix 3
+          
+        . Of <span class="trans">
+          <span class="def">feelings</span>, <span class="def">emotions</span>
+        </span>: 
+          srian léd 
+chéill níor chuireabhair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxiii 5
+          
+        . 
+          do oscail se a cial, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SmaointeB.Chr." title="eDIL Bibliography">Smaointe B. Chr.</strong></span> 5250
+          
+        . <span class="lbl">Cf.</span> 
+          ní frith luth seirce sóerligi / na 
+celle conom thicse, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8329
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 24
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) In a variety of more general applications <span class="trans">
+          <span class="def">intention</span>, 
+<span class="def">cause</span>, <span class="def">reason</span>, <span class="def">idea</span>
+        </span>: in chiall toḟaiscthe `<span class="quote">der Verstand des 
+Herauspressens</span>' (one of the cóic conara fugill), 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 24 § 24
+        . rinne nir chuimseach a ciall (of a monster), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> i 79.9
+         `<span class="quote">intention regarding</span>' (Gloss.). flaith nime 
+d'Eochagān (<span class="lbl">sic leg.</span>) ān / is lān a chridhe dia chēill <span class="ediltr">attention</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 308 § 32
+        . fa clé an chiall <span class="ediltr">a perverse intention</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> 
+xxvi 29
+        . ann adlecthar mesi fein / . . . rim cheill `<span class="quote">with my 
+consent</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 304.8
+        . cion na sainte / . . . ag sin ciall chaillte 
+na hanma (of the sin of avarice), 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxxi 37
+        . ar iomad 
+ele do chialluibh certa `<span class="quote">for . . . many other just reasons</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RSCl&#xE1;ra" title="eDIL Bibliography">RSClára</strong></span> 95a
+          
+        . 
+          ní gan chéill do adhuin t'fhíoch, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 
+84.27
+          
+        . caidhe nach córa an chiall `<span class="quote">how much greater reason</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RSCl&#xE1;ra" title="eDIL Bibliography">RSClára</strong></span> 104a
+          
+        . 
+          ciall mo gháiri ní léir linn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 346.34
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">Of words, texts, <span class="lbl">etc.</span> <span class="def">signification</span>, <span class="def">meaning</span>:</span> ciarid-beram a céill <span class="ediltr">though we express their sense</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 26b2
+        . immaircide frisin ceill `<span class="quote">suitable to the sense</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 27d22
+        . sechis in 
+chiall gl. intentio (psalmi), 
+          61a29
+        . 
+          forsin dib ciallaib fil isind 
+<span class="frn ">emulari</span>
+          , 
+            56b37
+          
+        . huare is lán chiall indib chenae gl. huiuscemodi 
+verba non egent casu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 140b3
+        . issí inso sís a chiall gl. est 
+sensus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 50c1
+        . a folad ┐ in chiall gl. vis et significatio, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+27a8
+        . ni lugae mbis ind menme hisin cheill `<span class="quote">the thought is no 
+less occupied with the meaning</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 39
+        . 
+          etir cheill ┐ 
+fhogur, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 241a
+            
+          
+         <span class="lbl">marg. inf.</span> iar ceill Cirine <span class="ediltr">in Jerome's meaning</span> 
+(of the word), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 9.292
+        . 
+          do-ghén . . . míniughadh 
+céille ar an rádhsa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Introd. 24.12
+          
+        . re saoibh-chiallaibh 
+`<span class="quote">by foolish etymologies</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> v 8
+        . 
+          ag buain ceille maithe 
+ass, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 300.31
+          
+        . 
+          cialla na n-aislingedh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 2679
+          
+        . </p>
+     
+      <p class="result"> 
+Of grammatical forms <span class="trans">
+          <span class="def">force</span>, <span class="def">function</span>, <span class="def">meaning</span>
+        </span>: 
+          hua cheill 
+gníma ┐ chesta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 77a7
+          
+        . 
+          ciall sechmadachti `<span class="quote">the sense of a 
+past</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 98c10
+        . 
+          chiall ainsedo, 
+            67d24
+          
+        . is ilar són hua cheill 
+`<span class="quote">it is plural in sense</span>', 
+          45b20
+        . 
+          aithne ar chíalluibh uathaidh ┐ 
+iollraidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Introd. 2.16
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) In phrases. slán céill <span class="ediltr">safe and sound</span>: 
+          no theighdis 
+slan ceill dia tigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 38
+          
+        . 
+          ní ris sís slán céill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 
+72.20
+          
+        . for (ar) céill <span class="ediltr">in one's senses</span>: 
+          mairg dobēradh cath don 
+fēin / da mbet ar cēill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 80.1
+          
+        . 
+          intan nobid Comgan for 
+ceill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 20.7
+          
+        . 
+          airis for ceill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 8.16
+          
+        . guais nach bear ar 
+chéill choidhche `<span class="quote">I may never have sense</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxxix 
+2
+        . 
+          cond céille = c.<span class="oRef">¤</span>: nír chond ceille in col, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4378
+          
+        . 
+          arnacha-ndechrad a chond ceille, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1709
+          
+        . c.<span class="oRef">¤</span> chodnaig: ecodnach da 
+frisciter ciall codnaigh `<span class="quote">who is expected to come to the use of 
+reason</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 156.25 Comm.
+         
+          iar tiachtain ceilli codnaig 
+do, 
+            v 218.23 Comm.
+          
+         ciall chapaill <span class="ediltr">little or no sense</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 
+6140
+        . in ti ac na bi faitechus ceille <span class="ediltr">use of reason</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+508.22 Comm.
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Sench.M&#xF3;r" title="eDIL Bibliography">SM Facs.</strong></span> 1b
+          
+        ). 
+          táinic an chiall bhreugach 
+chuige .i. an codladh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> v 38.23
+          
+        . étrommae céille <span class="trans">
+          <span class="def">loss</span> of 
+<span class="def">reason</span>, <span class="def">insanity</span>
+        </span>: 
+          táinic édtruma chéille . . . dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CF2" title="eDIL Bibliography">CF²</strong></span> 450
+          
+        . <span class="lbl">Cf.</span> 
+
+          édromacha chéille, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Luke</strong></span> xxiv 11
+          
+        . In chevilles: 
+          dia do chéill, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 54.15
+          
+        . fo chiall `<span class="quote">good the sense</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 19
+        . </p>
+     
+      <p class="result"> 
+Phrases with vbs. do-alla, gataid, benaid, céill di <span class="trans">
+          <span class="def">gives up</span> 
+(hope of), <span class="def">despairs</span> of:</span> 
+          talsat a céill di ṡaíre, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 31490
+          
+         (TTr.). 
+
+          antan . . . tallus mo chéill dia thorbu dam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 134.10
+          
+        . 
+See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 do-alla">1 do-alla</a></span>. iar ngait cheilli dia n-anmain `<span class="quote">after losing all 
+hope of life</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> i 406.11
+        . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gataid">gataid</a></span>. 
+          do ben gach neach 
+díbh ciall dá anmain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CF2" title="eDIL Bibliography">CF²</strong></span> 736
+          
+        . 
+          iar m-ben . . . do chelli dia 
+bethaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 143a33
+          
+        . 
+          ba buan ceille do chabhair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 
+1537
+          
+        . mairg bheanas chéill don chruinne (`<span class="quote">to try to understand</span>'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 643
+        . ben do cheill . . . dot tir ┐ dot talmain 
+<span class="ediltr">exi de terra tua</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 707
+        . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=benaid">benaid</a></span>. See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=d&#xED;sca&#xED;l">díscaíl</a></span>. With 
+cuirid: gur bo marb mórán do clandaib C. ar cur céille do'n 
+cathimresan (`<span class="quote">after the effort of screwing themselves up for the 
+fight</span>'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 127.24
+        . tráth do chuirset céill do'n 
+cath (`<span class="quote">when they were baulked of the fray</span>'), 
+          128.1
+        . Note further: 
+
+do chuaidh a ciall do'n cathírghail <span class="ediltr">they lost hope of</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 99.15
+        .</p>
+     
+      <p class="result"> 
+do-cuirethar ar chéill (for céill) <span class="trans">
+          <span class="def">calls</span> to mind</span>: torala Dia 
+ar cheill do degnimu `<span class="quote">let God bring to mind</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 43b15
+        . intan 
+forathmentar ┐ docuredar ar céill `<span class="quote">when it is . . . kept in mind</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 136 § 122
+        . 
+          tachraid forcéill ┐ airem daib seanchassai 
+. . . bar múinntire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 191
+          
+        . 
+          na healtain do chor ar céill / 
+as blogh d'ḟertaibh in ḟíréin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 303
+          
+        . With difft. 
+constr. 
+          foceird mo ceill im drungo, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LMU" title="eDIL Bibliography">LMU</strong></span> 17
+          
+         (Eg.) `<span class="quote">my reason 
+is agitated about the hosts</span>', (LMU2). Later with cuirid and personal 
+object <span class="trans">
+          <span class="def">recalls</span> to <span class="def">reason</span>, to <span class="def">sense</span>
+        </span>: a chur ar céill gér chás 
+deacair (of conversion of St. Augustine), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 59.11
+        . 
+meisge an phobail . . . / ní hobair mná a chura ar céill `<span class="quote">to 
+bring them to reason</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 9.23
+        . buime an leinbh (<span class="lbl">sic leg.</span>) 
+gá gcur ar céill (of Mary consoling the holy women), 
+          13.15
+        .</p>
+     
+      <p class="result"> 
+cuirid i céill <span class="trans">
+          <span class="def">expounds</span>, <span class="def">proves</span>, <span class="def">declares</span>
+        </span>: 
+          ní mór dod mhaith 
+chuire a ccéill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bard.Synt.Tr." title="eDIL Bibliography">Bard. Synt. Tr.</strong></span> 228.17
+          
+        . lá in Chairn a gcéill 
+cuirfidhear `<span class="quote">will be ever remembered</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 123
+        . cuir-se i 
+gcéill `<span class="quote">explain</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xlix 10
+        . as fer tengtha (<span class="lbl">sic 
+leg.</span>) 
+          eile do chuiredh a ceill dó gach ní da n-abradh C.C. ris, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 262.32
+          
+        . 
+          m'éigse i gcéill muna chuirinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 46.4
+          
+        . 
+
+          cuir do bhagar i gcéill thuaidh / más ann creidfidhear é uaibh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xviii 168
+          
+        . ionnus go gcuirfeadh i gcéill do'n léaghthóir nach fuil tabhacht i seanchus Éireann `<span class="quote">might give the 
+reader to understand</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 50.3
+        . Note also: níor chuir 
+Brian céill na cheanaibh <span class="ediltr">ignored</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xiv 18n.
+         ciall do 
+chur san iompódh <span class="ediltr">to take heed of the change</span> (? but see Ed. 
+note), 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 22.2
+        .</p>
+     
+      <p class="result"> 
+do-gní céill <span class="trans">takes <span class="def">thought</span>; <span class="def">employs</span> <span class="def">skill</span>
+        </span>: do-ghéanadh 
+chéill rem cháineadh `<span class="quote">he would take thought before reviling 
+me</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 74.17
+        . <span class="lbl">Cf.</span> 
+          nī faigebthar-side itir . . . acht ma 
+doronad cēill occai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1576
+          
+         = dorónaid ceill glossed 
+ceilg, LU. <span class="lbl">Cf.</span> 
+          nī rādh go cēill (.i. go ceilgg), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 487 § 15
+          
+         
+(B. na f.) = 
+          ciall .i. cealg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1464
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 651
+        ). fris-cuirethar céill see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fris-cuirethar">fris-cuirethar</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=frecor">frecor</a></span>.</p>
+     
+      <p class="result"> 
+gaibid céill for, g. for céill <span class="trans">
+          <span class="def">expects</span>
+        </span>: hó ro 
+gaibther c.<span class="oRef">¤</span> for riuth s ... (? scíth or séim) '<span class="quote">when a tiring (or easy) pace is expected</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+13b13
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xxxiii 165
+        . argaibidside céil for báas in tain téte don chath 
+`<span class="quote">expects death</span>', 
+          9a3
+        . 
+          fiadnaise fir galair gabes ceill for eccaib, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1617
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/23Q6" title="eDIL Bibliography">23 Q 6</strong></span>, 6 b
+          
+        ). 
+          diä dardāin gabus-sa / cēill for ingnais 
+maicc m'athar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> 52 § 116
+          
+        ; '<span class="quote">on Thursday I expected the death of my father's son</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xxiii 49
+        . 
+          ra gabsat céill 
+ar a mbreith i tírib ciana, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 31491
+          
+         (TTr.). 
+          o ro gab ceill 
+for anad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2249
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 31
+        ). is in coiged uair . . . intan 
+rogabsat cell for a collad ┐ for a cumsanad re seitfidaigh na 
+natrach <span class="ediltr">settled down to</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 495a16
+        . 
+          ro gabsat ar céill . . . 
+comallad fir na faistine, 
+            429b25
+          
+        . do gabatar ar chéill 
+gan chunntabairt gurab é in Clárach . . . adchonncatar 
+`<span class="quote">imagined</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 51.4
+        .</p>
+     
+      <p class="result"> 
+For 
+          ciall .i. tionol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 362
+          
+         see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fo-c&#xED;allathar">fo-cíallathar II</a></span>.</p>
+    
+  
+  
+    <p class="result"> 
+Compds. With nouns.: domrimart gáir na gáithi / im 
+chotlud co cíall-báithe `<span class="quote">with vacant mind</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+226.10
+      . in fitir for cialbann clú / cia dú cosatiagam dé? 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7967
+      . iar ccur do Brian . . . Maolseachluinn Mór as a 
+chiallchogair <span class="ediltr">confidences</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 105.7
+      . 
+        conad hí ar comcisiu 
+┐ cottomus ar ciallḟer, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 32429
+        
+       (TTr.). cīallḟlaith . . . con 
+gaib side a chrícha cen choscru cen chernu <span class="ediltr">a prudent ruler</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 86 § 46
+      . ciall-gháis Chormaic `<span class="quote">wisdom</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 116.14
+      . 
+
+        ciallrunugud aicnid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 24 § 24
+        
+      . 
+        ciallrunugud 
+cert caid, 
+          27.9
+        
+      . 
+        la ciallrunugadh eir[i]c, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 408.9 Comm.
+        
+       </p>
+  
+  
+    <p class="result"> 
+With adjj.: tricha robhi in ciallbhog caemh / ina ri 
+Diarmoíd na ndhamh <span class="trans">
+        <span class="def">simple-minded</span>(?)</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 57a15
+      . ? 
+        is 
+imdha duine data / ┐ cuire is cialbhrata (: dhíarmada), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 68.17
+        
+      . fear . . . cunnail craibhtech cíallchonaich 
+<span class="ediltr">resourceful</span>(?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 320 § 1
+      . 
+        saī coitcenn, ciallconaigh, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> iii 46.6
+        
+      . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xE9;chemanda">féchemanda</a></span>. 
+        co glice ciallgaesmar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 298
+        
+      . 
+        bhí sé ciallghlan diadha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett2" title="eDIL Bibliography">Hackett²</strong></span> xxx 154
+        
+      . 
+ 
+
+        mná cori ciallmathi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3888
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 40
+      ). gnúis meicc Cairne 
+cíallmíadcha (-miacha, <span class="lbl">v.l.</span>) `<span class="quote">of noble sense</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 94.14
+      . 
+
+        macc slattraim síl Chuind cíallmór, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 104.8
+        
+      . <span class="lbl">Cf.</span> 
+        i 
+nDaim Liac Ciannāin canair / marb hua ciallmair Congalaig, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 94 § 25
+        
+       (see Ed.'s note). na ceithre comhfhocail . . . chumaidhi chialltarctheacha `<span class="quote">expressive maxims</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 90.4
+      . 
+        fer nár certmur cialltreabar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 427b30
+        
+      .</p>
+  
+  
+    <p class="result"> 
+With vb. 
+        <span class="oRef">¤</span>rúnaigid(ir). <span class="trans">Legal. <span class="def">considers</span> carefully; <span class="def">decides</span> 
+after <span class="def">deliberation</span>:</span> 
+        nach claoine eile ciallrunaigther ann .i. 
+feall no éithach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 795
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, col. 570
+      ) = 
+        ciallrunaither, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2395
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 31a
+        
+      ). 
+        cocrathar urchonn urthach .i. 
+ciallrunathar uasal testugh (<span class="lbl">leg.</span> testughad) ona codhnacha, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1770
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/23D6 23D6" title="eDIL Bibliography">23 D 6</strong></span>, 37 a
+        
+      ). 
+        na cocra cert .i. nech na ciallrunaigenn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 34.18 Comm.
+        
+       </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

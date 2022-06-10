@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="22777">fognam</h3><span class="citation">Cite this: eDIL s.v. fognam or <a class="reference" href="22777">dil.ie/22777</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                fognamo, fognama, fognama, foghnamh, oghnamh, -namha, -naimh, -anta, f., foghnamha, fógnuma</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span>  <span class="itype u">u</span>, <span class="gen m.">m.</span> (<span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fo-gn&#xED;">fo-gní</a></span>). <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        fognamo, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3d14
+        
+      . 
+        in 
+fognama
+        , 
+          22b21
+        
+      . 
+        fognama, 
+          3c11
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 84c12
+      . foghnamh 
+oghnamh (<span class="case g">g</span>
+      <span class="number s.">s.</span> <span class="case n">n</span>
+      <span class="number p.">p.</span> -namha, -naimh, -anta) 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT.</strong></span> Decl. § 47
+      . 
+As <span class="pos vn." style="color: #ff8000">vn.</span> <span class="lbl">ib.</span> 
+        Verbs § 44
+      .</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">serving</span>, <span class="def">rendering</span> <span class="def">service</span>
+        </span>, absol. or with DO of pers. 
+is hae inso in f.<span class="oRef">¤</span> don choimdid (gl. orationi instate) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 27c18
+        . 
+
+          f.<span class="oRef">¤</span> do idlaib, 
+            19d11
+          
+        . lóg ... á fognama hirobatar <span class="ediltr">pay for</span>
+<span class="ediltr">the</span> (lit. <span class="ediltr">their) servitude in which they had been</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 84c12
+        . 
+ar léciud ... asind f.<span class="oRef">¤</span> hi robammar <span class="trans">
+          <span class="def">servitude</span>
+        </span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 105b16
+        . 
+
+          luid F. ... ┐ beir (<span class="lbl">leg.</span> birt?) a cumal lais i f.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 70.24
+          
+        . 
+
+          bai ... do dhichracht in fhoghnuma i mbai P. co toimniuth 
+cech ae ... cumad do a oenar foighneth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 143
+          
+        . 
+          cach 
+faesom co fognom, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 227.54
+          
+        . 
+          ni fil acht aeneclas 
+... ag fognum (nó adhradh) do Dhia, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 141
+          
+        . 
+          ag 
+foghnamh don Dúileamh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 460
+          
+        . ní roibh acht aenberla 
+ag foghnum do chach <span class="ediltr">the one language was used by all</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 
+17b28
+        . co nderna logh secht cumhall do foghnumh <span class="ediltr">till 
+he perform service of the value of seven cumals</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 250.6 
+Comm.
+         With gen.: 
+          sē la d'fógnam na collai, in t-én lá 
+don ... animm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7369
+          
+        . 
+          o ḟognam in forbaind rechtaide 
+... o ḟógnum hídal, 
+            4566
+          
+        . im na hocht mballa bis ac f.<span class="oRef">¤</span> in 
+muilind `<span class="quote">which are necessary to the mill</span>' (<span class="lbl">viz</span> water, millrace, 
+shaft, <span class="lbl">etc.</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 140.13 Comm.
+         Of feudal service: 
+          asbert 
+S. ... nach beth fo chis, na fa ḟoghnam do righ talmhan, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2115
+          
+        . 
+          boí F. oc dīlgend na n-aithech ┐ aca cur 
+hi cís ┐ a foghnam dermar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 65 § 16
+          
+        . 
+          ma beith fognum 
+diib do ḟlaithib co nómad naó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 326
+          
+         ( 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 320
+        ). 
+dianom soertha don fhognamh ica tu don righ <span class="ediltr">were I 
+delivered from my bondage to the King</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1539
+        . 
+          do-bertar ratha ... im bithḟoghnom dóibh dia réir féin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+xi 64 § 13
+          
+         (= um beith fodhnamach doib <span class="lbl">etc.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 339
+        ). 
+conattig forru Cairpre ... f.<span class="oRef">¤</span> Temrach <span class="ediltr">to do service to T.</span> 
+(<span class="ediltr">the S. due to T.</span>?) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 440y
+         (= 
+          oghnamh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 
+30b1
+          
+        . 
+          daerfoghnomh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 78
+          
+        ). 
+          in cutruma sin do ḟerond 
+occaib cen tech cen trebad fair ┐ cen f.<span class="oRef">¤</span> tellaich Temrach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 124
+          
+        . With subj. gen.: tri f.<span class="oRef">¤</span> inna mball ... doib 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12b3
+        . 
+          la Colmán ó sin alle f.<span class="oRef">¤</span> an bale sin ar is fáss ó 
+comarbaib féin hí mina tarttatt a rér do Cholmán, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 
+78.14
+          
+        . foghnam fuidhri no daorceile uathaibh re re na 
+foglama `<span class="quote">the service of a</span> f. <span class="ediltr">or a</span> d. <span class="quote">is due from them during 
+the term of the learning</span>' (of apprentices) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 236.20
+        . 
+m'fhoghnamh nach cóir do chomaoidhimh `<span class="quote">that I must 
+not boast of my merit</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 6 § 17
+        . do-gní f.<span class="oRef">¤</span> do <span class="trans">
+          <span class="def">serves</span>:</span> 
+
+          dogenat f.<span class="oRef">¤</span> dam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 44.23
+          
+         = 
+          fomgnífet, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 852
+          
+        . 
+
+          lé foghnamh do dhéanamh do Dhia, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1130
+          
+        . <span class="case gen.">gen.</span> as 
+attrib.: 
+          fer foghnamha
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 16.12
+          
+        . luag fir fognuma 
+ <span class="trans">an <span class="def">attendant</span>
+        </span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 110.9
+        . 
+          mad fer fognama (.i. mad he 
+in fer do ne in foghnum im bith for bantincar), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 
+390z (392.6)
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Stud.inE.Ir.Law" title="eDIL Bibliography">Stud. in E. Ir. Law</strong></span> 57
+        . 
+          is uaidib ... roḟas daerchis 
+fodnoma for saerchlandaib hEreand, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec. Facs.</strong></span> 185vb9
+          
+         = 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 255a29
+         (fognuma). capul fognuma ┐ ech immrimme, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 308.22
+         ( 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 158
+        ). (<span class="lbl">cf.</span> 
+          capul itir foghnum ┐ 
+imrim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>
+             iv 304.12
+          
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 91
+        ). 
+          fine fognama (.i. daorceile ┐ saorcheile), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>
+             v 318.2
+          
+        . la himed...lochta ind fognuma <span class="trans">
+          <span class="def">labourers</span>
+        </span> 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 600
+        . etaig fognama ... domelar cach dia `<span class="quote">working 
+dress</span>' (dress of use, everyday clothes) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 398.1
+        . don 
+mainistir ... cona fearonnaibh foghnamha `<span class="quote">glebe-lands</span>' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2148.15
+        . <span class="number pl.">pl.</span> at cotarsnai na fógnuma do dís (<span class="lbl">i.e.</span>
+no man can serve two masters) 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 711
+        . ni hiat a fognumha 
+bis forro <span class="trans">
+          <span class="def">functions</span>
+        </span> (of Ogham letters) 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 301a27
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) later often <span class="trans">
+          <span class="def">use</span>, <span class="def">utility</span>, <span class="def">profit</span>
+        </span> (with AR of thing. <span class="lbl">Cf.</span>
+feidm): ni bí fognum er ni da ṅdentar cen fúndamit fái 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7816
+        . nach fuil fodnum agud orm <span class="ediltr">that I am of no use 
+to thee</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 55.20
+        . ni fhuil foghnamh orm at egmais = 
+<span class="frn ">sine te nihil sum ... nihil possum</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Instructio" title="eDIL Bibliography">Instructio</strong></span> 226.20
+         . ní 
+bhia fóghnamh ar an absolóid <span class="ediltr">absolution will be of no avail</span> 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 376
+        . an mbī foghnamh ar an bposadh? <span class="ediltr">is the 
+marriage valid</span>? 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 140.14
+        . 
+          do cuiredh a ndergár 
+innus nach roibhe foghnam orra o shin alé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Chl.S." title="eDIL Bibliography">L. Chl. S.</strong></span> 
+§ 13
+          
+        . co mbetha gan foghnamh ort no ar beacan foghanta 
+= <span class="frn ">pro nihilo aut minimo reputari</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Instructio" title="eDIL Bibliography">Instructio</strong></span> 224.14
+         . (<span class="lbl">cf.</span>
+mod. ar foghnamh <span class="trans">
+          <span class="def">of use</span>, <span class="def">in health</span>, <span class="def">thriving</span>
+        </span>).</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

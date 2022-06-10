@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="9484">clíath</h3><span class="citation">Cite this: eDIL s.v. clíath or <a class="reference" href="9484">dil.ie/9484</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                cliatha</p></div><div class="col-sm-9 result_content">
+    
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 39 (91.13)
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> also 
+        cliatha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 156.6
+        
+      .</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">hurdle</span>
+        </span>: cliath gl. creta [crates], 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 126
+        . 
+          denam cleib, 
+denam cleithe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 474.4
+          
+        . 
+          gach uair is loscadh comhraite 
+is clía nudhnecht (<span class="lbl">sic leg.</span>). Gach uair is loscadh anfoit is clia 
+lathrach n-aile, 
+            iv 252.1 Comm.
+          
+         (cliath <span class="lbl">v.l.</span>). 
+          cia sáer ro fích in 
+cleith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 26382
+          
+        . 
+          dogníthe derc . . . ┐ cliatha tairsiu. No briste 
+in gae . . . ┐ a rind tresin cléith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 454 § 48
+          
+        . doratsat 
+. . . cliatha caelaigh mora ós a cennaibh ┐ scratha fót tairsibh 
+anechtair (as protection for beseigers), 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1881
+        . 
+          laem 
+. . . ainm don clēith bīs fon arbar oca tīrad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 806
+          
+        . 
+cor eptha i cléith `<span class="quote">putting a charm in a hurdle</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 
+71.25
+         (prov., in a list of useless actions). Attrib. <span class="case g">g</span>
+        <span class="number s.">s.</span> 
+          i leabaidh 
+chléithe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2304
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) Of a house or `les' (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 les">2 les</a></span>) <span class="trans">
+          <span class="def">wattle</span> <span class="def">panels</span> of <span class="def">walls</span>, 
+<span class="def">doors</span> or <span class="def">gates</span>:</span> 
+          samaisc i cléith tís, colpdach i cléith túas, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 215
+          
+        -
+          16
+        . 
+          dá [n]dorus [n-]and —comla[e] ar ala 
+n-aí, c.<span class="oRef">¤</span> ar alailiu, 
+            101
+          
+        . 
+          dofet cliath cleithe .i. as remtechtai 
+lium cliath ichtair in tighi do denam ar dus anas cleitine a 
+mullaighi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1874
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/23P3" title="eDIL Bibliography">23 P 3</strong></span>, 21 (23)a
+          
+        ). 
+          ro híadad in tech . . . 
+┐ doratad crann ar chleith (arcleith <span class="lbl">v.l.</span>) airi immach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 
+604
+          
+        . 
+          elaim-si itir clēith ┐ ursaind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 123.18
+          
+         (<span class="lbl">cf.</span> 
+cliathcomla). 
+          c.<span class="oRef">¤</span> ná comhla ré lis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> lv 5
+          
+        . 
+          ní bīat 
+clīatha re rátha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 9.23
+          
+        . 
+          an ḟuinneog iomagallmha 
+. . . ar a mbī cur cléthe nó gráta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RSCl&#xE1;ra" title="eDIL Bibliography">RSClára</strong></span> 93b
+            
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">woven</span> <span class="def">fence</span>, <span class="def">palisade</span>, <span class="def">outwork</span>
+        </span>: 
+          doratad immorro M. 
+. . . dalta do Choin C. . . . ar cléith ar dorus in dúne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+13404
+          
+        . 
+          do-rigensat . . . cliatha do scia[i]ch ┐ do draigen 
+i mbeol ind atha fri R. cona muintir, cona rochtadar dul 
+darsin n-ath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 230.74
+          
+        . 
+          imthus re marcach eich leith 
+/ a n-Ath Gallta itir da chleith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 20.8
+          
+        . 
+          nī tucc a acchaidh 
+re clēith / budh ferr do c[h]ongbālaidh scēith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xvii 28
+§ 50
+          
+        . do congbail clethi ┐ do cosnum cathlaithrech `<span class="quote">to 
+sustain the front</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 148.9
+        . airm n-a gcléith ar comhlaibh 
+tor `<span class="quote">swords form a fence round his castles' portals</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 
+1705
+        . Of the Cross: 
+          ar chléith dhoinnbhear dia hAoine / 
+do coinnmheadh Dia dar ndín-ne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 47.2
+          
+        . Fig. 
+          Máol 
+Mórdha . . . / Pilip Óg . . . / dhá chléith le dornchlaibh 
+docra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 2799
+          
+        . 
+          gurab í an fhíor-aithrighe is 
+comhla ┐ is cliath chosnaimh ag na daoinibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6894
+          
+        . 
+c.<span class="oRef">¤</span> fri <span class="trans">
+          <span class="def">opposition</span> to</span>: 
+          cliath ra heclais mairg dogní, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 19300
+          
+        . 
+a cliath fri nem (to the sinful soul), 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8175
+        . With various 
+defining genitives: is lá Hú Tegtechān bith for in clē[i]th 
+dāla ┐ an t-escra ana lāim <span class="ediltr">a bar for dispensing drink</span>(?), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 52.29
+         (`<span class="quote">hurdle of assembly</span>'). 
+          cliath fhosgaidh ar 
+āth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 664
+          
+        . Toirrdhelbhach . . . baí ina cleith 
+ḟosccaidh . . . ag gach aén `<span class="quote">a sheltering fence</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2106.18
+        . 
+dia tartamni .xxx. d'ar ṅdegdoinib immach i ṅgiallas bid 
+tanaite ar c.<span class="oRef">¤</span> gabala sund. Doregthar forn issin cathraig 
+<span class="ediltr">defence</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 283a4
+        . 
+          cladh coigcriche ┐ . . . cliath ghabhála 
+fri hUltaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 216.14
+          
+        . sgiath didin ┐ cliath 
+ghaeithe Ghall re Gaeidheluibh `<span class="quote">wind-hurdle</span>' (<span class="lbl">i.e.</span> <span class="ediltr">protection, 
+shelter</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> ii 310.22
+        . 
+          in comla catha ┐ in cliath ugra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 
+188.7
+          
+        . <span class="lbl">cf.</span> 
+          56.y
+        . 
+          cúig tríatha . . . / cliatha gaisgidh na 
+nGaoídhiol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 2716
+          
+        . 
+          cliath mhínighthe na ccóig 
+ccrīoch, 
+            661
+          
+        . ard gach oentu . . . / cain cach cliath brathar 
+<span class="ediltr">protection of a kinsman</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 122.18
+        .</p>
+     
+      <p class="result"> 
+In phr. i ccléith x <span class="ediltr">on the side of x, in alliance with x</span>: 
+          mairg 
+. . . ro threicc a chorpfhine . . . ar dhul hi cleith ┐ hi ccomhaontaidh a éccrad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 264.18
+          
+        . 
+          N. do thocht i ccléth 
+cloinne Domhnaill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 896.14
+          
+        . a chaoraigheacht do 
+breith lais i ccleith Gall <span class="ediltr">to the side of the English</span>, 
+          890.5
+        . 
+M., 
+          mairtír nar thrēith: / bīodh san chnoc im chlēith go 
+fíor, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 163 § 236
+          
+        . `i gcléith le `<span class="quote">to be united to, allied 
+to, associated with</span>' <span class="lbl">s.vv.</span> adiungo, applico, affectus, affinitas, 
+Risdeard Pluincéad', cited 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 192
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) Extended applications: dorála D. do Ch. ar in cleith 
+oc leith na Sinna `<span class="trans">
+          <span class="def">bridge</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 397.6
+        . 
+          tucadh amus fair im 
+cend cleithe Atha Luain . . . cor'thoit cliath an drochaid 
+fút[h]aib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 167.5
+          
+         (Tig.). 
+          co nderna droichet ┐ clíatha 
+dermhára díbh ┐ rathanna romora tarsin [cuan] cétna, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1391
+          
+        . <span class="trans">
+          <span class="def">stretcher</span>, <span class="def">litter</span>, <span class="def">bed</span>
+        </span>: 
+          cen chlíatha cen tulggu, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 101
+          
+        . 
+          nónbar . . . ro-bái fón cleith fora raibe 
+tarr na muici, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 6R
+          
+        . 
+          dá ḟer déc for clíathaib airgdidib 
+imon imdai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1107
+          
+        . 
+          búi an péist . . . ana lighe for cleth 
+iarnaide, a lan do crithribh teindtidhi fon cleth hisin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aisl.Tund." title="eDIL Bibliography">Aisl. Tond.</strong></span> 108 § 3
+          
+         (<span class="ediltr">super cratem ferream</span>). 
+          fo cholbaib ┐ fo 
+immdadaib ┐ fo clīathaib in rīgthige, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 11.17
+          
+         (`<span class="quote">screens</span>'). 
+
+          cliatha caolaig doriginset Laigin . . . fo cosaib caorach . . . 
+'ca n-adnacal co Dún nÉtair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 28
+          
+        . 
+          láindíre do oí ina 
+lias uasa a chleith codla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 27.22
+          
+        . clíatha fis (apparently always made of rowan branches) <span class="trans">
+          <span class="def">beds</span> on which 
+<span class="def">druids</span> <span class="def">slept</span> in order to acquire occult knowledge</span>: 
+          luidhset 
+na druidh fora cliathaib fis ┐ rothoghairmset demhna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 32
+          
+        . 
+          dochúatar na draoithe ara ccliathaibh cáerthainn 
+┐ tuccadh . . . nua corma doibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/V.SS.Hib." title="eDIL Bibliography">V. SS. Hib.</strong></span> cliv n. 5
+          
+        . 
+          codail 
+ar do chliathaibh fis / cuardaigh aigéan gach oiris, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> 
+x 2
+          
+        . 
+          is eadh do-nídís cruinnchliatha caorthainn do dhéanamh 
+┐ seicheadha na dtarbh n-iodhbarta do leathadh orra . . . ┐ 
+dul mar sin i muinighin a ngeasa do thoghairm na ndeamhan 
+do bhuain scéal díobh . . . gonadh de sin do lean an sean-fhocal 
+. . . adeir go dtéid neach ar a chliathaibh fis an tan do-ní 
+dícheall ar scéala d'fhagháil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5448 ff.
+          
+         <span class="trans">
+          <span class="def">harrow</span>
+        </span>: 
+cliath fuirsidh[e] (gl. eripica [rastrum]), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 240
+        . 
+          braca, 
+cliath, foirseadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 70
+          
+        . 
+          go niomat cliath ┐ prácadh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2186.20
+          
+        . 
+          le clíathaibh foirsighe íaruinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">1 Chron.</strong></span> xx 3
+          
+        . 
+clíath scéith <span class="trans">
+          <span class="def">framework</span> of <span class="def">shield</span>
+        </span>: 
+          o clíat[h]aibh sgiath secht 
+mac Meadbha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> x 85 § 88
+          
+        . cúic árnaile saorus fer nimthechta ar tigradhus na ninnile .i. cliath tasgair (? trascair) 
+do iadadh friu (some sort of hurdle for keeping cattle 
+enclosed), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 887
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 637
+        ). <span class="trans">Of the <span class="def">oars</span> of a <span class="def">boat</span>:</span> 
+
+          ro cuireadar amach cliatha . . . crannrighne cruadhrámhadh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/CF2" title="eDIL Bibliography">CF²</strong></span> 39
+          
+        . <span class="trans">Of an animal, the <span class="def">loin</span>, <span class="def">rib-cage</span>
+        </span>: mas ar son carna 
+ata é is cnaimh ar in cleith uile (of the amount of condiment 
+allowed with different joints), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 183
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 99
+        ). 
+          curro 
+bris a cleith n-asnai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 565 n. 4
+          
+        . 
+          cliat[h]a bō, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> x 
+85 § 88
+          
+        . 
+          do imreadar na lanna . . . gurba cliatha tolla . . . 
+na taíbh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CF2" title="eDIL Bibliography">CF²</strong></span> 801
+          
+        . Of a bird's wings: 
+          glésaiss . . . a ghulbain 
+a ccliathaib a eite, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mart.Don." title="eDIL Bibliography">Mart. Don.</strong></span> 176.17
+          
+        . <span class="trans">Of the <span class="def">strings</span> of a 
+<span class="def">musical</span> <span class="def">instrument</span>:</span> 
+          cid cia ro chodail . . . re cliathaib . . . 
+ciuil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 110.y
+          
+        . 
+          ar chléith tana do thimpáin, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 
+882
+          
+        . <span class="trans">Of the <span class="def">web</span> of <span class="def">cloth</span>:</span> 
+          corba dluithither re cleith lenad 
+(leined, <span class="lbl">v.l.</span>) arna landluthud in lini sleg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2823
+          
+         (`<span class="quote">stop-
+hurdle</span>'). 
+          conarbho dluithe cliatha leinedh ar n-a dluthadh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> v 64.11
+          
+        . ? cliath .i. umat, [<span class="frn ">ut est</span>] ar bi[d] mer fo cuachnaidm cliath ferba .i. amail bi[d] mér fo cuachnaidm duitt 
+iumad briathar in filed `<span class="quote">a multitude of words</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 397
+         
+(but `? metaph. use of clíath in sense of phalanx', Plummer 
+MS. notes).</p>
+     
+      <p class="result"> 
+Freq. of the close ranks of men (and weapons) in battle, 
+especially in phr. i ccléith, i cclíathaib <span class="trans">in <span class="def">close</span> <span class="def">fighting</span>(?):</span> 
+
+          ni ró ḟég F. dar a ais riam . . . ic astar no ic imthecht ┐ chléith 
+┐ chath (? <span class="lbl">leg.</span> i cléith no i cath) no chomlund, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1905
+          
+        . 
+          nach 
+hi ccath no hi ccleith / do fáccbadh é, ar sccáth a scceith, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 88.22
+          
+        . 
+          buaid [cacha] catha ┐ cacha cliatha, 
+            156.6
+          
+        . 
+
+          i n-imairic áigh nó i cléith comluinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 627
+          
+        . 
+          M. ┐ C. do 
+marbad a cleith do O., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Inisf." title="eDIL Bibliography">Ann. Inisf.</strong></span> 1108.5
+          
+         (`<span class="quote">in a skirmish</span>'). 
+gur lingsed in dā chlēith . . . a cenn araile <span class="ediltr">the two (opposing</span>) 
+<span class="ediltr">ranks</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1189
+        . d'fisrugad clethi Conaill ┐ aird-grinne 
+Eogain `<span class="quote">the phalanx</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 176.3
+        . ro coraigheadh ider na 
+curadaib cliatha . . . ceinngera do shleaguibh `<span class="quote">rows</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Caithr.CC" title="eDIL Bibliography">Caithr. CC</strong></span> 72
+        . díon a threabh . . . a ccliathaibh `<span class="quote">in fighting</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 222.31
+        . 
+          deacair an chéim i gcliathaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 
+3.38
+          
+        . 
+          baidhbh id chomhghaire i gcléith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 5.17
+          
+        . 
+
+          i gcléith chogaidh ní dú dol / 's gan tú go habaigh aosmhar, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 105.23
+          
+        . ? 
+          amail corra crit[h]bel / ri clīat[h]uib cāich 
+/ fir Ērenn re clīat[h]ib-sum / ō sin co tī brāth, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 
+15.1
+          
+        , 
+          2
+        .</p>
+    
+  
+  
+    <p class="result"> 
+In nn. loc. see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Hog.Onom." title="eDIL Bibliography">Hog. Onom.</strong></span> <span class="lbl">s.v.</span> and <span class="lbl">s.</span> Áth Clíath
+      .</p>
+  
+  
+    <p class="result"> 
+Compds. With nouns. 
+        <span class="oRef">¤</span>bern in phr. c. chét <span class="trans">
+        <span class="def">one</span> who 
+<span class="def">makes</span> a <span class="def">gap</span> of a <span class="def">hundred</span> in the <span class="def">enemy's</span> <span class="def">ranks</span>
+      </span>: 
+        in cathmilid 
+┐ in chliathbern chét ┐ ord essorgni, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 8219
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 775
+      ). 
+
+        an dubdhortadh díl[e]ann ┐ an chliathbearna céd . . . .i. 
+Caiseal C. airdrígh Lochlann, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CF2" title="eDIL Bibliography">CF²</strong></span> 1001
+        
+      . Also 
+        <span class="oRef">¤</span>bernaid <span class="lbl">id.</span>: 
+
+        na da curaid ┐ na da chliathbernaid chet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3245
+        
+      . 
+        atat 
+daimh dilann ┐ cliathbernadha cet . . . i Cnuc na Cenn, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 40.29
+        
+      . Also of the gap itself: atconnairc na clíathbernadhae mora oslaicte . . . ┐ na muir 'arna muradh `<span class="quote">the 
+great battle-breaches open and the ramparts rased</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3724
+      . 
+
+        <span class="oRef">¤</span>bernadach <span class="lbl">id.</span>: 
+        tuarascbail . . . a cathmiled ┐ a cliathbernadach cét, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5147
+        
+      . os chliathblai Charmaind <span class="trans">
+        <span class="def">battle-field</span>(?)</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 37b26
+      . cathmilid ┐ cliathcomla cathu <span class="ediltr">shield</span> (fig. of a 
+warrior), 
+        <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 1582
+      . cliathdhroichet do dhénamh oc Ath 
+Luain <span class="ediltr">wattle bridge</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1132.18
+      . 
+        fa chliathfhroighibh do 
+chraobh mbreac, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 68.38
+        
+      . tiar tre chliathghaoith 
+cláir na bhFionn `<span class="trans">
+        <span class="def">battle-wind</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 3081
+      . mairg tarla 
+i gcliathghoil 'na cheann `<span class="quote">ardour of a skirmish</span>' (Gloss.), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Syll.Poetry" title="eDIL Bibliography">Ir. Syll. Poetry</strong></span> 64 § 14
+      . 
+        fa chliathmhadh Céin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 2620
+        
+      . </p>
+  
+  
+    <p class="result"> 
+With adj. mac Piaruis chaoimh chliatharnaidh `<span class="quote">fierce in 
+battle</span>' (Gloss.), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ButlerPoems" title="eDIL Bibliography">Butler Poems</strong></span> 1351
+      . 
+        Éire chliathbhras, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> 
+xliv 3
+        
+      . </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

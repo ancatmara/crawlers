@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="27299">imbel ?</h3><span class="citation">Cite this: eDIL s.v. imbel ? or <a class="reference" href="27299">dil.ie/27299</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                imell, immbel, imill, imbiul, imli, imliu, imill, n-imeal, imeal, imeall</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> Orig. <span class="gen n.">n.</span> <span class="lbl">cf.</span> 
+        
+          imell n-uim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 2002.
+        
+       Later <span class="gen m.">m.</span> <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+
+        immbel, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 468.
+        
+       <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        imill, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 92.5
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        imbiul, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 
+131.18
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        imli, 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> § 32.
+        
+       <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        imliu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 6b29
+        
+      . 
+
+        imill, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2024.
+        
+       <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        na n-imeal
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 674.9
+        
+      . imeal, 
+imeall <span class="gen m.">m.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 53.
+      
+    </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">Of an object: <span class="def">edge</span>, rim, <span class="def">border</span>:</span> 
+          ciumhais, oire, imeal, 
+buinne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 120.
+          
+         eochair .i. imeal, O'Cl. 
+          immbél a 
+scíath fría smechu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 468.
+          
+         
+          sciath argdidi co n-imbiul 
+oir imbi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 131.18
+          
+        . 
+          fichthir cath Hua Fiachrach | la 
+feirg faebair tar i.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvii 137.16
+          
+        . a da himel `<span class="quote">both ends</span>' 
+(of a cake), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 106.26 Comm.
+         
+          no innarbad ... co medón 
+in tiúil ┐ in fecht n-aill coa imel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 192.
+          
+         dorat a imill 
+for falmaire indara long `<span class="quote">he put his taffrail upon the helm 
+of one of the two ships</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2024.
+         
+          co tarrla indara slegh 
+díbh i n-imell (i fircleite, <span class="lbl">v.l.</span>) a droma, 
+            2027
+          
+        . 
+          d'[fh]is na 
+flesc fuirmti im imlib na haltora, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 242b23
+          
+        . clár ... ┐ do 
+dhéana tú imeal dó ... ┐ do dhéana thú coróin óir timcioll 
+fa gcúairt don imeal <span class="frn ">labio</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Exodus</strong></span> xxv 25.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">Of a place, <span class="def">margin</span>, <span class="def">border</span>, <span class="def">brink</span>, <span class="def">confines</span>:</span> ar rob 
+íad r[e]anna ┐ imli Muman ferann chlainne hEbir intan 
+sin `<span class="quote">Munster's points and borders</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> § 32.
+         
+          roindarbtha tra sīl nĒbir i n-imlib Muman, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 303.16
+          
+        : 
+          ro 
+innarbsat Bretnu for imliu na hindsi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 6b29
+          
+        . 
+          riched ... 
+ó medón co hi.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 343.
+          
+         
+          co fail a n-dún (<span class="lbl">i.e.</span> Dun 
+Sobairche) ... uas tuind tibrig fria tóraind | sund for dib 
+n-imlibh Erend, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 17b2
+          
+        . 
+          gabsat caladpurta a n-immlib na 
+hardchatrach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 103.
+          
+         a imli `<span class="quote">its borders</span>' (of a green), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 328.5 Comm.
+         fer imill Aifi `<span class="quote">a man from the 
+borders of Aifi</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 92.5
+        . 
+          tighearna tire Conaill ┐ na n-imeal 
+ccomhfoghus dhi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 674.19
+          
+        . 
+          do chuir cabhlach d'argain 
+imill na Fraingce, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 6227
+          
+        . ó chríochaibh imill na 
+cruinne a luach súd `<span class="quote">de ultimis finibus</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 10691.
+         
+          a 
+scailp ... do leith-imel na sligedh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 162.9
+          
+        . gan 
+imle chothaighte chruid `<span class="quote">without borders in which to maintain 
+cattle</span>' (of an enclosure), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 475.30.
+         
+          do rinneadar 
+foslungphuirt a Netam a n-imeal an fásuigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Exodus</strong></span> xiii 20.
+          
+         
+<span class="trans">Of a mountain, <span class="def">foot</span>, <span class="def">side</span>:</span> 
+          dochóidh an fhairgi .ix. troighti 
+o imel an tsleibi amach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> § 200.
+          
+         
+          ni gabadh acht 
+imle sliabh ┐ cimsa cúan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Expugn.Hib." title="eDIL Bibliography">Expugn. Hib.</strong></span> § 83.
+          
+         
+          cumhain lem-sa 
+trí tulcha | ... | do reithed liath na trí mbenn | ó atá imell 
+co himell, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 115.2
+          
+        . 
+          créad fa mbeinn ar bruach t'imil | a 
+chnuic thall, d'éis Fhéidhlimidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 64 § 28.
+          
+         
+          sgaoiltear 
+dhúinn gadhair mhic Mórna | fá imeallaibh cnoc na dtáintibh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> iv 20.22
+          
+        .</p>
+     
+      <p class="result"> 
+<span class="trans">Of a river, sea, <span class="lbl">etc.</span>, <span class="def">margin</span>, <span class="def">brink</span>, <span class="def">shore</span>:</span> 
+          uisce imill .i. 
+<span class="frn ">lympha</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 69.
+          
+         
+          o bruichib srotha ... Licc ┐ o imblib 
+srotha Inaich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1442
+          
+        . 
+          for imblib in tragha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+2754.
+          
+         
+          tech ... do bai ind i.<span class="oRef">¤</span> ind atha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1244 § 5.
+          
+         
+
+          an Bhanna 's a himle ag Áodh | sibhne fanna tréna fér, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1365.
+          
+         
+          do dheachattar drong díobh co h-eochair-imlibh an chuain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1926.1
+          
+        . 
+          cúan ... ┐ biáidh a 
+imiol go n-uige Sídon, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> xlix 13.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">Of a group, <span class="def">edge</span>, <span class="def">outskirts</span>:</span> 
+          i n-immblib int sluaig, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3755.
+          
+         duine duthair deroil fil a n-imul in airechta 
+<span class="ediltr">in the outermost part of the assembly</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 77.10
+        . ar 
+imell catha na n-allmarach `<span class="quote">on the flank of the battalion of 
+pirates</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 176.4
+        . rob iat rig-clanna ... Rudraigi ... ba 
+gaíbthige cimsa ocus cath-imli `<span class="quote">who were most terrible in 
+the borders and flanks</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 216.21
+        . 
+          bearn a himeal na 
+bhfear bhfeardha | ní bhean biodhbha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 111 § 19.
+          
+         
+
+          a fhilleadh go harnaidh | re himeall i n-iomghuin, 
+            98 § 17.
+          
+         
+go bhfaicfeadh sé as sin leithimiol an phobail `<span class="quote">the utmost 
+part of the people</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Numbers</strong></span> xxii 41.
+        
+      </p>
+    
+  
+  
+    <p class="result"> 
+Compds.: 
+        <span class="oRef">¤</span>bán <span class="trans">
+        <span class="def">fair-bordered</span>:</span> 
+        im Maig Aidne immelbán, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> iii 164.12
+        
+      . 
+        <span class="oRef">¤</span>bord <span class="trans">
+        <span class="def">edge</span>, <span class="def">rim</span>, <span class="def">border</span>:</span> 
+        oc frithailemh brath-bémenn a mbidhbad tar imellbordaibh na 
+long, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1998.
+        
+       co himellbordaibh in fhuarda adhfhuair 
+oighreta fó thuaidh `<span class="quote">to the edges of the cold icy frigid zone in 
+the north</span>,' 
+        292
+      . 
+        cuarsciath cona himelbord imdaingen 
+iarnaidhe, 
+          5315
+        
+      . roerig grian ... seach immelbord talman 
+`<span class="quote">beyond the earth's borders</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2196
+      . 
+        daig is in n-immelbordaib int shrotha sin robid a hait ┐ a hadba, 
+          186
+        
+      . 
+        ro 
+chéimnighsiot ... dar imealbhord a longport amach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 
+2282.12
+        
+      . 
+        <span class="oRef">¤</span>chaín <span class="trans">
+        <span class="def">fair-rimmed</span>:</span> 
+        do sciet[h]aib imelchaini, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4947.
+        
+       
+        <span class="oRef">¤</span>chrích <span class="trans">
+        <span class="def">border-territory</span>:</span> 
+        bá intechta a 
+himmelchrícaib in domain dia taidbriud, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 234b13
+        
+      . 
+
+        <span class="oRef">¤</span>chrín <span class="trans">
+        <span class="def">worn</span> at the <span class="def">rim</span>:</span> 
+        scéith imellcrína arsaidhi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+482
+        
+      . 
+        <span class="oRef">¤</span>chró: ? a naimdi ina n-imiullcro bodhba (<span class="lbl">sic 
+leg.</span>) `<span class="quote">their foes in their warlike border</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2753.
+       
+
+        <span class="oRef">¤</span>chruaid <span class="trans">
+        <span class="def">hard-edged</span>:</span> 
+        cuarsciath ... imelchruaidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+5313.
+        
+       
+        i gcrioslach a sceith ... imelcruaidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 284.6
+        
+      . 
+
+        <span class="oRef">¤</span>glas <span class="trans">
+        <span class="def">green-bordered</span>:</span> 
+        ós ind hErind immelglais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> iii 192.2
+        
+      . 
+        a hiath Aidhne imiol-ghlais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1453.
+        
+       
+
+        co Cumar-tri-nUisce n-imelglas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1560.4
+        
+      . 
+        <span class="oRef">¤</span>learg 
+<span class="trans">
+        <span class="def">border-slope</span>:</span> <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        an chuid eile da haghaidh | mar uan 
+imillearg abhann, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 49 § 12
+        
+      . 
+        <span class="oRef">¤</span>mér <span class="trans">
+        <span class="def">finger-tip</span>:</span> 
+        budh 
+iomdha ré moltaibh fáidh fan bhfionnorlár | 's gáir 
+bionnorghán le hochtaibh imeilmhéar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 70.13
+        
+      . 
+        <span class="oRef">¤</span>sceng: 
+an fhirmimeint fá imilsceing chíordhuibh <span class="ediltr">the firmament 
+beneath a canopy of darkness (?</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xxxix 55.
+       
+        <span class="oRef">¤</span>tiug 
+<span class="trans">
+        <span class="def">thick-edged</span>:</span> 
+        léigidh dhon uisce imilltiugh teacht iona 
+hionad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Atlantis" title="eDIL Bibliography">Atlantis</strong></span> iv 168.1
+        
+      . <span class="lbl">Cf.</span> eochair-immel <span class="lbl">s.v.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 eochair">1 eochair</a></span> 
+RIA Dict.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="9294">clad</h3><span class="citation">Cite this: eDIL s.v. clad or <a class="reference" href="9294">dil.ie/9294</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                clod</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen m.">m.</span> Also clod. <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 claidid">1 claidid</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=claide">claide</a></span>. See 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xxii 191
+      .</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">ditch</span>, <span class="def">trench</span>; also 
+<span class="def">dyke</span>, earthen <span class="def">rampart</span>
+        </span> (the former is probably the earlier 
+meaning. When associated with múr or doé the clad is the 
+ditch from which the earth of the múr or doé has been 
+excavated) surrounding a dwelling, monastery or graveyard; 
+also as a boundary between estates or territories: cladh clodh 
+<span class="gen m.">m.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 69
+        . `cladh . . . <span class="ediltr">a bank, rampart</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 
+136
+        . .uii. claid . . . na[d] dírenatar cinaid, cia robdait[h]er 
+indib . . . c.<span class="oRef">¤</span> dúne, c.<span class="oRef">¤</span> cille, c.<span class="oRef">¤</span> f[e]irt, c.<span class="oRef">¤</span> usci t[h]airidne, c.<span class="oRef">¤</span> 
+linne muilind, c.<span class="oRef">¤</span> fót[b]aig móna, c.<span class="oRef">¤</span> bís im droichet `<span class="quote">seven 
+ditches whose liabilities are not atoned for, whatever may have 
+been drowned in them</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Coibnes" title="eDIL Bibliography">Coibnes</strong></span> § 13
+        . 
+          in c.<span class="oRef">¤</span> asa tabar fodbach 
+na mona .i. na cuiteda, 
+            n. 9
+          
+        . 
+          c.<span class="oRef">¤</span> bis fás conid lína tóla[e] 
+n-uisci, 
+            § 12
+          
+        . 
+          rot, .i. bec, .i. im a mbi c.<span class="oRef">¤</span> Ramat, .i. mor, .i. 
+im na bi c.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 232.18 Comm.
+          
+         
+          isedh is feichem eachtar 
+criche ann fer tar crích trichat cét, gen co be acht in cladh 
+etarru ┐ in fer agras, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 666
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, c. 487b
+          
+        ). 
+          ar cladh 
+feruinn mbiudbuid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 290.x Comm.
+          
+         
+          dul tar mur, no 
+dar c.<span class="oRef">¤</span> na cilli, 
+            v 476.12 Comm.
+          
+         
+          tir da randa flaith . . . a 
+claetar poll .i. c.<span class="oRef">¤</span> .i. i claidter poll i[c] comraind in feraind, 
+
+            iv 8.6 Comm.
+          
+         fer . . . ind claid <span class="ediltr">the ditcher</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 133.14
+(§ 16)
+        . 
+          tuam (.i. c.<span class="oRef">¤</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 18.14
+          
+        . 
+          baí ar cūl in catha i 
+clud ┐ a gilla ōsa chind, 
+            403.30
+          
+        . 
+          ní bíd c.<span class="oRef">¤</span> na hairbi na caissle 
+im thír i nHére, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10568
+          
+        . 
+          ro hadnacht . . . isin chlud 
+imechtrach . . . rigratha Loegairi, 
+            9817
+          
+        . 
+          co tocba clod 
+cechtar a da roth . . . con[id] slicht suachnid fri ed mbliadna, 
+
+            8492
+          
+         (H). noí cluid . . . / noí ndui na timchell <span class="ediltr">nine ditches 
+and nine ramparts</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 3558
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 30.37
+        , 
+          cluidhe, 
+<span class="lbl">v.l.</span>). romaid . . . for Gallaib . . . ┐ ro scalit fo chladaib ┐ fo 
+glentaigib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 76.10
+          
+        . 
+          conacclaid múr n-Aillinne . . . Buirech 
+. . . focerd asin clud in cloich fil indti, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 17
+          
+        . 
+          ag déanamh 
+cloidh timcheall a reilge, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 1073
+          
+        . Of a grave-mound: 
+
+          ó do claidhedh cladh úire / ar Ceithern, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBCSt." title="eDIL Bibliography">TBC St.</strong></span> 3729
+          
+        . </p>
+     
+      <p class="result"> 
+<span class="case G">G</span>
+        <span class="number pl.">pl.</span> as epithet: 
+          ar Cruachain na c.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 10139
+          
+        . 
+          rí Cera na 
+c.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 168 § 2
+          
+        . </p>
+     
+      <p class="result"> 
+Also somet. of stone or partly of stone: 
+          mó na ail borbchloche (<span class="lbl">sic leg.</span>) i clud / cechtar a da glún, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 29915
+          
+        . 
+          tar 
+chladhaibh clachísli camcharadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CF2" title="eDIL Bibliography">CF²</strong></span> 1157
+          
+        . 
+          cladh clach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 244 § 20
+          
+        .</p>
+     
+      <p class="result"> 
+Of the Roman walls in Britain: 
+          is leis doronad c.<span class="oRef">¤</span> Saxan 
+a n-agaid na mbarbarda . . . ┐ ase ainm in claid sin . . . Guaul 
+┐ . . . c.<span class="oRef">¤</span> aile i nagaid Gaedeal . . . .i. C.<span class="oRef">¤</span> na Muice, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Nenn." title="eDIL Bibliography">Todd Nenn.</strong></span> 
+64. 1
+          
+        -
+          4
+         and note.</p>
+     
+      <p class="result"> 
+C.<span class="oRef">¤</span> coicríche <span class="ediltr">boundary ditch or dyke between territories</span>: 
+
+          Conchobur . . . . / coilles cludu cocriche, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC4;lt.Ir.Dicht." title="eDIL Bibliography">Ält. Ir. Dicht.</strong></span> 
+17 § 14
+          
+        . 
+          go mba lór do clod coicrice a slicht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 86 § 93
+          
+        . 
+
+          teacht ar chiomhsaibh ar gcríche / d'fhéaghuin an chluidh 
+choigcríche, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 39.8
+          
+        . Fig. 
+          caistiall . . . robadh cladh 
+coigcriche ┐ robadh cliath gabhála fri hUltaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 
+216.14
+          
+        .</p>
+     
+      <p class="result"> 
+C.<span class="oRef">¤</span> comronna (-roinne) <span class="trans">
+          <span class="def">dividing</span> <span class="def">dyke</span>
+        </span>: 
+          cladh comronna . . . ōn 
+Āth Cliath co chēile .i. Eisgir Riata, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 983
+          
+        . 
+          luaithi dhó 
+ag dol na choinde / ná bó tar chlodh comhroinde, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> 
+Decl. 
+ex. 1523
+          
+        . <span class="lbl">Cf.</span> atá dá chéibh 'na gcludh ronna (of hair), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 28.34
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) By extension of the waves of the sea: 
+          tar cladhuib 
+troma tuirseacha na trethan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 689
+          
+        . Hence, of hair: 
+          re 
+folt camlag cladh gcopdha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 1861
+          
+        . 
+          do chéibh 
+na ccladh mbraointe mbán, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 3285
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+Compds.</p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) With noun. 
+            a ghríobh chladhachuidh Chonnocht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 34.21
+            
+          . 
+            craebhthonna cladhanfaidh cuipgheala Clidhna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CF2" title="eDIL Bibliography">CF²</strong></span> 1329
+            
+          . 
+            cloidhbhile míonabhla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 
+4.6
+            
+          . 
+            glaise it shúil cladh-chlaise id chéibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxix 21
+            
+          . 
+
+            <span class="oRef">¤</span>-etrige (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=etarche">etarche</a></span>): 
+            ba sruth-aibne . . . cach clais ┐ cach 
+c., 
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 240.16
+            
+          . 
+            <span class="oRef">¤</span>-eng (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 eng">2 eng</a></span>): 
+            fa chloidheangaibh síodha an 
+chláir Chonallaigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 83.15
+            
+          . 
+            cladfocal dá chelgbuain, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 34.39
+            
+          . 
+            red chladhfhalt gclaon, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 
+2.7
+            
+          . 
+            Donnchad an chladhfhuilt cíabhuigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 396.15
+            
+          . 
+? 
+            <span class="oRef">¤</span>-imbel: 
+            [Uí] Raghollaigh . . . / far ciadhímil gach Cathal, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 2578
+            
+          . 
+            <span class="oRef">¤</span>-mala: co n-a clad-mailgib curad `<span class="quote">prominent eyebrows</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 180.11
+          . cladh-mhúir for lucht ghalar 
+ngráineamhail (of burial customs), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5774
+          . 
+            <span class="oRef">¤</span>-ucht: 
+            óradh 
+na gcladhocht um Dheirg ndalldamhaigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 83.21
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) With <span class="pos Vn." style="color: #ff8000">Vn.</span> aigmhéil dá bharr / béim súl ar chách re a 
+chladhḟaicsin <span class="ediltr">at seeing its undulations</span>(?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 114.8
+          .</p>
+      
+     
+      <p class="result"> 
+(<span class="edilb">c</span>) With adj. tonn chorrach . . . chladhanbhail . . . Chlíodhna <span class="trans">
+          <span class="def">deep-troughed</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 94.18
+        . 
+          i mmulluch Cerna chlaidard, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 24166
+          
+        . tar na ciséalaibh chladhardha (of the sea), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xxix 110 § 2
+        . 
+          Eóghanacht Chaisil chladhcháoin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Caithr.CC" title="eDIL Bibliography">Caithr. CC</strong></span> 
+27.19
+          
+        . 
+          caistiall clodhdaingen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 3729
+          
+        . camchúl cladhdhlúth cadhblúb cruinnighthe cuach <span class="trans">
+          <span class="def">close-waving</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> 
+xxxii 3
+        . 
+          a Crūachain cloidhḟinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 18.13
+          
+        . 
+          go Dún 
+gcloidhfhionn gCaoin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 91.21
+          
+        . 
+          nir sudhseat Caiseal 
+cladhglas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 60b43
+          
+        . 
+          san tigh . . . chlaidhréidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+119.3
+          
+        . 
+          go Crūachain claidhreidh Connacht, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> i 
+87.11
+          
+        . 
+          go Cruachain clad-ruaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 178.z
+          
+        . 
+          ciabh 
+chloidhshéimh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 2910
+          
+        . 
+          fonn claghshocair len cóir 
+báidh, 
+            3
+          
+        . 
+          in Coraind chladhuaine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7566
+          
+        . 
+          co barr 
+críchi claduair Cuind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 29733
+          
+        . 
+          a chiabh chladhúr, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 16.106
+          
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="28515">indraic</h3><span class="citation">Cite this: eDIL s.v. indraic or <a class="reference" href="28515">dil.ie/28515</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                indraic, inricc, inraicc, innruca, innruicce, inricci, innraice, indruca, indraicce, indraice, indraiciu, inrucu, indraca, indraic, indraic, inricc</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype i">i</span> (in + reic lit. `<span class="trans">
+        <span class="def">fit for sale</span>
+      </span>.' See Thurn. 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 
+346 § 7
+      ). indraic is the Mid. Ir. form, inricc the form in 
+Wb., inraicc in Ml. <span class="case g">g</span>
+      <span class="number s">s</span>
+      <span class="gen f.">f.</span> innruca, 
+        innruicce, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 338
+        
+       (&lt; 
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, col. 261
+      ). <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        inricci, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5c14
+        
+      . 
+        innraice, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+368.2
+        
+      . indruca, 
+        indraicce, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3375
+        
+      , 
+        5336
+      . <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        indraice, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xv 489.9
+        
+      . <span style="color: #ff8000">Compar.</span> 
+        indraiciu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 353.
+        
+       
+        inrucu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1872
+        
+       
+(&lt; 
+        <span><strong class="pop" style="color:blue" href="bibliography/23P3" title="eDIL Bibliography">23 P 3</strong></span>, fo. 20d
+        
+      ).</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> <span class="trans">Of persons, <span class="def">worthy</span>, <span class="def">fitting</span>, <span class="def">honourable</span>, <span class="def">upright</span>, <span class="def">faithful</span>:</span> 
+          caidh .i. indraic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 963
+          
+         (&lt;
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, p. 415
+        ). iarsindí 
+batir inricci du báas huili `<span class="quote">worthy of death</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5e14
+        . 
+
+          amal as n-inricc <span class="frn ">sanctis</span> fáilte fri nóibu, 
+            7b2
+          
+        . inna fírbrithemnachtae dudrignisom inraicc `<span class="quote">of the righteous judgment 
+that made him worthy</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 62c19
+        . i.<span class="oRef">¤</span> side dano. `Īefa-sa 
+in cinaid sin,' ol sē <span class="ediltr">but he was an upright man</span> ..., 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> 
+iv 76.15
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> <span class="lbl">s.v.</span> Mugheme
+        ). 
+          feidil la cach he .i. 
+inraic la cach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 174.8
+          
+        . indracca gl. fideles, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gild.Lor." title="eDIL Bibliography">Gild. Lor.</strong></span> 24.
+         batar uiss no umla no innraice no comadais 
+`<span class="quote">fit or suitable</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> p. 41.6
+        . 
+          nī fairgēbasu ... lāech bas 
+ansum ... nā hergairi mōrslūaig bas indraiciu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 353.
+          
+         
+is adamraigti trá co mór ┐ is indraicc o foraithmet máthair 
+na macc-sa `<span class="quote">worthy of remembrance</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6608.
+         id chorp 
+ionnraic óghamhail (to Blessed Virgin), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 6 § 40.
+         
+
+          ben is mo ocus is áille ... ocus is innraca, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 306.12
+          
+        . 
+an té atá ionnruic ansa ní is lúgha `<span class="quote">he who is faithful in that 
+which is least</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 132.4
+        . 
+          ionruic a ngach uile roinn 
+no ghnothuigh, 
+            464.16
+          
+        . trí chét mbemeann n-indraice co 
+n-abainn `<span class="quote">300 honest blows with a scourge</span>' (in a penance), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 489.9
+        . 
+          gach aon bhíos fíréanta ionnraic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5245.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> As legal term,</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">of persons, <span class="def">worthy</span>, <span class="def">trustworthy</span>, 
+<span class="def">qualified</span> to <span class="def">perform</span> certain <span class="def">legal functions</span> (e.g. to <span class="def">give 
+evidence</span>) :</span> fiadna innraice `<span class="quote">worthy witnesses</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 368.2
+          . 
+With follg. gen. : rucus ba n-inraicc noilich fer ad-gair 
+`<span class="quote">ich entschied, der Mann, der rechtlich belangt sei des Eides 
+würdig</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 361 § 46.
+           is tualaing som forgell for cach 
+recht, acht a da comgrad d'inraicaib `<span class="quote">except the two orders 
+who are of equal standing with himself</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 78.20
+          , glossed 
+
+            .i. acht na graid indraice data da cutrumus eneclainni, 
+              84.5 
+Comm.
+            
+           
+            dia mbet da fhiadain no a tri indruca oc a forgell, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3375.
+            
+           fri cuimne seanchad indraice `<span class="quote">by the memory of 
+respectable antiquaries</span>,' 
+            iv 140.y Comm.
+           (tr. 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 129.15
+          ). 
+
+            mas i.<span class="oRef">¤</span> ┐ esinnraic do-rala iman set cidh í in inraic aidhbres 
+cidh aice aidhbrethar is lé a sena no a imdenam cidh bedh bus 
+ail dó dhe ..., 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2151
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, fo. 3c
+            
+          ). 
+            mas da innraic no 
+da eisinnraic ro batar ar aird, no cidh indraic ┐ eisinnraic beas 
+ar aird and ┐ ra fuachtnaigh rob neich dibh ropp a cheile, 
+is a sena dun n-innraic no dun n-eisinnraic ar a lather go 
+lucht a lan fira no a leithfira ma inraic, no cu lucht a lan 
+arra no a leath arra mas eisinnraicc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2330
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. 506</strong></span>, fo. 35c
+            
+          ). 
+            nochan fuil dire na eneclann don innraic na 
+denann maith da tochus, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 249
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, p. 144
+          ). 
+
+            madh eisinnraic lidhis ar innraic ┐ lan faisneis aigi da comlín 
+a fuil on innraic uada da denum na diaigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 286
+            
+           (&lt;
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, p. 158
+          ). As <span class="pos subst." style="color: #ff8000">subst.</span> : 
+            tabradh a lāim indraca
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2151
+            
+           
+(&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, fo. 3c
+            
+          ). In the follg. exx., though referring to a 
+person, indraic is treated as <span class="gen fem.">fem.</span> : 
+            is hi in indruic do dena, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1602
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/23Q6" title="eDIL Bibliography">23 Q 6</strong></span>, 4a
+            
+          ). 
+            má don indraic 'car aidbred hé 
+fuaitgither, acht má le féin hé ..., 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1651
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H5.15" title="eDIL Bibliography">H 5.15</strong></span>, 21
+          ). 
+With confusion of gender : 
+            cidh í in inraic aidhbres cidh aice 
+aidhbrethar is le a sena no a imdenam cidh bedh bus ail dó 
+dhe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2151
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 3
+          ). <span class="lbl">Cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODon.Suppl." title="eDIL Bibliography">O'Don. Suppl.</strong></span>
+           <span class="lbl">s.v.</span> iondraic.</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">of articles, measurements, <span class="lbl">etc.</span>, <span class="def">of standard quality</span> 
+or <span class="def">quantity</span>, <span class="def">complying with</span> certain <span class="def">requirements</span>, <span class="def">legal</span>:</span> 
+
+            .vii. fichit traiged di thraigthib innraicib métt a dúne, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 567.
+            
+           
+            bairgen in(d)ruic nó dí bairgin banḟuini, 
+
+              117
+            
+          . leth dire n-airib ... co taisiuc innruic cach ae `<span class="quote">half</span> 
+dire-<span class="ediltr">fine upon them with perfect restitution of everything</span>,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 66.17
+          . 
+            caide in íme indric ? ... .i. caiti aichne na 
+hime dligthigh, 
+              iv 112.1
+            
+           and 
+            19
+          . 
+            caide in íme indric ? 
+Mad cora, cora tri liag, tri traigh a leithead, 
+              112.1
+            
+          . gleith 
+dar indric (grazing on anothers land in spite of an obstacle 
+which constitutes an `imbe indraic
+          ,' in this case, a deep 
+river), 
+            126.19 Comm.
+           tir ... nach eicin do frichnam tuair 
+na slige ... ase innraic andsin (used of land in good condition), 
+            276.12 Comm.
+           
+            clar innraic ... Da traig .x. a fod 
+┐ da traig a lethed ┐ traig a tiged dilius iarsin. Isé in biail 
+innraic. Airtem fod a genned. Tri meoir lethed a foebuir 
+..., 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 883
+            
+          -
+            4
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, p. 395ab
+            
+          ). 
+            ad-mestar asa bēsaib 
+inricib ibar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 94 § 34.
+            
+           
+            dligid leth .uii. cumala indraca 
+dia guin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 255
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, p. 148
+          ). da traigid gu leith 
+se ín ceím inraic `<span class="quote">the lawful step</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 214.19 Comm.
+           
+it ē a frithḟolaidi-seom dond ḟir gráid .i. lá air n-indraic 
+cech blīadna cona ṡīl `<span class="quote">a proper day's ploughing each year</span> ...,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 220 § 14.
+           cethramthu sella indraicc `<span class="quote">a fair quarter 
+of a sella</span>,' 
+            vii 140.10
+          . mad fir m(b)idbod cæra innraic do suidi[u] '<span class="quote">if it be a <span class="frn ">fer midboth</span>, a full-grown sheep for him</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bretha" title="eDIL Bibliography">Bretha</strong></span> 30 § 13
+          .</p>
+       
+        <p class="result"> 
+<span class="pos Adv." style="color: #ff8000">Adv.</span> in chruth as coir <span class="frn ">et</span> as inricc <span class="frn ">sanctis</span> .i. indinricc 
+donaib nóibaib airitiu neich cuccuib `<span class="quote">worthily, of the saints, 
+to receive any one unto you</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 7b1
+          . bendacht ar cech 
+óen mebraigfes go hindraic Taín amlaid seo <span class="trans">
+            <span class="def">faithfully</span>
+          </span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 6206.
+           
+            is aire-sin atbel-sa co hindraicc am shenndattaig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6559.
+            
+          
+        </p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

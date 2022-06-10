@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="21999">fid</h3><span class="citation">Cite this: eDIL s.v. fid or <a class="reference" href="21999">dil.ie/21999</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                fid, fid, fiuth, fedo, feda, feda, feadha, feda, fidu, feda, fedae, fiodh, feadh, fedae, feadha, Feda, Feadhaibh, fidbretha, fidbreth, fidbhrethaibh, buale, fiddromandaib, fidḟaebraib, ḟidliss, fidlestra, fidletrenda, fidlosa, fidnemeda, fidṡlatta</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span>  <span class="itype u">u</span>, <span class="gen m.">m.</span> (occasionally nasalizing in <span class="pos n.l." style="color: #ff8000">n.l.</span> : 
+        Fid nGabli, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+159a50
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 11
+      . See 
+        <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> iv 203
+      ). <span class="case n">n</span>
+      <span class="number s.">s.</span> in fid
+       
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5b42
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        fid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 146a5
+        
+      . 
+        fiuth, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 194.19
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        fedo, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 46.22
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 35b12
+      . 
+        feda, 
+          12a5
+        
+      . 
+        70a12
+      . 
+        121a1
+      . 
+        ind 
+feda
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4768
+        
+      . 
+        feadha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 13.2
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        feda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 952
+        
+      . 
+<span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        fidu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3791
+        
+      , 
+        6054
+      . 
+        feda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 108b46
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Bodl." title="eDIL Bibliography">Corm. Bodl.</strong></span> 
+ <span class="lbl">s.v.</span> serb
+      . <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        fedae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 511
+        
+       (?). 
+        fidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1199
+        
+      . 
+fiodh, 
+        feadh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 21.40
+        
+      ; 
+        28.35
+      . Orig. perhaps `<span class="trans">a <span class="def">boundary-tree</span>
+      </span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> i 41
+      . </p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">a <span class="def">tree</span> (sense in Glosses).</span> arnaib fedaib 
+(gl. pro arbustis) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 146a6
+        . is bésad leusom in fid do thóbu 
+et fid aile do esnid <span class="ediltr">and it is their wont to cut a tree and to 
+insert another tree therein</span> 
+          5b42
+        . clandaid fedha isna muighib 
+corbad caillte `<span class="quote">plant trees in the plains that they may be 
+forests</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> ix 16 § 4
+        . 
+          nenaid <span class="frn ">quasi non</span> fid hi acht lus, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 987
+          
+        . 
+          amail timc[h]illes féth fidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 94.21
+          
+        . 
+
+          mar nasces féith fidu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3791
+          
+        . ná loisc ríg na fed (of 
+`féithlenn') 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 245.15
+        . risna fedaib fína (fig. of chiefs) 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 74.18
+        . doire ... do ḟeadhaibh crainnreamhra (<span class="lbl">i.e.</span> 
+spears) 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 128.29
+        . direnar fo tairdbe cach feda ... acht 
+ni saeres nemed de (.i. a bheith conad fidh neimhidh e), 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 168.22
+         (
+          170.14
+         ; <span class="lbl">cf.</span> fidnemed). defining gen. : 
+caill fedha `<span class="trans">a <span class="def">wood</span> of <span class="def">trees</span>
+        </span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 32.14
+        . crich incoisce 
+bile feada `<span class="quote">a district ... marked by an ancient tree</span>' 
+          iv 142.19 
+Comm
+        . fāl fedae
+         (<span class="case g">g</span>
+        <span class="number pl.">pl.</span> ?) <span class="trans">a <span class="def">tree-hedge</span>
+        </span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 511
+        . <span class="trans">Passing 
+into sense of <span class="def">tree-trunk</span>, tree regarded as <span class="def">timber</span> :</span> ceithre 
+fedha ... i croich mic Dé ... cedir, cupris, <span class="lbl">etc.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 107.16
+        . 
+is cuileand in tres fidh roith in carpait <span class="ediltr">holly is one of the 
+three woods used in a chariot-wheel</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1182
+        . Of small 
+plants : 
+          fidh aigenta, <span class="frn ">ut est</span> int aitend no in fraoch ┐ rl., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 2833
+          
+        . Hence</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">wood</span>, <span class="def">timber</span>:</span> 
+          aicdi dognethi 
+di fiuth [ḟid <span class="lbl">v.l.</span>] na cailli sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 194.19
+          
+        . co ngaisciuth 
+do ith <span class="ediltr">wooden armour</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1180
+         = 
+          doíd, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5657
+          
+         (= do ḟid). 
+<span class="trans">Of a <span class="def">shaft</span> or <span class="def">pole</span> :</span> feadha <span class="trans">
+          <span class="def">spear-shafts</span>
+        </span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 132.17
+        . 
+          fonnad 
+fri fonnad, f.<span class="oRef">¤</span> fri f.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8705
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 53
+        ). canna, f.<span class="oRef">¤</span> bis il-laim 
+(= <span class="trans">
+          <span class="def">walking-stick</span>
+        </span> ?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 204
+        . <span class="trans">Of a wooden <span class="def">shield</span>
+        </span>: 
+          fid fō coitled comḟūaim ṅglaíd, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xx 192 § 2
+          
+        .</p>
+    
+  
+  
+     
+
+      <p class="result">(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">trees</span> (coll.), <i>a</i> <span class="def">wood</span> <i>or</i>
+<span class="def">grove</span>: distinguished fr. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 caill">1 caill</a></span> :</span> 
+          fulacht cacha chaille, cnuas 
+cacha feada, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 482.26
+          
+        . In 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1150 ff
+        ., 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iv 146.18 ff
+        ., trees and shrubs are classified as airig fedha, 
+athaig (aithig) f., fodla f. and 
+          lossa f. iter fid ┐ mag, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> 
+ii 239.15
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 17b1
+        ). roselgatar ... in fith resna cairpthib 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 275
+         (= 
+          fid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4769
+          
+        ). fri tamnad feda <span class="ediltr">for felling 
+trees</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 365b13
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 27
+        ). 
+          imthéigmís ... cach f.<span class="oRef">¤</span> ┐ cach 
+fásach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3531
+          
+        . 
+          i fedaib ┐ fásaigib, 
+            554
+          
+        . 
+          ralotar fón f.<span class="oRef">¤</span> 
+ba comnessam dóib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 37
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 176a35
+        ). 
+          ni ḟarcaibset 
+figh na fēr ... gan loscad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 110 § 116
+          
+        . tairthe fiodh 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 21.40
+        . 
+          sleibhte ... ameasg a feadh, 
+            28.35
+          
+        . As <span class="pos n.l." style="color: #ff8000">n.l.</span> in 
+ <span class="number pl.">pl.</span>, Feda <span class="trans">the <span class="def">Fews</span>:</span> 
+          isna Feadhaibh
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 1452
+          
+        . See Hog., 
+Onom.</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">d</span>) <span class="trans">a <span class="def">letter</span> of the <span class="def">alphabet</span>
+        </span> (each letter being 
+called after a tree) 
+          fid ... a airbert .i. a thapairt for v fedhaib 
+fichit inn ogaim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 3551
+          
+        . In this sense sometimes 
+called f.<span class="oRef">¤</span> saerda <span class="trans">
+          <span class="def">artificial</span> <span class="def">tree</span>:</span> 
+          fid saerda .i. f.<span class="oRef">¤</span> inn oghaim 
+┐ f.<span class="oRef">¤</span> aicenta f.<span class="oRef">¤</span> na caille, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 397
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 25.3
+        . 
+
+          f.<span class="oRef">¤</span> .i. fo ead <span class="frn ">a inde</span> iter saerda ┐ daerda ┐ aiceanta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec.Gl." title="eDIL Bibliography">Lec. Gl.</strong></span> 
+215
+          
+        . imord feda .i. Colman <span class="frn ">quasi</span> comlān <span class="ediltr">transposition of 
+letters</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 6.5
+        . fidh ┐ deach <span class="ediltr">letter and metrical foot</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 27 n. 21
+        . 
+          fri fidíu [<span class="lbl">leg.</span> fidu] ┐ deuchu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 24 
+§ 3
+          
+        . reim do fidh for fidh (= <span class="trans">
+          <span class="def">alliteration</span>
+        </span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 805
+        . 
+dūil feda, the name of a treatise (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=3 d&#xFA;il">3 dúil</a></span>) : 
+          amal duiruirmi 
+[Fenius] isin Duil Feadha Māir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 200
+          
+        . 
+          anmand fidh 
+... amal fogabar isna Duilibh Fedha inn ogaim, 
+            1199
+          
+         (= 
+          isin 
+Duili F., 
+            4311
+          
+        ). 
+          de dúlib feda na for[f]ed, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 38b7
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 
+5417
+        ), title of tract on the Ogham symbols for diphthongs. 
+See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=3 d&#xFA;il">3 dúil</a></span>. 
+          duili sluinnti ┐ duile feda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 44.20
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">e</span>) esp. 
+ <span class="trans">a <span class="def">vowel</span>, distinguished fr. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=taebomna">taebomna</a></span> `<i>consonant</i>' :</span> 
+          fedha 
+┐ taobomna <span class="frn ">id est uocales et consonantes</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 2787
+          
+        . 
+
+          393
+        . 
+          f.<span class="oRef">¤</span> na filidechta ... ┐ an taophomna docuirither reisin 
+bfiodsin, 
+            3565
+          
+        . 
+          f.<span class="oRef">¤</span> in anma prosta, 
+            3567
+          
+        . feda airegda <span class="trans">
+          <span class="def">vowels</span>
+        </span> 
+(dist. fr. forfeda `<span class="quote">diphthongs</span>') 
+          1341
+        . 
+          2870
+        . 
+          199
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Introd. 
+4.16
+        . (Used inaccurately to include diphthongs) 
+          na .x. 
+feadha airegdha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 427
+          
+        . <span class="lbl">Cf.</span> 
+          uillind .i. uilli na fil and 
+.i. dā cnāim nō dā fid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1282
+          
+         (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=uilen">uilen</a></span> and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 uillenn">2 uillenn</a></span>).</p>
+    
+  
+  
+    <p class="result"> 
+Compds. 
+        <span class="oRef">¤</span>ár <span class="trans">
+        <span class="def">destruction</span> of <span class="def">trees</span>:</span> 
+        
+          <span class="frn ">uentus maximus</span> co 
+ra la fidhar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 856
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 38.9
+      . 
+        
+          <span class="frn ">ventus magnus</span> ... condarsgar fidhár mar isnaib caillibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 891
+        
+      . co nderna f. 
+
+        1121
+      . 
+        <span class="oRef">¤</span>bla <span class="trans">
+        <span class="def">boundary</span> <span class="def">marked</span> by a <span class="def">tree</span> or <span class="def">wood</span>:</span> 
+        fidhbla, 
+crich son incoisce bile feada, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 142.19 Comm.
+        
+       
+        <span class="oRef">¤</span>breth 
+ <span class="trans">
+        <span class="def">judgment</span> concerning <span class="def">timber</span>:</span> <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        fidbretha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 182.1
+        
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 931
+       (&lt; 
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 658b
+        
+      ). <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        fidbreth, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>
+           iv 168.20
+        
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        fidbhrethaibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iv 26
+        
+      . 
+        <span class="oRef">¤</span>buale <span class="trans">a <span class="def">wooden</span> <span class="def">enclosure</span> or <span class="def">pen</span>:</span> 
+
+        as a faltaigib ┐ a fidbualtib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 265a9
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 391
+      ). 
+        <span class="oRef">¤</span>chat 
+<span class="trans">`wooden cat' <span class="def">mouse-trap</span>
+      </span> (&lt; ON <span class="frn ">tréköttr</span>, Marstrander, 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Bidrag" title="eDIL Bibliography">Bidrag</strong></span> 46
+      ) : fidhcat, (gl. muscipula) 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 260
+      . 
+        amal charas 
+in luch biad in ḟidchait, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7738
+        
+      . 
+        <span class="oRef">¤</span>chóem (<span class="pos adj." style="color: #ff8000">adj.</span>) : slega ... 
+fidcaimi <span class="ediltr">with beautiful shafts</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 160.26
+      . 
+        <span class="oRef">¤</span>chrann <span class="trans">
+        <span class="def">wooden</span> 
+<span class="def">shaft</span>; pair of large wooden <span class="def">dividers</span> or<span class="def"> reaping tool</span>
+      </span> (
+        <span><strong class="pop" style="color:blue" href="bibliography/Peritia" title="eDIL Bibliography">Peritia</strong></span> xv 314, 
+        <span><strong class="pop" style="color:blue" href="bibliography/EIF" title="eDIL Bibliography">EIF</strong></span> 501
+      ): ní bhoí rinn ... for gaib ... acht a mbeith mar 
+ḟidhchrannaibh `<span class="quote">wooden bars</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 268
+      . dias f. 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 310.12
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 178
+      `<span class="quote">a pair of wooden shears</span>', see 
+note), <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/MacNeill" title="eDIL Bibliography">MacNeill, Law of status</strong></span> 291
+      .</p>
+  
+  
+    
+      <p class="result">
+        
+          <span class="oRef">¤</span>chúach
+      </p>
+     
+      
+        <p class="result">
+          <span class="trans">
+            <span class="def">drinking-vessel</span>
+          </span> (the first element may originally have been<span class="frn "> mid</span>
+          <span class="trans">mead</span>)
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> x 144-45
+          : 
+            mo[i]r beolu fidchōich, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 395
+            
+          ; '<span class="quote">as big as the mouth of a wooden drinking-vessel</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> x 144
+           = 
+
+            midchúaich, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4882
+            
+          . 
+            samla beolo fidchuaich indara súil 
+do, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 404.5
+            
+          .</p>
+      
+     
+      
+        <p class="result">
+          
+            f. ┐ cú lomna leu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+251b44
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 26
+          ). 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 44. 32
+          ; '<span class="quote">a wooden vessel (for water or mead ?)</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> x 145-46
+          .<span class="lbl"> Cf.</span> 
+            dias oicfended, otē findliatha ┐ fidcuach cechtar de is mo, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2815
+            
+          ; '<span class="quote">two grey-haired warriors, each carrying a wooden vessel on his back</span>' (reading for <span class="frn ">muin cech ai</span>) 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> x 145
+          .</p>
+      
+    
+  
+  
+    <p class="result">
+      
+        <span class="oRef">¤</span>druimm <span class="trans">a 
+ <span class="def">wooded</span> <span class="def">hill</span> or <span class="def">ridge</span>:</span> 
+        oc imt[h]echt ind ḟiddromma, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+3768
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 34
+      ). <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        fiddromandaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 696
+        
+      . 
+        <span class="oRef">¤</span>fáebar : 
+ <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        fidḟaebraib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2328
+        
+       (context obscure). Hence <span class="pos adj." style="color: #ff8000">adj.</span> 
+
+        <span class="oRef">¤</span>fáebrach : 
+        fraech ... f. deg-arm, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 224.14
+        
+       (epithet prob. 
+refers to the spears of a phalanx.) 
+        <span class="oRef">¤</span>fogal <span class="trans">
+        <span class="def">plunder</span> of <span class="def">woods</span> 
+or <span class="def">timber</span>:</span> 
+        Fea fri fidḟogail Fáil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 198.3
+        
+      . 
+
+        <span class="oRef">¤</span>gerrtha <span class="trans">
+        <span class="def">shaft-slashed</span>:</span> gur bho blogha ... fíodhghearrtha 
+na feadha (of spear-shafts) 
+        <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 132.16
+      . 
+        <span class="oRef">¤</span>glennach <span class="trans">
+        <span class="def">belonging</span> 
+<i>to a</i> <span class="def">wooded</span> <span class="def">valley</span>: epithet of a <span class="def">bull</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 372.72
+      . 
+
+        <span class="oRef">¤</span>less: <span class="case g">g</span>
+      <span class="number s.">s.</span> Eochaid fírén ḟidliss
+       `<span class="quote">of the woodbuilt keep</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 44.14
+       (
+        v 141
+      ). 
+        re mac rígh fega fidhlis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 
+1195
+        
+       (fedha findlis <span class="lbl">v.l.</span>, <span class="lbl">sic leg.</span>? Stokes). dar Fé cusna 
+fidlessaib (= Mag fea? <span class="lbl">Cf.</span> 
+        <span class="oRef">¤</span>fogal) 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 48a22
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 373.13
+      ). 
+
+        a bhferunn Fhiachach fidhlis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 32 § 31
+        
+      . 
+        <span class="oRef">¤</span>lestar <span class="trans">a 
+<span class="def">wooden</span> <span class="def">vessel</span>:</span> <span class="number pl.">pl.</span> 
+        fidlestra, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 406.18
+        
+      .
+        <span class="oRef">¤</span>lethrenn <span class="trans">a 
+ <span class="def">wooden</span> <span class="def">clog</span>
+      </span> attached to foot of an animal to prevent it from 
+straying: <span class="number pl.">pl.</span> 
+        ro scuirit a n-eich ... ┐ ro cuirit a fidletrenda 
+fosta fuithib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2803 n
+        
+      . 
+        <span class="oRef">¤</span>luss <span class="trans">
+        <span class="def">tree-herb</span>, <span class="def">shrub</span>:</span> <span class="number pl.">pl.</span> fidlosa 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 309a19
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 5493
+      -
+        6
+      ) = losa feda, see (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fid (c)">c</a></span>) above. 
+
+        <span class="oRef">¤</span>nemed <span class="trans">a tree which grows on the land of the <span class="frn ">nemed</span>-person, a <span class="def">sacred tree</span>
+      </span> (
+        <span><strong class="pop" style="color:blue" href="bibliography/Bechbretha" title="eDIL Bibliography">Bechbretha</strong></span> 108-9
+      ); <span class="trans">a <span class="def">sacred</span> <span class="def">wood</span> or <span class="def">grove</span>
+      </span>, <span class="trans">but also a tree or grove on church land</span> (
+        <span><strong class="pop" style="color:blue" href="bibliography/CMCS" title="eDIL Bibliography">CMCS</strong></span> viii 50
+      ): acht inni ṡoeras de sin a bheith conad fidh neimhidh e, uair nocon fo aignedh craind ita in [dire] aind side acht fo aigned graid inti iga m[b]ind '<span class="quote">but its being the tree of a sacred person is what increases it, for the penalty there does not depend on the nature of the tree, but on the nature of the rank of the person who owns it</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Bechbretha" title="eDIL Bibliography">Bechbretha</strong></span> 58 § 15 n. c
+      .
+        racossecrad ... fidneimed do 
+Ióib ┐ a delb in dea isind ḟidnemiud, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 227a20
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 732
+      ). 
+
+        fidhnemhedh coisrectha dona déibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1768
+        
+      . 
+        fidnemead (.i. fid cilli), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 474.7
+        
+       (
+        476.3
+      ). dire in fidnemid 
+
+        i 162z Comm
+      . 
+        Ard Macha do loscadh eter tigib ┐ dam líag 
+┐ cloictheach ┐ fidhnemidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 350.12
+        
+       (Tig.). 
+        tene ... 
+do ghabail Aird Macha cona farcaibh dertach ... na fidnemedh ann cen loscadh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 995
+        
+      . <span class="number pl.">pl.</span> 
+        fidnemeda na Greci, 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 288
+      . 
+        is a fidnemedaib fognitis filid a ngressa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 
+830
+        
+      . Fig. fidhnemed do tṡlegaib urardu re ṅguaillib (of a 
+band of warriors), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 4418
+      . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=neimed">neimed</a></span>. 
+        <span class="oRef">¤</span>rath, lit. 
+`wood-stock' (legal term): se rath file la Feine ... luathrath. 
+f., <span class="lbl">etc.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 878
+       (&lt; 
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 393b
+        
+      ). fiadrath [<span class="lbl">leg.</span> fidrath ?]. 
+
+        .i. rath erner hi fid do loingsech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 879
+        
+       (&lt; 
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 394a
+        
+      ) 
+(<span class="lbl">cf.</span> 
+        rath caille .i. rath do loingsech bis a caill, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 875
+        
+      
+&lt; 
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 392b
+        
+      ). 
+        <span class="oRef">¤</span>slat <span class="trans">a <span class="def">wooden</span> <span class="def">rod</span>, <span class="def">wand</span>:</span> <span class="number pl.">pl.</span> 
+        
+          fidṡlatta 
+findchuill, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1433
+        
+      . 
+        <span class="oRef">¤</span>úall? fid-úal (: gúal) `<span class="quote">pride of 
+timber</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 148.36
+      . (
+        <span class="oRef">¤</span>uall, fiodhghual <span class="lbl">v.l.</span>).</p>
+  
+  
+    <p class="result"> 
+Freq. used to form proper names, see 
+        <span><strong class="pop" style="color:blue" href="bibliography/HailBrigit" title="eDIL Bibliography">Hail Brigit</strong></span> 
+p. 23 n. 20
+      ; for stable compds. see below (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fidbocc">fidbocc</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fidchell">fidchell</a></span>, 
+<span class="lbl">etc.</span>).</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

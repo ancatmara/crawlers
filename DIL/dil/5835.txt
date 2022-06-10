@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="5835">bíathad</h3><span class="citation">Cite this: eDIL s.v. bíathad or <a class="reference" href="5835">dil.ie/5835</a></span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="itype u">u</span>, <span class="gen m.">m.</span> <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 b&#xED;athaid">1 bíathaid</a></span>. <span class="trans">act of <span class="def">feeding</span>; <span class="def">maintaining</span>:</span> 
+amal as toisc fri biathad na forcitlaide `<span class="quote">to support the 
+teachers</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 31d17
+      . 
+        do biathad bocht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 334.14
+        
+      . 
+
+        is becc an bolcg-sa . . . ┐ is doilig rí do bíathad de, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 
+60.12
+        
+      . basa brugaid bíata dám (rhet.) <span class="ediltr">a hospitaller providing 
+food for companies</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 496.
+       
+        fer cech n-aidchi dia 
+mbiathad . . . in fer toesech in biatta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 26.3
+        
+      , 
+        4
+      . 
+        é féin 
+do bhiathadh do bhiadhaibh séimhe soineamhla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 561.
+        
+       ag 
+biathadh na gcloch do bhíodh san teinidh orra <span class="ediltr">plying the 
+(cooking) stones with them (<span class="lbl">sc.</span> pieces of meat)</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5109.
+       
+Fig. in sisma . . . do biathad itir na saorchlanna `<span class="quote">to nourish 
+this . . . schism</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 9. 24
+      . is granna duit 
+beth gom brath ┐ gom bíathadh `<span class="quote">baiting or luring me</span>' 
+(Plummer MS. notes), 
+        <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 60.20
+      .</p>
+  
+  
+    <p class="result"> 
+Legal: leth a chinad immurgu fair ar biathad ut est: [bera] 
+fiachu leptha for nech biathas [bid]baid (of liability incurred 
+for maintaining an outlaw), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 360.23
+       (Caratnia 45 
+Comm.). biathad ┐ methad <span class="ediltr">feeding (swineherds) and . . . 
+fattening (pigs)</span> (of work performed by woman or housewife, 
+see Thurn., 
+        <span><strong class="pop" style="color:blue" href="bibliography/Stud.inE.Ir.Law" title="eDIL Bibliography">Stud. in E. Ir. Law</strong></span> 34
+      ), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 366.20
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">
+        <span class="def">Feeding</span>, <span class="def">refection</span>, of the obligatory <span class="def">provision</span> of food for 
+the stranger and his `company' on a journey; the particular 
+<span class="def">foodstuffs</span> to be provided and number of accompanying persons entitled to <span class="def">maintenance</span> depended on the status of the 
+<span class="def">visitor</span>
+      </span>, see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> p. 76.
+       (of the `ócaire') 
+        bíathad deise 
+dó di as ┐ grús nó arbaimm; ní dlig imb, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 115.
+        
+       
+
+        is a lín bíata bís lín for coí, 
+          400
+        
+      . (of servile debtors) 
+        na dlegait 
+biathad acht bochtan, no urchaelan, no bairgen huasal laithe, 
+cona handlonn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 106.1
+        
+      . uair dlegar dona gradaib flatha 
+biatha gin ímcomarc `<span class="quote">the chieftain grades are bound to 
+entertain without asking</span>' (<span class="lbl">i.e.</span> without questioning those 
+who seek sanctuary), 
+        iv 263.6
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">
+        <span class="def">Food-rent</span> which a <span class="def">nobleman</span> or <span class="def">landowner</span> was entitled to 
+from a <span class="def">tenant</span> or base <span class="def">client</span> in return for a <span class="def">fief</span>
+      </span>, see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span>
+       <span class="lbl">loc. cit.</span> <span class="trans">
+        <span class="def">refection</span> for the <span class="def">fief</span> i.e. <i>annual</i> <span class="def">payment-in-kind</span>
+      </span> (Thurneysen), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 336
+      ; <span class="trans">
+        <span class="def">refection</span> as a legal <span class="def">due</span> from 
+tenants, subjects, <span class="lbl">etc.</span> to the chief, the amount and periods 
+being fixed by law or custom or agreement</span>, Plummer MS. 
+notes. See also 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> xii 514.
+       
+        biathad airech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 
+122.11
+        
+       .i. na ngrad flatha, do neoch is flath cetgiallna, ar aine 
+. . . .i. o ceilib na n-airech `<span class="quote">the food-tribute of a chieftain . . . it 
+has a stay of one day</span>', 
+        126.24
+      -
+        25 Comm.
+       b.<span class="oRef">¤</span> dá ráithi ó ríg 
+Cruachan dó-som (of the king of Cashel on visitation to vassal 
+states), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert.2" title="eDIL Bibliography">Leb. Cert.²</strong></span> 34.
+       
+        císa . . . bésa ┐ biata ríg Temrach, 
+          1469
+        
+      . ní 
+dlegar do Ūib Gusān . . . bīathad ríg Midi `<span class="quote">to provision</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 64.20
+      . 
+        biathadh aidedh tuaithi na duna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 18.9 
+Comm.
+        
+       
+        rotbía tír lind cen chís, cen biathad cen ṡlóged, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 
+140.17
+        
+      . 
+        a chuairt-sean ┐ a aimsear bhiadhta orra, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 
+2636
+        
+      . 
+        biadhadh bocht is nocht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 1411.
+        
+      
+    </p>
+  
+  
+    <p class="result"> 
+b.<span class="oRef">¤</span> grinde, crinde <span class="trans">
+        <span class="def">baptismal</span> <span class="def">refection</span> (?):</span> caite in ḟled deoda 
+. . . biathad grinde (no c written over g-, MS.), glossed: 
+
+        biad cretme .i. bathais .i. log in baistithi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sench.M&#xF3;r" title="eDIL Bibliography">SM Facs.</strong></span> 47b17
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 18.18
+      ) = 
+        biathad crinne .i. logh na baisti in tan 
+is im linn ┐ im biadh doberar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 504.
+        
+      
+    </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

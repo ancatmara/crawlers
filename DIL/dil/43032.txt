@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="43032">1 úir</h3><span class="citation">Cite this: eDIL s.v. 1 úir or <a class="reference" href="43032">dil.ie/43032</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                úir, úr, úir, fú, úir, úi, úir, úra, húraib, uir</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="gen f.">f.</span> and <span class="gen m.">m.</span> <span class="case n">n</span>
+      <span class="number s.">s.</span> (<span class="edilb">a</span>) 
+        ind úir
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4942
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 202 § 20
+      . 
+(<span class="edilb">b</span>) 
+        úr (ó dhá chēill) <span class="gen m.">m.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. § 96
+       (<span class="case g">g</span>
+      <span class="number s.">s.</span> úir). 
+        <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 
+27.29
+      . 
+        fú, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 866
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 24
+      ). <span class="case v">v</span>
+      <span class="number s.">s.</span> 
+        a úir
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 
+1922, 585 § 7
+        
+      . <span class="case a">a</span>
+      <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        úi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 13d3
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4734
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4b37
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. ex. 1735
+      , 
+        ex. 1754
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        úir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 128
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Matthew</strong></span> 
+xiii 5
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        úra, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 33.7
+        
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        húraib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 313.27
+        
+      . 
+See also exx. below.</p>
+   
+    <p class="result"> <span class="trans">
+        <span class="def">Mould</span>, <span class="def">earth</span>, <span class="def">clay</span>, <span class="def">soil</span> </span>: <span class="case n">n</span>
+      <span class="number s.">s.</span> in uir
+       (gl. 
+humus), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 578
+      . 
+        ūr. i. trēide fordingair : ūr cētamus .i. 
+talam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1270
+        
+      . 
+        mūr .i. mō a úr .i. a talam, 
+          910
+        
+      . 
+        ur .i. 
+talum, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1611
+        
+      . <span class="lbl">cf.</span> 
+        tathbongar fúr, fuinter arbhar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+xiii 24.11
+        
+       (
+        fúr .i. talam, <span class="frn ">ut est</span> tathbongar fúr, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 866
+        
+      ) 
+
+        donní is tellus ur, talam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 66.5
+        
+      . 
+        oir robi foirbrethach 
+fur .i. nocha gnath gu ngabann se talam gurab forbartach 
+uir ime .i. co ro foirbrister a uir a nuir aile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2237
+        
+       (&lt;
+        <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span> f. 17 (18)b
+        
+      ). uir mín `<span class="quote">fine clay</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 86.21 Comm.
+       
+
+        conidnacca issin chlud ┐ ro boí ind úir imbi do cach leth 
+día diclith, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4942
+        
+      . 
+        doberar uir ┐ grian ┐ clocha forsin 
+monai, 
+          10815
+        
+       (=
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 178
+      ). 
+        dorat cul fri clotha | cen 
+bes uir im clacha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 299a24
+        
+       (<span class="lbl">leg.</span> úr ?). 
+        siladh clann, ur 
+lesium sin, ar is i uir in talman dogni silad na clann cuirtir 
+inti, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 5652
+        
+      . 
+        ceann riamh dár bh'aoinpheall an úr, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 27.29
+        
+      . <span class="case a">a</span>
+      <span class="case d">d</span>
+      <span class="number s.">s.</span> doire a cummisc ar úir (gl. seminatur 
+in ignobilitate), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 13d3
+      . 
+        lelgatár ... da ech Con C. in 
+n-úir co rrici na clocha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4734
+        
+      . fogeltat ... fér co húir 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 551
+      . foclass a búrach dó, is inund sōn ┐ focheird úir 
+da luib taris (of a bull), 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1491
+      . 
+        fócerddetar in n-úir 
+thairsiu, 
+          6145
+        
+      . 
+        cuid dá chlúimh ó eón do an | ar reódh 
+re húir mur ḟuasgladh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. ex. 1469
+        
+      . 
+        cotomélani 
+in fer sin a óenur ar úir ┐ grían, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8700
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 52
+      ). <span class="lbl">cf.</span> coto-mélat ar múr ┐ grían, 
+      
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5558
+      . 
+        na cotlad nococomraiced a 
+thoeb fri húir noicht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 122.21
+        
+       (=
+        ria húir nocht, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1093
+        
+      ). 
+        for úir luimm ┐ cloch fó chind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 484.12
+        
+      . 
+
+        lán in dela de úir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 30c39
+        
+       (=
+        lán na telach di úir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 
+1 § 31
+        
+      ). 
+        fuarutar folliuchta beca isin uir ic dorus ... na 
+huama, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6330
+        
+      . 
+        úr dind húir a Themis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 313.29
+        
+      . 
+
+        ní biaidh ith i n-úir ... don bás hísin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 111.24
+        
+      . 
+        fa 
+úir na huaighe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1922, 156 § 34
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> p. 127
+      ). 
+
+        ní ḟás luibh a húir fan orluinn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 11.11
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> ó luid i lloc 
+n-úire `<span class="quote">into a place of mould</span>' (<span class="lbl">i.e.</span> the grave), 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 128
+      . 
+ míl úre <span class="trans">
+        <span class="ediltr">worms</span>
+      </span>, <span class="lbl">ib.</span> 
+        Ep. 219
+      . a techt i nhúire adba `<span class="quote">that 
+they should go into the abode of clay</span>' (<span class="lbl">i.e.</span> the grave), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 
+10 § 8
+      . <span class="lbl">cf.</span> 
+        adbae othna ... .i. adba uire ┐ cloiche, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 80
+        
+      . 
+
+        a mbreith a ndúrthech n-úre, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Review" title="eDIL Bibliography">Ir. Review</strong></span> 1912, 248
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 
+[347b
+        ]). 
+        brat fuar is adhbhadh úire, 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxxviii 5
+        
+      . 
+
+        ó do claidhedh cladh úire ar Ceithern, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4463
+        
+       (St). 
+
+        tardúth úire for sleibe garba combtar maige fo scothaib, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 6b18
+        
+      . dorn úire `<span class="quote">a handful of clay</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 86
+      . 
+
+        tucsat fo tuinn uill uire | co nduire a ndruim fri daeine, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 265 § 19
+        
+      . im diubu nuire `<span class="quote">for digging a churchyard</span>,' 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 202.1
+      . 
+        a bhḟearann chlochach mar nach raibhe 
+mórán uíre aige, 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Matthew</strong></span> xiii 5
+        
+      . In plant-name : leo úire 
+<span class="trans">
+        <span class="def">mezereon</span>, <span class="def">spurge</span> </span>: see 
+        <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> i 342
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/HoganLuibhl." title="eDIL Bibliography">Hogan Luibhl.</strong></span> 115
+      . 
+<span class="lbl">cf.</span> 
+        fil dún ó thossuch dúle | cen áiss, cen foirbthe n-úre, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> § 44
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        itt ē side húra dolēicthe hi Temair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 313.28
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        is aire tucsan na taisi ┐ na húra sin illé, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 33.7
+        
+      . 
+        Rí ro delb ... hura co derb im thalmain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 38
+        
+       
+(=
+        uir in talman, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 26.25 Comm.
+        
+       ). <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        dollotar ... 
+co nhúraibh cathrach Themis leó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 313.27
+        
+      .</p>
+  
+  
+    <p class="result"> 
+Special and figurative uses : úir cheiníl <span class="trans">kindly <span class="def">soil</span> </span>: 
+giodh ar deighshíl Duin (MS 
+        Dun, <span class="lbl">et sic leg.</span>) na nGall | ni 
+húir cheinil sa gcongbhand, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 105.15
+        
+       (<span class="lbl">cf.</span> cré 
+cheiníl, <span class="lbl">e.g.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. ex. 1600
+      ).</p>
+  
+  
+    <p class="result"> 
+Followed by defining <span class="case gen.">gen.</span> (of place) : 
+        tar uir nAi, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 102
+        
+      . 
+        in t-áenmacc rig is fearr tāruill úir Érenn 
+riam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 111.12
+        
+      . 
+        gan tadhall ar úir nÉirionn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 
+36.10
+        
+      . 
+        mar tṡaltraim ar úr Indse | acmhainn mo ṡúl ṡilimse, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. 1735
+        
+      . 
+        faithche ... an dúin ..., | úir Pharthais 
+nó a haithghin í, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 11.10
+        
+      . <span class="trans">
+        <span class="def">Ground</span> </span>: lecit uile a ngluine 
+┐ a cinn fria huir `<span class="quote">floor</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 85
+      . This seems the 
+original meaning in : 
+        techt le nimh tnúith dom thinnmhe 
+| fá úir libh ní leigfimne, 
+          <span><strong class="pop" style="color:blue" href="bibliography/23L17" title="eDIL Bibliography">23 L 17</strong></span>, 150a § 11
+        
+       (`<span class="quote">unpunished</span>' 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> p. 104 n.3
+      ). <span class="lbl">Cf.</span> fo lár i dteannta póite ag ól 
+na gcuach go húr <span class="trans">
+        <span class="ediltr">draining to the bottom</span>
+      </span> (?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xxxvii 2
+      . 
+Here perh. : 
+        dobér-sa tré Dia na ndúl ainim it' eachaibh 
+co húr, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 26.35
+        
+      , but <span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 &#xFA;r">2 úr</a></span>.</p>
+  
+  
+    <p class="result"> 
+<span class="trans">Freq. of the <span class="def">grave</span>
+      </span> (with i n-, or fo ; téit i n-, fo, do) : 
+
+        daine i n-úir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5641
+        
+       (St). 
+        co fárcbad ... | hÍr in n-úir 
+... Sceillic, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 138.2
+        
+      . do bhí ós chách is é i n-úir 
+(<span class="lbl">i.e.</span> Christ), 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 38.25
+      . 
+        do luigh san úir is do iompó, 
+
+          20.40
+        
+      . 
+        iar mbás do éirigh ón úir, 
+          38.3
+        
+      . 
+        an triath-ḟlaith 
+i n-úir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 512
+        
+      . 
+        glúin as uaisle don ḟeadhain 
+| uaim-se fa úir Oirbhealaigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> lii 46
+        
+      . do-beir 
+i n-úir <span class="trans">brings into the grave, <span class="def">kills</span> </span>: 
+        Uargháoth do rad slóigh 
+a n-úir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> i 52.51
+        
+      . With téit, <span class="lbl">etc.</span>: 
+        Ladru ... isé 
+cetna marb dochoid fo úir Herenn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4b37
+        
+      . 
+        isé cetna 
+epscop dochoid fó úir nErend, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 242.18
+        
+      . 
+        is and luid i 
+n-úir in rí | i n-amsir duir Darcelli, 
+          532.20
+        
+      . 
+        atágur dul 
+i n-úir n-úair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 68.7
+        
+      . 
+        seabhac na seabhac ... | do 
+dhul i n-úir i dtúis na hóige, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ORah." title="eDIL Bibliography">O'Rah.</strong></span> xv 16
+        
+      . 
+        a dhul 
+don úir, is dubhach na scéalta, 
+          xiv 34
+        
+      . 
+        dochuaid Hiruath 
+in n-uir ┐ a n-ifrind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 137a32
+        
+       (=
+        
+          etir ūir ┐ ifrinn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+iii 227.11
+        
+      ). 
+        tá gliadar is siansa na n-éan go ciúin | ó thriallais a Dhiarmaid Uí Laoghaire i n-úir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ORah." title="eDIL Bibliography">O'Rah.</strong></span> xxii 
+216
+        
+      . See also under <span class="case g">g</span>
+      <span class="number s.">s.</span> above.</p>
+  
+  
+    <p class="result"> 
+ó doradadh úir tar Aedh <span class="trans">
+        <span class="ediltr">since A. was buried</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 
+304 iii § 7
+      . uir aniuil tarut hi forcend do sheta `<span class="quote">foreign 
+mould over thee at the end of thy way</span>' (<span class="lbl">i.e.</span> after thy death), 
+LB <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> p. clxxxv 6
+      . nach óen tarsa raga úir (<span class="lbl">v.l.</span> hur) 
+inna hinnsi hitá nicon aidlefa a ainm pé[i]n n-iffirn, <span class="trans">
+        <span class="ediltr">who 
+shall be buried there</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 202 § 20
+      . </p>
+  
+  
+    <p class="result"> 
+oil úir : iomdha leacht ... iomdha o.u. san eingse `<span class="quote">monument</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1921, 327 § 2
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> p. 302
+      ). See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=3 oil">3 oil</a></span>.</p>
+  
+  
+    <p class="result"> 
+<span class="trans">
+        Fig. <span class="def">stock</span>, <span class="def">nature</span> </span>: 
+        is tú an chraobh do ḟás dar n-úir, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 19.15
+        
+      . a chroinn 's a ḟréamh a húir Éabha <span class="trans">
+        <span class="ediltr">O tree 
+whose roots are from Eve's stock</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 43.11
+      . a río-luibh 
+d'úir na n-aingeal (to Christ), 
+        <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxxix 20
+      . </p>
+  
+  
+    <p class="result"> 
+<span class="trans">The material of the human body, hence a <span class="def">creature</span>, a <span class="def">human</span> <span class="def">being</span> </span>: níor ghein úr eile mar í (of Mary), 
+        <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> ii 7
+      . 
+<span class="lbl">Cf.</span> : a úir bhríoghmhar bhuadha `<span class="quote">O mighty soil of virtue</span>,' 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1922, 585.7
+      . a úir is airde ná neamh | a bhean 
+rúin Ríogh na n-aingeal `<span class="quote">creature of clay</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 
+1921, 376 § 38
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> p. 260
+      ). <span class="lbl">Cf.</span> 
+        daonnacht Mic 
+Dé bhí is cnáimh dár gcnáimh | a chré is í ar n-úir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 
+2.2
+        
+      . 
+        úir gan taradh cré mo chalann, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3314
+        
+       (quot.).</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

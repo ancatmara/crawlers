@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="18106">1 do-midethar</h3><span class="citation">Cite this: eDIL s.v. 1 do-midethar or <a class="reference" href="18106">dil.ie/18106</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                du-mmidethar, domidet, toimdet, dumestar, dumessatar, du-m-messur-sa, da-mídair, dorumadir, doroemaidir, dos-ruimdemar, duruimdetar, domitte, toimse, tomus, diruirmisem</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (*
+        to-mid-, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 579
+        
+      ) <span class="mood Indic.">Indic.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        du-mmidethar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 82a3
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        domidet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 99
+        
+      . <span class="mood Ipv.">Ipv.</span> <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        toimdet, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 95 § 47
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        dumestar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 68d1
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+
+        dumessatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Enchir.Aug." title="eDIL Bibliography">Enchir. Aug.</strong></span> 86b
+          
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 485
+      ). <span class="tns Fut.">Fut.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+
+        du-m-messur-sa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 78a11
+        
+      . <span class="tns Pret.">Pret.</span> and <span class="tns perf.">perf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        da-mídair, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2901
+        
+      . (With -ro-) 
+        
+          dorumadir si, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 16c11
+        
+      . 
+        doroemaidir, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2709
+        
+      , <span class="lbl">cf.</span> 
+        7955
+       (form due to analogy of 
+        <span class="oRef">¤</span>roemaid from 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=maidid">maidid</a></span>, see Strachan, 
+        <span><strong class="pop" style="color:blue" href="bibliography/VSR" title="eDIL Bibliography">VSR</strong></span> 65
+      ). <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        dos-ruimdemar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 6
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        duruimdetar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 87c4
+        
+      . <span class="tns Impf.">Impf.</span> <span class="voice pass.">pass.</span> <span class="number s.">s.</span> 
+
+        domitte, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 606
+        
+      . <span class="pos Part." style="color: #ff8000">Part.</span> toimse.</p>
+   
+    <p class="result"> 
+ <span class="pos Vn." style="color: #ff8000">Vn.</span> tomus. See also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 toimsid">1 toimsid, toimsigid</a></span>.</p>
+  
+  
+    <p class="result"> 
+ <span class="trans">
+        <span class="def">Weighs</span>, <span class="def">measures</span>, <span class="def">estimates</span>:</span> gl. pendere, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Enchir.Aug." title="eDIL Bibliography">Enchir. Aug.</strong></span> 86b
+        
+      , 
+ adpendere, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 82a3
+      , perpendere, 
+        68d1
+      , ponderare, 
+        87c4
+      , metiri, 
+
+        78a11
+      , emetiri, 
+        16c11 
+      , 
+        25a18
+      . Oft. with prep. FRI (or A) of 
+standard of measurement: 
+        rí tadban tomus . . . o firmimint 
+co talmain | fris domidet . . . fri tiget na talmanna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 99
+        
+      . 
+flesc idaith domitte (donmitte, LB) frisna collnai ┐ frisna 
+adnacula <span class="ediltr">which used to be measured to</span> (<span class="lbl">i.e.</span> <span class="ediltr">by which bodies and 
+graves used to be measured</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 606
+      . fri cathardu ┐ 
+eclaisi domiditer luicc <span class="ediltr">by cities and churches places are estimated</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 2.5
+      . taircella tomus conid iar n-a durn toimdither 
+ <span class="ediltr">by his hand it is measured</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 344.x
+      . lutu laime fir 
+dod(o)-midi(gh)t[h]ur <span class="ediltr">measures it</span> = <span class="ediltr">is the measure of it</span> (?), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 345 § 6
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 232
+      ). is a dealt domiter recomrac 
+ <span class="ediltr">from a syllable a disyllable is reckoned</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1953
+      . a med 
+Lugbae cerd[a] dorumidir (doirumidir, <span class="lbl">v.l.</span>) Fachtna a n-argat 
+ar na bu <span class="ediltr">F. weighed the silver</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 811
+      . 
+        cia doroemadair 
+. . . coemchathir ind rig?, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7955
+        
+      . doroemaidir bith . . . tirib 
+| tuathaib . . . milib stadib <span class="ediltr">he measured the world . . . by 
+countries, peoples, miles, stadia</span>, 
+        2709
+      . buiden cech óin laithi | 
+dosruimdemar remain <span class="ediltr">we have measured them out above</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span>
+Ep. 6
+       (dosrimemar, diruirmisem <span class="ediltr">we have enumerated them</span>, 
+<span class="lbl">v.l.</span>). arán toimse (a hermit's ration), 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 56 § 8
+      . <span class="trans">
+        <span class="def">Guesses</span>, <span class="def">solves a riddle</span>:</span> niméte ni thormassid, '<span class="quote">no doubt you can solve it</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 292.21
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xxxiv 195
+      . <span class="trans">
+        <span class="def">Adjudges</span>:</span> 
+mou álib imdergadh emna; domider (<span class="lbl">leg.</span> domidiur?) de secht 
+cumala <span class="ediltr">I adjudge for it seven cumals</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> 29
+       <span class="lbl">s.v.</span> mánd 
+(= admiudar, Laud). In fig. sense <span class="trans">
+        <span class="def">weighs</span>, <span class="def">deliberates</span>:</span> 
+        damídair-sium a chomairle ra muintir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2901
+        
+      . <span class="trans">
+        <span class="def">Calculates</span>, 
+<span class="def">plans</span>, <span class="def">attempts</span>:</span> dammidethar . . . dia lémaim ┐ forémid (lit. 
+ <span class="ediltr">he measures it for his (its?) leap</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 88
+      = domidethar an 
+leim <span class="ediltr">he calculates (attempts) the leap</span>, Eg. 
+        damídhair a thrí 
+brathbémmenda da béim bar Ultaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 6005
+        
+      . mór gním 
+do mnái brath a fir | dóig is friss rodasmidir `<span class="quote">it was against</span> 
+ <span class="ediltr">him that she aimed it</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 254
+      , <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 30 § 15
+      . 
+ <span class="trans">
+        <span class="def">Deems</span>, <span class="def">judges</span>, <span class="def">considers</span>:</span> is d' aimsir Adhaimh domidhter in 
+gabhail so Ceasrach <span class="ediltr">C.'s invasion is assigned to the age of 
+Adam</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 22b39
+      . 
+        toimdit áes na críche sin nach fil for bith 
+inis is ferr inás, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 169
+        
+      . </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

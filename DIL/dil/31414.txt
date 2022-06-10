@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="31414">mairnid</h3><span class="citation">Cite this: eDIL s.v. mairnid or <a class="reference" href="31414">dil.ie/31414</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                marn-, no-do-mairn, nom-mera, nacha-romrat, nu-merad, ar-in-merad, ni-n-mēra, rot-mēra, num-mērat-sa, mmērat, ros-mert, nim-rumart-sa, mertamar, mertsam, me[r]tatar, mērthir, cotamert, dia-n-mert, mrath, brath, mairn-, r-ar-marnestar, mairnestar, ro mert, ro[m]-mert-sa</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos vb." style="color: #ff8000">vb.</span> The -n- belongs to the pres. stem, which is not 
+represented in the Glosses and may have been marn- (occas. 
+found in Mid.Ir.), see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thurn." title="eDIL Bibliography">Thurn. Hdb.</strong></span> § 546.
+      
+    </p>
+   
+    <p class="result"> 
+Forms: <span class="tns Pres.">Pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        no-do-mairn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 284.21
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns pres.">pres.</span> 
+<span class="per 3">3</span> <span class="number s.">s.</span> 
+        cia nom-mera
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 26.14
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        nacha-romrat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 
+262.3
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns impf.">impf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        co nu-merad
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 24c20
+        
+      . 
+        ar-in-merad, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ix 192 § 9.
+        
+       <span class="tns Fut.">Fut.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+        ni-n-mēra, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 252a30
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> Med. 
+&amp; Mod.Ir. Ser. v, 405
+      ). <span class="per 3">3</span> <span class="number s.">s.</span> 
+        rot-mēra, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1710.
+        
+       <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        num-mērat-sa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 140c1
+        
+      . ? 
+        ni mmērat beshire, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 30c20
+        
+       (gl. 
+ultra non proficient; `<span class="quote">they shall deceive no further</span>', Thes.: <span class="ediltr">they 
+will last, endure</span> &lt;<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=maraid">maraid</a></span>?). <span class="tns Pret.">Pret.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        ros-mert, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1673
+        
+      , <span class="lbl">cf.</span> 
+
+        1712
+      , 
+        2779
+      . 
+        nim-rumart-sa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 10 § 8.
+        
+       <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        mertamar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 290.
+        
+       (<span class="tns s-pret.">s-pret.</span>) 
+        ro mertsam
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3623.
+        
+       <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        ro me[r]tatar
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 75d5
+        
+      . <span class="voice Pass.">Pass.</span> <span class="tns fut.">fut.</span> <span class="number s.">s.</span> 
+        mērthir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 346b54
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 86 § 40.
+       
+? <span class="tns Pret.">Pret.</span> <span class="number s.">s.</span> 
+        cotamert, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3071.
+        
+       
+        dia-n-mert, 
+          5361
+        
+      ; so Strachan, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/VSR" title="eDIL Bibliography">VSR</strong></span> p. 36
+      ; by 
+        <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 575
+       taken as act.; if the 
+latter, the construction is impersonal. See other possible exx. 
+below.</p>
+   
+    <p class="result"> 
+<span class="pos vn." style="color: #ff8000">vn.</span> O.Ir. mrath = Mid.Ir. brath.</p>
+   
+    <p class="result"> 
+In Mid.Ir. freq. treated as a weak <span class="pos vb." style="color: #ff8000">vb.</span>, the stem mairn- 
+being preserved in all tenses: <span class="tns pret.">pret.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        r-ar-marnestar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+3688.
+        
+       
+        ro mairnestar
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1033.
+        
+      
+    </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">betrays</span>, <span class="def">plays false</span>; <span class="def">leaves</span> in the <span class="def">lurch</span>:</span> gl. prodere, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+24c20
+        , 
+          140c1
+        ; refers to proditores, 
+          75d5
+        . 
+          nodo-guin nodo-mairn (.i. doní in brath), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 284.21
+          
+        . 
+          ni gonuit ni mairnit, 
+
+            ii 288.14 Comm.
+          
+         abbair fris, . . . marnas mērthir <span class="ediltr">who betrays 
+shall be betrayed</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 86 § 40.
+         
+          ro mertsam cóem diar 
+ngnáthaib, | ro recsam ar n-oenbráthair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3623.
+          
+         
+          co mera 
+[mairfid <span class="lbl">v.l.</span>, <span class="lbl">leg.</span> mairnfid] cach brathair araile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 40 
+§ 207
+          
+        . 
+          dia mert a ben Coinroí, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 42 § 7.
+          
+         
+          ni mairnd [<span class="lbl">leg.</span> 
+mairn] cairdiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3634
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 31
+        ). 
+          ar nā gona ┐ ar nā mairne 
+fear fine fear n-anfine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span> p. 217 a
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 385
+        ). slog do 
+ching a timcheall cairn | is mac ainbthi no-dos-mairnn; | is e 
+mo drai, ni mera, | mac De <span class="ediltr">the son of God is my druid, he will 
+not play (me) false</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 173b42
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 79
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/CS" title="eDIL Bibliography">CS</strong></span> 561
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 194
+         
+(in both versions taken as: ním éra <span class="ediltr">he will not refuse me</span>). 
+Iudas Scariath mert a Choimde <span class="ediltr">who betrayed his Lord</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 120 § 59.
+         
+          in duine mairnes in coimdid iar ndesmberecht 
+Iudais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5297.
+          
+         rom-mertabair . . . lécud mo námat chucum 
+`<span class="quote">ye have plotted to let</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vi 148.48
+        . 
+          mani mairntae in 
+chathir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 1782.
+          
+         ni mad-lodmar dō, ol C., nā mertamar 
+hUltu <span class="ediltr">would that we had not gone there and left the Ulstermen 
+in the lurch (open to attack</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 290
+         = 
+          frismbertamar Ultu, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1020.
+          
+        
+      </p>
+     
+      <p class="result"> 
+<span class="trans">
+          <span class="def">Deceives</span>, <span class="def">deludes</span> (with false appearances, promises, <span class="lbl">etc.</span>), 
+<span class="def">cozens</span>, <span class="def">wheedles</span>, <span class="def">misleads</span>:</span> nit-merad-su (.i. nit-mairnfed) sain 
+<span class="ediltr">he would not deceive thee</span> (alluding to Cathbad's prophecies), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1081.
+         is trén ro-da-mert in scel ro chomarleicset <span class="ediltr">their 
+plans deluded them</span> (of builders of Babel), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2779.
+         cen bæth-rún ros-mairn immaig `<span class="quote">without idle desire that lured him away</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 198.
+         <span class="lbl">Cf.</span> further: is tú th'aenur nachan-mairn[e]a 
+. . . di cach athchomarc rolásum cucat <span class="ediltr">thou art the only one who 
+never fails (disappoints) me in any request</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 294 § 12.
+         
+`Atchíu níro fastáis na firu' for C. `Ní mé rod-mert' (.i. ro 
+follaig [<span class="lbl">sic leg.</span>] cen in techtairecht do denam) or L. <span class="ediltr">it is not I 
+that flinched (shirked) it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 36
+         (rodmeirt, rotmbert <span class="lbl">v.l.</span>; <span class="lbl">leg.</span> 
+rotmert <span class="ediltr">that failed thee</span>?). The follg. exx. may represent pret. 
+pass. (see above): coro thimart, cota-mert dó (= do) thochta 
+i tír nEgept <span class="ediltr">till they were beguiled into going</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3071.
+         
+dian-mert fodéin . . . do berrad a mormuṅgga <span class="ediltr">when he himself 
+was beguiled into having his locks shorn</span> (?), 
+          5361
+         (of Samson). 
+<span class="lbl">Cf.</span> 
+          ro mert Labān . . . | indaban [<span class="lbl">leg.</span> idnaib] forsrabi Rachial, 
+
+            3029
+          
+         (= L. was deceived by the simulated pangs of R.?).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">tells on</span>, <span class="def">informs on</span> (a person); <span class="def">reveals</span> (a plan, <span class="lbl">etc.</span>), not 
+necessarily in bad sense:</span> slán cach mairnes [mairne <span class="lbl">MSS.</span>] 
+
+          mignima .i. bi slán dontí dogni faisneis . . . in drochgnima, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1272.
+          
+         mairnit na noím in námait n-arsata .i. diabul 
+don athair nemdai (alluding to the prayer: `deliver us from 
+the evil [one]'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8006.
+         coro máirned a athair intí Martain 
+don rig (= <span class="frn ">prodente patre</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 87.
+         
+          ro mhairnseat d'Ua 
+Neill an Calbhach do bheith fón innas sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1576.1
+          
+        . <span class="trans">In 
+looser sense of <span class="def">revealing</span>, <span class="def">making known</span>:</span> 
+          ised sin ro mairn in 
+mag | ó fil a ainm co n-ardblad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 426.
+          
+         ainm in 
+míl . . . ro len in tír sin chaidche; ros-mairn ós áth cach enaig 
+`<span class="quote">it designated the spot</span>', 
+          428
+        . mar[n]aid do chiall cech sluag 
+séim <span class="ediltr">thy sense spies (perceives) every ethereal host</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 45
+        ; <span class="lbl">cf.</span> 
+cuimilt riú, mar mhairneas mé, ní fiú th'aighneas <span class="ediltr">as I perceive</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxii 20.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">confounds</span>, <span class="def">baffles</span>, <span class="def">brings to nought</span>; </span> <span class="lbl">cf.</span> 
+          frisbert .i. ro 
+mairnestar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1033
+          
+         = 
+          ro mairn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 274 § 101.
+          
+         cethri 
+tomadmann . . . ní ros-mairn [rosbáid <span class="lbl">v.l.</span>] mesce 'malle `<span class="quote">strong 
+drink</span> (? <span class="quote">poetic frenzy) hath not confounded them together</span>' (<span class="lbl">i.e.</span> 
+mixed up their names), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 460.
+         feib ro mairn a 
+chrotha crí maidm . . . Locha Lindmuni `<span class="quote">wrought the ruin of his 
+shapely form</span>', 
+          450
+        . ar co fesad cid dia mboí ani nos-mert 
+(rosmbert, not-fosd <span class="lbl">v.l.</span>) <span class="ediltr">what it was that balked them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 
+294
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 5
+        ). rosiacht in muc co Ceis Corind, conid ann 
+ros-mert `<span class="trans">
+          <span class="def">perished</span>
+        </span>', 
+          477
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 77
+        ) = <span class="voice pass.">pass.</span> <span class="tns pret.">pret.</span>? 
+          co fail a 
+lecht ar a lar | airm ro mert in mor-macamh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 405a38
+          
+         
+(<span class="voice pass.">pass.</span>?). 
+          ro[m]-mert-sa . . . aithle mo meic, | rom-thacht-sa 
+cumga Eogain <span class="ediltr">the loss of my son</span> (?) <span class="ediltr">has undone me</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 146b42
+         
+= 
+          <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> iii 544 § 21
+         (<span class="voice pass.">pass.</span>?). dorochair in file . . . ro 
+mairned co sír . . . ar ainmed ríg ro-Themra `<span class="quote">he was betrayed</span> 
+(? <span class="ediltr">destroyed) for blemishing</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 68.
+         in tí triasarmairned in domun <span class="ediltr">through whom the world was brought to 
+nought</span> (of Christ), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 135b28
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> vi § 71
+        . With 
+transference of obj.: ro mert Blathnait . . . in argain `<span class="quote">by 
+treachery brought about the slaughter</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 42 § 8.
+        
+      </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

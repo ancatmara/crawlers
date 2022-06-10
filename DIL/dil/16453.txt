@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="16453">dílse</h3><span class="citation">Cite this: eDIL s.v. dílse or <a class="reference" href="16453">dil.ie/16453</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                dísle, dísle, dílse</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> later also dísle <span class="itype i&#x101;">iā</span>, <span class="gen f.">f.</span> (díles) dísle, dílse, <span class="gen f.">f.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 3
+      . 
+
+        Abstr. Nouns § 46
+      . <span class="trans">that which is <span class="def">proper</span> to, <span class="def">inherent</span> in, <span class="def">due</span> or 
+<span class="def">belonging</span> to</span>, hence</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">propriety</span> (<span class="lbl">i.e.</span> fitness, peculiar <span class="def">applicability</span>, to), passing 
+into notion of <span class="def">appropriation</span>; <span class="def">ownership</span>, <span class="def">possession</span> (<i>of</i>), <span class="def">right 
+over</span>
+        </span> (freq. with obj. gen. and prep. DO of appropriator or 
+owner): 
+          asagnintar as nduine . . . intan asmberar <span class="frn ">uirgilius</span> 
+assagnintar assin doacaldmaiche tre dilsi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 29a3
+          
+        . dilse 
+cimbeto <span class="ediltr">a captive's due</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> i 484
+        . cach biad cona dilsi, 
+cona somilsi, cona slāine . . . (<span class="quote">sei) eigenes (nicht gestohlen</span>), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 346 § 7
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 232
+        ). 
+          fiach . . . cona focal ┐ a dilsi ┐ 
+a dilmaine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 15 § 51a
+          
+        . athgabāil sēt con-imcloī 
+dilsi (.i. a. gabur imin set ┐ imar claechlo a dilsi . . .) <span class="ediltr">distress 
+from `seds' which have changed ownership</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 246
+        . frithe 
+fairge . . . a dilse uile d'fir frithe <span class="ediltr">sea-waifs become the property 
+of the finder</span>, 
+          v 334 Comm.
+         a dilsi do lucht in feruinn cusa 
+tárlu é (of a sea-waif), 
+          i 204
+        . rucus tuinede la fer n-ecoir . . . 
+[Ba] deithbir ar nī bbuī dīlse na aititiu la fer for n-ecrad <span class="ediltr">right 
+of possession</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 346 § 37
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 113b20
+        ). corosgáid A. 
+im dilsi in maige sin do ┐ moa ainm fair <span class="ediltr">entreated them to give 
+him the right of ownership of that plain</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 69
+        . 
+          tabair-se 
+dilse mo chríche féin damsa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 321
+          
+        . 
+          dobreath . . . saer dilsi 
+Muigi mac nErce do is da cloind co brath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 270a36
+          
+        
+
+          asbert M. nach tuc disli a fearaind acht do C. nama (imdillsi, 
+ <span class="lbl">v.l.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 175
+          
+        . dorat Écubu lándílsi na hingine dó <span class="ediltr">full 
+possession of the maiden</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 1891
+        . 
+          dorat a ogdilsi fein cona 
+uile maithius dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 332
+          
+        . baile biataigh do iodhbairt don 
+C. . . . it iad slāna na hoghdhilsi go brath, Cadhla Ua D. <span class="lbl">etc.</span>
+        , <span class="ediltr"> 
+`sureties of that perpetual gift</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 1176
+        . Isell C. do cennac ar 
+dilse do Cormac . . . ó h. Flaithnen <span class="ediltr">was purchased in perpetuity by C. from Ua F.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CS" title="eDIL Bibliography">CS</strong></span> 1089
+        . 
+          co dardad dilsi fērgleithe 
+co ceann mbliadna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 130
+          
+        . 
+          Almu . . . do lecun do ar 
+dilsi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> ii 90
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3198
+        ). dilsi fogla ┐ airgni cathrach na 
+hE. . . . do tabairt do dona hectrandaib <span class="ediltr">the right to plunder and 
+destroy the cities</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 762
+        . </p>
+     
+      <p class="result"> 
+Hence with subj. gen. <span class="trans">
+          <span class="def">property</span>, <span class="def">right</span>, <span class="def">claim</span>:</span> 
+          tanic atuaid 
+. . . do thabairt dilsi Gormlaithe ar ecin ō Lagnib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 52b15
+          
+        . 
+ <span class="trans">
+          <span class="def">freedom</span>, <span class="def">right</span> over one's own actions, <span class="def">emancipation</span> (?):</span> 
+          bean 
+nā fuil ac fir ┐ do nā tucad a dilsi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 292. 20 Comm.
+          
+         do-rónsam dílsi chennaig frit: latsu 'na rucais linde 'na rucsam 
+ <span class="ediltr">we made an appropriation of exchange (<span class="lbl">i.e.</span> a transference 
+in perpetuity), thine what thou didst take; ours what we took</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3217
+        . feibh mar fuaras dílse an sgéil, | dobhérad díbse 
+a n-iul <span class="ediltr">the truth of the story</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 540
+        . tenn do denam 
+dind ni as ten . . . is dechned iar ndilsi sin <span class="trans">
+          <span class="def">genuinely</span> (?)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xx 152
+        . 
+          ní dechned iar ṅdilsi tormach sillaibe, 
+            150
+          
+        . dotuit 
+i ndilsi: dorochair i ndilsi di conid <span class="frn ">nomen</span> di <span class="frn ">pudicitia</span>
+         `<span class="quote">it 
+has fallen into propriety to her</span>' (<span class="lbl">i.e.</span> <span class="ediltr">become her special name</span>), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 29a8
+        . 
+          anni nognathaigheth cāch . . . dorochair i ndilsi do, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 168
+          
+        . direnar in fer uadaib uile, no do rochrathar 
+uile i ndilsi <span class="ediltr">they have all fallen into the right</span> (of compensation), 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 178.21
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">forfeiture</span>
+        </span>. This meaning arises out of <span class="edilb">(a)</span> in cases where 
+a transference of property is implied, the ownership being 
+forfeited by one of the contracting parties. The follg. instances 
+from Laws illustrate the transition (<span class="trans">
+          ó being used of party 
+which loses, and DO of that which gains possession):</span> 
+          mad ro 
+achtaig cin ar ┐ ro hairedh, is dilsi in air cona ṡīl, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 132
+          
+        . 
+biaidh dilsi cacha athgabala do eclais and <span class="ediltr">the possession of</span> 
+(<span class="ediltr">right over) every such distraint goes to the church</span> (<span class="lbl">i.e.</span> <span class="ediltr">is forfeited 
+to it</span>), 
+          v 256 Comm.
+         is dilsi a fiach uad `<span class="quote">he forfeits the debt</span>' (lit. 
+`<span class="quote">it is forfeiture of his debts</span>'), 
+          i 114 Comm.
+         dilsi a gill on thi 
+dobeir a geall <span class="ediltr">his pledge is forfeited (<span class="lbl">lit.</span> the forfeiture of his 
+pledge) by the man who</span> . . . 
+          v 188
+        . 
+          dilsi a fiach ōn fir doghni an 
+acra, 
+            310 Comm.
+          
+         When land is seized unlawfully: 
+          cach ní 
+berar do techtugadh a dilsi dfir bunaidh, 
+            iii 148
+          
+        . dilsi n-airme 
+`<span class="quote">forfeiture of the stock</span>', 
+          iii 148
+        . 
+          d.<span class="oRef">¤</span> in ratha, 
+            ii 270
+          
+        . 
+          dilsi a 
+cotach frithgnuma on adaltraidh, 
+            366
+          
+        . mleth díchmairc i 
+mmuiliunn mrugḟir, cóic séoit ┐ dílse mine melar díchmairc, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 239
+        . trí diubarta forsná íada d.<span class="oRef">¤</span>
+         `<span class="quote">on which forfeiture does not close</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 149
+        . lánd.<span class="oRef">¤</span> do cach láim la fíachu 
+`<span class="quote">full forfeiture for every hand with fines</span>' (? one of the duties of 
+a ruler), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 2
+        . druim risna drochgráduib, dílsi 
+gach acabair <span class="ediltr">renunciation of all desire</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 215
+        . imba ar 
+ndilsi co n-ar claind a mainche duit <span class="ediltr">shall it be forfeiture of 
+ourselves with our children into your service</span>? 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 41
+        . 
+nech imrét ech i ndomnach, dílsi a eich <span class="ediltr">his horse is forfeit</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 204
+        . a caīrich do dīlsi hi llomrad glassenguirt na 
+rīgna (judgement of Lugaid m. Con), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 311
+        . Note: ni 
+teiged bem i [n]dilsi na [i] ndilmaine uad <span class="ediltr">in vain</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+2526
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">security</span>, <span class="def">pledge</span>, <span class="def">warrant</span>:</span> 
+          tucad Pátraic inna dilsi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xxxvi 264
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 86a3
+        ). 
+          cach fiach co dísli, cach disli i láim 
+rātha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 227
+          
+        . 
+          cach altrom co d.<span class="oRef">¤</span>, cach d.<span class="oRef">¤</span> co rún, 
+            228
+          
+        . 
+nói ngrad nimi . . . is iat dilsi lúagi lemmthair | dúani Crimthain `<span class="quote">they are the securities of the price vouchsafed for C.'s 
+poem</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 491
+        = 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 45b35
+         (or pl. of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 d&#xED;les">2 díles</a></span>?). dodechaid 
+Osraighe i ndilsi fri Leth Cuinn <span class="ediltr">entered into suretyship for</span> 
+(`<span class="quote">allegiance with</span>'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 858
+        . 
+          rígh Osraighe do bheith i nd.<span class="oRef">¤</span> fri 
+L. C., 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 857
+          
+        . dobersa dō . . . ┐ doberar Caelaind Craibtheach 
+fris na dilsi <span class="ediltr">I will give him (land) and C.C. shall be surety to him 
+for it</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 174b39
+        . 
+          ata C. a ndilsi fris fein ┐ fri a ḟearand, 
+
+            44
+          
+        . 
+          ceithre báis breithe: a breith i ngó, a breith cen dílse . . . 
+(.i. faoi omhan gan árach), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 244
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">loyalty</span>, <span class="def">fidelity</span>
+        </span>, (<span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 d&#xED;les">1 díles (c)</a></span> <span class="trans">
+          <span class="def">loyal</span>
+        </span>), common in later lit.: 
+
+          issed is dóennacht, dílsi ┐ diute, tua ┐ trebaire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 294a34
+          
+        . 
+d'fiachaib ar Dh. umhla is dísle do choimhéad do R. <span class="ediltr">to be 
+obedient and faithful to R.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 5116
+        . 
+          ni raibhe dísle ag 
+duine d'eis Chumhail d'Fionn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/3B14" title="eDIL Bibliography">3 B 14</strong></span>, 39
+          
+        . 
+          ní fríth . . . neach 
+. . . do rinne dísle dhoiséin, 
+            41
+          
+        . 
+          ní chomhall sí d.<span class="oRef">¤</span> dhamh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxx 3
+          
+        . 
+          i n-aghaidh mo dh.<span class="oRef">¤</span> dhuid | m'faghail is 
+tríbhse tánuig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 14.147
+          
+        . ar derbdilsi a thinōil ┐ ar lān-mēt 
+a maicne <span class="ediltr">on account of the loyalty of his assembly</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 426bz
+        . 
+iar ttabhairt . . . chánóine Patraig dhóibh im dilsi dhó <span class="ediltr">having 
+pledged their loyalty to him on Canóin P.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 1196
+        . 
+          go mbí 
+fearg Dé rinn tré pheacadh an tsinnsir nó go bhfaghthar linn 
+d.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4084
+          
+        . 
+          a ró d.<span class="oRef">¤</span> ag díon gach ḟir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxx 2
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+          <span class="def">security</span>, <span class="def">safety</span>:</span> da bhfaghadh arthrach fria himluchtadh 
+┐ dilsi fria dul ┐ fria techt <span class="ediltr">security to come and go</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Caithr.CC" title="eDIL Bibliography">Caithr. CC</strong></span> § 61
+        . geallaidh disle no ionniollus (= <span class="frn ">securitatem pollicetur</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/24P22" title="eDIL Bibliography">24 P 22</strong></span>, 142
+        . dísli Dé fuair ré a uaisle <span class="ediltr">peace of God</span> (?), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/3C13" title="eDIL Bibliography">3 C 13</strong></span>, 939
+        . fágbhaidh cnuas d'ísle san ḟiodhbhaidh | nár 
+dhísle thuas d'iomdhaidh éoin <span class="ediltr">that there was no safety above 
+for the bird's resting place (<span class="lbl">lit.</span> that it was not safety</span>, <span class="lbl">cf.</span> 
+          22.6
+        ), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 29. 120
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) The follg. exx. perh. belong to a different word, <span class="lbl">cf.</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. p. 39.8
+        : gan ingin righ . . . dho lamhachtain druine 
+nā dhilsi nā dheghlāmhda `<span class="quote">to work embroidery or to practise 
+charity</span> (?)', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Caithr.CC" title="eDIL Bibliography">Caithr. CC</strong></span> § 3
+        . co faccadar na tri hingena ac 
+denam a ndruinechais (a ndruine ┐ a ndísle ┐ a ndeghláma, 
+Fr.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7321
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

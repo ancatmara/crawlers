@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="35459">ro-icc</h3><span class="citation">Cite this: eDIL s.v. ro-icc or <a class="reference" href="35459">dil.ie/35459</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                roiccu, riccu, riccim, ruïcim, rricci, rrici, ric, ricc, recam, recam, ro-n-ecat, roeccat, recat, recam, rís-sa, mu-riis-si, roïs, rís, hí, ríi, rí, roïssam, rísam, risid, rissid, rísat, risin-se, arind-risinn, nachat-rised, risad, rissed, ristais, ro-n-icfea, ranac-sa, ránac, ro-b-ánic, ránic, ráncatar, ro-n-ecar, recar, ricfider, con-rícht, richt, ríchtu, ríchtain, ríachtain, roficfa, roficid, rofanac, ron-anacsa, rofancamar, ráncus, roticcba, ro-n-ecar, conruice, coruige, goruige</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos vb." style="color: #ff8000">vb.</span>, <span class="tns b-fut.">b-fut.</span>, <span class="mood s-subj.">s-subj.</span> <span class="tns pres.">pres.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        roiccu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 23d9
+        
+      . 
+        riccu, 
+
+          32a4
+        
+      . 
+        riccim, 
+          12a33
+        
+      . 
+        ruïcim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 22c14
+        
+      . <span class="per 2">2</span> <span class="number s.">s.</span> 
+        co rricci
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9a9
+        
+      . 
+
+        co rrici
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 42c27
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        ni ric
+        , 
+          36c10
+        
+      . 
+        nád ricc
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12a34
+        
+      . 
+<span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        ni recam
+        , 
+          15d1
+        
+      . 
+        con recam
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 83c3
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        ro-n-ecat, 
+
+          58d5
+        
+      . 
+        roeccat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 734
+        
+      . 
+        ní recat
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 3a14
+        
+      . <span class="mood imp.">imp.</span> <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        recam, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 93
+        
+      . <span class="mood subj.">subj.</span> <span class="tns pres.">pres.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        resíu rís-sa
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14a17
+        
+      . 
+        mu-riis-si, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 34a4
+        
+      . <span class="per 2">2</span> <span class="number s.">s.</span> 
+        cé roïs
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 146
+        
+      . 
+        dia rís
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10868
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        ro 
+hí
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 20c11
+        
+      . 
+        ríi, 
+          7b3
+        
+      . 
+        air nach rí
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 22c1
+        
+      . <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        roïssam, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> i 43
+        
+       (roisam <span class="lbl">v.l.</span>). 
+        rísam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12c9
+        
+      . <span class="number s">s</span> <span class="number pl.">pl.</span> 
+        risid, 
+          24b2
+        
+      . 
+        co 
+rissid
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 19.24
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 74b41
+      ). <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        rísat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5b39
+        
+      . 
+<span class="mood subj.">subj.</span> <span class="tns impf.">impf.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        amal ni risin-se
+        , 
+          9a19
+        
+      . 
+        arind-risinn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 92a5
+        
+      . 
+<span class="per 3">3</span> <span class="number s.">s.</span> 
+        nachat-rised, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 284
+        
+       (risad, rissed <span class="lbl">v.l.</span>). <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        ar na 
+ristais
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 697
+        
+      . <span class="tns fut.">fut.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        ro-n-icub, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 18b14
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        ro-n-icfea, 
+          14a25
+        
+      . <span class="tns pret.">pret.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        ranac-sa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3666
+        
+      , 
+        3737
+      . 
+        ni ránac
+        , 
+
+          10760
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        ro-b-ánic, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 16d10
+        
+      . 
+        ránic, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 240.20
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 18a1
+      ). <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        ní ráncatar
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6c31
+        
+      . <span class="voice pass.">pass.</span> <span class="tns pres.">pres.</span> <span class="number s.">s.</span> 
+        ro-n-ecar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 87d14
+        
+      . 
+        recar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 45b1
+        
+      . <span class="tns fut.">fut.</span> <span class="number s.">s.</span> 
+        ni ricfider
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 13b28
+        
+      . 
+<span class="tns pret.">pret.</span> <span class="number s.">s.</span> 
+        con-rícht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 2a6
+        
+      . 
+        cen co richt
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 256b45
+        
+       ( 
+        <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 
+463
+      ). <span class="pos Vn." style="color: #ff8000">Vn.</span> ríchtu, later ríchtain and (through influence of ro-saig) ríachtain. Medial inorganic f is somet. found: 
+        roficfa, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2243
+        
+      . 
+        roficid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 433a4
+        
+       (<span class="per 2">2</span> <span class="number pl.">pl.</span>). 
+        rofanac, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 130b51
+        
+      , 
+
+        52
+       = 
+        ron-anacsa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 4 § 8
+        
+      . 
+        rofancamar, 
+          <span class="lbl">ib.</span> 55
+        
+      . In 
+Mid.Ir. an impers. <span class="voice pass.">pass.</span> <span class="tns pret.">pret.</span> ráncus is formed.</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> <span class="trans">In gen. sense <span class="def">comes</span> (to a pers. or place), <span class="def">reaches</span>, <span class="def">arrives</span>:</span>
+      </p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) intrans.: in tain ro-n-icub féin <span class="trans">
+            <span class="ediltr">when I arrive</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 18b14
+          . 
+muriissi far ndochum <span class="trans">
+            <span class="ediltr">I may soon come to you</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 34a4
+          . 
+
+            corob misi cet-fer roficfa co hāth in chomlaind, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2243
+            
+          . 
+
+            co rránic co Dinn na Bóinne, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 25
+            
+          . 
+            co rancatais (= ráncatar) co hairm a mboí Cellach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 274a10
+            
+          . ricob do thig 
+Meic ind Óc <span class="trans">
+            <span class="ediltr">I will go</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 219 § 3
+          . noco ranacais-[s]iu 
+chucaind <span class="trans">
+            <span class="ediltr">till thou camest to us</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3918
+          . līon ticcthi tar tuile 
+theinn | ni riccthi uile a hEirinn <span class="trans">
+            <span class="ediltr">as many of you . . . will 
+not all return</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 20.4
+          . 
+            7
+           no rig a tor dithoghluidhi dia 
+anacal <span class="trans">
+            <span class="ediltr">gets into an impregnable tower</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 10
+           (the constr. 
+is odd). rangus o Iruath 'na diaig (= Herod's messengers 
+followed him up), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 115.1
+          . recait a ngleó `<span class="quote">they come to 
+blows</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 248.79
+          . go ráinig Magh B. d'ainm ar 
+an áit <span class="trans">
+            <span class="ediltr">the name of Magh B. came to be given to the place</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> 
+iii 2204
+          . Of an event, <span class="trans">
+            <span class="def">comes</span> to <span class="def">pass</span>
+          </span>: 
+            ráinig fá dheireadh go 
+raibhe i bhflaitheas Éireann, 
+              <span class="lbl">ib.</span> 1443
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) trans.: act rísam nem <span class="trans">
+            <span class="ediltr">if only we reach heaven</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12c9
+          . 
+
+            recam in n-eclais fo rith, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 93
+            
+          . ní fil . . . laithe . . . nachat 
+rised muntir <span class="trans">
+            <span class="ediltr">a day that a community would not come to Thee</span>
+          </span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 284
+          . 
+            roeccat Mag Muicceda, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 734
+            
+          . 
+            a ránic 
+Medb airm i mbai a drui, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 194
+            
+          . gach árad rig nemh <span class="trans">
+            <span class="ediltr">every 
+ladder that reaches heaven</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 236 § 9
+          . do glanad anma 
+Adaim . . . co ri arbri archaṅgel <span class="trans">
+            <span class="ediltr">that it may reach the host of 
+archangels</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2096
+          . 
+            co rísatt tír n-angel, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 100.2
+            
+          . 
+            ro-hisam uli in oentaid sin!, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4366
+            
+          . 
+            co risiur nem, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 69b51
+            
+           
+(<span class="per 1">1</span> <span class="number s.">s.</span> <span class="tns pres.">pres.</span> <span class="mood subj.">subj.</span> depon.). 
+            dús in rista tír na mban, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 
+15.20
+            
+           (<span class="per 2">2</span> <span class="number s.">s.</span> <span class="tns impf.">impf.</span> <span class="mood subj.">subj.</span>). ma ran-istais dagh-oic <span class="trans">
+            <span class="ediltr">if good warriors 
+got at him</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1263
+          . rot-icfa cloch huaim-se isin tailm 
+(= <span class="ediltr">I will sling a stone at thee</span>), 
+            796
+           = 
+            roticcba, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5271
+            
+          . gai 
+i mMael F., ┐ riced ní úait . . . Congal (= <span class="ediltr">throw some missile 
+at C.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 385.13
+          . rom-icfa lá in doluid <span class="trans">
+            <span class="ediltr">the day of misfortune will come to me</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 216 z
+          . 
+            riasiu rister forcend 
+peinne, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 488 § 6
+            
+           (<span class="voice pass.">pass.</span> <span class="mood subj.">subj.</span> <span class="tns pres.">pres.</span>). truagh nach ránag 
+eárr na haoise <span class="trans">
+            <span class="ediltr">that I have not reached the end of life</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 1485
+          . secht cubait riged ránac | i tacmung a munbrágat <span class="trans">
+            <span class="ediltr">I reached (counted) seven cubits</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 258.27
+          . 
+o rancus sealad sis isin tochailt <span class="trans">
+            <span class="ediltr">when they had dug some distance down</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 559.20
+          .</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> In various derived senses:</p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) intrans.: ro-icc dom <span class="trans">
+            <span class="def">comes</span> to me, <span class="def">falls</span> to my <span class="def">lot</span>
+          </span>: 
+            rod-icfa 
+bith etir da choiss Conchobair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1197
+            
+          . 
+            is dó ranic inar 
+Ísu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2860
+            
+          . 
+            ráinic béim óeile fon choire do C. an oidhche 
+sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 219
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">reaches</span> (an aim), <span class="def">succeeds</span>:</span> in ránic in t-erchor? <span class="trans">
+            <span class="ediltr">did the 
+cast reach its mark</span>
+          </span>? 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 440 § 13
+          . mas do bar [n]guin 
+dodeochabar, ní ricfa ní <span class="trans">
+            <span class="ediltr">it will be of no avail</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 318.25
+           
+(but <span class="lbl">cf.</span> 
+            ní airicc ní, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9b24
+            
+          ). With ó of pers.: ni fil uaidib-som o nach ri <span class="trans">
+            <span class="ediltr">who cannot do it</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 684
+           = 
+            ric, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5166
+            
+          . 
+co nā rainic o marcṡluagh Poimp impodh <span class="trans">
+            <span class="ediltr">P.'s cavalry were 
+unable to turn</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5727
+          . With LA: go rainig leis an 
+macáomh foghluim <span class="trans">
+            <span class="ediltr">succeeded in (finished) learning</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 
+122.17
+          . 
+            ní ráinic leis an tsleg do t[h]arraing, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1915
+            
+          . is 
+becc n-aister . . . ránic leu an la sin <span class="trans">
+            <span class="ediltr">they were able to go only 
+a short distance</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> iv 204.16
+          . 
+            nach ráinig leó a 
+rochtain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 8104
+            
+          . 
+            mo chrádh nach ráinig leis pósadh, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 169
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) trans. <span class="trans">
+            <span class="def">attains</span> to, <span class="def">gets</span>; <span class="def">accomplished</span>
+          </span>: ní rainic nech . . . 
+cetguin muice <span class="trans">
+            <span class="ediltr">no one succeeded in killing the first pig</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 
+4820
+          . 
+            co ris in saidhbri . . . iar ndai[d]bri duilig domoin, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 264 § 8
+            
+          . 
+            co nach ranicc nech dibh marbad aroile, 
+              xiii 
+230.15
+            
+          . an mac ráinig an ríoghan ó mhnaoi Eochach <span class="trans">
+            <span class="ediltr">whom the 
+queen got from E.'s wife</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 6327
+           (ríoghan may be <span class="case acc.">acc.</span>) 
+(in: iss é rainig foghai . . . ar tus `<span class="quote">that invented</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 259
+           
+read: ar-āinig; see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ar-icc">ar-icc</a></span>. and <span class="lbl">cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 143a52
+          ).</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) ro-icc les (with gen.) <span class="trans">`<span class="def">attains</span> to the <span class="def">benefit</span> (of)', <span class="def">needs</span>
+          </span>; later 
+fol. by nom. out of the construction.</p>
+       
+
+ 
+        
+          <p class="result">(<span class="edilb">1</span>) neich roiccu a less, gl. 
+necessitatis meae, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 23d9
+            . ni riccim for less, gl. non estis 
+mihi necessarii, 
+              12a33
+            . ní recat Greic les tintuda doib <span class="trans">
+              <span class="ediltr">do not 
+need a translation for themselves</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 3a14
+            . ni ráncatar som less 
+a scríbint <span class="trans">
+              <span class="ediltr">they have not needed to be written</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6c31
+            . <span class="voice pass.">pass.</span> 
+
+              ro-n-ecar les inna diten <span class="trans">
+              <span class="ediltr">(when) the protection is needed</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+87d14
+            .</p>
+        
+       
+        
+          <p class="result">(<span class="edilb">2</span>) robbí uár recar less dígbail ind ḟolaid <span class="trans">
+              <span class="ediltr">there may be 
+a time when it is necessary to diminish the substance</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 45b1
+            . 
+ricfa a less do legess <span class="trans">
+              <span class="ediltr">your healing will be necessary</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3415
+             
+= 
+              ricfa a leas do leigis, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2623
+              
+             (gen.); the reading of TBC 
+is supported by rhyme. cech furtacht ricfa a les duit <span class="trans">
+              <span class="ediltr">every 
+help which thou shalt need</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Moling" title="eDIL Bibliography">Moling</strong></span> 32
+            . 
+              ní recat a les ind 
+naim ní aile acht éstecht, 
+                <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 5
+              
+            . recam-ni a les ar curaid <span class="trans">
+              <span class="ediltr">we 
+need our champions</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 56
+             (where Windisch proposes: ar 
+curad <span class="case g">g</span>
+            <span class="number p.">p.</span>) 
+              ní ric a less Crist a fhortacht o ainglib, 
+                <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4839
+              
+            . 
+noco recat a less omun . . . do beth forru <span class="trans">
+              <span class="ediltr">have no need to be 
+afraid</span>
+            </span>, 
+              3494
+            . co rrancatar Laigin a les nech dia cobair <span class="trans">
+              <span class="ediltr">needed 
+someone to help them</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 436.14
+            . 
+              ní rángabhair a les súan 
+no codladh, 
+                <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 50 § 34
+              
+            . <span class="voice pass.">pass.</span> ricfaiter a les do gillai 
+innocht <span class="trans">
+              <span class="ediltr">thy servants will be needed</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 100.9
+            . 
+              baile nách regur 
+a leas soillsi gréine, 
+                <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 383.20
+              
+            .</p>
+        
+       
+        <p class="result"> 
+Further exx.: in ní ricthi a less <span class="trans">
+            <span class="ediltr">what ye need</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7842
+           (<span class="lbl">cf.</span> 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 23d9
+           <span class="lbl">supra</span>). beiridh libh an mheitt recctáoi a les <span class="trans">
+            <span class="ediltr">as much 
+as ye need</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 56 § 63
+          . 
+            ni tu an mac rangus a leas annso, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 276.8
+            
+          . faire ar cheathra, comhla ar thigh | ní rigthe a 
+leas re a linn <span class="trans">
+            <span class="ediltr">were not necessary in his time</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MaguiresofF." title="eDIL Bibliography">Maguires of F.</strong></span> 
+§ 100.10
+          . In the formula nit regam a les <span class="trans">
+            <span class="ediltr">we do not need thee</span>
+          </span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 78.1
+           (<span class="lbl">cf.</span> 
+            76.5
+          , 
+            12
+          , 
+            15
+           <span class="lbl">etc.</span>) the logical object is an 
+infixed pronoun.</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) co ricci (<span class="per 2">2</span> <span class="number s.">s.</span> <span class="tns pres.">pres.</span>) `<span class="quote">till thou reachest</span>', as petrified prep. 
+with acc.</p>
+       
+        
+          <p class="result">(<span class="edilb">1</span>) <span class="trans">
+              <span class="def">until</span>, <span class="def">as far as</span>
+            </span>: corricci se .i. conricci in n-aimsir 
+hi taam, gl. usque adhuc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9a9
+            . 
+              31b13
+            . corrici in n-or gl. 
+usque ad summum, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 42c27
+            . sís condarici in canoin <span class="trans">
+              <span class="ediltr">down to 
+the Scripture text</span>
+            </span>, 
+              54c34
+            . conrici hucht noi n-omne <span class="trans">
+              <span class="ediltr">as far as 
+the Nine-Trees Hill</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 238.10
+             (Tírechán). 
+              itát sé dorais 
+. . . co rrice in ríched, 
+                <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 15
+              
+             = cusin riched, LB. 
+              ro rigi a 
+láim co rrici ina croes, 
+                <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 86
+              
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9107
+            ) = co ricce a gualainn 
+ina craes, Eg. (the two words follg. co rrici have prob. fallen 
+out in LU). Later conruice, coruige, goruige. Also co rrí (<span class="per 3">3</span> <span class="number s.">s.</span> 
+<span class="mood subj.">subj.</span> <span class="tns pres.">pres.</span>): co rri forcenn <span class="trans">
+              <span class="ediltr">till the end</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 125a11
+            . 
+              corri aile 
+thúaith, 
+                <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 22.12
+              
+            .</p>
+        
+       
+        
+          <p class="result">(<span class="edilb">2</span>) <span class="trans">
+              <span class="def">up to</span> = <span class="def">excluding</span>, <span class="def">except</span>
+            </span>: 
+              iss 
+i richt mná siúil sedda Ulaid uli co rrici mo chéle-se Coin 
+Culaind, 
+                <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 24
+              
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8359
+            ). dobérat a leth-tinol co ruce rocor 
+no angbocht <span class="trans">
+              <span class="ediltr">except in case of great stress or poverty</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+ii 378.23 Comm.
+             </p>
+        
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

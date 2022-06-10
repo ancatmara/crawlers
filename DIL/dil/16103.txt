@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="16103">díchetal</h3><span class="citation">Cite this: eDIL s.v. díchetal or <a class="reference" href="16103">dil.ie/16103</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                dícetul, dicetail, ndíchetla</p></div><div class="col-sm-9 result_content">
+   
+
+    <p class="result">
+      <span class="itype o">o</span>and <span class="itype u">u</span>, <span class="gen n.">n.</span> (<span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 do-cain">1 do-cain</a></span>) <span class="trans">
+        <span class="def">incantation</span> or <span class="def">spell</span> composed extemporaneously by the `fili's' and druids in ancient 
+Ireland:</span> 
+        dicetal file, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 30
+        
+      . 
+        cen ail cen fasach cen dicetal, 
+
+          v 480
+        
+      . roscad no dichetal (gl. fasach), 
+        450
+      . dichetal (one of 
+the 14 `srotha éicsi'), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 30d33
+      . d.<span class="oRef">¤</span> do chennaib na tuaithe 
+(included among the 8th year's course of the `fili'), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 50
+      . 
+
+        coiri caec-dhuirnn . . . do chor ar teinid . . . ┐ dichetal flatha 
+┐ filedh ┐ druadh do chetal fair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 187
+        
+      . 
+        adbeart in dicheadal-sa oc tairrngiri ēisc i n-easaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 568a10
+        
+      . roboi 
+Diancecht ┐ a dí mac ┐ a ingen . . . oc dicetul for an tibrait 
+ <span class="ediltr">chanting spells over</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 94
+      . tarclamad crand do cach fid i 
+nErinn don drui[d] ┐ foreimidh d.<span class="oRef">¤</span> foraib co tucad crand do a 
+ḟid F. co ndergenai d.<span class="oRef">¤</span> fair `<span class="quote">over this [tree] he sang a spell</span>' (but 
+possibly crand do cach fid = <span class="ediltr">piece of wood from each tree</span> and 
+the allusion is to spells written in ogham?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvi 68
+      . gabais 
+[Finn] a mér ina bēolu: a donic as afrithisi foopairt dicetal 
+`<span class="quote">he began to chant</span>' (Finn's discovery of his gift of divination), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 346
+      . dichetal for ochtraig co ra-thochra a mbí ina 
+íchtur for a úachtar `<span class="quote">chanting over a dunghill</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 117
+      
+(with gl. 
+        .i. adhbhal-cantainn le rosg nó orrtha, 
+          p. 39
+        
+      ). 
+        dichan 
+dicetal, 
+          348
+        
+      . tair lium . . . do ṡinnath na fer ┐ dia ndichetal 
+`<span class="quote">to bespell them</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 450
+      . 
+        dodechatar dorchai tar forgnúis 
+in talman la díchitel in druad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 568
+        
+      = 
+        dícetul, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 56
+        
+      . 
+
+        d.<span class="oRef">¤</span> rogaeth, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 258
+        
+       (Amergin's chant). 
+        d.<span class="oRef">¤</span> do chollaibh 
+cend, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 75
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        bati[s?] slan a n-athgoite tre nert 
+an dicetail na cethri lēge, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 94 § 123
+        
+      . 
+        bidh trom le 
+feraib Erenn beith ac fulang dichelta (= dichetla) na ndrúadh, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5494
+        
+       St. 
+        mes fér for fodhuil dire direch cach dicedla, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 143
+        
+      . <span class="number pl.">pl.</span> 
+        ra bágait a mbrechta ┐ racanait a ndíchetla, co ra eirgetar a n-airbeda drúad impu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 239a47
+        
+      . 
+
+        tria brichtu ┐ dicetla ┐ cantana nolúited in mathair cach 
+maigin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 311.8
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 18
+      ). 
+        dican ar dichetlui mora 
+derbha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 11
+        
+      . 
+        ataig a díchelta ass, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4457
+        
+      = 
+        attaig 
+a guth, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 22
+        
+      . 
+        co ro chansat a ndruide seom ┐ a filidh 
+dicealta doib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 40a38
+        
+      ; 
+        <span class="lbl">ib.</span> 21
+      . <span class="trans">Common in phr. d.<span class="oRef">¤</span> di (do) 
+chennaib, used of a species of <span class="def">poetical</span> <span class="def">incantation</span> which was 
+composed extemporaneously (implying divination?) (the 
+díchetal di ch. was probably a kind of <span class="def">clairvoyance</span> or 
+<span class="def">psychometry</span> in which the <span class="def">seer</span> conveyed his vision or message 
+in a <span class="def">verse</span> or <span class="def">quatrain</span>
+      </span>; see the ex. given by Cormac <span class="lbl">s.v.</span> Coire 
+Brecain. <span class="trans">The ollam was required to be proficient in the 
+imbas forosnai and the díchetal di chennaib
+      </span>, <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 341b
+        
+      , 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 339a
+        
+      , and 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 56
+      ): 
+        ba aī dichetail di chennaib, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 362 § 47
+        
+      , see 
+        363
+      , 
+        xvi 178
+      . <span class="trans">The díchetal d.<span class="oRef">¤</span>
+         was 
+allowed by <span class="def">St. Patrick</span> as being harmless and involving no 
+pagan rites:</span> 
+        dic[h]etal doc[h]ennaib . . . fodrācbad sōn i cōrus 
+c[h]erdae, ar is soas fodēra son: ni ēcen audbairt do demnaib 
+oca, acht aisnēis do c[h]ennaib a chnāmae fochēdōir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 
+756
+        
+      ; <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 44
+      . 
+        dicedul ducendaib .i. dul do a cend a 
+dāna focétoir . . . aisnēt-sium imrādad na rann gin smuainedh 
+┐ gin smuaintecadh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 341b34
+        
+      = 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 339a
+        
+       (dicheadal dochennaib). Dubthach doroine dicetal do cennaib for ēn-anāil 
+do cuingidh feraind for C. <span class="ediltr">composed (recited) a `<span class="frn ">díchetal di ch.</span>' 
+in one breath</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 392d52
+      = 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 205b34
+      . dichetal do chennaib 
+(dicendaib, BB) na tuaithe (part of course for 8th year of a 
+fili's training), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 50
+       (<span class="lbl">cf.</span> 
+        dichetal do collaib cenn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B512" title="eDIL Bibliography">Rawl. B 512</strong></span>, 114c
+          
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 75
+      ).</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="3976">ar-beir</h3><span class="citation">Cite this: eDIL s.v. ar-beir or <a class="reference" href="3976">dil.ie/3976</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                airbeirid, arbeir, araber, -airbir, ar-id-beram, arberat, ar-berar, aramberar, arberr, -airberar, arbertar, airberedh, -arbered, -erbirmis, armbertis, arabertis, airbir, arambere, -erbara, -arbera, arambera, -airbera, araroibrea, aramberam, -arbaram, -airbirid, -arbarat, -arberat, armberthar, aramberthar, ar-bertar, arberainn, -airbertha, arberad, -airbertis, -airberthe, -airbéer, -erbæra, -erbera, -erberad, -airbértaís, araruburt, arbert, arrubert, -arbart, -erbart, -arbert, arrubartatar, -arrbartatar, erberdu, airbirthi, erbirthi, aurberta, airbert</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (
+        air-ber-, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 464
+        
+       -
+        5
+      ). Later as simple vb. airbeirid. <span class="mood Indic.">Indic.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        arbeir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10c6
+        
+      . 
+        araber, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 46b7
+        
+      . 
+
+        -airbir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 252.11
+        
+      . <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        ar-id-beram, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 26b2
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+
+        arberat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 198b7
+        
+      . <span class="voice Pass.">Pass.</span> <span class="number sg.">sg.</span> 
+        ar-berar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 31a3
+        
+      . 
+        aramberar, 
+
+          148b13
+        
+      . 
+        arberr, 
+          146a1
+        
+      . 
+        -airberar, 
+          192a1
+        
+      . <span class="number Pl.">Pl.</span> 
+        arbertar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+33a19a
+        
+      . <span class="mood Indic.">Indic.</span> <span class="tns impf.">impf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        airberedh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvi 60.14
+        
+      . 
+        -arbered, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 50 note 2
+        
+      . <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        -erbirmis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 135d3
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        armbertis, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 196b5
+        
+      . 
+        arabertis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 131d10
+        
+      . <span class="mood Ipv.">Ipv.</span> <span class="per 2">2</span> <span class="number s.">s.</span> airbir. 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+29a25
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="mood Subj.">Subj.</span> <span class="tns pres.">pres.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+        arambere, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28c11
+        
+      . 
+        -erbara, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 14162
+        
+      . 
+<span class="per 3">3</span> <span class="number s.">s.</span> 
+        -arbera, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 72b26
+        
+      . 
+        arambera, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 192b2
+        
+      . 
+        -airbera, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1092
+        
+      . With ro: 
+        araroibrea, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> i 498.2
+        
+      . 
+<span class="per 1">1</span> <span class="number pl.">pl.</span> aramberam. 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 148a1
+      . 
+        -arbaram, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 40a11
+        
+      . <span class="per 2">2</span> <span class="number pl.">pl.</span> 
+
+        -airbirid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 11b25
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        -arbarat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10c1
+        
+      . 
+        -arberat, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 78.28
+        
+      . <span class="voice Pass.">Pass.</span> <span class="number sg.">sg.</span> armberthar (<span class="lbl">leg.</span> aramberthar, edd.), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 53c9
+      . <span class="number Pl.">Pl.</span> 
+        co ar-bertar
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 121b3
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns impf.">impf.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+
+        arberainn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2106
+        
+      . <span class="per 2">2</span> <span class="number s.">s.</span> 
+        -airbertha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 29.35
+        
+      . 
+<span class="per 3">3</span> <span class="number s.">s.</span> 
+        arberad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 135.9
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        -airbertis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10b8
+        
+      . 
+<span class="voice Pass.">Pass.</span> <span class="number sg.">sg.</span> 
+        -airberthe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 114 § 2
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="tns Fut.">Fut.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        -airbéer, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 32a20
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        -erbæra, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 110c2
+        
+      . 
+
+        -erbera, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 48b12
+        
+      . <span class="mood Condit.">Condit.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        -erberad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 48a5
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+
+        -airbértaís, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1224
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="tns Pret.">Pret.</span> and <span class="tns perf.">perf.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        araruburt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 108a2
+        
+      . 
+        ro erberius, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lv 15
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        arbert, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+765
+        
+       (ACC). 
+        arrubart, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 21a11
+        
+      . 
+        arrubert, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 84.5
+        
+      . 
+
+        -arbart, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 36a4
+        
+      . 
+        -erbart, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 13811
+        
+      . 
+        -arbert, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thr.Ir.Gl." title="eDIL Bibliography">Thr. Ir. Gl.</strong></span> 
+34.z
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        arrubartatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 34c4
+        
+      , 
+        91b1
+      . 
+        -arrbartatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+40b9
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="pos Part." style="color: #ff8000">Part.</span> erberdu ( <span class="case d">d</span>
+      <span class="number s.">s.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 97d2
+      . airbirthi (<span class="case n">n</span>
+      <span class="number p.">p.</span>), 
+        94d1
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="pos Vbl.-of-necess." style="color: #ff8000">Vbl. of necess.</span> 
+        erbirthi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 98c10
+        
+      . 
+        aurberta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 11b17
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="pos Vn." style="color: #ff8000">Vn.</span> airbert. 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs § 83
+      .</p>
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">I</span> With biuth (<span class="case d">d</span>
+        <span class="number s.">s.</span> of bith <span class="trans">
+          <span class="def">world</span>
+        </span>, see 
+          <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 162
+        ).</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">lives</span>:</span> araberat biuth gl. degentibus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 50d13
+          . coarbera 
+biuth gl. degeret, 
+            72b26
+          . forcane ┐ arambere biuth gl. 
+ut scias quomodo oporteat té in domo Dei conuersari `<span class="quote">that 
+thou shouldst teach and live</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28c11
+          . 
+            .xu. bliadnai 
+i n-ardrígu . . . día n-airbereth bith co craibdech, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 
+2104
+            
+          . ro airbir bith fon tsruth trom <span class="ediltr">she lived</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3069
+          . 
+Without biuth: 
+            is intib airbirit co anbsaid . . . i rrotaigib 
+anaitreba, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2062
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 14
+          ). ? 
+            is medhōn aratairberat 
+inacethraso ciasanechtar foferthar .i. is asa meadhōn airbertnaighit, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 24.18
+            
+           (<span class="lbl">cf.</span> airberat .i. aitrebat nó 
+impoait quoting this ex. 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 54
+          ).</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">eats</span>:</span> 
+            arbeir biuth a mbís for altóir ind ídil, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10c6
+            
+          . 
+
+            amal aramberat biuth inna cethrai . . . inna sástu frisacomracat, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 69a19
+            
+          . 
+            intí arbir bith oss nallaid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 
+146.8
+            
+          . ni cainairbiur dergflatha na finn ┐ niconn airbiur 
+biuth `<span class="quote">nor shall I taste food</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 226.188
+          . tug . . . araill 
+dina bolgaib . . . ┐ arus arubairt bid . . . ar adbertadar bid 
+uad na tri cet laech <span class="ediltr">where he ate the three hundred warriors 
+also ate from it</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span>  ii2 102.y
+          . Without biuth: dia nairbera 
+samuisci . . . .i. mane esadar samuisc `<span class="quote">if he eat</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+1092
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">uses</span>, <span class="def">employs</span> etc.:</span> arrubartatar biuth gl. freti, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+34c4
+          . arrubart biuth gl. usus, 
+            35b11
+          . amal ni airbertis bith 
+gl. non utantur, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10b8
+          . conid cumme aramber biuth 
+hua cech rét frissacomraic <span class="ediltr">so that he enjoys equally everything 
+he meets with</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 69a18
+          . ararubartatar biuth gl. ob perfunctoriam, 
+            97d2
+          . intan arbir bith in scribtur . . . do deisimbrecht asna psalmaib <span class="ediltr">when Scripture uses an example from 
+the psalms</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 4.128
+          . nī hinill do crāibdech airbera 
+bith nach cruth la ṡōerbrāth fēin <span class="ediltr">for it is not prudent for a 
+religious that he enjoy his own will in any way</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 29.3
+          . 
+Without biuth <span class="trans">
+            <span class="def">practises</span> (of an art <span class="lbl">etc.</span>):</span> 
+            cia dána airbere . . . ? 
+écse, ol sé, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 442 § 19
+            
+          . <span class="trans">
+            <span class="def">wields</span> (of kingship):</span> 
+            ar-robert-side in ríge iar n-ēcaib Airt, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 558
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 24 § 7
+          ). 
+
+            co n-erbara mo rígise fordo ríge, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 14162
+            
+          .</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">pleads</span>, makes use of or <span class="def">applies</span> a <span class="def">procedure</span>, etc.(?):</span> 
+tacra la fear nad airbir a leass a n-airecht `<span class="quote">who cannot speak 
+for his own good</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 252.11
+          . 
+            fer a diri ummorro ma 
+arberai tuarusndal, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 23.z
+            
+          . 
+            ma ro airberedh a 
+faesam fo cetoir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 100.2 Comm.
+            
+           ? 
+            cain bera do 
+dligedh arbera do turbaid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 944
+            
+           (H 3.17, c. 661) (heading 
+of a par. which lays down that notice (tasc) must be given 
+of accidental `turbadha', Plummer MS notes). ? 
+            arbert 
+Bassil brathu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 765
+            
+           (ACC). Almost = <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=as-beir">as-beir</a></span> in: maro 
+airbeired riu urradh do tabairt leo <span class="ediltr">if they have been told to 
+bring a native freeman with them</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 86.26 Comm.
+          , 
+            88.5 
+Comm.
+          , 
+            90.3 Comm.
+          , 
+            6 Comm.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) a.<span class="oRef">¤</span> . . . fri <span class="trans">
+            <span class="def">opposes</span>:</span> ni airbéer fritt `<span class="quote">I will not reproach 
+thee with it</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 32a20
+          . ni erbart frit cosindiu <span class="ediltr">I did not 
+oppose you</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 13811
+          . munar airbered [.i. imrisin] ris 
+<span class="ediltr">if he has not been opposed</span>(?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 114.3 Comm.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) Gramm. <span class="trans">
+            <span class="def">expresses</span>
+          </span> (with A): ciaridberam a céill a 
+<span class="frn ">pronominibus</span>
+           `<span class="quote">though we express their sense by pronouns</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 26b2
+          . 
+            a deilb atreibthig arberar a n-aitherrechthe, 
+              31a3
+            
+          . 
+arbertar as noéntarmoirciunn .i. aitrebthacha ┐ <span class="frn ">agnomina</span>
+           
+gl. ex eadem forma agnomina, 
+            33a19a
+          . 
+            atá linn . . . ni asanarbaram dærscugud di neuch di hilib a chenéuil feissin .i. 
+a superlait, 
+              40a11
+            
+          . 
+            arberr chial chesto as indí as difficio, 
+
+              146a1
+            
+          . 
+            intan aramberar ciall brethre gníma ass, 
+              148b13
+            
+          . 
+
+            arṁbertis a rrangabáil ḟrecndairc, 
+              196b5
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+            <span class="def">subdues</span>, <span class="def">quells</span>(?):</span> 
+            nicon ruba dōine, nicon arlaig . . . nicu 
+rarbairt (niconarbairt <span class="lbl">v.l.</span>) a lighe Lomnae, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1018
+            
+           
+(
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iv 88
+          ). ? dorairned díumus na mborb / ro airbered 
+cech fodord <span class="ediltr">all murmuring was subdued</span>(?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4496
+          .</p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

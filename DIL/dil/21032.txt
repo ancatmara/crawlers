@@ -1,0 +1,995 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="21032">fáes(s)am</h3><span class="citation">Cite this: eDIL s.v. fáes(s)am or <a class="reference" href="21032">dil.ie/21032</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                faesaim, fóesama, foesma, faesma, faíseamh, foesmaib, f., fáesam, f., fáesam, f., faesam, faesam, f., saíre, fáesam</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="itype u">u</span>, <span class="itype o">o</span>, <span class="gen m.">m.</span> (<span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fo-sisedar">fo-sisedar</a></span>. <span class="lbl">Cf.</span> Mid. W. <span class="frn ">gwaessaf</span>, <span class="frn ">
+gwayssav</span>, Loth, <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxxviii 300
+      ): <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        faesaim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 162
+        
+      
+(foesma Y). fóesama (for this form see Hessen, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 321
+      ) 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4871
+       = 
+        foesma, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 383
+        
+      . <span class="number pl.">pl.</span> 
+        faesma, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 48.20 
+Comm.
+        
+       <span class="case n">n</span>
+      <span class="number s.">s.</span> faíseamh (<span class="itype o">o</span>, <span class="gen m.">m.</span>) 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. § 28
+       (fáeisimh proscribed as incorrect).</p>
+   
+    
+      <p class="result"> 
+ <span class="edilb">I</span>
+      </p>
+      
+
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">in lit. sense `standing under,' hence <span class="def">bearing up</span> under, 
+<span class="def">supporting</span> (?):</span> 
+            úair nach fóisam in lind, berim-se maccáem 
+... tarsi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1305
+            
+           (`<span class="quote">Fuss-Feste</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 629
+          ; anuair 
+nach roichther in linn la cách St); <span class="lbl">cf.</span> 
+            bói C. forsin lind ... 
+┐ ni ba faesam cid si, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span>
+              
+              1945
+            
+          . Possibly an extended use: 
+ <span class="trans">
+            <span class="def">trustworthy</span>, <span class="def">safe</span>
+          </span>. In follg. ex. Dr. Binchy would see a 
+metaph. use of the meaning <span class="trans">
+            <span class="def">adopting</span>, taking into <span class="def">protection</span>
+          </span> 
+(see below): 
+            issi innfine i fintedaib griain a tir i fuissither; 
+ar i[s] sruithiu la Feine in foesam andsen oldás a tir as a 
+tairidnither, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 206.9
+            
+           (glossed: 
+            f. .i. in línd, 
+              208.17
+            
+          ), 
+ <span class="lbl">i.e.</span> the land in which water is collected in a standing pool 
+or reservoir ranks higher than that in which it has its source. 
+Here the four adjacent holdings are in the matter of water-rights likened to the four categories of affinity, <span class="lbl">viz.</span> gelfine, 
+deirbfine, iarfine and innfine. See <span class="lbl">ib.</span> 
+            p. 166
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">in the literature usually <span class="def">protection</span>, <span class="def">safeguard</span>:</span> 
+            co 
+nach fagbad foisam lat | cid do mac nothaesad fritt, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+ix 45 § 5
+            
+          . 
+            is ... essamna mór do T. toidecht cen ḟaosam 
+cen chomairche ina tíre, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 246
+            
+          . faosamh .i. comairce, 
+O'Cl. 
+            `faosamh' is cuime [ = coimge?] ... dhá ainm cumairce, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Gl." title="eDIL Bibliography">Metr. Gl.</strong></span>, Ff. 31
+            
+          . luid epscop Erc do thig Ḟ. ... ┐ 
+coṅgab in mac ina ucht, ┐ focheird a ḟoesam ┐ a oentaid 
+fris (<span class="lbl">i.e.</span> bp. E. placed himself under his protection. <span class="lbl">Cf.</span> 
+the parallel passage: 
+            gabh misi cucat amail mhanach 
+ndilius, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3359
+            
+           = <span class="frn ">suscipe me monachum tibi obedientem</span> 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 102
+          ), 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 132.25
+          . With prep. DE, FO and 
+esp. FOR (AR), folld. by subj. gen. <span class="trans">
+            <span class="def">under the protection</span> (<i>of</i>):</span> 
+for foísam ríg na ndule comairche nachanbēra [ = -mēra ?], 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 306
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy</strong></span> i 53
+          ). cor marbad a ri do fáesam Bachla 
+Issa <span class="ediltr">while</span> [i.e. <span class="ediltr">in spite of being] under the safeguard of</span> 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 28.21
+           (Tig.) = 
+            dar comhairge na bachla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 
+1109
+            
+          . 
+            A. do marbad la T. ... do ḟaesamh na bachla 
+Isu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 1015
+            
+          . <span class="number pl.">pl.</span> in concrete sense: Cinaedh ... <span class="frn ">demersus est</span>. ... di foesmaib degdoine nErenn ┐ comarbhai 
+Patraic <span class="ediltr">in spite of the guarantees of</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 850
+          . 
+            in cath 
+bar th'oesam ┐ bar do chommairge, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 176a43
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 
+38
+          ). 
+            iar marbad mac nUsnig for a ḟaisam ┐ for a chommairgi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 464
+            
+          . ba for a foesam boi Fergus <span class="ediltr">F. was under 
+their protection</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1619
+          . is ed doroachtmar fort foesam 
+sunn `<span class="quote">'Tis for that we have come hither under thy safeguard</span>' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 3
+          . 
+            co ndigset som uili ar m'o(e)sam-sa ┐ ar m'imdegail 
+feib dochuadusa ar a faesam sun ..., 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 941
+            
+          . rogab indala 
+n-ae for foesam mBuidb ... gabais araile [for] faessam 
+Ochaille <span class="ediltr">placed himself under the protection of</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 57
+          . 
+ <span class="lbl">Cf.</span> dia ngaba for faosum `<span class="quote">wenn er unter den Schutz gekommen 
+ist</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> p. 51
+          . 
+            gur bhó heiccen dona bárdaibh tocht 
+diairm for faesamh an Iustís, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2272.1
+            
+          . 
+            ar fhaosam nó 
+ar ionchaibh Íosa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2716
+            
+          . do muirbfedh ... fer ar 
+faosaomh bfer talman <span class="ediltr">would slay a man (even though he were</span>) 
+ <span class="ediltr">under the safeguard of everyone</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 12.19
+          . Freq. in 
+ellipt. optative sentence: for a [ḟ]óessam dún innocht <span class="ediltr">may 
+we be under His safeguard</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy</strong></span> i 2
+          . ar th'faosamh dhamh, a Dhé..., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span>
+            73.1
+          . 
+            for a foísam dún ar 
+talmain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 364 
+          marg. (
+            <span><strong class="pop" style="color:blue" href="bibliography/Mart.Tall." title="eDIL Bibliography">Mart. Tall.</strong></span> 122
+          ). 
+            for foessam duit 
+na saille !, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 83
+            
+          . Less freq. with obj. gen.: ced ná 
+ro nass do foessam-su forsna maccu? <span class="ediltr">why were not the boys 
+pledged to protect you?</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4894
+          . téit cosna maccu cen 
+naidm a fóesama [foesma Y] 
+            forru, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4871
+            
+          . 
+            do chor th' 
+aesma ┐ t'imdegla for in maccraid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 881
+            
+           = do comairci 
+St. 
+            can chur a fáisma foraib, 
+              911
+            
+          . 
+            geib-siu fort faesam na 
+macraide, 
+              944
+            
+          . O. rogab fóesam ḟír-Ḟoebair | oc Síd B. ... 
+fo frith fóesam do R. <span class="ediltr">O. undertook protection of R.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 272.38
+           (<span class="lbl">cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 57
+          , above). cuirim m'ḟaosamh 
+ar a ḟuil <span class="ediltr">I entrust myself to His blood</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1928, 439
+          .</p>
+      
+      
+
+        <p class="result"> 
+(<span class="edilb">c</span>) legal uses. In Law texts f.<span class="oRef">¤</span>
+           is common in the meaning 
+ <span class="trans">
+            <span class="def">protection</span>:</span>
+           ni techta nach foessam ar na tegat ratha fine 
+ <span class="ediltr">no `f.<span class="oRef">¤</span>' is lawful which the sureties of the family do not warrant</span> 
+ 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 206.17
+          . ni bi acraidi faesam (nocha bi acra ... don 
+ti bis ar foesam neich) `<span class="quote">no person who is under protection 
+is qualified to sue</span>' [<span class="ediltr">can be sued</span> ?] 
+            i 102x (104.24)
+          .</p>
+       
+        <p class="result"> 
+The maxim: 
+            cach faesam co fognam, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aib.Cuigni" title="eDIL Bibliography">Aib. Cuigni</strong></span> 54
+            
+          
+(
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 227
+          ; 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xvii 56
+          ) is obscure, and has not been 
+found elsewhere. 
+            cisa Mumhan ... do Chaisil ... cach bliadhna dobearar .i. smacht ┐ biathad ┐ turgnumh [turtugud 
+ <span class="lbl">v.l.</span>] ┐ faesamh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 60
+            
+          . nocha nuil eneclann na faosam do 
+ <span class="ediltr">he has no honor-price or power of protection</span> (Binchy) 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+ii 24.4
+          .</p>
+       
+        <p class="result"> 
+Sometimes a different meaning is implied: in the following legal expressions the original meaning seems to be 
+ <span class="trans">
+            <span class="def">acknowledgment</span>
+          </span> (<span class="lbl">cf.</span> 
+            coibsena .i. <span class="frn ">confessiones</span> .i. comfaesaime, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Thr.Ir.Gl." title="eDIL Bibliography">Thr. Ir. Gl.</strong></span> 11
+            
+           = 
+            chomfaoisitin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 292
+            
+          , and see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fo-sisedar">fo-sisedar</a></span>): aicc macu hi foisam do raithe frisin fiach so 
+ <span class="ediltr">find sureties for assuming thy guarantee of this debt</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 
+28 § 76
+          . <span class="lbl">cf.</span> 
+            luid iarum i mMumain co ndeirgene foesam a 
+ingine fri (nō for) Oengus. dobert iarum Oengus ferann 
+do mac a ingine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 119a26
+            
+           = 
+            co M. do cuinnighid faesam 
+[<span class="lbl">sic</span>] a ingini for Aengus, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 121a37
+            
+          . 
+            ro chuindigh ... faosam 
+a ingine for Aonghus, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 381a24
+            
+           (Oengus was the father of 
+the girl).</p>
+       
+        <p class="result"> 
+In the sense <span class="trans">
+            <span class="def">protection</span>, <span class="def">privilege</span>
+          </span>, `f.<span class="oRef">¤</span>
+          ' is found in connexion 
+with entertainment of the lord and (or) his followers, and 
+in connexion with distraint, seizure of cattle for unpaid 
+dues, <span class="lbl">etc.</span> "`fáesam' often denotes <span class="trans">the <span class="def">immunity</span>
+          </span> from 
+legal process which a person of high rank confers on an 
+inferior, usually a client (céle), who has entertained him 
+and his retinue in accordance with the obligations of clientship. This immunity lasts for a certain period after the 
+departure of the protecting person, whose status determines 
+the duration of the `f.<span class="oRef">¤</span>
+          ' During this period the `protected' 
+person has `saíre' (= `f.<span class="oRef">¤</span>
+          ' from his point of view) <span class="lbl">i.e.</span>, no 
+legal claims which others have against him may be enforced by the process of distraint." (Dr. Binchy). In these 
+passages the phr. `facaib f.<span class="oRef">¤</span> fair,' etc., is common. The meaning is evidently <span class="trans">`<span class="def">leaves</span>' (<span class="lbl">i.e.</span> `<span class="def">confers</span>, <span class="def">bestows</span> on'</span>) though 
+the translation `relinquish' often appears in the published 
+Laws. The use in connexion with stay of seizure may be 
+the origin of the later sense <span class="trans">
+            <span class="def">relief</span> in illness, <span class="def">passing</span> of the 
+crisis</span>, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xE1;es(s)am II">II</a></span> below. A satisfactory definition of this legal 
+`fáesam' would involve a concurrent discussion of the 
+terms `comairce, snádud, turtugud, turbaid' and `saíre,' 
+some of which are often equated with `f.<span class="oRef">¤</span>
+          ' by the commentators. All that can be done here is to quote a few passages 
+illustrating the usage. See 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> 73.1 ff
+          . 
+            turtugadh 
+... ré fedh urgnamha in bidh ┐ comairche in aired bes a 
+caithemh a mbaile ┐ faesam ... iar fagbail in baile, uair 
+is a n-ecmais nech bís a faesam ┐ ina coimitecht bis a comairce . amail atbeir a n-edgidh: .c.c. a caemachta .c. faesma 
+a n-ecnairc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1386
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 630
+          ). Here, as Dr. Binchy 
+points out, the reference is to the `faesam' bestowed by 
+the lord on his host while he is entertained, and for a period 
+(see below) after his departure. But the note seems somewhat confused, as `comairce' regularly refers to an escorting 
+safeguard. In the following version `comairce' is replaced 
+by `turbaid': 
+            dethbir itir turrtugh ┐ torbaidh ┐ faosamh: 
+in turrtugh .i. re ollmuithe an bidh . in turbaid .i. re a 
+caithme . in faosam .i. iarna cathamh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2651
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg.
+88</strong></span>, 55b
+            
+          ). <span class="lbl">Cf.</span> 
+            foesam .i. fo-sisithar tar crich, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> p. 6
+            
+           (no 
+context). The lord, when he takes refection from the `céle,' 
+thereby postpones any such impending seizure. While the 
+meal is being prepared `turtugud' comes into force; while 
+it is being consumed `comairce' (or `turbaid'); for a 
+period after consumption and departure of the guest 
+`faesam.' 
+            intí aca mbí tech, is fair facabar faosam, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+999
+            
+          . In some passages in Commentary `f.<span class="oRef">¤</span>
+          ' is loosely 
+equated with `turtugud,' <span class="lbl">e.g.</span> throughout the Uraicecht 
+Becc, Comm.: 
+            turtugud mīs dō (.i. mī a lānḟaesam bid ┐ 
+fonadma), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 46.25
+            
+           (
+            48.8
+          ; 
+            50.7
+          ; 
+            56.17
+          ). aenlā a t. 
+(.i. aen-lā a lānḟ.<span class="oRef">¤</span> bīdh), <span class="lbl">etc.</span> 
+            58.16 (19)
+          . 
+            athgabail tar turtugad cach duini bes tualuing a turtugad (.i. dar f.<span class="oRef">¤</span> cach 
+duine is cuimgech f.<span class="oRef">¤</span> do gabail uirre), 
+              256.31 (258.19)
+            
+          . </p>
+       
+        <p class="result"> 
+The time for which `f.<span class="oRef">¤</span>
+          ' was valid varied with status 
+(see last quot.): cred do beir cona commór faesamh ┐ 
+turtugud ┐ dama fechta feile ┐ foluch n-othrusa do ri tuaithe 
+┐ mortuaithi ┐ nach commor enech <span class="ediltr">what is the reason that 
+the king of a territory and the king of a great territory are equal 
+as regards `f.<span class="oRef">¤</span>' and `t.' and followers on a free visit, and sick-maintenance, while their honour-price is not the same?</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 
+1383
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>,  629a
+            
+           ). 
+            faosamh na righ so .i. mi do righ 
+tuaithe ┐ morthuaithe. tri caoicthis do ri tuath . raithe 
+do rí cuicidh . bliadhain do ri Erenn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1260
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 
+509
+          ). 
+            faosum na tri n-airech forgill .xx. laithe cechtar de 
+na deisi si is taire . mi don fir is ferr, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span>
+               1261
+            
+           (<span class="lbl">ib.</span>). See also 
+discussion on periods of `f.<span class="oRef">¤</span>
+          ' in connexion with distraint, 
+ 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 100
+          . </p>
+       
+        <p class="result"> 
+Fractions of `f.<span class="oRef">¤</span>
+          ' are referred to: masa lainbiathad cu 
+fodnaidm, is lanfoesum fagabhar ara sgath . masa lain-biathadh cin fosnaidm ... is lethfoesum fagabhur ar a sgath, 
+ 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 28.22 Comm.
+           in t-ainmrainne don biudh ro caith 
+curub é in t-ainmruinne sin don lanfoesumh fagbus ara sgath 
+ <span class="lbl">ib.</span> 
+            31
+          . 
+            miter foltaib .i. dus cia foessamh, in ōgh, in leth ... nō 
+mitear ┐ rl. .i. in ndlighe foessamh etir ... nō ... in ndlighe 
+fosister itir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 510
+            
+           (a fragment in 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 258
+           ; unfortunately the context has not been found).</p>
+       
+        <p class="result"> 
+If the guests fail to arrive, a fraction of `f.<span class="oRef">¤</span>
+          ' is still valid: 
+
+            ca hait a faghbas [<span class="lbl">leg.</span> fāgbhas ?] duine faosam fair budein 
+┐ a biadh do caithem dō ? ... an inbaid ro dáilestar dámh 
+na tainic fechtus aile dia saigid, madh ro faillidhedar in 
+dámh bodeisin, no mad docuadar re tosca deithbire ┐ ro 
+chaithestar biadh, is a lethfaosam fagbus air, ┐ ise sin aon 
+ina[d] isin mberla Feine ana fagbann nech faosam air ┐ a 
+biadh budein do caithem dó, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2448
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 36b
+            
+          ) = 
+ 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 30x Comm.
+           </p>
+       
+        <p class="result"> 
+The following refer <span class="trans">specifically to <span class="def">prevention</span> of <span class="def">distraint</span>
+          </span>, 
+ <span class="lbl">i.e.</span>, seizure of cattle: 
+            a tabairt do snadud as tualaing a 
+turtaigthi (.i. faesam d'facbail uirri, .i. crui) mad cen airis 
+snaite, mad don snadud rongabthar asrenar log n-enech 
+in snaite (.i. is uais ernither log enech fir in faesma don 
+athgabail do lecon fon caill), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 92.1 (98.13)
+            
+          . 
+            f.<span class="oRef">¤</span> sin 
+tainic re re n-apaidh ┐ troiscthi, 
+              100.1
+            
+          . 
+            man ro airbertnaig a 
+faesam cur gabadh athgabail de is anadh dechmaide ar in 
+athgabail, 
+              100.5 Comm.
+            
+           
+            mas a n-aimsir lobtha [tainic in f.<span class="oRef">¤</span>] 
+nocha saorund ar fogelt na ar bleith na ar lobad hí, uair ni 
+téit an faosam amach 'na deagaidh, ┐ téit in turbhadh, 
+              102.4 
+Comm.
+           
+            cach baile atáit dá foesum no a tri ann, deghuidh 
+i ndeghuidh tangatur na foesmhu ann, ┐ damadh i n-aínḟecht, nocha bia acht in foesumh bu sia . ┐ i bforbad ré anta 
+táinic in foesam ann, ┐ dama[dh] re ré n-anta, isedh budh 
+anudh di re ré in foesma uili, 
+              ii 102.15 Comm
+            
+          . 
+            mad ro urfaem 
+in bidbaidh apadh, ┐ troscadh i faesam, cia no airberedh a 
+faesam ria ngabail athgabala de, teit turrtughadh la fogail 
+ann; is slan athgabail do gabail de, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 98x
+            
+          . <span class="lbl">cf.</span> 
+            téd 
+turrtugh la fogail .i. téd an comairce deisim la fogail do 
+denamh do mhuin na comairce ... no dno, téd de an turrtugh 
+┐ bí fair in faosamh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2441
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 36a
+            
+          ).</p>
+       
+        <p class="result"> 
+ <span class="lbl">Cf.</span> 
+            ní féith [ = féich ?] faosam fo chaoill .i. an faosam ar 
+dibail ma ro thairmisc apa ┐ trosca, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2650
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 
+55b
+            
+          ).</p>
+       
+        <p class="result"> 
+In some passages `saíre' and `fáesam' seem to stand for 
+different aspects of the same process, <span class="lbl">e.g.</span>: </p>
+       
+        <p class="result"> 
+Leath saire mad fuit notfuide neach fri fothugh[adh] 
+tēchta (.i. leth foesum fagbus masa neach eile fuidhius 
+uadh i[n]neach sin do caithiumh bid céilsine flatha) `<span class="quote">Half 
+free-quarters if another person sends [some] one upon lawful 
+entertainment (that is, he loses one-half of protection if it be 
+another person that sends him to consume the food which is 
+due to the chief from his tenant</span>)' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 26.16
+          . In 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 
+332
+           (reading: no da fuidhe) this is expld.: 
+            .i. leath faesam 
+facbaith mad fuidet fuides neach iad do chaithem 
+ineich na fothaigend co dligech biad celsine na flatha, ┐ 
+leathfaesam no fuicfed fein for a ceile, ┐ isseadh facbaidh 
+in coindem cuirter dia cathem fo aicned na flatha, fáesam 
+imorro fon aicned [féin ?] facbaid in coindem for in flaith, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 682
+            
+          . In 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 36
+          , which gives of the text only the 
+last four words, the commentary reads: 
+            .i. biadh ceilsine 
+na flatha sin, ┐ in flaith do chuir a dam [feachta] fele da 
+caithem, ┐ faosamh na flatha do facbail doibh ar in ceile, 
+┐ a lanfaosamh do facbail dona damhaibh ar in flath fo 
+aicne [fon aicniudh budein ..., 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 28
+            
+          ] 
+            ar ise tuc biadh 
+doibh . Ocus is ann sin ataitt da faosam a dualgus aonbidh, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2446
+            
+           (also 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 28.1 ff
+          . with slight verbal variants). 
+`saíre' in this passage surely = <span class="trans">
+            <span class="def">exemption</span> ?</span> On the same 
+page it is 6 times rendered "`saire'—<span class="ediltr">exemption</span>." See 
+also footnote on 
+            p. 18
+          .</p>
+       
+        <p class="result"> 
+In these passages `saíre" apparently = the exemption 
+due to the presence of `fáesam.' <span class="lbl">Cf.</span> also 
+            fír faosma fosearnathar saire, saoire biata, saoire foghnuma, saoire faosma 
+do cach fo miadh miter cach coir cirt, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2443
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg.
+88</strong></span>, 36
+          ) = 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 20.15
+          , where the rendering of the text, fir 
+foesuma `<span class="quote">true protection</span>' cannot be right. <span class="lbl">Leg.</span> fri faosma 
+(or -am) fo-sernatar, <span class="lbl">etc.</span>, <span class="ediltr"> exemptions are arranged according 
+to protection</span> ? 
+            ni tuaslaige nach saire no nach faosam bes 
+isle agra bes uaisle enech .i. ... ní is mo na logh enech fir 
+in faosaim don athgabail do legan as re ré in faosaim in 
+inbaid is dar an fis faosma i n-ecmais ro gabadh an athgabail 
+.i. lubra ┐ bidh, ┐ fonadma, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2657 ff
+            
+          . (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 56
+          ). 
+
+            ni fil saire fri dithim iar n-eagar. ata imorro turbuidhe ┐ 
+faor ┐ faosam, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2728
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 61
+          ).</p>
+      
+     
+       <p class="result"> 
+(<span class="edilb">d</span>) Attrib. gen. :</p>
+       
+ 
+        <p class="result"> 
+cēle faesma (foissmad LB) <span class="ediltr">a tenant under the protection 
+of his lord</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 532
+           (see 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 247
+           and <span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fa&#xED;sitiu">faísitiu</a></span>). 
+
+            cele faesma .i. in cele faoismither [<span class="lbl">sic leg.</span>] ac neach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+1327
+            
+          . <span class="trans">Of <i>taking</i> into <span class="def">protection</span>, <span class="def">adopting</span>:</span> seoit foesma 
+ <span class="ediltr">the</span> `seds' <span class="ediltr">paid for the admission of children of doubtful 
+origin into the</span> `fine,' apparently to the more legitimate 
+children whose shares in the family property might be 
+diminished thereby: 
+            conic in t-athair mac na mban aititin 
+do gabail re re budein cen fír ┐ cen ṡeotu foesma ┐ 
+nocho roindind se dibaid in athar iar n-ēc an athar ris na 
+macaib aile co tuca seotu faesma dona macaib aile, ┐ fír 
+da mberait amarfis fair. Na huile meic taide uile conic in 
+t-athair a ngabail re re no iar re cin fír, ┐ nocho coinig cen 
+seotu faesma, ┐ inti no berad dibaid an athar otha na mic 
+taide amach curab e beris na seotu faesma rl., 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 702
+            
+          
+(
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 338
+          ). 
+            mic na mban taighe, ce nogabhta a oen no 
+dedhe dibh docum na fine co fīr no co setuibh faoesmha, ma 
+ro forbridar co bfuilet coimlín fine is ecin fīr Dē anosa dia 
+fastadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 294.5 Comm.
+            
+           (of certain classes of women :) 
+
+            Ni berat comperta for fine .i. nocha berait ini comairbertnaigter uathuib for in fine can fīr ┐ seotu faosma leo don 
+fine amach, 
+              v 276.25 Comm
+            
+          . 
+            cain-berad meirdrecha ... .i. 
+is taitnemach berait na mna is merdrech in ní donither riu 
+i lanamnus ... acht co tucait fīr ┐ seoit faesma leis .i. a 
+altram do denam di, 
+              452.24 Comm
+            
+          .</p>
+       
+        <p class="result"> 
+
+            cin log faesma (.i. cen log ar a faisitnighudh .i. secht 
+cumala), 
+              456.23
+            
+           (of admission of illegitimate sons to tribe). 
+
+            i taidhe dorinnedh na mic so ... ┐ fior ┐ seotu faosma doberaid 
+lais dia fastadh for in athair amach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2236
+            
+           (<span class="lbl">cf.</span> 
+            2235
+          ). 
+cor faesma `<span class="trans">a contract of <span class="def">adoption</span>
+          </span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 60.13
+           (.i. in cor 
+curtar risin mac faesma an fine `<span class="quote">a covenant which is made with 
+the adopted son of the tribe</span>' 
+            62.3
+          ). mac fáesma <span class="trans">
+            <span class="def">adopted</span> <span class="def">son</span> :</span> 
+
+            in cutruma bias o duine do mac faesma du geilḟine no do 
+deirbḟine ar dénum a gaire ... uair nugu roich in trian no 
+in leath cu cóir acht re macc faesma d'anḟine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2255
+            
+          
+(&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. B 506</strong></span>, 20a
+            
+          ). fine taccuir .i. na meic foesma 
+`<span class="quote">adopted sons</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 288.14
+          . fine taccuir issede domberat 
+cuir bel a foessam `<span class="quote">who give verbal contracts in adoption</span>' 
+ 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 284.16
+          . `mac fáesma' is distinguished from 
+`dalta': 
+            dighail daltadh na fine .i. dalta coitcenn na fine, 
+┐ dighail fir foseisiter fine .i. dighail in ḟir ḟaoismighes in 
+ḟine don ghaire in tseanorach .i. in mac faosmadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 
+391
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 219a
+            
+          ). in dalta ┐ in gormac ┐ in mac faosam 
+[<span class="lbl">leg.</span> —ma or —aim] eneclann dleghaid in fine ina marbad sen 
+ <span class="lbl">ib.</span> See Thurn. 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 371.27
+          . aitire fáesma <span class="trans">a <span class="def">supporting</span> 
+<span class="def">guarantor</span> (?): <i>the guarantor of acceptance</i> (?)</span> (dist. from 
+a. luigi and a. nadma), 
+            <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 22 § 64
+          . 
+            caide aitire foisma ? 
+fo-sisithar side smachta dam in fasach sin, 
+               25 § 68
+            
+           (passage 
+corrupt, in Thurneysen's opinion). fath faoisimh (ni fáth 
+fáoisidh <span class="lbl">v.l.</span>) `<span class="quote">cause of protection</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 249.15
+          . <span class="lbl">Cf.</span> 
+            co 
+bér breth for ḟáth faosmha, fer fotha ... fer faosmha, fer 
+foghnamha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 16.12
+            
+           (expl. : 
+            faesamh .i. foghlaim 
+<span class="frn ">ut est</span> co ber breith for fátha faesam [fath faesma <span class="lbl">v.l.</span>], 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 859
+            
+          ) = cotober breth fo[r] fath faesma <span class="lbl">ib.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span>
+             xiii 59w
+           
+(&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 207a
+            
+          ). 
+            cis lir ó ndleghaid filidh faosmha raith ? 
+easpuicc righ saoi, file fireon ..., 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span>
+               xiii 34.9
+            
+          .</p>
+      
+    
+  
+   
+
+      <p class="result"> 
+ <span class="edilb">II</span> In Early Mod. Ir. <span class="trans">
+          <span class="def">relief</span>, <span class="def">assuagement</span>
+        </span> (<span class="lbl">cf.</span> the use in <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xE1;es(s)am I (c)">c</a></span> 
+above which sometimes approaches the meaning <span class="trans">relief</span>), esp. 
+ <span class="trans">
+          <span class="def">recovery</span>
+        </span> (from illness): 
+          fiabhras ar nach foil faoiseamh '<span class="quote">a fever for which there is no relief</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xxvi 98 § 13
+          
+        . 
+          an tan gheibhid na heasláin faoisiomh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/23K42" title="eDIL Bibliography">23 K 42</strong></span>, 19.1
+          
+        . 
+          a ttosach an ḟaoisiomha, 
+            20.15
+          
+        . an 
+uáir fúair sé fáoiseamh = <span class="quote">when he began to amend</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">John</strong></span> iv 
+52
+        . 
+          gan fortacht gan faoiseamh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 1585
+          
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

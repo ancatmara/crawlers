@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="7248">búain</h3><span class="citation">Cite this: eDIL s.v. búain or <a class="reference" href="7248">dil.ie/7248</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                búana, buaint, béim</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="gen f.">f.</span> <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=boingid">boingid</a></span>. <span class="case g">g</span>
+      <span class="number s.">s.</span> búana. Prob. orig. <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 454.
+       b.<span class="oRef">¤</span>
+       <span class="gen f.">f.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 149.
+       bérla na búana (without 
+finite forms, these being supplied by do-alla), 
+        Verbs § 32
+      . 
+
+        buaint, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 3300
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> iv 170.8
+      . In later lang. 
+replacing béim (<span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=benaid">benaid</a></span>) in vn. constructions (see TSh. 
+Gloss., <span class="lbl">etc.</span>). <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=b&#xE9;in">béin</a></span>.</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">(a)</span> <span class="trans">act of <span class="def">cutting</span>, <span class="def">breaking</span>. Of plants: <span class="def">cutting</span> down, 
+<span class="def">reaping</span>; <span class="def">crop</span>, <span class="def">harvest</span>:</span> dornán buana <span class="frn ">manipulus</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 502.
+         
+
+          bacc buana fínime, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 62b10
+          
+        . 
+          lathe búana, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 334.3
+          
+         
+(Hy. v). 
+          scena búana aíne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 177.
+          
+         
+          i n-aimsir na 
+búana, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B512" title="eDIL Bibliography">Rawl. B 512</strong></span>, 142a
+            
+          
+         (cited 
+          <span><strong class="pop" style="color:blue" href="bibliography/Contribb." title="eDIL Bibliography">Contribb.</strong></span> 283
+        ). 
+bibhsiutt buain cech raithi (fig. etymol.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 106.1
+        . 
+          méit 
+chléib búana, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6953
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 58
+        ). 
+          methel . . . oc buain, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 41.36
+          
+        . 
+          oc b.<span class="oRef">¤</span> na luachra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 28 § 10.
+          
+         
+          ar ┐ buain, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 11a4
+          
+        . 
+          olann na caorach . . . iar na buain di, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 
+376.z Comm.
+          
+         
+          do-chúaidh . . . / do bh.<span class="oRef">¤</span> bhuindén, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 824.
+          
+        
+        <span class="trans"> Of <span class="def">drawing</span>, <span class="def">delineating</span>:</span> ar bhuain ghréasa 
+`<span class="quote">for doing her needlework</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 4167.
+         dealbh dragain . . . 
+arna buain ar taeb in tuir `<span class="quote">cut on the side of the tower</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 284.29
+        . 
+          nī héidir a ccosmhaile . . . do bhuain lé 
+pinntéoireachd, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 1287.
+          
+         
+          fioghair na croise do 
+bhuain ar a éadan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 43.8
+          
+        . Note also: ag buain 
+both <span class="ediltr">breaking up shielings</span> (in order to go to war), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 
+5.4
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 473.
+         gan búana, gan chís, gan cháin 
+<span class="trans">
+          <span class="def">exactions</span> (?)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ha.5280" title="eDIL Bibliography">Harl. 5280</strong></span>, 51b
+          
+         (cited 
+          <span><strong class="pop" style="color:blue" href="bibliography/Contribb." title="eDIL Bibliography">Contribb.</strong></span> 283
+        ). 
+? 
+          ar taiscid gu h-uain athairec iar mbuain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 277a 33
+          
+         = 
+          iar 
+n-uari, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 184.8
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(b)</span> In uses approximating to those of béim: 
+          ni teiged bem 
+. . . gan a buain do Ch. i cleithi i chind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2527
+          
+        . 
+          buain 
+béime ar mo bhogha-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxiv 22
+          
+        . 
+          ic buain cluig, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 22.6 Comm.
+          
+         
+          timchell chluig Ave Maria do bhuain, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 188.5
+          
+        . ? ní háil bas do bhuain umha expld. as `ní 
+haon chabhair bheith ag gearán,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 77.28
+         and note 
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 14.28
+        ) (on the death of two patrons). ? 
+          clocha 
+némaind in chuirn chláoin / cuirm Í Maíl Brénuind gá mb.<span class="oRef">¤</span>
+          , 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 356.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(c)</span> In vn. constructions with follg. prep. <span class="trans">introducing 
+indirect obj., freq. in sense of <span class="def">taking away</span> from, <span class="def">depriving</span> of, 
+etc.:</span> buain mhela a mecnaib iobhuir (<span class="ediltr">attempting to) extract</span> 
+(in list of vain undertakings), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 72.7
+        . in gnim do 
+buain astu `<span class="quote">getting the work out of them</span>' (oxen), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 
+270.9 Comm.
+         rethid A. dia bein asin crund ┐ femidh a buain 
+as (a spear), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 3150.
+         dar mbuain a broid <span class="ediltr">to save us from 
+bondage</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xv 18
+         . iasocht bunaidh do bhuain air <span class="ediltr">to 
+obtain a permanent loan from him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 69.7
+         (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 ar">1 ar</a></span>). 
+buain a deala ar Dhia <span class="ediltr">depriving her of God's love</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxiii
+28
+        . ga buain oruinn <span class="ediltr">taking it from us</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 56.11
+        . badhbh 
+ag b.<span class="oRef">¤</span> chrú dod chrúisigh <span class="ediltr">getting blood off your spear</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT </strong></span> Decl. ex. 578.
+         fá Mac 'gá bhuain don bhan-óigh `<span class="quote">being taken 
+from</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xx 46
+        . 
+          ar mbuain a eididh de, 
+            <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1023.
+          
+         
+
+          buain righe d'Ó Ruairc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 289.29
+          
+        . 
+          ic b.<span class="oRef">¤</span> duilisc do 
+charraic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 497 § 11.
+          
+         
+          a cend do buáin d'Eoin Baisti, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> 83.
+          
+         buain ceille do chabhair <span class="trans">
+          <span class="def">despairing</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 
+1537.
+         
+          ar mb.<span class="oRef">¤</span> cheille d'Ḟ., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5266
+          
+         <span class="lbl">v.l.</span> (' ar n-esbaid . . . F., 
+text). 
+          ar mbuain ó chomhghar a chéile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 2877.
+          
+         a 
+bhúain ón táoibhréim iollraidh <span class="ediltr">it is derived from the genitive 
+plural</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Introd. 29.5
+        . Note also: ag buain an gai ind 
+<span class="ediltr">striking him with the spear</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1018
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(d)</span> With meaning completed by follg. prep.: o buain as 
+gl. ag . . . slan o cull <span class="ediltr">gelding</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 238.22
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 347
+        ). 
+          a dalladh ┐ a buain as '<span class="quote">blinded and emasculated</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AI" title="eDIL Bibliography">AI</strong></span> 438 (s.a. 1450.5)
+        . buain a bosaibh <span class="ediltr">wringing of hands</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 95.32
+        . buain a 
+síoth Sagsanach <span class="ediltr">profiting by</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LBranach" title="eDIL Bibliography">LBranach</strong></span> 5353
+         (see note). 
+go buain t'oidhre dhar n-iomchar <span class="ediltr">till your heir concerned 
+himself with . . .</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 40.22
+         . le buain dod bhiodhbhaidh <span class="ediltr">in conflict with your enemy</span> (?), 
+          14.13
+        . ag buain fa 
+bheith i n-easard <span class="ediltr">concerning himself in an argument</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> 
+xxv 1.
+         
+          b.<span class="oRef">¤</span> fāt fheidhm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 30
+          
+         `<span class="quote">to tackle your 
+strength</span>', notes. an finnealbha ar mb.<span class="oRef">¤</span> fa brón <span class="ediltr">plunged in 
+grief</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 266.19
+        . buain fá chéile <span class="ediltr">take a husband</span> (?), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> x 4
+        , <span class="lbl">cf.</span> 
+          11
+        . beart da buain fūm as dū dam <span class="ediltr">something 
+must happen me</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 236 § 6
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 62
+        ). nir lamsat 
+buain friss <span class="ediltr">they were afraid to go near him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 234a63
+        . ar mb.<span class="oRef">¤</span> 
+guine an ringcne ris <span class="ediltr">when the spearpoint touched him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1200.
+         gan bhuain re torchar ag tuinn `<span class="quote">no produce 
+is driven in by the wave</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 234.30
+        . gach aén bhall . . 
+aga mbeith buain no báidh le Saxancoibh `<span class="quote">connexion or 
+alliance</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2056.3
+        . 
+          ní fhuil buain ag briathraibh Sh. 
+ria, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4329
+          
+         `<span class="quote">do not refer to</span>', Gloss. buain i dtagra `<span class="quote">interfere</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xiv 16.
+         
+          an toil . . . / buain uimpi ní bog an 
+céim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nfhocail" title="eDIL Bibliography">Dánfhocail</strong></span> 265
+          
+         `<span class="quote">to run counter to it</span>', Gloss. ? 
+          lór uaibh 
+ar chách mar chionnta / buain iompa a ttráth na teannta, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 2108
+          
+         (see note). 
+          a n-airm . . . ag buain dar aigthib 
+sciath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4115
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(e)</span> b.<span class="oRef">¤</span> amach <span class="trans">act of <span class="def">extracting</span>, <span class="def">obtaining</span>:</span> trí longa do 
+longaibh Gall . . . do bhuain amach `<span class="quote">were captured</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 
+958.6
+        . 
+          cáin nó díol do bhuain amach i n-éiric . . . an loit, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 68.47
+          
+        . do bhuain a chríche féin amach `<span class="quote">regain</span>', 
+          ii 
+2569
+        . 
+          ren a buaín amuigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 220.
+          
+        
+      </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

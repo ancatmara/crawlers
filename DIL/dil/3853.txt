@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="3853">1 ap</h3><span class="citation">Cite this: eDIL s.v. 1 ap or <a class="reference" href="3853">dil.ie/3853</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                abb, abbaith, apid, -apid, -apthib, ab, abbadh, abbadh, abbaidh, apaid, abb, abbaibh</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype t">t</span>, <span class="gen m.">m.</span> (Lat. <span class="frn ">abbas, -atis</span>). Frequ. spelt abb. <span class="lbl">Cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 575
+      . <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        abbaith, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 242.21
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        apid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+26a8
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        -apid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12b17
+        
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        -apthib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 19d2
+        
+      . ab 
+<span class="gen m.">m.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 21
+      . Later also with <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        abbadh, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 
+452.7
+        
+      ; 
+        abbadh
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 50 § 36
+        
+      . 
+        abbaidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 526.18
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+
+        apaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2415
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 32(33)d
+        
+      ); 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 72.13 Comm.
+       
+<span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        abb, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 583
+        
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3074
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        abbaibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 28.14
+        
+      .</p>
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(a)</span> <span class="trans">
+          <i>head of a monastery</i>, <span class="def">abbot</span>:</span> 
+          ab .i. <span class="frn ">ab eo quod est abbas</span>
+          , 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 28
+          
+        ; <span class="lbl">cf.</span> 
+          ab .i. maith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/StoweGl." title="eDIL Bibliography">Stowe Gl.</strong></span> 225
+          
+        ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec.Gl." title="eDIL Bibliography">Lec. Gl.</strong></span> 458
+        . 
+gabsi cadessin abbaith <span class="ediltr">he himself took the office of abbot</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 242.21
+         (Ardm.). 
+          Esodir in t-epscop / abb ecailse 
+ardae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Jan. 2
+          
+        . 
+          cell cen abaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 615
+          
+         (ACC). 
+          samud 
+Cíaran cona n-abaid .i. Aédlug . . ., 
+            9594
+          
+        . 
+          cor manaig cen 
+apaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 50.z
+          
+        . 
+          dia flaith, dia fine, dia abaid, 
+            iii 22.7
+          
+        . 
+
+          fo reir abbad ┐ anmcarat techta, 
+            14.15
+          
+        . 
+          tellach apu (<span class="lbl">leg.</span> 
+apad ?) for a mancu, 
+            v 206.6
+          
+        . 
+          ceall a mbi airchindech laich 
+cen cairiuga do abuid, 
+            v 118.4
+          
+        . 
+          cor manaigh . . . sech apa 
+(<span class="lbl">leg.</span> apaid ?), 
+            356.12
+          
+        . 
+          cor apa (<span class="lbl">leg.</span> apad ?) sech manacha, 
+
+            15
+          
+        . 
+          dun abaid .i. dun airchindeach, 
+            22.25 Comm.
+          
+         
+          comeniclann do ┐ in ri no in t-app, 
+            48.z Comm.
+          
+         
+          eneclann apadh 
+na cille, 
+            iii 208.13 Comm.
+          
+         
+          co na dingentar appaidh do nach 
+clerech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 17.7
+          
+        . 
+          no chantais cléir cainabbad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 378.12
+          
+         `<span class="quote">the holy abbot's choir</span>' (of Patrick), 
+          v p. 232
+        . 
+
+          mac ind abbad issin cill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 18771
+          
+        . 
+          ina suidedaib apad, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 62.20
+          
+        . 
+          eidir abaidh is easbog, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 229 § 2
+          
+        . 
+
+          i gcoimhdeacht abbadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 1328
+          
+        . 
+          d'abbaidh Í, 
+            1331
+          
+        . 
+
+          saltair an abadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 786
+          
+        . tánaise abbad <span class="ediltr">prior</span> 
+(see Binchy, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iii 223
+        ): 
+          C. . . . tanaisi abbad C., 
+            <span><strong class="pop" style="color:blue" href="bibliography/CS" title="eDIL Bibliography">CS</strong></span> 
+130.x
+          
+        . 
+          tanaiste abadh Cluana maic Nois, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 23.9
+          
+         
+(Tig.).</p>
+     
+      <p class="result"> 
+In phrase a.<span class="oRef">¤</span> Rómae <span class="trans">the <span class="def">bishop</span> of Rome, <span class="def">pope</span>:</span> 
+          Alaxander 
+. . . abb Rómae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Apr. 27
+          
+        . 
+          Celestinus abb Rómae, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 302
+          
+        . 
+          co hapaid R., 
+            913
+          
+        . 
+          cu abbaid R., 
+            2827
+          
+        . 
+          Siluester 
+tra abb Roma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 362
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(b)</span> <span class="trans">In extended sense of <i>leading person</i>, <span class="def">lord</span>:</span>
+        
+           ab .i. tighearna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         gebtit iudei i n-apid `<span class="quote">Judaei will receive him as 
+lord</span>' (of the devil), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 26a8
+        . 
+          fora n-apaid .i. for Díabul, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2436
+          
+        . 
+          abb popuil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Apr. 12
+          
+        . 
+          abb míle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> May 24
+          
+        . 
+Of God: 
+          ar n-abb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 831
+          
+        . 
+          a Rí na mblat is na mbreth / is 
+tú in t-abb is tu in tóesech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 1991
+          
+        . 
+          a.<span class="oRef">¤</span> archaingel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+iii 106 § 46
+          
+        . Uriél lim . . . / int abb co n-ūaisli ardi (of an 
+archangel), 
+          ii 92 § 4
+        . ma coir a.<span class="oRef">¤</span> coso `<span class="quote">if he be a just head</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 280.1 Comm.
+         
+          imdich cach corp a memru .i. fuadridh 
+cach coir a.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1125
+          
+        . 
+          Lugaid . . . is é ba aire ba h-abb, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 18367
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 379.22
+        ). 
+          Astiages abb cen ḟell / dar 
+airged Ierusalem, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 15484
+          
+        . 
+          co rig nasail app druing dein, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 12 § 22
+          
+        . 
+          nír bo roinn abbadh aimhréidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 
+35 § 15
+          
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="440">ad-fét</h3><span class="citation">Cite this: eDIL s.v. ad-fét or <a class="reference" href="440">dil.ie/440</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                adfediu, adfiadu, adféidim, adonfedi, adfeit, adfét, adfet, adfiad, adféidend, asidfet, adfiadam, asṅdafiadam, adfēdem, adfiadhamar, adfédid, adfiadat, adfethet, atfetet, as-fiadat, adfiadar, ad-iadar, adfedar, adfiadatar, adfethed, adféded, attafeid, adf, adféta, atchous, at-coïs, atchois, ad-cois, asidchói, ad-cæstar, adfeissed, atcoad, atchosse[d], ad-fias-[s]a, adfias, addéos, addíus, -adius, ad-fiassar-sa, ad-fessar, adfesar, ad-fii, adfí, itfe, adfessam, adfíastar, atfesedh, at fiad, adfíadar, atfiadhamar, adfiadatar, adfétaiter, adfedsat, adfes, ad-fessa, adféta, adchoad, adcuaid, adchuiaid, adcuid, itcuaid, rachuaid, adchuadamar, adcóidemmar, choidemar, adcuademar, atchuamar, adcuadatar, atchúidetar, atchuatettar, atcuatar, atchuas, adcuas, atcóas, adchoas, adcos, hitcós, racuas, rachoas, dofedisiu, dofet, dofeid, dofedat, dos-féta, dochúaid, docuas</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (*
+        ad-fiad-, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 518
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> p. 520
+      . See also 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=in(d)-f&#xE9;t">in(d)-fét</a></span>). <span class="mood Indic.">Indic.</span> <span class="tns pres.">pres.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        adfediu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 662
+        
+      . 
+        adfiadu
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+4518
+        
+      . 
+        
+          adféidim (: Erinn), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 513
+        
+      . <span class="per 2">2</span> <span class="number s.">s.</span> 
+        adonfedi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 498b35
+        
+      . 
+<span class="per 3">3</span> <span class="number s.">s.</span> 
+        adfeit, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 111c4
+        
+      . 
+        adfét, 
+          62a6
+        
+      , 
+        87d1
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 18a1
+      , 
+        103a1
+      . 
+
+        adfet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 99d9
+        
+      . 
+        adfiad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2518
+        
+      . 
+        
+          adféidend (: Ērenn), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+xiv 178.5
+        
+      . In <span style="color: #ff8000">rel.</span> clause with inf. pron. 
+        asidfet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3626
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 31
+      ). <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        adfiadam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 14d10
+        
+      . In <span style="color: #ff8000">rel.</span> clause with inf. 
+pron. 
+        asṅdafiadam, 
+          93d14
+        
+      . 
+        
+          adfēdem (: Erenn), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 6292
+        
+      . With 
+depon. ending 
+        adfiadhamar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2263
+        
+      . <span class="per 2">2</span> <span class="number pl.">pl.</span> 
+        adfédid, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Snedg.u.MacR" title="eDIL Bibliography">Snedg. u. Mac R</strong></span> 14.7
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        adfiadat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28c23
+        
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 51d2
+      . 
+
+        adfethet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 410.1
+        
+      . 
+        atfetet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 346
+        
+      . 
+        as-fiadat, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 137.22
+        
+      . <span class="voice Pass.">Pass.</span> <span class="number sg.">sg.</span> 
+        adfiadar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 18c8
+        
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 128a15
+      ; <span class="number Sg.">Sg.</span> 
+
+        74b8
+      . ad-iadar (<span style="color: #ff8000">rel.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 27a10
+      . 
+        adfedar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvi 83 § 130
+        
+      . 
+<span class="number Pl.">Pl.</span> 
+        adfiadatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 23a13
+        
+      . <span class="mood Indic.">Indic.</span> <span class="tns impf.">impf.</span> <span class="per 3">3</span>
+      <span class="number s.">s.</span> 
+        adfethed, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 
+84a20
+        
+      . 
+        adféded, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 74.16
+        
+      . <span class="mood Ipv.">Ipv.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+        attafeid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 372.26
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="mood Subj.">Subj.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        adf, 
+          <span><strong class="pop" style="color:blue" href="bibliography/H1.18" title="eDIL Bibliography">H 1.18</strong></span>,  23 b
+          
+        
+       (cited 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xviii 318
+      ). 
+
+        adféta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1764
+        
+       (or <span class="tns fut.">fut.</span>?); 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 284.5
+      . With 
+<span class="tns perfective">perfective</span>
+       -com-: <span class="per 1">1</span> <span class="number s.">s.</span> 
+        atchous, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 2.3
+        
+      . <span class="per 2">2</span> <span class="number s.">s.</span> at-coïs
+(ad-coois, atchois <span class="lbl">v.l.</span>) 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 182
+      . 
+        ad-cois, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> ii 
+286
+        
+       (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> v 135 , vi 126
+      ). <span class="per 3">3</span> <span class="number s.">s.</span> <span style="color: #ff8000">rel.</span> with inf. pron. 
+
+        asidchói, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 24.96
+        
+      . <span class="voice Pass.">Pass.</span> <span class="number pl.">pl.</span> 
+        ad-cæstar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> § 59
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns impf.">impf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        adfeissed, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HailBrigit" title="eDIL Bibliography">Hail Brigit</strong></span> § 21
+        
+      . 
+?
+        atcoad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3323
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 11
+      ). ?
+        atchosse[d], 
+          5616
+        
+       ( 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1136
+      ). 
+<span class="tns Fut.">Fut.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        ad-fias-[s]a, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1785
+        
+      . 
+        adfias, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 112.21
+        
+      . 
+
+        addéos, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 462
+        
+      . 
+        addíus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 13rb4
+        
+      . 
+        -adius, 
+          11rb47
+        
+      . With 
+deponent ending 
+        ad-fiassar-sa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 43.5
+        
+      . 
+        ad-fessar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2628
+        
+      . 
+        adfesar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 152 § 33
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        ad-fii, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> 
+52
+        
+      . 
+        adfí, 
+          ii 285.25
+        
+      . 
+        itfe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laud610" title="eDIL Bibliography">Laud 610</strong></span> , fo. 12b
+          
+        
+       (Plummer MS 
+notes). <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        adfessam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 1461
+        
+      . <span class="voice Pass.">Pass.</span> <span class="number sg.">sg.</span> 
+        adfíastar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3514
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 28
+      ). <span class="mood Condit.">Condit.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        atfesedh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 126 § 81
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="tns Pret.">Pret.</span> and <span class="tns perf.">perf.</span> (on the pret. forms see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 430
+      ). 
+<span class="per 3">3</span> <span class="number s.">s.</span> 
+        at fiad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/G50" title="eDIL Bibliography">Gael. 50</strong></span>, 123
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 73
+      ). 
+        adfíadar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3454
+        
+       
+(SC § 23). adfiadar (<span style="color: #ff8000">rel.</span>), 
+        3436
+       (§ 20). 
+        rod fét, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5670
+        
+       (St.). 
+<span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        atfiadhamar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2263
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        adfiadatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 442 
+§ 5
+        
+      . 
+        adfétaiter, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 818
+        
+      . 
+        adfedsat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 118.23
+        
+      . <span class="voice Pass.">Pass.</span> 
+<span class="number sg.">sg.</span> 
+        adfes, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 141.5 (§ 34)
+        
+      . <span class="number Pl.">Pl.</span> 
+        ad-fessa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 331
+        
+      . 
+
+        adféta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 866
+        
+      . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=adbas">adbas</a></span>. With perfective -com- 
+      <span class="per 1">1</span> <span class="number s.">s.</span> 
+
+        adchoad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 74.68
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        adcuaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 21d11
+        
+      ; 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+65a1
+      . 
+        adchuiaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 123d4
+        
+      . 
+        adcuid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 110c5 ; 126b2
+        
+      . 
+        itcuaid, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 491
+        
+      . 
+        rachuaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 219b19
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 182
+      ). <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        adchuadamar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 19
+        
+      . 
+        adcóidemmar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 43a6
+        
+      . 
+        at choidemar
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/G50" title="eDIL Bibliography">Gael.
+50</strong></span>, 129
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 370
+      ). 
+        adcuademar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 3095
+        
+      . 
+        atchuamar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 38a15
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        adcuadatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 346.1
+        
+      . 
+        atchúidetar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 634
+        
+      . 
+        atchuatettar, 
+          928
+        
+      . 
+        atcuatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3775
+        
+      . <span class="voice Pass.">Pass.</span> <span class="number sg.">sg.</span> 
+
+        atchuas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 76.12
+        
+      . 
+        adcuas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 98.3
+        
+      . 
+        atcóas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1162
+        
+      . 
+
+        adchoas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 245b25
+        
+      . 
+        adcos, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CS" title="eDIL Bibliography">CS</strong></span> 8.24
+        
+      . 
+        hitcós, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 159
+        
+      . 
+
+        racuas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4591
+        
+      . 
+        rachoas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 62.8
+        
+      .</p>
+  
+  
+    <p class="result"> 
+With substitution of prefix do- for ad-: <span class="mood Indic.">Indic.</span> <span class="tns pres.">pres.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+
+        dofedisiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 211b48
+        
+       (
+        dofeidiusu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 5.4
+        
+      .). <span class="per 3">3</span> <span class="number s.">s.</span> 
+        dofet, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 31ra29
+        
+      . dofeid (.i. aisnéidh), 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC4;lt.Ir.Dicht." title="eDIL Bibliography">Ält. Ir. Dicht.</strong></span> ii 22 § 1
+       
+(<span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-fed">do-fed</a></span>) (
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 393a52
+      ). <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        dofedat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 69a35
+        
+      . <span class="mood Subj.">Subj.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+(or <span class="tns fut.">fut.</span>?) 
+        dos-féta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1773
+        
+      . <span class="tns Perf.">Perf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        dochúaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5034
+        
+      . 
+<span class="voice Pass.">Pass.</span> 
+        docuas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> § 17
+        
+      .</p>
+  
+  
+    <p class="result"> 
+For forms apparently due to conflation of ad-fét and 
+do-adbat see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-adbat">do-adbat</a></span>, and also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=&#xE1;rfas">árfas</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ar-f&#xE9;t">ar-fét</a></span>
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">
+        <span class="def">Tells</span>, <span class="def">relates</span>
+      </span> (DI <span class="ediltr">of</span>, DO <span class="ediltr">to</span>): 
+        o adcuaid rúin ícce in cheneli 
+dóine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 21d11
+        
+      . 
+        senchassa rechta adfiadat sáibapstil, 
+
+          28c23
+        
+      . 
+        a n-adiadar di crist, 
+          27a10
+        
+      . 
+        is ed adfet a legend, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 84d4
+        
+      . 
+        manip ecoir frisin stoir ad-fiadam-ni, 
+          14d10
+        
+      . 
+
+        adfiadar . . . airechas du thabairt do macc, 
+          128a15
+        
+      . 
+        iarsindí 
+adcuaidsom di neuch, 
+          65a1
+        
+      . ciasu du duaid adfiadar isin 
+titul <span class="ediltr">though mention is made of David in the title</span>(?), 
+        72d9
+      . ní 
+etarscarad comsuidigthi file and huare is fo oen (<span class="lbl">sic leg.</span>) 
+aicciund adfiadar `<span class="quote">since it is pronounced under a single accent</span>' 
+(<span class="ediltr">is described as having</span>?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 74b8
+      . is airi adfét de `<span class="quote">therefore he 
+discourses of it</span>', 
+        18a1
+      . adfii rúna `<span class="quote">he will make known</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> 52
+      . inbat la comorbu cuimne cen ogom i n-ailcib . . . 
+ci ad-caestar, cia for curu sen siastar `<span class="quote">when heirs have (only</span>) 
+<span class="ediltr">memories without ogom on stones . . . although these</span> (<span class="lbl">i.e.</span> their 
+memories) <span class="ediltr">have been proclaimed how shall the contracts of the 
+deceased be enforced</span>? 
+        <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> § 59
+       (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xi 155 , xii 
+
+      
+      
+        207
+      ). 
+        adfiasa duit cen bréc ṁbrais / . . . / féib leir donralad do 
+nim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1785
+        
+      . ?
+        in breth berar adbia do dia tigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 518
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 420
+       -1). atdius dāib a n-aicned fīr / in[n]a nder . . .
+<span class="ediltr">I will tell you the true nature of tears</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 299.14
+      . 
+        iarsin 
+gním adchuáid Fergus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4974
+        
+       (TBC). 
+        adfeta don mac sin 
+scéla na maccáem, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 8308
+        
+       (TBC. = o'tt-chuala an mac . . . 
+scéla, Stowe 776). 
+        ros bīadh mōr do scēlaib atfesedh manus-beth tenga dia rēlad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 126 § 81
+        
+      . 
+        dothiasar fair ma 
+atchosse nech dúib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5616
+        
+       = 
+        ma atchoise, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1136
+        
+       
+(?read atchoí or atchoised) <span class="ediltr">it will be a subject of conversation 
+if anyone tells it to you</span>(?). 
+        o 'tcuas d'feraib Eirenn marbadh na 
+mbeo, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 14.16
+        
+      . maso amnne adonfedi <span class="ediltr">if it be thus thou 
+relatest to us</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 498b35
+       = 
+        dofedi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 211b48
+        
+       (
+        doedi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 
+920
+        
+      ). 
+        adfét a aithesc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 12698
+        
+      . 
+        adfét dóib uli amal atchonnairc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3332
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 12
+      ). 
+        addíusa dúib . . . écta Guill, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 204a34
+        
+      . 
+        adfias (atcías, <span class="lbl">v.l.</span>) dúib . . . a senchas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 112.1
+        
+      . mat cias (?read ma'tcúas or ma'tcess, edd.) a 
+maith `<span class="quote">if his virtue was reported</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 141.27 (§ 36)
+      . 
+adcós úaim duib <span class="ediltr">I have told you</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/CS" title="eDIL Bibliography">CS</strong></span> 8.y
+      . is ann . . . 
+atfiadar lith ┐ sollamain inti noem C. i mi nouimbir
+`<span class="quote">is celebrated</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 6.5
+      . adfess forru corbo miscais leo a 
+cheile <span class="ediltr">it was told of them</span>(?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 51.27
+      . amail adfedar ar 
+Macgnimarthaib C. <span class="ediltr">as is related in</span>(?) 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvi 83 § 130
+       = 
+
+        atfegar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 410a29
+        
+      . eos no adéos .i. sloinnfeadh no 
+inneosad, O'Cl.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

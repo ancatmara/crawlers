@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="12707">cráeb</h3><span class="citation">Cite this: eDIL s.v. cráeb or <a class="reference" href="12707">dil.ie/12707</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span>
+    </p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">branch</span>, <span class="def">bough</span>; <span class="def">sprig</span>; <span class="def">rod</span>, <span class="def">wand</span>; <span class="def">post</span>
+        </span>: 
+          ni cech 
+cnú fociṅg dia croíb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 19134
+          
+        . 
+          etir moin céir ┐ craib, 
+
+            34903
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 463
+        ). 
+          co tuca chroíb dam din chaírthend, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Fraech" title="eDIL Bibliography">Fraech</strong></span> 194
+          
+        . 
+          aithsceinm craibi tar ais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 156.14
+          
+        . 
+
+          colpach ína ngablaib, dairt ina craebaib, 
+            iv 146.23
+          
+         (see 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gabul">gabul</a></span>). 
+          craeb . . . olachraind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2007
+          
+        . 
+          crāeb ola, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 238 § 8
+          
+        . as craobh ria na bláth écc ind ḟir hisin 
+(prov. of untimely death), 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1114.13
+        . <span class="lbl">Cf.</span> 
+          ni coilte 
+cra[eb] r[ian]a bláth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;igse" title="eDIL Bibliography">Éigse</strong></span> ii 184 § 5
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 374c28
+        ). léiccis 
+cráobha . . . lécciss coilcthi (? branches strewn for bedding<span class="trans">. Poss. w.r.t. <span class="def">bracken</span> or <span class="def">heather branches</span> or perhaps a wooden (or wickerwork) <span class="def">bed-frame</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xxvi 95
+        ), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 198 §§ 16
+        , 
+          17
+        . fo chiamhair chraobh `<span class="ediltr">among the 
+gloom of branches</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 24.13
+        . craeb sidha a laim gach 
+aeinfir dibh <span class="trans">
+          <span class="def">olive-branch</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 48.9
+        . atait 5 craoba ar in 
+luibh so <span class="ediltr">springs</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> i 332.60
+        . an té do-ní craoibh don 
+chnaoi (<span class="lbl">viz.</span> God), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 42.30
+        . is amlaid documlai in 
+mac ┐ craeb airgdide uaso . . . Craeb óir . . . uasna ollamnaib. 
+Craeb umai úasna filedaib archena <span class="ediltr">a golden wand</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 24227
+        . 
+<span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=bun(n)sach">bun(n)sach</a></span>. craobh conaire <span class="trans">
+          <span class="def">signpost</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LBranach" title="eDIL Bibliography">LBranach</strong></span> 1004
+        . 
+
+          craobh eóluis ar oinigh Aodh, 
+            361
+          
+        . mithidh damhsa . . . / 
+. . . do chuir ar chraoibh, a chompáin <span class="ediltr">to put away, to put aside</span> 
+(to an old cloak), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett2" title="eDIL Bibliography">Hackett²</strong></span> 31.26
+        , 
+          29
+        . c.<span class="oRef">¤</span> luirg see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 lorg">1 lorg</a></span> . 
+<span class="ediltr">rod</span> on which ogam was written: 
+          cairechtaire Gaoidhelge . . . 
+sgríobhtha 'na bhfleasga ar chraobhaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> i 97.309
+          
+        . 
+Hence: an carachtaire ele . . . goirthear ogham-chraobh 
+(<span class="lbl">leg.</span> ogham craobh ?) 
+          dhe, 
+            306
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">tree</span>, <span class="def">bush</span>
+        </span>: 
+          in chróeb i Cind Febrat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+230.68
+          
+         (? ref. to in t-ibar (<span class="lbl">sic leg.</span>) of 49, 53). 
+          unnius i (? Í) 
+Tortain . . . / unnius Uisnig . . . / tuitset na craiba, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 27698
+          
+        . 
+
+          teg mór ffer, ┐ ech, docum craoibhe Fert Luighdheach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 44.10
+          
+        . 
+          ealta minén ar fud craíbhe éigin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CF2" title="eDIL Bibliography">CF²</strong></span> 883
+          
+        . 
+táinic . . . amach as lár craóibhe = <span class="ediltr">out of the midst of a bush</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Exodus</strong></span> iii 2
+        . In phr. fo chráeib <span class="trans">
+          <span class="def">out</span> of <span class="def">doors</span>, in the <span class="def">open</span>(?):</span> 
+
+          encorach <span class="frn ">dicitur</span> duine fossad fo craeph, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 398
+          
+         (`or 
+fochraib ?' ed.). 
+          codlaim fa chraoibh 'san ess, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 
+136.16
+          
+        . Of particular trees: 
+          C. Da Thi / . . . crand na sluag, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 27692
+          
+        . 
+          unnius im̄ Craeb Belaig Da Thi, 
+            27683
+          
+        . 
+          Craeb 
+Uisnig, 
+            27647
+          
+        . For mod. le (ar na) craobhachaibh `<span class="trans">
+          <span class="def">mad</span>, 
+<span class="def">crazy</span>
+        </span>', see Ó Cuív, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;igse" title="eDIL Bibliography">Éigse</strong></span> viii 104
+        -
+          5
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) In a wide variety of transfd. meanings.</p>
+      
+      <p class="result"> 
+<span class="trans">Of <span class="def">persons</span>:</span> in chróib co mbláthib (of Brigit), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> 
+ii 325.20
+         (Hy. iv). 
+          Áed . . . c.<span class="oRef">¤</span> chomlán do thennad túath, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 17038
+          
+        . in chrōib chāin chumra (a warrior), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> 
+122
+        . 
+          a chraobh bhíthe bhanda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 80.28
+          
+         (to a lady). 
+craobh na rosg ruadh (of Conn), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 122.11
+        .</p>
+     
+      <p class="result"> 
+<span class="trans">Of <span class="def">locks</span> of <span class="def">hair</span>:</span> 
+          a bháirr . . . na gcraob gcam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 
+456.7
+          
+        . 
+          le hearla na gcraobh gcumhraidhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 109.8
+          
+        . 
+
+          cíoradh na gcraobh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 976
+          
+        . </p>
+     
+      <p class="result"> 
+Of weapons: crōib glec lāich ina lāmaib (description 
+of Cú Chulainn in his chariot), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2571
+        . 
+          in C.<span class="oRef">¤</span> Glasach 
+.i. claidem . . . F., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2192
+          
+        . </p>
+     
+      <p class="result"> 
+<span class="trans">Of a <span class="def">branched</span> <span class="def">wand</span> or <span class="def">staff</span> from which <span class="def">bells</span> were <span class="def">suspended</span>:</span> 
+          craebh sidhamhail . . . co tri hublaibh dergoir 
+fuirre, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MannersandCustoms" title="eDIL Bibliography">Manners and Customs</strong></span> iii 317 n.
+          
+         
+          313
+         f. <span class="lbl">Cf.</span> 
+          i. dxxxvii. 
+eistecht risin ceol dogníd in cræbh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 193.22
+          
+        . 
+          ro croith in 
+craib Sencha ┐ contoíset Ulaid uli fris, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8421
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 29
+        , H). 
+c.<span class="oRef">¤</span> chréduma ra haird a gúaland (of Sencha), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 35114
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 749
+        ). 
+          craeb ṡída ┐ forṡidaigthi Fian Érenn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 
+p. 329.22
+          
+        . Note further: ar mbreith bhúaidhe cheóil 
+chraoibhe <span class="ediltr">music of the harp</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1165
+        . 
+          ná déin 
+dearmod don chraoibh chiuil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bard.P." title="eDIL Bibliography">Bard. P.</strong></span> 46.8
+          
+        . 
+          ó ṡeinm na 
+gcraobh gciúil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 14.7
+          
+        . 
+          glór bhar síodhchraobh seanma, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 68.21
+          
+        .</p>
+     
+      <p class="result"> 
+Of <span class="trans">
+          <span class="def">branching</span> <span class="def">decorative</span> <span class="def">work</span>, <span class="def">arabesque</span>
+        </span>: cráeba cailce for 
+a cliu (of a shield), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 19a
+          
+         cited 
+          <span><strong class="pop" style="color:blue" href="bibliography/Contribb." title="eDIL Bibliography">Contribb.</strong></span> 503
+        . 
+
+          feilm óir na gcraobh gcorcra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 75.40
+          
+        . 
+          tre chraobhoibh 
+do chuach n-órtha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 4363
+          
+        . 
+          craísech chráebh n-úaine, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1205
+          
+        . </p>
+     
+      <p class="result"> 
+<span class="trans">Of <span class="def">waves</span>:</span> 
+          ar chorp mar chraobha tonn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 1004
+          
+        . </p>
+     
+      <p class="result"> 
+In sense of <span class="trans">
+          <span class="def">pedigree</span>, <span class="def">genealogy</span>, <span class="def">descent</span>, <span class="def">branch</span> of a <span class="def">family</span> 
+<span class="def">tree</span>; <span class="def">scion</span>
+        </span>: 
+          do fremaib ┐ do bunud ┐ do craébaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 411a33
+          
+        . 
+
+          ar bhfréamh chraobhei-ne ime, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 70.17
+          
+        . 
+          cráobh do 
+chin óna Collaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1330
+          
+        . Freq. c.<span class="oRef">¤</span> choibnesa, c.<span class="oRef">¤</span> 
+geinelaig: cade a craeb choibniusa? <span class="trans">
+          <span class="def">pedigree</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 
+346.7
+        . a c.<span class="oRef">¤</span> choibniusa (<span class="lbl">sic leg.</span>) fri Grécaib <span class="ediltr">common descent</span> 
+(of the Trojans), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 30859
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 41
+        ). 
+          triúr anuas . . . / d'Anna 
+sa chraoibh choibhneasa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xi 12
+          
+        . 
+          craobha geinealaigh 
+Gaoidheal, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 72.21
+          
+        . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=coibnius">coibnius</a></span>.</p>
+     
+      <p class="result"> 
+Note also: 
+          hi trūaill . . . findarcait ūas chrōebaib(?) a 
+chnis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2342
+          
+        . deisme neómain im chét c.<span class="oRef">¤</span>
+         (dees imomain 
+im chet croeb, YBL), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4958
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 11620
+        ). ? cionnus 
+lat tré chraoibh na cána / mac an tsaoir do rádha ris (of 
+Christ), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 26.6
+        . 
+          cuanna arna threaghdadh a thaobh / ag 
+cealgadh craobh uadha d'fhíon, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxvi 21
+          
+        . 
+          gach 
+craobh chorr, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 2444
+          
+         (`<span class="quote">each rounded limb</span>'). 
+          craobh 
+uaine ad shuil mar shamfhrais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CelticScotland" title="eDIL Bibliography">Celtic Scotland</strong></span> iii 424
+          
+        , 
+          xlii
+         
+(`<span class="quote">beam</span>'). craobh barr-dheigh-ṡleagh a barr sin `<span class="quote">whose glory is 
+pre-eminence in sharp good lances</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxix 17
+        . ? 
+          cach 
+sathe díib rogab crúib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 308.20
+          
+        .</p>
+     
+      <p class="result"> 
+Freq. in <span class="pos nn.-loc.." style="color: #ff8000">nn. loc..</span>, see 
+          Hog. Onom
+        . </p>
+     
+  
+    <p class="result"> 
+Compds. General sense <span class="trans">
+        <span class="def">branching</span>, <span class="def">spreading</span>
+      </span>, but freq. 
+merely for alliterative or other metrical purposes. With 
+nouns and vns. 
+        'san gcraobh-bhanna phéacach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 304
+        
+       (`<span class="quote">flowing riband, branching band</span>', Gloss.). 
+        fás a 
+craobhchall, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 64.21
+        
+      . 
+        craebcoroin . . . do nat[h]rac[h]aiph neimde, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4119
+        
+      . 
+        craebdearca Conaill, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 116.21
+        
+      . 
+
+        atbath craobhdhos bhile mhóir, Aonghus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 707
+        
+       
+(quotation). i torchair cain craebdus / Oengus ┐ Eithne 
+(cheville), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 23505
+       (c.<span class="oRef">¤</span>
+       + dos ?). ós chionn do cheathra 
+gcraobh-fhabhra <span class="trans">
+        <span class="def">branching</span> <span class="def">lashes</span> and <span class="def">eyebrows</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+114.14
+      . in chliat[h]sa ni craebhḟál `<span class="quote">fence of branches</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> 9
+      . 
+        tré chroeb[ḟ]odail, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 307.1
+        
+       (<span class="lbl">rhet.</span>). craebhfhoghla . . . caibniusa tuath `<span class="quote">genealogical ramifications</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 98.14
+      . techtughudh . . . cu cruibh ime <span class="ediltr">temporary fence</span>(?), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2272
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. B 506</strong></span>, 23cd
+        
+      ). arm áigh craoibhlíne 
+`<span class="trans">
+        <span class="def">engraved</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 683
+      . 
+        tre Mhagh gC. na gcraoibhleas, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 74.50
+        
+      . atād trī caoga craobh-ogham aguinn <span class="ediltr">ogham 
+written on staves</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> i 97.306
+      . 
+        Conall . . . uaind ro 
+geinedh in craebh-shlat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 310.20
+        
+      . laoch … craobhshūileach <span class="ediltr">bushy-eyed</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xiii 42.103
+      . craebhthonna 
+<span class="ediltr">spreading waves</span>(?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/CF" title="eDIL Bibliography">CF</strong></span> 926
+      . </p>
+  
+  
+    <p class="result"> 
+With adjj. 
+        a Caiseal craebchorr, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 60b40
+        
+      . 
+        tré ghéarlasair chraobh-dheirg, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 351
+        
+      . 
+        clanna . . . 
+craeb-gasta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 118.18
+        
+      . 
+        mar bhláth éadtrom chraobhghlas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 288
+        
+      . dreach craobhghoirthe `<span class="quote">bright-curved</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 1907
+      . 
+        go Cliaigh gcr[a]oibhiodhain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+109.3
+        
+      . 
+        a ghruaidh chraobhnár mar chrithre, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 
+34.6
+        
+       (`<span class="quote">o'erspread with fiery blush</span>'). 
+        in t-abhra réidh craobhnocht, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 4457
+        
+       (`<span class="quote">curving</span>'). 
+        um chlár gcraobhsholus 
+gCobhthaigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 16.25
+        
+      . 
+        fuairshreabha an chalaidh 
+chraobhshona, 
+          4.8
+        
+       (`<span class="quote">tree-rich</span>'). cuingeda . . . craeb-uaisli 
+`<span class="quote">free-born</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 246.3
+      .</p>
+  
+  
+    <p class="result"> 
+With adjj. derived from nouns: craibdig .i. . . . craeb-bethadaig (<span class="lbl">etymol. gl.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l.2" title="eDIL Bibliography">Fél.²</strong></span> xxxi 16
+      . 
+        go Cruachain 
+gcraobhchollaigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 4.13
+        
+      . 
+        clar-sceimelta . . . craeb-dathacha cath-sciath, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 224.5
+        
+      . 
+        in Craebhghlasach, 
+claidem F., 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2244
+        
+      . 
+        dh'éis luit do chuilg cráoibhlitrigh, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 109
+        
+      . 
+        na cromsróna . . . craebhshilteacha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CF2" title="eDIL Bibliography">CF²</strong></span> 
+288
+        
+      . 
+        D. . . . / na sul ngormall craebhsuirgeach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Met. 
+Faults § 149
+        
+      . 
+        gu Céis cráebthorthuigh Coruinn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 
+31 § 49
+        
+      . </p>
+  
+  
+    <p class="result"> 
+See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=cruibe">cruibe</a></span>.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

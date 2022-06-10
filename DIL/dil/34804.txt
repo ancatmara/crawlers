@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="34804">1 rann</h3><span class="citation">Cite this: eDIL s.v. 1 rann or <a class="reference" href="34804">dil.ie/34804</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                rand, rann, ran, rán, rainn, rain, rainn, rainne, rainn, ranna, rann, rannaib, rainn, roinn, rann, rann, roinn, roinne, ronna, rann</p></div><div class="col-sm-9 result_content">
+   
+
+
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> (<span class="lbl">cf.</span> W. <span class="frn ">rhan</span> `<span class="quote">part</span>') in Mid.Ir. somet. written rand. 
+O.Ir. <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        rann, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10d18, 14c15, 25c26
+        
+      ; ran, 
+        rán, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12c13
+        
+      . <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        rainn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 63c18
+        
+       <span class="lbl">et pass.</span> 
+
+        rain, 
+          24c2
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        rainn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 18b1
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        rainne, 
+          26b9
+        
+      . <span class="case a">a</span>
+      <span class="number du.">du.</span> 
+        etar ṅdi 
+rainn
+        , 
+          2b2 
+        
+      ; 
+        74b3
+      . <span class="case g">g</span>
+      <span class="number du.">du.</span> 
+        ó chechtar in da rann, 
+          74b5 
+        
+      ; 
+        75a3
+      . <span class="case d">d</span>
+      <span class="number du.">du.</span> 
+
+        ó díb rannaib, 
+          75a1
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        la ranna
+        , 
+          26b6
+        
+      . <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        rann, 
+          2b3
+        
+      , 
+        95a3
+      . 
+<span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        onaib rannaib
+        , 
+          202b3
+        
+      . In later Mid.Ir. somet. <span class="itype o">o</span>, <span class="gen m.">m.</span>
+    </p>
+  
+  
+    <p class="result"> 
+During the Mid.Ir. period the <span class="case a">a</span>
+      <span class="case d">d</span>
+      <span class="number s.">s.</span> form rainn, freq. written 
+roinn, comes into use as <span class="case n">n</span>
+      <span class="number s.">s.</span> and gradually supplants rann in 
+the sense of <span class="trans">
+        <span class="def">part</span>
+      </span>; rann however persists in early Mod.Ir. 
+(chiefly in the sense of <span class="trans">
+        <span class="def">party</span>, <span class="def">side</span>, <span class="def">adherent</span>
+      </span>), being treated as 
+<span class="itype o">o</span>, <span class="gen m.">m.</span> roinn <span class="gen f.">f.</span> (<span class="case g">g</span>
+      <span class="number s.">s.</span> roinne, ronna), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. § 42.9
+      . rann (carad) 
+<span class="gen m.">m.</span> 
+        § 73
+      .</p>
+   
+    <p class="result"> 
+Oft. confounded with rind.</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">a <span class="def">part</span> (of a whole):</span> rann airegda inna anme, gl. spiritus, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25c26
+          . 
+            rann do loscud . . . rann aile do airbirt bith, 
+              10d18
+            
+          . 
+aisneis rainne for tóit, no aisneis tōite for raind (definition of 
+synecdoche), 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5656
+          . 
+            ro thescc hi i ṅdíb rannu, 
+              7240
+            
+          . 
+            coro 
+deglad a ṅdeich renda [<span class="lbl">sic</span>] a chorp, 
+              1212
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 191b28
+          ). 
+            ros 
+fodail a thorud i ndíb rendaib déc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 40.12
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 63a17
+          ). 
+            tri 
+renna dogníd don aidchi ┐ cethri huaire cacha raindi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 
+104.29
+            
+          . co ríg sechtmad rainni de Lochlainn <span class="trans">
+            <span class="ediltr">of the seventh 
+part</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 7
+           (<span class="lbl">cf.</span> 
+            ríg in sechtmad raind do L., 
+              <span class="lbl">ib.</span> 10
+            
+          ). 
+            co fuilid 
+dā rand fuara and ┐ aon rann te, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RosaAngl." title="eDIL Bibliography">Rosa Angl.</strong></span> 112.27
+            
+           (<span class="lbl">i.e.</span> two-thirds and one-third). intlecht i ndreich sech cech raind <span class="trans">
+            <span class="ediltr">above 
+all other parts (of the body</span>
+          </span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 223.8
+          .</p>
+       
+        <p class="result"> 
+<span class="trans">Of a main <span class="def">part</span> or <span class="def">division</span> of the <span class="def">earth</span>, passing into specific 
+sense of <span class="def">continent</span>:</span> 
+            ro rannad in domun i tri rannaib .i. Eoraip. 
+Afraic, Asia, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 13
+            
+          . 
+            ra roinn i trib rigrannaib . . . Assia, 
+Eoraip iss Affricc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2650
+            
+          . 
+            ní bhfuil aon ríoghacht de thrí 
+ronnaibh an domhain nach raibh sé ann, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 8.17
+            
+          ; <span class="lbl">cf.</span> 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 98.20
+          . tú . . . dod chor i n-iongnadh | ó aos timchill na 
+dtrí rann `<span class="quote">celebrated by those who travel the three continents</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 29.29
+          ; but <span class="lbl">cf.</span> 
+            saoi na tTri Rand, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 708.11
+            
+           (<span class="lbl">i.e.</span> Ireland, 
+Scotland, and the Isle of Man, O'Don. note). In looser sense: 
+atát péste i n-aroile randaib thair <span class="trans">
+            <span class="ediltr">in certain eastern parts</span>
+          </span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 192 § 3
+           (rendaib <span class="lbl">v.l.</span>). do chuaidh B. isin rann siar 
+<span class="trans">
+            <span class="ediltr">went westwards</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 52 § 43
+          . tar cethri rannuibh an betha 
+<span class="trans">
+            <span class="ediltr">quarters (cardinal points</span>
+          </span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxviii 310 z
+          .</p>
+       
+        <p class="result"> 
+In fig. sense: is becc rand áos túate `<span class="quote">the laity are of little 
+worth</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 26
+          . <span class="lbl">Cf.</span> the chevilles: 
+            óclach . . . maelgorm 
+san treas, ferdha in roinn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2002
+            
+          . 
+            angbaid in raind, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 
+210.1
+            
+          .</p>
+       
+        <p class="result"> 
+Of part or section of a book: 
+            do réir S. Tomás san dara 
+rann don dara cuid dá Dhiadhacht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4955
+            
+          . </p>
+       
+        <p class="result"> 
+a rainn (= Lat. <span class="frn ">ex parte</span>), folld. by gen., <span class="trans">
+            <span class="def">as regards</span>, <span class="def">on the 
+part</span> of</span>: adib mairb a rainn pecctha <span class="trans">
+            <span class="ediltr">dead as regards sin</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+3b6
+          . a rrainn ind aitrebthado <span class="trans">
+            <span class="ediltr">on the part of the possessor</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+198a12
+          , <span class="lbl">cf.</span> 
+            204a2
+          . 
+            co techtand bethaid as ind raind is deróile 
+and .i. i rraind a chuirp, ni thechtand as ind raind is uaisle .i. 
+i rraínd a anma, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4809
+            
+          . 
+            a rraind a doennachta . . . a rrind 
+a diadachta, 
+              3834
+            
+          -
+            5
+          . ní dlig ni a raind ecaillsi Dé <span class="trans">
+            <span class="ediltr">he is entitled 
+to nothing on the part of the church</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 218 § 4
+          . do síl Il . . . 
+dó a rraind a máthar <span class="trans">
+            <span class="ediltr">on his mother's side</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 107
+           (a rinn 
+<span class="lbl">v.l.</span>); <span class="lbl">cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1924.4
+          . 
+            brathair dhó eisidhe i rainn a máthar, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 228.20 (f. 61a)
+            
+          . Cluain E. do losccadh ass an raind 
+as mo `<span class="quote">for the most part</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1070.7
+          . ni cóir deit immarbáig 
+rim as cách raind <span class="trans">
+            <span class="ediltr">on every score</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 265a24
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/MU" title="eDIL Bibliography">MU</strong></span> 22.21
+          ).</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) rann insce <span class="trans">
+            <span class="ediltr">a part of speech</span>
+          </span> (= Lat. <span class="frn ">pars orationis</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+3b15
+          , 
+            26b6
+          . 
+            folad cach rainne, 
+              26b9
+            
+          . 
+            raind indsce, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 
+316
+            
+          . itat. viii. randa insci and .i. <span class="frn ">nomen, pronomen</span>
+          , <span class="lbl">etc.</span>, 
+
+            317
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">a <span class="def">share</span>
+          </span>: 
+            ruuc cách a rainn dísin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 63c18
+            
+          . 
+            oen chóiced 
+ic Feraib Bolg . . . tri cóicid in rand rucsat Fir datta Domnand, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 127a33
+            
+           ( 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 148 § 4
+          ); <span class="lbl">cf.</span> coica toirge lasna Déisi. 
+a cuic fichet díb tarthatar raind (<span class="lbl">i.e.</span> they acquired territory), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 140.55
+          . guala ríogh, roinn a chuilte `<span class="quote">the sharing of his 
+bed</span>' (privilege of an ollave), 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 475.16
+          . </p>
+       
+        <p class="result"> 
+<span class="trans">
+            <span class="def">Lot</span>, <span class="def">portion</span>
+          </span>: nachan-tecma drochrann <span class="trans">
+            <span class="ediltr">an evil lot</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 
+Jan. 10
+          . 
+            nach bhfuil roinn nó oighreacht . . . ag Lébhi, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Deuter.</strong></span> x 9
+            
+          . ní léigthear flaithios faoim roinn <span class="trans">
+            <span class="ediltr">does not fall to 
+my lot</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> x 19
+          . </p>
+       
+        <p class="result"> 
+With FRI, <span class="trans">
+            <span class="def">participation</span> (<span class="def">communion</span>) with:</span> a banchumal im 
+[ic, do <span class="lbl">v.l.</span>] raind ris `<span class="quote">his maid-servant having dealings with 
+him</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 46 § 12
+          . 
+            oircheas roinn ris an ríoghraidh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 
+1919, 439 § 8
+            
+          . ionnas nach biadh roinn risin saoghal aige <span class="trans">
+            <span class="ediltr">that 
+he might have no dealings (intercourse) with the world</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+146 § 4
+          . 
+            do bhríogh nach raibhe rioth ná roinn aca acht ris 
+an saoghal, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 10144
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">the act of <span class="def">sharing</span>, <span class="def">dividing</span>
+          </span>; oft. of dividing food, esp. 
+meat (hence freq. rendered <span class="trans">
+            <span class="ediltr">carving</span>
+          </span>), oppd. to dáil = dispensing liquor. 
+            do raind na mucce, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 101.2
+            
+          . 
+            dobretha a 
+cuit . . . tíagait na randairi dia raind, 
+              <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 72
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8968
+          ). tráth 
+tánic dóib . . . co roind ┐ dáil, 
+          
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 90
+          . 
+            ro gabad dáil ┐ raind ┐ 
+fodail i nEmain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1195
+            
+          . fer uird rainne <span class="trans">
+            <span class="def">butler</span>, <span class="def">dispenser</span>
+          </span>, 
+
+            134
+          . roind an aird-rig . . . ag Ua Urain (<span class="lbl">i.e.</span> office of carver 
+or butler), 
+            <span><strong class="pop" style="color:blue" href="bibliography/HyMaine" title="eDIL Bibliography">Hy Maine</strong></span> 86.11
+          . 
+            doroine roinn dia aigedhaibh, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 32.28
+            
+          . 
+            batar ... ic roind chruid ┐ sēt, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xliv 14 § 381
+            
+          . 
+            in lá do raind i trí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 869
+            
+          . 
+            sanntaigit . . . 
+roind m'etaig aterra (<span class="lbl">leg.</span> etarru), 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1416
+            
+          . fig. cumha Rois 
+Gredha gum roinn <span class="trans">
+            <span class="ediltr">rending me</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 25 § 3
+          . i gceart na 
+ronna dorinneadh idir Mhogh N. ┐ Chonn <span class="trans">
+            <span class="ediltr">by right of the 
+partition</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 3087
+          . mar shaidhbhreas réna roinn idir a 
+chloinn <span class="trans">
+            <span class="ediltr">for dividing among</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 238
+          . trian gach cíosa . . . 
+dliccid Férna . . . do chuid ronna <span class="trans">
+            <span class="ediltr">a third . . . is due to F. as its 
+portion</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 259.19
+          . 
+            tug mé dhuit-si cuid ronna ós cionn 
+do dhearbhráithreach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> xlviii 22
+            
+          ; <span class="lbl">cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Isaiah</strong></span> xvii 14
+          . is í 
+Alba do ráinig mar mhir ronna dó <span class="trans">
+            <span class="ediltr">as his share</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5820
+          . 
+cen rainn <span class="trans">
+            <span class="def">without</span> <span class="def">division</span>, <span class="def">entirely</span>
+          </span>: báidid and sin Rí cen 
+raind `<span class="quote">it drowns R. completely</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 456.93
+          . 
+            ro 
+rígad cen raind Fiachu, 
+              460.17
+            
+           (perh. <span class="trans">
+            <span class="ediltr">without opposition</span>
+          </span>, see 
+follg.). 
+            beanaid Meic Míleadh Easbáin | gan roinn do tharbha 
+troda | Banbha do chloinn C., 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 28.16
+            
+          . ba lais Mumha gan 
+roinn ris <span class="trans">
+            <span class="ediltr">M. was his alone</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1919, 400
+          , 
+            26
+           (quoted 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> ii 270
+          ).</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) passing into sense <span class="trans">
+            <span class="def">division</span>, <span class="def">strife</span>
+          </span>: 
+            ná beth ria chlaind 
+. . . | cosnam nó raind, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 410.23
+            
+          . muime Chuinn 
+no charad raind `<span class="quote">who loved strife</span>', 
+            iv 266.9
+           (see note). ? rann 
+isteach tháinig tharsa | sa leath thall don talamh-sa `<span class="quote">an 
+invasion has come in upon them</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xi 2
+           (roinn `<span class="quote">part</span>' 
+occurs in same stanza; see follg. head).</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">f</span>) in the two follg. senses rann is in classical and mod. Irish 
+distinguished from rainn (roinn) `<span class="quote">part</span>' and treated as <span class="itype o">o</span>, <span class="gen m.">m.</span>, 
+the plural form rannta (perh. a distinct word) being used in 
+sense <span class="trans">
+            <span class="def">partisans</span>
+          </span>.</p>
+       
+
+ 
+        <p class="result"> 
+<span class="trans">A <span class="def">party</span>, <span class="def">side</span>
+          </span> (of persons concerned in a controversy, legal 
+transaction, <span class="lbl">etc.</span>); <span class="lbl">cf.</span> mairg bale bís ar dā raind (= that is 
+divided against itself?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 296b39
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 363.27
+          ). 
+            <span class="frn ">quinta etas 
+mundi</span>, idon, nóe mbliadna ochtmogad . . . do reir in dā rand 
+(<span class="lbl">i.e.</span> the Hebrew Masters and the Schoolmen), 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 
+278 (a)
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 9a41
+          ). eittirbretha . . . do bheith eidir dā rann 
+(<span class="lbl">i.e.</span> the men of Breifne and the community of Druim Lethan), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 262.15
+          . do thoil in da rann <span class="trans">
+            <span class="ediltr">by agreement of both parties</span>
+          </span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/HyMaine" title="eDIL Bibliography">Hy Maine</strong></span> 162.13
+          . in tan bis dligthe na rann comdorca (gl. 
+<span class="trans">
+            <span class="ediltr">cum sunt partium iura obscura</span>
+          </span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, c. 603
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 848
+          ). 
+
+            breitheamhnas do dhéanamh idir an dá rann, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3002
+            
+          , <span class="lbl">cf.</span> 
+
+            6789
+          . ag a rádh ris an rann eile bheith ar a gcoiméad <span class="trans">
+            <span class="ediltr">telling 
+the other party</span>
+          </span> (in a combat) <span class="trans">
+            <span class="ediltr">to be on their guard</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 42.76
+          .</p>
+      
+      
+
+
+        <p class="result"> 
+(<span class="edilb">g</span>) <span class="trans">
+            <span class="def">partisanship</span>, <span class="def">faction</span>, <span class="def">alliance</span>
+          </span>: do bhíodh . . rann cinnte 
+carad ag gach cúigeadh i nÉirinn don leith thall d'fhairrge 
+`<span class="quote">a special friendly alliance beyond the sea</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 2608
+          . ni 
+coir don righ taoph do thaphairt . . . re duine bus rann da 
+esccaruit <span class="trans">
+            <span class="ediltr">who will side with his enemy</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 132.65
+          . 
+            gach 
+aon agá mbaoi báidh no rann lé Gallaibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1660.3
+            
+          . ní ro 
+fháccaibhsiot toíseach . . . nár chuirsiot a n-aonrann coccaidh 
+friu `<span class="quote">whom they did not induce to become their confederate of 
+war</span>', 
+            1660.11
+          , <span class="lbl">cf.</span> 
+            1770.17
+          . fear rainn ┐ pairte <span class="trans">
+            <span class="ediltr">a partisan</span>
+          </span>, 
+            iv 
+1092.22
+          . an tí cheanglas rann ris <span class="trans">
+            <span class="ediltr">who joins his party</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+7029
+          . 
+            ag denum rainn ┐ comaenta ina adhaigh le slicht mic 
+Feidhlimthe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> iii 8.18
+            
+          , <span class="lbl">cf.</span> 
+            126.23
+          . 
+            do rinne ar námha rann 
+rinn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1930, 590 § 3
+            
+          . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=rannta">rannta</a></span>.</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> Sometimes used for <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 rind">2 rind</a></span> <span class="trans">
+          <span class="def">star</span>, <span class="def">point</span>
+        </span> (esp. in oblique cases 
+where the stem rend- should be used): rith rann ┐ reltann 
+<span class="trans">
+          <span class="ediltr">of the constellations and stars</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 156.5
+        . 
+          indis . . . duind na 
+hilcenela rann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 84b47
+          
+         = 
+          inna ilceneuil rend, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 
+126.3
+          
+        . So in: rí na rann, freq. title of Deity in poetry, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 
+263 § 8
+        , 
+          268.11
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 85.20
+        , 
+          23
+        . 
+          ar sgáth fola Thriaith na 
+rann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nfhocail" title="eDIL Bibliography">Dánfhocail</strong></span> 200
+          
+         (Bonaventura Ó Heoghusa). <span class="lbl">Cf.</span> randmas below. ar cara . . . rand 'na láim `<span class="quote">in his hand a spear</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 211 § 2
+        . ? roinde (<span class="lbl">v.l.</span> renna) na n-ardchúiced ind-Uisnech rúitt `<span class="quote">the points of the great provinces run towards U.</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 154.8
+         (perh. <span class="trans">
+          <span class="ediltr">parts</span>
+        </span>).</p>
+    
+  
+  
+    <p class="result"> 
+Compds. 
+        <span class="oRef">¤</span>chara: ba ranncara[i]t dhó Mac U. ┐ Ua C. 
+<span class="trans">
+        <span class="def">partisans</span>, <span class="def">allies</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 1048.6
+      . 
+        <span class="oRef">¤</span>chobfodlaid <span class="trans">a <span class="def">participator</span>, 
+<span class="def">sharer</span>
+      </span>: ranchobfodlaid tristitiae meae (gl. particeps), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 86d5
+      . 
+
+        <span class="oRef">¤</span>chuit <span class="trans">
+        <span class="def">part</span>, <span class="def">portion</span>
+      </span>: 
+        rannchuid don chroich chēsta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 
+10.7
+        
+      ; 
+        166.22
+      . fidhair chroiche Crist issin egluiss a rannchuid 
+ro-onoraigh mirbhailigh `<span class="quote">in a splendid miraculous position</span>' 
+(<span class="trans">
+        <span class="ediltr">part</span>
+      </span>, niche or chapel?), 
+        182.24
+      . 
+        <span class="oRef">¤</span>chuitiugud <span class="trans">
+        <span class="def">participation</span>, 
+<span class="def">alliance</span>
+      </span>: 
+        co ḟuidbet comlaintes ┐ randchuitiugud maroen fria 
+Muire, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 232b30
+        
+      . o ghniomh an teasa . . . ┐ é ag ranncuidiughadh dorcachta (<span class="lbl">i.e.</span> by the co-operation of heat and 
+darkness), 
+        <span><strong class="pop" style="color:blue" href="bibliography/23K42" title="eDIL Bibliography">23 K 42</strong></span>, 171.18
+      . 
+        <span class="oRef">¤</span>leth <span class="trans">a <span class="def">moiety</span>, <span class="def">share</span>
+      </span>: 
+        dlighid 
+. . . roinn-leath toighe na Teamhrach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxx 24
+        
+      . 
+? 
+        <span class="oRef">¤</span>mas(s): 
+        an rí randmais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 63 § 112
+        
+      : <span class="lbl">leg.</span> rindmass 
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 156.1
+      , Meyer's emendation) and see II above. 
+        <span class="oRef">¤</span>páirteach <span class="trans">
+        <span class="def">participant</span>:</span> 
+        an bhfuilid na heithricedha rannphairteach 
+don loghadh?, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 109.1
+        
+       = 
+        rannphartach don 
+leaghas-so, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 62.16
+        
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

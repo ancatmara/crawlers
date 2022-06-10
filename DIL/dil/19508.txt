@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="19508">1 ech</h3><span class="citation">Cite this: eDIL s.v. 1 ech or <a class="reference" href="19508">dil.ie/19508</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                t-ech, eich, eich, eich, eith, ech, eoch, each, eich, hich, heich, eit, eochu, ech, eochu, eocho, eocha, echu, ech, echaib, eachaibh, eochaiph, ech, eich, echtaitiu, ecthaighe</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen m.">m.</span> <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        in t-ech
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 454
+        
+      . <span class="case v">v</span>
+      <span class="number s.">s.</span> 
+        a eich
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 3494
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        ind eich
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 456
+        
+      . 
+        eich, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 69
+        
+       
+<span class="lbl">etc.</span> 
+        eith, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>  Decl. p. 115 n. 15
+        
+      , 
+        116 n. 19
+      . (<span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        ech, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 446
+        
+       <span class="lbl">etc.</span> is probably only a spelling variant). <span class="case d">d</span>
+      <span class="number s.">s.</span> eoch 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 31
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 47b10
+      . 
+        each, 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 8a4
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        ind eich
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 106.23
+        
+      . 
+        ind hich
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vi 134.21
+        
+      . 
+        na heich
+        , 
+          135.49
+        
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1246
+      . 
+        eit, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 376a15
+        
+      , 
+        22
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> p. 74
+      , 
+        76
+      . eochu 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 562
+      . <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        ech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 16b12
+        
+      . 
+        43d1
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 125.14
+       
+<span class="lbl">etc.</span> <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        eochu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1244
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 39
+      . (as <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 562
+      ). 
+
+        eocho, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1134
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 700. 
+       
+        <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1382
+      . eocha (<span class="lbl">v.l.</span> 
+echu) 
+        <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 144.10
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 106.25
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1083
+       <span class="lbl">etc.</span> 
+
+        ech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 236
+        
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        echaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1344
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+454
+      . 
+        
+          eachaibh (: beathaidh), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 25.25
+        
+      . 
+        eochaiph, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+239 § 169
+        
+      . <span class="case a">a</span>
+      <span class="number du.">du.</span> 
+        dá ech
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 45
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 106.20
+      . See 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. § 171
+      .</p>
+   
+    <p class="result"> 
+<span class="trans">A <span class="def">horse</span> (incl. <span class="def">mare</span> <i>or</i> <span class="def">gelding</span>) genly. of <i>chariot or </i>
+<span class="def">saddle-horse</span>, </span> dist. from capall: 
+        iomad capall, beaccan 
+d'eachaibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 558.2
+        
+      . The common use of the <span class="gen fem.">fem.</span> 
+pron. with ech in certain contexts implies that mares 
+were preferred for riding or driving (but see 
+        <span><strong class="pop" style="color:blue" href="bibliography/CMCS" title="eDIL Bibliography">CMCS</strong></span> xxiii 89
+      ); the <span class="gen masc.">masc.</span> decl. 
+of the word is however always retained. ainm fuasnada... 
+ech <span class="ediltr">the name of a perturbation of horses</span> (ref. to fremitus 
+= `<span class="quote">neighing</span>') 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 16b12
+      . 
+        cēt n-ech srianach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 125.14
+        
+      . 
+
+        eich uaibhreacha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5963
+        
+      . ni madriadsam ar n-echa 
+<span class="ediltr">we had better never have tamed our steeds</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 236
+      . 
+
+        nach ech riadar isin domnach is ech tened bís hi ngabul 
+a marcaig a n-iffirn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 194
+        
+      . in t-ech boi fona carpat 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 346.24
+      . 
+        na dá ech filet fón charput, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 45
+        
+      . 
+        léic 
+na eocho ar férgeilt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1134
+        
+      . ar eoch ard <span class="ediltr">on a high 
+steed</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 10 § 7
+      = 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 47b10
+      . ic dul ar a ech <span class="ediltr">mounting 
+his horse</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 144.15
+      . dochuaidh ar a each ar fud sráide 
+an longphuirt <span class="ediltr">rode his horse</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 3128
+      . 
+        do ling...ar a 
+each, 
+          3227
+        
+      . 
+        éirghidh ar bhar n-eachaibh, 
+          3228
+        
+      . each fae 
+<span class="ediltr">a horse under him</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 154.18 Comm.
+       
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 303a31
+      . 
+
+        má tá...gur chuiris srian | rem each... | cia an neach dar 
+dolta ar a druim | dá socra each gan udhuim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Timth." title="eDIL Bibliography">Timth.</strong></span> 
+1917 VII iii 43
+        
+      . eich dá ngníomh `<span class="quote">exercising of 
+steeds</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 11.20
+      . 
+        eich...ag dol i gcoimhling, 
+          11.12
+        
+      . 
+
+        muilenn im-tai ech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 816
+        
+      . Interchanging with 
+gerrán : 
+        fúacrais Ercoil comlond dó féin ┐ dá eoch 
+forro...marbais gerran Ercoil ech Loegairi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 69
+        
+      . indara 
+hech ..ocus sē lugaid...in t-ech aile ocus sé casmongach 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1975
+      . With <span class="gen fem.">fem.</span> pron.: 
+        tainic each Colmáin...go 
+M...┐ do chuir fona carpat féin í, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 239 § 69
+        
+      . 
+        is 
+isi an t-ech oirdherc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BIV2" title="eDIL Bibliography">B IV 2</strong></span>, 95a
+          
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 488
+      . 
+        ba 
+suaichnich am egcosc inn eich sin .i. gabair gormglasa...is 
+cuma conriadad si muir ┐ tir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2282
+        
+      . co tuiced int 
+ech a n-ebairt-sium ria ┐ ro an ris ┐ dochuaid-sium fuirri 
+
+        3498
+      . D. do mharbhadh dia eoch fein ag cor crú fuirre 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 900.8
+      .</p>
+  
+  
+    <p class="result"> 
+Attrib. <span class="case gen.">gen.</span>: 
+        tána eich
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 295b35
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 361.24
+      .</p>
+  
+  
+    <p class="result"> 
+In 
+        <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 501
+       the correct reading is probably: in cullach 
+eich (as in F) <span class="trans">the <span class="def">stallion</span>
+      </span>, <span class="lbl">cf.</span> the compd. ech-cullach 
+below.</p>
+  
+  
+    <p class="result"> 
+Defined by follg. adj. or gen. subst.: ech aige `<span class="quote">a race (?</span>)- 
+<span class="ediltr">horse</span>' (<span class="lbl">i.e.</span> for chariot-racing?) 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 406.6
+      . 
+        luaithe ech 
+aighe nem medon mīs míthime .i. comluath é ┐ int ech 
+innṡaighther isin aenach a mī medhonach int samraid, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 25. 7
+        
+      . <span class="lbl">cf.</span> 
+        ech fri aige, dam fri har, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 122.10
+        
+      . 
+e.<span class="oRef">¤</span> bagáiste <span class="trans">
+        <span class="def">baggage-horse</span>:</span> 
+        dona hechaibh bagaisde, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 198
+        
+       (Bk. of Clan R.). e.<span class="oRef">¤</span> anríata <span class="trans">an <span class="def">unbroken</span>
+<span class="def">horse</span>
+      </span>: 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 302a22
+      . e.<span class="oRef">¤</span> bretnach <span class="trans">a <span class="def">British</span> (<span class="def">Welsh</span>) 
+<span class="def">horse</span>:</span> 
+        ór derg tuarastul in trír | ra taeb ech mbretnach 
+mblathmín, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 49b6
+        
+      . in t-ech bretnach (sufficient 
+ransom for a life), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 438.8 Comm.
+       (<span class="lbl">cf.</span> 
+        220.22
+      ). 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 45.16
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 1029
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 818
+      . e.<span class="oRef">¤</span> buada 
+<span class="trans">a <span class="def">winning</span> <span class="def">horse</span>:</span> 
+        is ech buada dar mag reid | fer adcosnaid flaith Dé máir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 284b42
+        
+      . 
+        conacatar marcach for 
+each mbuadha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 62 z
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2090
+      . e.<span class="oRef">¤</span> crainn 
+<span class="trans">
+        <span class="def">wooden</span> <span class="def">horse</span>
+      </span>: 
+        Fiacha Figente ... is ē do-rōinde an each crainn ro-n-acht iarum a nĀenach Colmān, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 230 (152a10 n. a-a)
+       ​= <span class="frn ">qui fecit equm ligneum</span>​​​​. e.<span class="oRef">¤</span> crannda 
+<span class="trans">
+        <span class="def">wooden</span> <span class="def">horse</span>
+      </span>: 
+        i mbroind in ech cranda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 446
+        
+      . 
+e.<span class="oRef">¤</span> díla <span class="ediltr">a charger</span> (?) see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=d&#xED;l">díl</a></span>. e.<span class="oRef">¤</span> gerr `<span class="quote">gelding</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 
+88.9
+      ; 
+        90.16
+      . e.<span class="oRef">¤</span> imchair <span class="ediltr">a saddle-horse, riding-horse:</span> 
+m'each iomchuir ag triall ré tal | dob ionchuir srian dá 
+seoladh (<span class="lbl">sic leg.</span>) 
+        <span><strong class="pop" style="color:blue" href="bibliography/Timth." title="eDIL Bibliography">Timth.</strong></span> 1917, VII iii 43
+      . Contrasted with 
+e.<span class="oRef">¤</span> díla: an t-each díola nach díol damh | 's an t-each iomchair 
+gan iomchar (<span class="lbl">sic leg.</span>) 
+        <span><strong class="pop" style="color:blue" href="bibliography/TribesofIrel." title="eDIL Bibliography">Tribes of Irel.</strong></span> 48
+      . e.<span class="oRef">¤</span> immrimme 
+`<span class="quote">a riding steed</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 308.22
+       (opp. to capul fognuma) 
+        ii 
+160.19
+      . <span class="lbl">Cf.</span> 
+        i n-imrim do eich .i. sliastai, 
+          i 168.11
+        
+      . 
+        each 
+fae i n-aimsir imrime, 
+          ii 154.18
+        
+      . e.<span class="oRef">¤</span> riata <span class="ediltr">a broken-in or 
+trained horse</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 31
+      . 
+        .l. each riata la C. fri har ┐ 
+trebad in talman,  <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l.2" title="eDIL Bibliography">Fél.²</strong></span> lxi (Mar. 5)
+        
+       
+        tri heich duba 
+daigriata, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 378da 22
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 160
+      . <span class="lbl">Cf.</span> riagh éineich san 
+bfaithchi, one of the services which Lugh offers to perform 
+at Tara, 
+        <span><strong class="pop" style="color:blue" href="bibliography/RidgewayEssays" title="eDIL Bibliography">Ridgeway Essays</strong></span> 326 § 32
+      , see note. e.<span class="oRef">¤</span> sliasta 
+<span class="trans">
+        <span class="def">riding-horse</span>
+      </span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 322.8
+      . 
+        i 168.11
+      . e.<span class="oRef">¤</span> uisci <span class="trans">a <span class="def">water-horse</span> (a <span class="def">goblin</span>):</span> 
+        ech usci robói isind loch, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 236
+        
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 346
+      , 
+        348
+      . e.<span class="oRef">¤</span> uiscide: 
+        eich uscide, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 679
+        
+       (usci
+       
+BB) <span class="trans">
+        <span class="def">crocodiles</span> (?)</span>.</p>
+  
+  
+    <p class="result">COMPDS.</p>
+   
+    <p class="result"> ech-adba? 
+        in carbad fuil i n-eachadhbadhaib na n-ech sin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 549.29
+        
+       (= 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1815
+       <span class="lbl">v.l.</span>).</p>
+  
+  
+    <p class="result">
+      
+        <span class="oRef">¤</span>adbul <span class="ediltr">mighty in horses</span>: 
+        i nhErind hechadbail, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 270.12
+        
+      .</p>
+  
+  
+    <p class="result">
+      
+        <span class="oRef">¤</span>ba: see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=echba">echba</a></span>.</p>
+  
+  
+    <p class="result">
+      
+        <span class="oRef">¤</span>bachlach <span class="trans">
+        <span class="def">horse-boy</span>, <span class="def">groom</span> (?):</span> <span class="case n">n</span>
+      <span class="number p.">p.</span>; nícon bia acht 
+eachbachlaich uait (a malediction), 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 157.33
+      .</p>
+  
+  
+    <p class="result">
+      
+        <span class="oRef">¤</span>bán <span class="trans">
+        <span class="def">white</span> of <span class="def">steeds</span>, having white steeds:</span> 
+        cétrí Herenn 
+echbáne, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 127a39
+        
+       (= 
+        <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 150
+      ).</p>
+  
+  
+    <p class="result">
+      
+        <span class="oRef">¤</span>bél <span class="trans">
+        <span class="def">horse-mouth</span>, <span class="def">horse-lipped</span>
+      </span>, as <span class="pos npr." style="color: #ff8000">npr.</span> or epithet: 
+
+        Echbēl mac Dedad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ScM." title="eDIL Bibliography">ScM.</strong></span> 7
+        
+      . 
+        Echde Echbél, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ix 191.1
+        
+       
+(= 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 32
+      ). 
+        co Eochu Echbél, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 8
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 186a13
+      . 
+
+        cland Echach Echbeóil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 138a37
+        
+       (see Thurn., 
+        <span><strong class="pop" style="color:blue" href="bibliography/Heldensage" title="eDIL Bibliography">Heldensage</strong></span> 
+443
+      ). 
+        <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 53
+      . 
+        Erge Echbél, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 326.5
+        
+      .</p>
+  
+  
+    <p class="result">
+      
+        <span class="oRef">¤</span>breth <span class="trans">horse-judgement:</span> 
+        i n-echbrethaib Áine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> § 813
+        
+      . 
+        <span class="oRef">¤</span>buide <span class="trans">having yellow steeds:</span> 
+        Iubdán mac Abdaein echbuide, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> i 249.25
+        
+      . 
+        <span class="oRef">¤</span>cairptech : 
+        a crích Umaill echcairpdig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> iii 20469
+        
+      . 
+        <span class="oRef">¤</span>cenn:
+      <span class="trans">
+        <span class="def">horse-headed</span>:</span> 
+        Eochaid Eachcend, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 44b31
+        
+      . 
+
+        <span class="oRef">¤</span>cullach <span class="trans">
+        <span class="def">stallion</span>:</span> 
+        im echccullach for eochu .i. i 
+naimsir echmarta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 144.4
+        
+      . 
+
+        <span class="oRef">¤</span>cummascda <span class="trans">
+        <span class="def">centaur</span>, <span class="def">horse-mongrel</span>:</span> 
+        popul torathardha na Centauri ┐. na nEchcumusccda .i. each ┐ duine 
+a cummascc aenpersainne inntip, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3839
+        
+       (possibly na 
+n-ech c., and not a compd.). 
+
+        <span class="oRef">¤</span>dian <span class="trans">of <span class="def">swift</span> <span class="def">steeds</span>:</span> <span class="case g">g</span>
+      <span class="number s">s</span>
+      <span class="gen m.">m.</span> 
+        m. Ailill echdéin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xx 140
+        
+      . 
+? 
+        <span class="oRef">¤</span>díle ? 
+        bíastai granni dracondai cucund dofutitis | 
+tréna a n-amainsi echdíli cíadcutís, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 114b17 
+       (Siaburch. 
+<span class="lbl">om.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 54
+      -
+        5
+      ). 
+
+        <span class="oRef">¤</span>dillat <span class="trans">
+        <span class="def">horsecloth</span>:</span> 
+        marcach for each...eachdillat maith 
+cumtachta foa suidhiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 62 z
+        
+      . 
+        eochdillat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 2112
+        
+      . 
+        <span class="oRef">¤</span>donn <span class="trans">having brown steeds:</span> 
+        a secht Chind Ḟáelad echduind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> iii 15296
+        
+      . 
+
+        <span class="oRef">¤</span>flesc <span class="trans">
+        <span class="def">rod</span>, <span class="def">horsewhip</span>
+      </span> (<span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 echlasc">1 echlasc</a></span>): 
+        dobert béim dind 
+echfleisc dó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 8
+        
+      . 
+        ech a cengal die echfleisc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 7.14
+        
+      . 
+<span class="pos pn" style="color: #ff8000">pn</span> 
+      
+        <span class="oRef">¤</span>lúath <span class="trans">
+        <span class="def">mounted</span> on, or <span class="def">possessing</span> <span class="def">swift</span> <span class="def">steeds</span>:</span> as 
+epithet: 
+        Conall Echlúath, 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 163
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 145d38
+      .
+
+        <span class="oRef">¤</span>mairc: see echthres s.v. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ech">ech</a></span>. 
+
+        <span class="oRef">¤</span>mairt <span class="ediltr">covering a mare</span>: 
+        doluid [in cullach]...co mbói 
+eter scuru Enna Aignig do saigid echmarta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 107
+        
+      . 
+        i 
+n-aimsir echmarta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 144.5 Comm.
+        
+       
+
+        <span class="oRef">¤</span>míne <span class="trans">
+        <span class="def">tameness</span> of <span class="def">steeds</span>:</span> rob iarla co n-echmine 
+<span class="ediltr">possessing tame steeds</span> (?) 
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 59a6
+      . 
+
+        <span class="oRef">¤</span>mór <span class="trans">
+        <span class="def">great</span> in <span class="def">steeds</span>, rich in steeds:</span> 
+        flathius Mael 
+Sechnaill echmóir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 85 § 46
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 185a49
+      . 
+
+        <span class="oRef">¤</span>raite <span class="trans">horse-road: </span> 
+        doronad fri echraite mendoto a medon, 
+          <span><strong class="pop" style="color:blue" href="bibliography/EIF" title="eDIL Bibliography">EIF</strong></span> 538 § 1
+        
+      . 
+        <span class="oRef">¤</span>réid: see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=eichr&#xE9;id">eichréid</a></span>. 
+? <span class="oRef">¤</span>réim (<span class="oRef">¤</span>dréim) <span class="trans">horse-riding (mounting horses ?):</span> 
+        echréim (MS. echdreim) ┐ cor cloiche, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> viii 142.18, cf. 149
+        
+      . 
+
+        <span class="oRef">¤</span>rúad <span class="trans">having ruddy steeds:</span> 
+        dá degmac Ebir echrúaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> i 299
+        
+      .
+        <span class="oRef">¤</span>rúathar: aimsir echruathair (one of the seasons in 
+which roads are cleansed), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1082
+      ; as <span class="pos npr." style="color: #ff8000">npr.</span> <span class="gen m.">m.</span>: 
+
+        Echrúathar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 117
+        
+      . 
+
+        <span class="oRef">¤</span>semmar <span class="trans">a plant name, <span class="def">horse-clover</span>:</span> 
+        
+          <span class="frn ">maculta treisfolium</span> (<span class="frn ">maculatum trifolium</span>?) .i. in eachṡemar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> ix 237
+        
+      . 
+
+        echṡemmar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 101
+        
+       m. inf. <span class="frn ">corona regia</span> .i. an eachṡeamar
+       
+
+        <span><strong class="pop" style="color:blue" href="bibliography/23K42" title="eDIL Bibliography">23 K 42</strong></span>, 415
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/Academy" title="eDIL Bibliography">Academy</strong></span> 1896, 406b
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        eachṡeimri, Med. MS
+      . 
+
+        <span class="oRef">¤</span>srian <span class="trans">
+        <span class="def">bridle</span>:</span> 
+        coīcait n-echsrian, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 310.22
+        
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 326.11
+      , 
+        328.9
+      . 
+
+        <span class="oRef">¤</span>tháid <span class="trans">
+        <span class="def">horse-thief</span>:</span> ní ria a enech...ar echu echthadat 
+<span class="ediltr">he shall not sell his honour for the steeds of a horse-thief</span> 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 86 § 43
+      . 
+        co luga echthádat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 27.15
+        
+      . 
+
+        im loingsechaibh ┐ im echtadait ┐ im macu tiri, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 
+160.2 Comm.
+        
+       echtaitiu (<span class="case a">a</span>
+      <span class="number p.">p.</span>) 
+        iii 22.18 Comm.
+       <span class="case n">n</span>
+      <span class="number p.">p.</span> echtáide (sic leg.) 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 270.5
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xx 480
+      . 
+        ecthaighe, 
+
+          ii 270.5 Comm.
+        
+       
+
+        <span class="oRef">¤</span>thress <span class="trans">a <span class="def">horse-contest</span>, <span class="def">horse-race</span>:</span> 
+        tucait...dá ech... 
+i n-ech-thress curad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 126
+        
+      . bla each echtres 
+....i. slan dona hechaib in tres echda doniat eturru budein 
+`<span class="quote">horse-fight</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 294.15
+      . 
+        co ndernad óenuch ┐ 
+echtressa leo ann, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 128.15
+        
+       (corresp. to: 
+        ic gním 
+óenaig ech-thressa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 350
+        
+      ). oegidacht Úa 
+nDrona de | ocus ech-thress Ossairge (proverbial expressions?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 22
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 18
+      . 
+        echtres Ratha 
+Line, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 268a24
+        
+       (=
+        echrais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 22
+        
+      ). <span class="lbl">Cf.</span> 
+        echtres .i. 
+echmairc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 805
+        
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

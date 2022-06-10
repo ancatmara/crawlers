@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="10227">coimitecht</h3><span class="citation">Cite this: eDIL s.v. coimitecht or <a class="reference" href="10227">dil.ie/10227</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                comaitecht, coimheadacht, comimtechta, comhuideachd, coimhdeacht, comaidiacht</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="itype &#x101;">ā</span>, [<span class="gen f.">f.</span>] old Ir. comaitecht (<span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=con-&#xE9;itet">con-éitet</a></span>), early 
+confused with coímthecht (later caoimhtheacht (<span class="pos Vn." style="color: #ff8000">Vn.</span> of 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=con-imthet">con-imthet</a></span>). 
+        da ainm don choimhideacht . . . sáil ┐ 
+caoimhtheacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Gl." title="eDIL Bibliography">Metr. Gl.</strong></span> 29 § 49
+        
+      . 
+        caoimhtheacht .i. 
+coimhidheacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+        
+       
+        coimheadacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dh&#xE1;Sg&#xE9;alArt." title="eDIL Bibliography">Dhá Sg. Art.</strong></span> 1908
+        
+      . 
+With re-composition comimtechta (<span class="case g">g</span>
+      <span class="number s.">s.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2064
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 14
+      ) 
+(<span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=coimimthecht">coimimthecht</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=coimthecht">coimthecht</a></span>). comhuideachd <span class="gen f.">f.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT Decl.</strong></span> § 26
+       (coimhideachd proscribed form); <span class="gen m.">m.</span>, 
+        § 24
+      . Later 
+coimhdeacht (`<span class="quote">exceptionally . . . in TSh.</span>', Desid. Gloss.).</p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">act of <span class="def">going</span> <span class="def">together</span>
+        </span> (see 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 644
+        ): inna com(th)aitechta (
+          con-taít, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 647
+          
+        ) gl. coitiones, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 37c7
+        -
+          8
+        . 
+comaitecht ceniuil do chenéul `<span class="quote">congruence of gender to gender</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 75a6
+        . hi coimthecht du gréin ┐ escu in óenrind `<span class="quote">in the 
+conjunction of</span> . . .', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCr." title="eDIL Bibliography">BCr.</strong></span> 32a6
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 16.40
+        ). ? 
+          robad 
+inmuin comitecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 106 § 47
+          
+        . </p>
+    
+  
+  
+    <p class="result"> 
+(<span class="edilb">b</span>) With DO <span class="trans">act of <span class="def">agreeing</span> with, <span class="def">favouring</span>, <span class="def">conniving</span> at, 
+etc., in Thes. freq. translated <span class="def">indulgence</span>:</span> 
+        comitecht dund 
+óis nad chaithi cach tuari, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6c11
+        
+      . cometect dóib gl. 
+imbicillitates infirmorum sustinere, 
+        24
+      . comaitecht don 
+brathir enirt gl. caritas uero aedificat, 
+        10b28
+      . 
+        10c2
+      . cometecht 
+dossom `<span class="quote">to be indulgent</span>', 
+        10c10
+      . 
+        11c4
+      . 
+        20b18
+      . cometecht dia 
+n-écoscaib cen chometecht dia mbésbi gl. sine offensione 
+estote Iudeis, 
+        11c5
+      . tri chomaitecht donaib ingraimthidib 
+`<span class="quote">through conniving at</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 15b5
+      . 
+        65d12
+      . 
+        72b18
+      . cen 
+com[ai]techt do <span class="frn ">in prandio</span>
+       `<span class="quote">without sparing him'</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 
+160.9
+      . 
+        comaitecht dond aithesc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 1016
+        
+       = comaidiacht 
+`<span class="quote">Rücksicht</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xxx 153.20
+      . With FRI: di chomitecht <span class="frn ">et</span> 
+condarcilli fri iudeu `<span class="quote">indulgence and connivance</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 19a6
+      . 
+? caemtechta fri colaind do cetmuindtire `<span class="quote">accompanying</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 306.4
+      . Perh. also: ar comaitecht do neuch o pecad 
+`<span class="trans">
+        <span class="def">accompanying</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 143.9
+      . ma rufestar bas n-ethech 
+acht dagni ar baig nó chomitecht `<span class="quote">to shield another</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+vii 156.26
+      . In follg. the accompanying words suggest 
+meaning <span class="trans">
+        <span class="def">concession</span>, <span class="def">grant</span>, <span class="def">tribute</span>
+      </span>: 
+        nī dlig nach rī . . . cīs nā 
+bēs nā gēill nā comaitecht don tīr-ṡin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 207.8
+        
+       
+(
+        comaithecht, 
+          18
+        
+      ). 
+        do rīgh Eassa Rūaidh nī dlecht / cīos 
+nā cāin nā comhuidecht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 116.20
+        
+      . a tuaristla ┐ a 
+comaideachta `<span class="quote">escorts</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert.2" title="eDIL Bibliography">Leb. Cert.²</strong></span> 52
+      . </p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">act of <span class="def">accompanying</span>, <span class="def">escorting</span>, <span class="def">protecting</span>: <span class="def">potestates</span>
+        </span> 
+
+          a ccaoimhthecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 74
+          
+        . do buith daitsiu hi coimthecht 
+oco `<span class="quote">thy being associated in it</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 2a7
+        . 
+          do gudiu choemthechta doib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/VitaBr." title="eDIL Bibliography">Vita Br.</strong></span> 40
+          
+        . 
+          ara choímthecht a taig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 585
+          
+        . coemtecht ┐ seilcecht (of accompanying a 
+person in a crime?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 92.9
+        . 
+          smachta tairgilli cach 
+raithi itir samradh ┐ eturscarad ┐ caomtacht, 
+            iv 78.2
+          
+         (`In 
+technical sense of a system of dividing the year, parts of 
+one season being taken off (etarscarad), and added to 
+(cáemthecht) another season', Plummer MS. notes). 
+condit roib cáemtecht di ánrodaib Ulad <span class="ediltr">till you can be 
+escorted by some of the U. warriors</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4863
+         (TBC). 
+          a 
+comaitecht ┐ a mbíathath ┐ a nem-guin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LMU2" title="eDIL Bibliography">LMU²</strong></span> 163
+          
+        . 
+          coimhdecht nó amhsainecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 112 § 8
+          
+        . ? 
+          mor in mian 
+don choimideacht / do niad gilli na leathbrág, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 
+789
+          
+        . </p>
+     
+      <p class="result"> 
+Attrib. <span class="case g">g</span>
+        <span class="number s">s</span> <span class="trans">
+          <span class="def">accompanying</span>, <span class="def">attendant</span>
+        </span>: a aingel comaidechta 
+<span class="ediltr">guardian angel</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 104.14
+        . 
+          do ainglib coimthechta, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1994
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 6
+        ). 
+          aingel a comaitechta, 
+            1967
+          
+         (
+          3
+        ). 
+          aidire 
+caomtechta fri coir nathcomairc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 282.8 Comm.
+          
+         
+
+          amus comhuidechta, 
+            ii 24.28
+          
+        . 
+          céili coímthechta[e], 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 406
+          
+        . ca mét cornn comaitechta atá ac F.? <span class="ediltr">serving-goblets(?)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5501
+        . cumal coimidechta <span class="ediltr">maid-in-waiting</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 27.14
+        . 
+          ro bái d'iomat a cheithern ┐ a dhamh 
+coimhittechta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 16.27
+          
+        . .vi. dorais chóemtechta 
+<span class="ediltr">protective doors</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2081
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 15
+        ). 
+          'na flichidheacht 
+coimdechta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 249.9
+          
+        . is ina hetan bis di in satan 
+coimidechta (opposite of aingel c.<span class="oRef">¤</span>
+        ?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 138b5
+        . <span class="lbl">Cf.</span>
+drochad . . . comimtheachta `<span class="quote">easily crossed</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 3533
+        .</p>
+     
+      <p class="result"> 
+In <span class="pos vn." style="color: #ff8000">vn.</span> constr.: ni chaemnactar eich . . . in damrad do 
+chomaitecht <span class="ediltr">keep up with</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 8702
+         (TBC). oca chomaitecht 
+do airic menman `<span class="quote">comforting her</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 156.3
+         (TE). 
+
+          mar do bhíadh Íosa ┐ Muire . . . ga choimhideachd, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 695
+          
+        . </p>
+     
+      <p class="result"> 
+V. freq. in phr. i c.<span class="oRef">¤</span>
+         with follg. gen. <span class="trans">
+          <span class="def">accompanying</span>
+        </span>: i 
+coimthecht dagdóine gl. comes perigrinationis nostrae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+16d2
+        . 
+          hí coimtecht inna árcae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 82d1
+          
+        . 
+          33b13
+        . 
+          it 
+chóimthecht, 
+            208b5
+          
+        . 
+          i cóimthecht I., 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Dec. 20
+          
+        . senoir 
+it c.<span class="oRef">¤</span>
+         `<span class="quote">in thy company</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 151.4
+        . 
+          i Coimded 
+coimthecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Death-talesoftheUlsterheroes" title="eDIL Bibliography">Death-tales of the Ulster heroes</strong></span> 10.6
+          
+        . 
+          hi comaitecht a slóig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+8155
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 11
+        ). i c.<span class="oRef">¤</span> seoit cethramda <span class="ediltr">in the case of</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 
+230.10 Comm.
+         gan chin 'na choimeitteacht <span class="ediltr">sinless</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 206.2
+        . a comaidhecht an claidhim <span class="ediltr">as well as the sword</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 185.20
+        . teacht a coimhdecht mná <span class="ediltr">to have intercourse 
+with a woman</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 132 § 43
+        . fir ina caeimthecht (of 
+woman), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> 135
+        . </p>
+     
+      <p class="result"> 
+With follg. prep. 
+          óes insin bís [i] coímthecht do ḟlaith, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 594
+          
+         (a kind of vassal service, p. 107). 
+          comaitecht 
+re hairdrígh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 116.8
+          
+        . 
+          a hainm i ccaoimthecht fria 
+hanail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 39.24
+          
+        . 
+          lotar do chomaideacht lais, 
+
+            xvi 
+84.90
+          
+        . do choimidacht ort <span class="ediltr">to dance attendance on you</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CF2" title="eDIL Bibliography">CF²</strong></span> 
+773
+        . </p>
+     
+      <p class="result"> 
+In pl. in concr. sense <span class="trans">
+          <span class="def">attendants</span>, <span class="def">companions</span>, <span class="def">escort</span>
+        </span>: do 
+caemtechtaib `<span class="quote">by attendants</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 510.1
+        . 
+          coimthecht 
+ecin do chaimthechtaib C., 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 880
+          
+        . </p>
+     
+      <p class="result"> 
+In n. loc. for 
+          Druim Cáemtechta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4605
+          
+         (TBC). 
+          dar 
+Mona[i]d Cöemtechta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Otia" title="eDIL Bibliography">Otia</strong></span> iii 48 § 5
+          
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="33322">núa, núae</h3><span class="citation">Cite this: eDIL s.v. núa, núae or <a class="reference" href="33322">dil.ie/33322</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                nōe, nuae, nue, naue, nuu, nuai, núi, nuie, nuai, nui, nui, nui, nuae, nuib, núa, núa, nuadh, núa, núa, na, naoi, núa, núa, naoi, nóe, nú-, nuad, nó-, nuachrechnaigthi</p></div><div class="col-sm-9 result_content">
+   
+
+
+
+ 
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype io,-i&#x101;">io, iā</span>. O.Ir. 
+        nōe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 270.6
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 16a2
+      ). 
+
+        nuae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 17b5
+        
+      , 
+        18d6
+      , <span class="lbl">etc.</span> 
+        nue, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 131b1
+        
+      . 
+        naue, 
+          217 <span class="lbl">marg.</span>
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii p. xxii
+      ); 
+        5b6
+      . <span class="case d">d</span>
+      <span class="number s">s</span>
+      <span class="gen m.">m.</span> 
+        nuu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 2b11
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Enchir.Aug." title="eDIL Bibliography">Enchir. Aug.</strong></span> 85a
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 485
+      ) ? <span class="case g">g</span>
+      <span class="number s">s</span>
+      <span class="gen n.">n.</span> 
+        nuai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 106d8
+        
+       (gl. recentis [victoriae], 
+but the glossator prob. thought of the Irish buaid). <span class="case a">a</span>
+      <span class="number s">s</span>
+      <span class="gen f.">f.</span> 
+        núi, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 74
+        
+       (nue <span class="lbl">v.l.</span>). <span class="case a">a</span>
+      <span class="number s">s</span>
+      <span class="gen n.">n.</span> 
+        nuie, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4b29
+        
+      , 
+        7c7
+      , <span class="lbl">cf.</span> 
+        28b29
+       
+(nuiethicid); 
+        <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 28
+       refers this form to núide. <span class="case d">d</span>
+      <span class="number s">s</span>
+      <span class="gen f.">f.</span> 
+        nuai, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 32b14
+        
+      . 
+        nui, 
+          2b11
+        
+      , 
+        35c3
+      . <span class="case n">n</span>
+      <span class="number p">p</span>
+      <span class="gen m.">m.</span> 
+        nui, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 22a30
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 115b4
+      . 
+ <span class="case a">a</span>
+      <span class="number p">p</span>
+      <span class="gen m.">m.</span> 
+        nui, 
+          115b2
+        
+      . <span class="case g">g</span>
+      <span class="number p">p</span>
+      <span class="gen n.">n.</span> 
+        nuae, 
+          138c16
+        
+      . <span class="case d">d</span>
+      <span class="number p">p</span>
+      <span class="gen n.">n.</span> 
+        nuib, 
+          75a12
+        
+      , 
+        139a2
+      . 
+Mid.Ir. núa (common form), núe. Mod. núa, often written 
+nuadh in classical period. 
+        núa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. § 139
+        
+      , 
+        § 204
+      , 
+        § 206
+      . 
+ <span class="case g">g</span>
+      <span class="number s">s</span>
+      <span class="gen m.">m.</span> núa, 
+        na, 
+          § 204
+        
+      . 
+        naoi, 
+          § 206
+        
+       (in phr. Rí nimhe naoi; the 
+word neamh being treated as of two genders). <span class="lbl">Cf.</span> 
+        meic Naoi 
+nert-naoi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iv 34.2
+        
+      . <span class="case g">g</span>
+      <span class="number s">s</span>
+      <span class="gen f.">f.</span> núa (na nimhe núa), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> 
+Dec. § 206.
+       <span class="case d">d</span>
+      <span class="number s">s</span>
+      <span class="gen m.">m.</span> núa, <span class="lbl">ib.</span> <span class="case d">d</span>
+      <span class="number s">s</span>
+      <span class="gen f.">f.</span> naoi, <span class="lbl">ib.</span>; 
+        ex. 1934
+      . The archaic 
+form nóe survives in poetry down to Mod.Ir.; see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=n&#xF3;dh">nódh</a></span> and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=3 n&#xF3;">3 nó</a></span>.</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">new</span>, <span class="def">recent</span>, <span class="def">fresh</span>:</span> in Glosses translates novus and 
+ recens. 
+          nua <span class="frn ">quasi noua</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 995.
+          
+         cétal nuae, gl. canticum novum, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 60a12
+        . moltai nui . . . nad ro cheta riam 
+(= <span class="frn ">inusitata carmina</span>), 
+          115b4
+        . ní nuae dunni ind esamnae so 
+ <span class="ediltr">this confidence is not new to us</span>, 
+          110d12
+        , <span class="lbl">cf.</span> 
+          17b5
+        . memmbrum 
+naue <span class="ediltr">new parchment</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 217 <span class="lbl">m. inf.</span>
+         
+          hó shiun co nuie, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+4b29
+          
+        . 
+          is gel cach nua, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 43.
+          
+         
+          tech nue, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 137.8
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10580
+        ) 
+= 
+          t. nuad, 
+            <span class="lbl">ib.</span> 21
+          
+         (Eg.). 
+          a tigh naí, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 345 § 4.
+          
+         
+          dorónad 
+fín nua isna lestraib nuib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5511.
+          
+         
+          forcetul nua, 
+            1688
+          
+        . 
+sc[el]a an rechta naeí <span class="ediltr">of the new (i.e. Gospel) law</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 184.9
+        . 
+
+          i ndligheadh nua ┐ i seindliccheadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 536 n
+          
+        . 
+          an 
+soitheach nua ┐ an sean-shoitheach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 728.
+          
+         
+          rígh núa, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Exodus</strong></span> i 8.
+          
+         a ló na rée nuáidhe <span class="ediltr">of the new-moon</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Ezekiel</strong></span> xlvi 1.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">of persons in various senses <span class="def">young</span>, <span class="def">fresh</span>, <span class="def">lusty</span>, <span class="def">vigorous</span>, 
+passing in later poetry into that of <span class="def">bright</span>, <span class="def">fair</span>:</span> 
+          gilla nua 
+noidenda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 267a7
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/MU" title="eDIL Bibliography">MU</strong></span> 34.9
+         (of a boy of 11). Níall núa 
+`<span class="quote">young N.</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 104.1
+        . ni nia nad nua fri cotach Conuail 
+`<span class="quote">not a champion that is not strong as to the league of C.</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 
+118
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 286
+        ). 
+          do throit ra níaíd nua, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3410
+          
+        ; quoted 
+by O'Cl. with gl. nua .i. lāidir, and so taken by Windisch 
+(<span class="quote">mit einem starken Helde</span>). macan Cathbaid coeim ocus 
+Neassa nua `<span class="quote">of N. the strong</span>' (? <span class="ediltr">fair, bright</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> vi 177 z
+        . in 
+cuire noem nua (of the Apostles in heaven), 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 256.2
+         
+(= 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 262b37
+        ). Iosa Chríosd ceann na naomh nua `<span class="quote">the bright 
+saints</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxvi 34
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">of things, often <span class="def">fresh</span>, <span class="def">clear</span>, <span class="def">bright</span>, <span class="def">fair</span>:</span> 
+          nemh núa, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 307 § 22
+          
+        ; a common epithet of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 nem">1 nem</a></span>, see 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. 
+§ 206.
+         comde nimi núi (? nuí), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 307a14
+        . 
+          ríoghain nimhe 
+naoi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> ii 7.
+          
+         ? 
+          inar nar mín fa cnes núa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 
+303 § 4
+          
+         (: luadh; of Colum Cille, perh. <span class="ediltr">tender, sensitive</span>). cróch 
+buidhe i gcoróin naoi a cinn (of a fair woman compared to a 
+daisy), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xi 14
+        . rosg nua `<span class="quote">bright</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 19.1
+        ; <span class="lbl">cf.</span> guidhis 
+an bhféata bhfoltnaoi `<span class="quote">the lovely shining-haired one</span>', 
+          1.24
+        . 
+
+          decair coimes red chéibh núa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. ex. 1934.
+          
+         
+          don 
+fhréimh naoi-si chéibhfinn Chuinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 193.43
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) as <span class="pos subst." style="color: #ff8000">subst.</span> folld. by gen. <span class="trans">
+          <i>that which is</i> <span class="def">new</span> (<span class="def">fresh</span>):</span> 
+          núa 
+cacha bíd ┐ sen cacha dighi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 27
+          
+        , <span class="lbl">cf.</span> 
+          5061
+        . 
+          ro thoirbir 
+nua bidh ┐ sen corma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 25.25
+          
+        . núa corma <span class="ediltr">new ale</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 124.22
+        . 
+          conid for mesca do nua fína ro batar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+5394.
+          
+         núa luachra <span class="ediltr">fresh rushes</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. ex. 685.
+         tabhram 
+fad' bhreith . . . nua na calla sul chríonai-se `<span class="quote">my body's vigour 
+ere it withers</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xvi 8
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 383.23
+        . <span class="trans">
+          <span class="def">Newness</span>:</span> 
+in tempall do dhénamh asa núa <span class="ediltr">to rebuild the church</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 
+14.22
+        . a leagadh aris, indus co ndentaí asa núa é <span class="ediltr">that it 
+might be remade</span> (of a knife), 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 260.
+         <span class="trans">
+          <span class="def">Youth</span>:</span> 
+          ní nach 
+dearnadh as mo nua ná as mo naoidheandacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 100.14
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) in <span class="pos advl." style="color: #ff8000">advl.</span> use: nuie tanicc cuccumsa (gl. hospes meus) 
+ <span class="ediltr">lately</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 7c7
+        . co naue <span class="trans">till <span class="def">lately</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 5b6
+        . 
+          dorinne ridire co 
+nua dim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xix 30 § 30.
+          
+         go nó (nuadh <span class="lbl">v.l.</span>) `<span class="trans">
+          <span class="def">lately</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> 
+i 18 § 1.
+         slucit na dá draic déc co nóe d'éis aroli in anmain <span class="ediltr">swallow the soul anew one after another</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 183.29
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 20
+         
+LB). d'iarraidh síth go nua 'nois <span class="trans">
+          <span class="def">anew</span>, <span class="def">again</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> ix 15
+        , 
+<span class="lbl">cf.</span> 
+          viii 18
+        , 
+          xvi 78
+        . muna ndiúlta dibh go nuadh `<span class="quote">unless you 
+deny (as no one yet)</span>', 
+          xvi 21
+        . Also co nú, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 n&#xFA;">1 nú</a></span>. is i nnuu 
+atbath <span class="trans">
+          <span class="def">recently</span>, <span class="def">just</span> <span class="def">now</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 11 Comm.
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 160.14
+        ) = 
+
+          is nu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 575.
+          
+         gid andlaicter misi a nÍ . . . is a nDun anfad 
+a nuadh `<span class="quote">in Down I shall dwell anew</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 373.
+        
+      </p>
+    
+  
+  
+    <p class="result"> 
+Compds. Freq. used in various senses to form unstable 
+compd. (often in contrast with similar compd. with sen-); also 
+nú-, in mod. lang. often 
+        nuad h- and in late poetry nó-.</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) 
+with noun: 
+          <span class="oRef">¤</span>bla (<span class="number pl.">pl.</span>) `<span class="quote">new fames</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 295.8
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SP" title="eDIL Bibliography">SP</strong></span> v 4
+        ). 
+
+          <span class="oRef">¤</span>bés: i n-urd núabésa `<span class="quote">of the new rite</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 76 x
+        . 
+          <span class="oRef">¤</span>cath: 
+          Aed 
+eangach na nuachath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 89 § 116.
+          
+         n.<span class="oRef">¤</span>cland <span class="trans">new <span class="def">plantations</span>:</span> 
+          nua-chlandib(us) gl. <span class="frn ">noualibus</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> xxii 212 § 62
+          
+        . 
+          <span class="oRef">¤</span>cnám: 
+          núadchnáimh 
+géill asail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Judges</strong></span> xv 15
+          
+        . 
+          <span class="oRef">¤</span>congbál <span class="trans">a <span class="def">new</span> <span class="def">steading</span>, <span class="def">settlement</span>
+        </span>: 
+as <span class="pos n.l." style="color: #ff8000">n.l.</span> 
+          cell nuachoṅgbal, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 286a40
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 34
+        ). 
+          <span class="oRef">¤</span>cride: 
+ fig. nuachroidhe chreidimh <span class="ediltr">newfangled doctrine</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 
+9.9 (pref.). 
+          <span class="oRef">¤</span>cruth: it núacrutha na haisti seo <span class="ediltr">new [metrical] 
+ forms</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 23 § 68.
+         
+          <span class="oRef">¤</span>cúirt <span class="trans">a <span class="def">new</span> <span class="def">court</span>:</span> <span class="case g">g</span>
+        <span class="number s.">s.</span> 
+          na nuachúirte, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 80.1
+          
+        . 
+          <span class="oRef">¤</span>ésca: nú-esca <span class="trans">a <span class="def">new</span> <span class="def">moon</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1686.
+         
+          <span class="oRef">¤</span>fala: 
+          a 
+senghomh ┐ a nuafhaladh di aroile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2266.24
+          
+        . 
+          a seanfholta ┐ a nuafholta, 
+            iv 1176.6
+          
+        . 
+          <span class="oRef">¤</span>litrid <span class="trans">a <span class="def">new</span> (<span class="def">recent</span>) <span class="def">writer</span>:</span> 
+<span class="number pl.">pl.</span> 
+          núalitríde, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 23 § 68.
+          
+         nuailitridi, <span class="lbl">ib.</span> 
+          la nuelitridi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+5b11
+          
+        , 
+          90b4
+        . 
+          <span class="oRef">¤</span>long: 
+          a núalonga . . . a senlonga, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1919.
+          
+         
+
+          <span class="oRef">¤</span>maise: 
+          fo nuamaisi fhigi ┐ ber[r]tha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2423
+          
+        . 
+          <span class="oRef">¤</span>partaing: 
+
+          cosmail do nuapartaing a beóil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 208.
+          
+         
+          dergithir nuapartaingi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 64.24
+          
+        . 
+          <span class="oRef">¤</span>peccad: 
+          a thaiscid senpheccaid, a 
+thuilled nuapheccaid!, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8227.
+          
+         
+          <span class="oRef">¤</span>recht: sacramuinti an 
+nuai-reachta <span class="ediltr">of the new law (Gospel dispensation</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 
+2.8
+        . 
+          <span class="oRef">¤</span>slige (vn.): horaili nuasligi (gl. quodam novali) <span class="ediltr">newly 
+broken land</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 2a6
+        . 
+          <span class="oRef">¤</span>tech: núathaig .i. teach nua nimhe 
+ <span class="ediltr">bright (resplendent) house</span>, O'Cl. nuiethicid <span class="trans">a <span class="def">novice</span>
+        </span> (gl. 
+ neophytum), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28b29
+        . <span class="number pl.">pl.</span> 
+          nuethigti, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 28 § 68.
+          
+         nuae-thintud <span class="trans">a <span class="def">new</span> <span class="def">translation</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 2a6
+        . See also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=n&#xFA;&#x1E1F;iadnaise">núḟiadnaise</a></span>.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) with adj. formed from noun; with others forming 
+dwanda-compds.: 
+          <span class="oRef">¤</span>crothach: 
+          [Fedlim] núachrothach .i. 
+cruth núa do thaisbentá do cach áen fuirri ara caíme, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 257.
+          
+         
+          Fedlím nochrothach . . . no nuachraideach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 
+253b1
+          
+        . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=no&#xED;">noí</a></span> (compds.). 
+          <span class="oRef">¤</span>maisech: comp. 
+          cach ní . . . bá 
+nuamassigi dá n-étaigib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 219b2
+          
+        . 
+          <span class="oRef">¤</span>bind: 
+          cruite nuabinde, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 3793.
+          
+         
+          <span class="oRef">¤</span>gel: 
+          co núagel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 270.2
+          
+        . 
+          gasraid 
+. . . nuagel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 160.6
+          
+        . 
+          <span class="oRef">¤</span>glan: 
+          dechealta nuaglana, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 
+3869.
+          
+         d'ainglib nuaghlana <span class="ediltr">bright and pure</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 274.4
+        . 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1373
+        . 
+          tír nóghlan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> iii 68 z
+          
+        . 
+          <span class="oRef">¤</span>glas: 
+          co coilltib 
+nuaglasa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1715
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) with vb. <span class="trans">in <span class="pos adverbial" style="color: #ff8000">adverbial</span> sense <span class="def">anew</span>, <span class="def">afresh</span>:</span> 
+          ro nigh ┐ ro 
+nuacōrigh a gnuis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 25.24
+          
+        . 
+          ra nuaglanait a n-étaigi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 232a30
+          
+        . 
+          ro nuaglanaid cathbarr[a], 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1273
+          
+        .</p>
+     
+      <p class="result"> 
+Similarly with vn.: in lebar so . . . do núachorúghadh <span class="ediltr">to 
+rearrange (re-edite</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 392.5
+        . 
+          tech . . . iarna nuadhenum, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Thurn.ZuIr.Hdschr.u.Lit." title="eDIL Bibliography">Thurn. Zu Ir. Hss.</strong></span> i 42.30
+          
+        . iar nódhul i dtalamh d'Éamonn 
+`<span class="quote">since the late interment of E.</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> i 146.19.
+         ag nuaghol <span class="ediltr">weeping anew</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 162.
+        
+      </p>
+     
+      <p class="result"> 
+With part.: nuachrechnaigthi <span class="trans">
+          <span class="def">freshly</span> (<span class="def">lately</span>) <span class="def">wounded</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+iv 384.20
+        . 
+          Nena nuagnithi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 50.3
+          
+         (<span class="trans">`<span class="def">new-made</span>?' 
+Gloss.; <span class="def">fair-formed</span>?</span>).</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

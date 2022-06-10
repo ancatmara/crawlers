@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="22335">1 fó</h3><span class="citation">Cite this: eDIL s.v. 1 fó or <a class="reference" href="22335">dil.ie/22335</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/></div><div class="col-sm-9 result_content">
+   
+
+    <p class="result">(for etym. see 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxxii 195
+      ) <span class="pos adj." style="color: #ff8000">adj.</span> and <span class="pos subst." style="color: #ff8000">subst.</span> <span class="trans">
+        <span class="def">good</span>
+      </span> ; an 
+O.-Ir. word, in later lang. confined to poetic and archaizing 
+style : fó .i. maith, O'Cl., 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lec.Gl." title="eDIL Bibliography">Lec. Gl.</strong></span> 154
+      , <span class="frn ">bonum</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 547
+      . 
+
+        fó ainm do mhaith is do mhíadh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Gl." title="eDIL Bibliography">Metr. Gl.</strong></span>, Ff. 4
+        
+      . As pred. : 
+
+        fó díbad (.i. maith a epiltiu), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 678
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 31
+      ). ma dagnet 
+ní airi is fó <span class="ediltr">it is well</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 2
+      . 
+        fó cach scél, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 
+34.172
+        
+      . 
+        fó (.i. maith) mo cherd láechdachta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6169
+        
+      . 
+
+        fó mo cosc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 118.11
+        
+      . <span class="lbl">Cf.</span> 
+        in tan ba fó fīrUlltaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 
+200.5
+        
+      . 
+        sech ba fial ba fíu ba fó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 35a21
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 84a7
+      . nī fó 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3947
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 44
+      ). 
+        ní fó an fecht dochuadhais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 172.20
+        
+      . 
+ <span class="lbl">Cf.</span> gé iarradh neach ní budh mō, | urdail frighedh nī fō fair 
+ <span class="ediltr">it is not right to add to it</span> (?) 
+        vii 302z
+       (= 
+        fó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 318b26
+        
+      ). 
+
+        Michiae, ba fó fia, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7455
+        
+      . 
+        maith fer Patraic ... fó fer 
+Patraic, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 242.24
+        
+       ( 
+        <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2874
+      ). 
+        maith fer Macc Cecht, 
+fó fer Macc Cecht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 157
+        
+      . 
+        fil fora chend cid fó 
+fer | ... tri foilt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3822
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 37
+      ). 
+        fo fo cech scel (.i. is maith 
+is maith cach scel), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 110b12
+        
+       (= 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 34
+      ). fo bioath 
+(= biad) indso `<span class="quote">good food this</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 86
+      . fó Dei (gl. bonus 
+Deus) 
+        <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 3341
+      . fo dia, a Feidlimid! <span class="trans">
+        <span class="def">hail</span>!</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 
+66.3
+      . 
+        fodia .i. fo ┐ <span class="frn ">dies</span> .i. fó láe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 590
+        
+      . fó líth .i. 
+sén maith `<span class="quote">good luck</span>' O'Cl. 
+        is fólíth linn in scéul sin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> 
+i 128.11
+        
+      . 
+        do A. nirb fo lith, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6189
+        
+      . 
+        nír fó líth | liṅges 
+Ír sech Íth, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 12b25
+        
+      . 
+        fō mind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 109 § 12
+        
+      . fó sén 
+dia ngaib O. Alpain <span class="ediltr">it was a lucky hour when O. took possession 
+of Alba</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 33 § 7
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> i § 4
+      ). 
+        ní fó sén i tancas din 
+tochmarc-sa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 95
+        
+      . 
+        fó húar mad mé foglesed, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+ii 63 § 1
+        
+      . IS FÓ LIMM <span class="trans">I deem <span class="def">good</span>, <span class="def">like</span>, am <span class="def">satisfied</span> (<i>with</i>
+      </span>), 
+folld. by subst. or clause : fo lib lige a ai (.i. is maith lib ...) 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1065
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 106
+      ). 
+        ba fo leo in frithi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 360
+        
+      . is fo lium 
+cia rafesid (gl. non volumus ignorare vos) 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14b20
+      . 
+        fó 
+(.i. maith) leó rodascload nech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy</strong></span> v 53
+        
+      . 
+        bid fó lim donísed 
+comartha n-úait, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5402
+        
+      . 
+        ni head condaigimm ... ; fó 
+liumm cé notísad de, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 21.25
+        
+      . 
+        ba maith dano limsa ... 
+acht bith fó lat so, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 310.18
+        
+      . Sometimes equiv. to 
+is cumma limm <span class="trans">
+        <span class="def">I care not</span>, am <span class="def">indifferent</span>:</span> is fo limsa mu 
+laiget <span class="ediltr">my smallness does not trouble me</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 297
+       (quoted 
+by O'Cl. under fó .i. cuma). fó limsa ón ... cia théis <span class="ediltr">I don't 
+mind if he go</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5554
+      . fó limsa ón ... case [ = cibē St] 
+
+        chruth i mbet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 447
+        
+       (= 
+        cumma lem, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4654
+        
+      ). 
+        fo leis 
+gid no rissed ┐ ba fo leis gin co rissed, 
+          2190
+        
+       (= cuma les St). 
+ba fo laiss cidh ár noláthe for a muintir, acht ... <span class="ediltr">he cared not 
+... so long as</span> ... 
+        <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3730
+      . 
+        bá fó leis a bádhadh féin acht 
+co mbáidhedh a námhait leis, 
+          2155
+        
+      . IS FÓ DOM <span class="trans">
+        <span class="def">it is good</span> (<span class="def">no 
+harm</span>) <span class="def">for me</span>:</span> 
+        cid as fó dam ?, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 12
+        
+      . fó duit-siu 
+gid dia mbendaib nochingthe <span class="ediltr">you might safely step</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1346
+      
+= is cuma duit cid ... chinge St. 
+        fó dúib fatchius, 
+          504
+        
+      . fo duit 
+cia nocotailtea <span class="ediltr">it would be well for thee to sleep</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 72.21
+Comm.
+      
+    </p>
+  
+  
+    <p class="result"> 
+Rarely attrib. : 
+        funchi fó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3054
+        
+      . 
+        fiada fó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 278a33
+        
+      
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 68
+      : `<span class="quote">the good God</span>'). ? 
+        fri ferccai fōa '<span class="quote">fine warriors</span>', ​<span><strong class="pop" style="color:blue" href="bibliography/BDC" title="eDIL Bibliography">BDC</strong></span> 144.632
+        
+      ​.</p>
+  
+  
+    <p class="result"> 
+As <span class="pos adv." style="color: #ff8000">adv.</span> (?) : 
+        snigfid fairne [ferna <span class="lbl">v.l.</span>] fer ga fó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 539
+        
+      
+(co fo. go fó <span class="lbl">v.l.</span>). <span style="color: #ff8000">Compar.</span> 
+        ca soithech fithir is fo ? (.i. ca 
+hadbhur oide is ferr), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 488 § 7
+        
+       (B. na f.).</p>
+  
+  
+    <p class="result"> 
+As <span class="pos subst." style="color: #ff8000">subst.</span> : <span class="gen n.">n.</span> and <span class="gen m.">m.</span> fó n-olc (gl. bonum malum) 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+vii 480
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Enchir.Aug." title="eDIL Bibliography">Enchir. Aug.</strong></span> 71a
+        
+      ). is e a fó in fó thall <span class="ediltr">his good is the 
+good yonder</span> (i.e. <span class="ediltr">Heaven</span>) 
+        <span><strong class="pop" style="color:blue" href="bibliography/Goid." title="eDIL Bibliography">Goid.</strong></span> 94
+      . ? 
+        cáin cach fó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 
+34
+        
+       (fou <span class="lbl">v.l.</span>). 
+        cach fó dó ... co ndá (.i. co tuca ... gach maith 
+dó), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 489 § 13
+        
+       (B. na f.). 
+        nach fō rocólae ┐ nach maith 
+atcondairc, 
+          iii 452.12
+        
+      . Eo Rosa ... fó foirne <span class="ediltr">the good of a 
+multitude</span> (?) 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 200a3
+      . <span class="lbl">Cf.</span> 
+        is tir hi fuil fó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3058
+        
+      . </p>
+  
+  
+    <p class="result"> 
+The follg. may contain the gen.: 
+        fói leis cía nobeth inti, 
+fói leis cenco beith, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 1235
+        
+       ( = 
+        foi ... foi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 406b51
+        
+      ). 
+is faoi leis an bhfear ... gion go ndéine inn d'ionnlach | sinn 
+dá chēile coimhdhiomdhach = <span class="ediltr">he is content</span> GF, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 
+1919, 568
+       ( 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 101.48
+      ).</p>
+  
+  
+    <p class="result"> 
+Compds. Possibly the follg. (if not compds. of the prep. 
+fo): co Feradach Finn Fechtnach fobéo [fobeu <span class="lbl">v.l.</span>] <span class="ediltr">of 
+happy life</span> (?) 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 91 § 3
+       (the corresp. section in A has 
+F.F.F. Fo buan <span class="lbl">ib.</span> 
+        80
+      ). Ogam focosach <span class="trans">`<span class="def">well-footed</span>' [?]</span> 
+(a kind of Ogham in which the strokes were dotted) 
+        <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 
+6062
+      . <span class="lbl">Cf.</span> also: 
+        dedol ... .i. dā fhōthadáil. dá dagthodail 
+do dhía, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thr.Ir.Gl." title="eDIL Bibliography">Thr. Ir. Gl.</strong></span> 15
+        
+      . </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

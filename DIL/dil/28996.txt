@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="28996">inunn, in(n)onn</h3><span class="citation">Cite this: eDIL s.v. inunn, in(n)onn or <a class="reference" href="28996">dil.ie/28996</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                hinunn, inaind, inunna</p></div><div class="col-sm-9 result_content">
+   
+
+
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 484
+      ). Lenites follg. 
+fem. subst. : 
+        is hinunn chiall indib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 144b1
+        
+      . 
+        is inunn 
+chiall ..., 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 114b1
+        
+      . 
+        77b1
+      . Originally invariable : 
+        it inonn 
+side <span class="frn ">et qui</span> ..., 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 23b16
+        
+      ; but later inflected as <span class="itype o,&#x101;">o,ā</span> : <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+? 
+        inaind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/KZ" title="eDIL Bibliography">KZ</strong></span> xxix 372.21
+        
+       (see 
+        p. 375 n.
+      ). 
+        it inunna
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> 
+iii 26.14
+        
+      . 
+        it inunda aimser (? <span class="lbl">leg.</span> aimsera) doib, aimser L. 
+rig Eirenn; ocus T. ... airdrig in domain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 2.y
+        
+      . 
+        isat 
+inunda a ngnima, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 256a60
+        
+      .</p>
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">I</span>
+      </p>
+     
+      
+        <p class="result">
+           <span class="trans">
+            <span class="def">alike</span>, <span class="def">equal</span>, the <span class="def">same</span>, <span class="def">identical</span>, <span class="def">the one</span>:</span> in innonn 
+less <span class="frn ">parbulus et nutrix</span>
+           `<span class="quote">does he deem ... the same</span> ?,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+24d11
+          . ar is innon iress nodonfirianigedar `<span class="quote">for it is the same 
+faith that justifies us</span>,' 
+            19a14
+          . 
+            corop inonn cretem bes hi 
+far cridiu <span class="frn ">et</span> anasberaid hó bélib, 
+              7d10
+            
+          . is hinonn persan 
+gnís ┐ fodaim `<span class="quote">'tis the same person that acts</span> ...,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 143a6
+          . 
+conid hi.<span class="oRef">¤</span> folad dóib `<span class="quote">so that they have the same substance</span>,' 
+
+            9a15
+          . is hi.<span class="oRef">¤</span> intṡliucht sluindite diblinaib `<span class="quote">identical</span>,' 
+            76b5
+          . 
+
+            is i.<span class="oRef">¤</span> chiall isindi as <span class="frn ">scit</span> ┐ as <span class="frn ">nóuit</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 114b1
+            
+          . 
+            is i.<span class="oRef">¤</span> inne fil 
+indib diblinaib, 
+              74d7
+            
+          . 
+            is i.<span class="oRef">¤</span> cumachtae .i. is ed a cumachtae 
+cétnae indí dáe rodamsoersa din galarsa ┐ durat digail 
+forsna assaru, 
+              48a21
+            
+          . is do imthrenugud ón asind fetarlaici 
+as n-i.<span class="oRef">¤</span> tosach preceptae Iohain ┐ Íssu crist `<span class="quote">to confirm ... 
+that the beginning of the preaching ... is the same</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Tur." title="eDIL Bibliography">Tur.</strong></span> 39.
+           
+ond inund tuitim gl. eodem lapsu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Goid." title="eDIL Bibliography">Goid.</strong></span> 68.2
+          . 
+            conid 
+snedhcasbar[dne] dosberar do suidiu ┐ ni lancasbar[dne], 
+it inunna hi tomus, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 26.14
+            
+          . 
+            o becaib co moraib ... o 
+rigaib co hamrigaib, is inann bescna a teallaig la Feine, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 466.18
+            
+          . it inunna na tri seoit ocus na cuic seoit 
+iar fut `<span class="quote">are equal to</span>,' 
+            i 102.12 Comm.
+           
+            ni sain ani canas an 
+rí firen fri firinne na sgreptra acht is inann, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2276
+            
+           
+(&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 20c
+            
+          ). ba inond aithesc la firu Herend fri Eochaid 
+<span class="ediltr">the one request</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10717.
+           
+            niba inund socraidecht do 
+chorpaib na naem uli thall úair nach inund cid fochraic, 
+
+              2646
+            
+          -
+            7
+          . 
+            inand éitiud ┐ gaiscead ┐ dath each doib a ceathrur, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 120.
+            
+           
+            inund foglaim fríth dúinn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4166.
+            
+           
+            i.<span class="oRef">¤</span> 
+māthair dóib ... ocus i.<span class="oRef">¤</span> senathair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 5.12
+            
+          . 
+            ní chuindig 
+nech ní o'raile dib, fo bith ar is inand a sommatu ┐ is 
+cutrumma a ndommatu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 847.
+            
+           
+            ni hinund sét tancatar 
+... ┐ dochuatar doridise, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7037.
+            
+           ní hionand gnáth damhsa 
+is duitt `<span class="quote">thy way is not my way</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1920, 263 § 11
+          . 
+ionann daoibhse bheith gan chairt | na neithe taoi do 
+labhairt `<span class="quote">you might as well have no charter</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> v 91.
+           
+
+            neimhionann sermoniass ┐ ord ceilibartha don chathraigh si 
+┐ don chūirt Rōmhānaigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 100.8
+            
+          . ní bhíd cosa an 
+bhacaidh ionann `<span class="quote">are not equal</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> xxvi 7.
+           
+            gurab 
+ionann iad, acht amháin, go raibh íodhbairt na Croiche 
+fhuilteach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 426.4
+            
+          .</p>
+       
+        <p class="result"> 
+ionann (sin) ré a rádh `<span class="trans">
+            <span class="def">that is to say</span>
+          </span>' : 
+            ionann sin ré a 
+rádh ┐ nach gabhann gan síneadh láimhe, sioróipe ... do 
+thabhairt don othar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 8246.
+            
+           ni mó dheuntaoi Dée d'ór; 
+noch is ionann re rádh agus so : Ni bhiaidh Dée coimhightheacha agad `<span class="quote">which is the same thing as to say</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 
+58.z
+          .</p>
+       
+        <p class="result"> 
+As attrib. <span class="pos adj." style="color: #ff8000">adj.</span> (declined), <span class="trans">
+            <span class="def">similar</span>, <span class="def">same</span>, <span class="def">identical</span>:</span> fear 
+congeb ... trede .i. tri dana inanna aigi .i. durtech ┐ muilinn 
+┐ ibroracht `<span class="quote">three parallel arts</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 104.21 Comm.
+           
+
+            is imarcraid n-innisen tíachtain darna nechib inundaib 
+fo dí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 7915.
+            
+           bīad inann cech aenduine `<span class="quote">the same food 
+for every one</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 74.32
+          . gabuir da édach inunna 
+`<span class="quote">identical</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/RosaAngl." title="eDIL Bibliography">Rosa Angl.</strong></span> 66.24
+          . 
+            san aon-áit ionainn theilgthear 
+iad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 908.
+            
+          
+        </p>
+       
+        <p class="result"> 
+Used <span class="pos adverbial" style="color: #ff8000">adverbial</span>ly, <span class="trans">
+            <span class="def">in the same way</span>, <span class="def">alike</span>, <span class="def">equally</span>:</span> 
+            gniid 
+sem for nach naile hi.<span class="oRef">¤</span> ┐ gniid side ..., 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 199a5
+            
+          . ni hínand 
+mogaigus maine do neoch tellach i tir co cruib ocus i tir 
+cen cru `<span class="quote">it is not equally property increases for (one who 
+has made) entry into a land with fences and into a land without fences</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 24.6 Comm.
+           
+            ionann tig is téid uain | 
+maith bhréige an bheatha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxviii 40.
+            
+           
+            gurab ionann 
+tigeadh an bás do rochtain an óig ┐ an arsaidh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 360.
+            
+          
+        </p>
+       
+        <p class="result"> 
+inunn ocus <span class="trans">
+            <span class="def">the same</span> (<i>thing</i>) <span class="def">as</span>, <span class="def">just as</span>:</span> is i.<span class="oRef">¤</span> ┐ tolli `<span class="quote">it 
+is the same as</span> tolli,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 24.33
+           (Bcr.). adultrus ... 
+is i.<span class="oRef">¤</span> ocus in t-eisinnrucus im breithir `<span class="trans">
+            <span class="def">equal to</span>
+          </span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 
+58.11 Comm.
+           is inand do neoch ocus ro beth ina aititin 
+muna derna foeigium im a fuaitread `<span class="quote">it is the same thing to 
+one as to be in acknowledgment of it unless he gives notice 
+of opposing it</span>,' 
+            iii 10.4 Comm.
+           
+            ind esergi coitchenn ... 
+ni hinund ┐ ind esergi dianid ainm ... prestrigia ..., 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+2703.
+            
+           
+            oenach Life ... | aebind do cech-oen téit and | ni 
+hinund is Guaire Dall, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> vii 290.4
+            
+          . ní hionann ┐ an aimsir 
+se <span class="trans">
+            <span class="def">not as now</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 94.
+           ní hionann is iad ní iarrann uaigneas 
+<span class="ediltr">unlike them, he</span> ..., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 1454.
+          
+        </p>
+       
+        <p class="result"> 
+is inunn (s)ón ocus <span class="trans">
+            <span class="def">that is to say</span>:</span> is inon són <span class="frn ">et</span> á <span class="frn ">uita</span>
+           gl. 
+praesentia, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 8d16
+          . 
+            
+              <span class="frn ">nemo potest ei dignam laudem afferre</span>. 
+Is inand ón ocus ni thic do neoch molad is imchubaid fris 
+do dénum dó, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 169.21
+            
+          . 
+            foclass a búrach dó, is inund 
+són ┐ focheird úir da luib taris, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1490.
+            
+           
+            is and-sin tincais 
+Cuchulaind fair [is inund ón ┐ no fégand], 
+              2128
+            
+          . 
+            eirc fort 
+chulu, a chotarsnaig, is inund ón ┐ tabair dail dam 
+fadechtsa cen m' aimsiugud co hamsir in chesta, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+4886.
+            
+          
+        </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> As <span class="pos subst." style="color: #ff8000">subst.</span> : a n-i.<span class="oRef">¤</span>
+         gl. idem, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 24.37
+         (Bcr.).</p>
+     
+      <p class="result"> 
+inunn óen or óen inunn <span class="trans">`<span class="def">one and the same</span>,' <span class="def">identical</span>:</span> 
+
+          is hi.<span class="oRef">¤</span> óen leiss <span class="frn ">natura</span> ┐ <span class="frn ">significatio</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 61a16
+          
+        . is hinon óin 
+<span class="frn ">significantia</span> ┐ <span class="frn ">discretio</span>
+         `<span class="quote">quite the same are</span> ...,' 
+          208b11
+        . 
+
+          is i.<span class="oRef">¤</span> óin a <span class="frn ">confidet</span> ┐ á <span class="frn ">misserere</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 75a7
+          
+        . 
+          sech is inonn óin 
+lesom a ndede nisiu, 
+            62c3
+          
+        . 
+          noco noen inand lim do beir 
+mougad mainech ar fer in ferainn im íc sēt ris im techtugad 
+in feraind co cruib ime aici ocus cen cruib ime, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 
+24.7 Comm.
+          
+        
+      </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

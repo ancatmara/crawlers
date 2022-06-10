@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="35877">saeb</h3><span class="citation">Cite this: eDIL s.v. saeb or <a class="reference" href="35877">dil.ie/35877</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                sóibapstil, sáibapstalu, saibsacart</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype o,-&#x101;">o, ā</span>
+    </p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">lit. <span class="def">crooked</span>, <span class="def">aslant</span>, <span class="def">askew</span>
+        </span>: 
+          s.<span class="oRef">¤</span> .i. claen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec.Gl." title="eDIL Bibliography">Lec. Gl.</strong></span> 81
+          
+        . 
+dar sál fairrge sruthsóeba (saebsrotha, <span class="lbl">v.l.</span>) `<span class="quote">of the sea's treacherous waters</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 28.22
+        . <span class="frn ">in oculis eius ista obliquitas 
+fuit</span> 
+          .i. co s.<span class="oRef">¤</span> ro derc for a aite, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 112.20
+          
+        . gomadh saobh a 
+rosc ┐ a radharc ag Iodh (result of a blow), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 295.30
+        . <span class="lbl">Cf.</span> 
+buille saebh forsna sūile (infirmity of old age), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 268.16
+        ; 
+saobh `<span class="quote">blind</span>', O'R.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) more commonly in moral sense <span class="trans">
+          <span class="def">perverted</span>, <span class="def">perverse</span>, <span class="def">froward</span>. In late lang. oft. acquires added meaning of <span class="def">stupid</span>, 
+<span class="def">silly</span>:</span> sáib a n-iress gl. reprobi circa fidem, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 30c19
+        . dinaib 
+saibaib gl. adversariis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 38c20
+        . doini saibibem gl. peruersisimi homines, 
+          3a5
+         (for form see 
+          <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span>, p. 234
+        ). 
+          a chenél 
+soeb!, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1384
+          
+        . locc adnaicthi deorad ┐ doine sóim ṅdochenelach (of Aceldama), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xvii 229.y
+        . an dream is saobh 
+slighthe = <span class="frn ">quorum viae perversae sunt</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1742
+        , <span class="lbl">cf.</span> 
+          5011
+        . 
+trūag do sāebaib conar <span class="ediltr">pity for those who follow evil courses</span> (a 
+sign of degenerate times), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 241 § 13
+        . teora saobha 
+sanasa | Clainni Cuind `<span class="quote">crooked counsels</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 302 § 9
+        . 
+
+          dáoine . . . noch laibhéorus neithe sáobha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Acts</strong></span> xx 30
+          
+        . blicht 
+seirci sāib 'na hagaid (<span class="lbl">sic leg.</span>) `<span class="quote">a spell of false love</span>' (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 
+178.13
+         (<span class="pos adj." style="color: #ff8000">adj.</span> seems to refer to <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 blicht">2 blicht</a></span>).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">of weather <span class="def">deranged</span>, <span class="def">unseasonable</span>
+        </span>: 
+          sīna sāebha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 
+196.2
+          
+        . 
+          is gó flatha dober sína saíba for tūatha clóena, 
+            xi 
+82 § 25
+          
+        . 
+          truaillnither . . . triasna sínaib saebu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4241
+          
+        . See 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span>, p. 262
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">false</span>, <span class="def">misleading</span>, <span class="def">unjust</span>, <span class="def">ill-judged</span>
+        </span>: co a sloind nít saéba 
+sunna | mo raind chaema chutrumma `<span class="quote">misleading</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iii 76.135
+        . bó as gach baile, ni saobh soin (of tribute to a 
+monastery), 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 255 § 213
+        . 
+          in lá rucad, ba sóeb sin, | 
+tressiu in mac indá a máthair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 176.115
+          
+        . s.<span class="oRef">¤</span> 
+leam mo díchell don droing | do díchenn Mael seng Sechlainn 
+<span class="ediltr">I deem insufficient</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 13 § 20
+        . ní s.<span class="oRef">¤</span> lib `<span class="quote">you do not 
+think it deceitful</span>' (of using devices to avoid metrical faults), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 2065
+        . a nemghlóir as saobh re seal (of Ireland), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 466.19
+        . ro hiorgabadh muinnter an filed. Indollais 
+(= indar lais) biodh saoph <span class="ediltr">it seemed to him an unjust proceeding</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 305.3
+        . díomus do ládh 'nar 
+leith-ne | saobh adhbhar a ainmnighthe `<span class="quote">foolish is the reason 
+for so calling me</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> viii 26
+        . gleic na suadh saobh an 
+cogadh <span class="ediltr">sages in conflict, an unnatural war</span>, 
+          xi 13
+        . saobh an ní 
+fá dtugais láimh `<span class="quote">stupid was your effort</span>', 
+          xxvii 15
+        . 
+          mairg 
+uaisligheas an éigse | saobh an cheard a coimhéid-se, 
+            xxx 1
+          
+        . 
+
+          saobh nach aithnighe . . . | nach tráth dhuit dul ar díthchéill, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 1.15
+          
+        . As <span class="pos subst." style="color: #ff8000">subst.</span> ní creidthe ód dhán | nach dearna 
+saobh ná seachrán `<span class="quote">foolish partiality</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> vi 115
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+Compds.</p>
+      
+       
+        <p class="result">(<span class="edilb">a</span>) usually with nouns. 
+            <span class="oRef">¤</span>airde: dogéna sáibfirtu 
+<span class="frn ">et</span> sáibairde gl. signís et prodigís mendacibus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 26a20
+          . 
+
+            <span class="oRef">¤</span>apstal <span class="trans">
+            <span class="def">false</span> <span class="def">apostle</span>
+          </span>: 
+            amal dongniat heritic <span class="frn ">et</span> saibapstil, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 30b24
+            
+          . 
+            sóibapstil, 
+              8c19
+            
+          . 
+            17d10
+          . 
+            fri sáibapstalu
+            , 
+              16b4
+            
+          . 
+
+            fobith inna soebapstal, 
+              18d1
+            
+          . 
+            <span class="oRef">¤</span>ben: do sní saomná ┐ a sás 
+`<span class="quote">foolish women</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 1.2
+          . </p>
+       
+         
+          <p class="result">
+            
+              <span class="oRef">¤</span>breith <span class="trans">false <span class="def">judgement</span>
+            </span>: 
+              i 
+ssáib[b]retha, 
+                <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 40 § 214
+              
+             (see under -recht <span class="lbl">infra</span>).</p>
+        
+       
+        <p class="result"> 
+
+            <span class="oRef">¤</span>chomairlige (-id?) <span class="trans">false <span class="def">counsellor</span>
+          </span>: 
+            niptar saobchomairlighe 
+conacartha dosom, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 63.17
+            
+          . 
+            <span class="oRef">¤</span>chreitem <span class="trans">
+            <span class="def">heresy</span>, <span class="def">superstition</span>
+          </span>: 
+            le shuperstition no saobhchredeamh
+           = 
+            superstitio, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Adtimchiol" title="eDIL Bibliography">Adtimchiol</strong></span> 149b6
+            
+          . 
+            <span class="oRef">¤</span>dliged: in saeibhdliged 
+sin ara roibi A. `<span class="quote">wicked practice</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 13
+          . 
+            <span class="oRef">¤</span>fháid <span class="trans">false 
+<span class="def">prophet</span>
+          </span>: 
+            ní n-erbba do shōebfháthib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 87 § 51
+            
+          . 
+            druidi ┐ 
+saebfhaithe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 32.29
+            
+          . 
+            i tig in tshaebfátha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8402
+            
+          . 
+
+            <span class="oRef">¤</span>fháitsine: 
+            anno cluined in s., 
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 801
+            
+          . 
+            <span class="oRef">¤</span>fhiurt see 
+under 
+            <span class="oRef">¤</span>airde. 
+            <span class="oRef">¤</span>fhorcetal <span class="trans">
+            <span class="def">false</span> <span class="def">teaching</span>
+          </span>: 
+            soebforcetul 
+Símoin in druad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1736
+            
+          . 
+            sóifid cách a dán i sáibforcital ┐ 
+i saibintliucht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 42 § 223
+            
+          . 
+            <span class="oRef">¤</span>fhorcetlaid: 
+            na saebhfhoircetlaidi ┐ na bregaire sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1513
+            
+          . 
+            <span class="oRef">¤</span>glés 
+(
+            <span class="oRef">¤</span>chless) one of Cú Chulaind's feats (consisting of turning his 
+body round inside his skin): 
+            rolae sāebglés dīberge dá churp 
+i mmedón a chrocind, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1932
+            
+          = 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2593
+          . <span class="lbl">Cf.</span> 
+            nos-gabat 
+sáebglés ndíberge forsna díbergaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 153
+            
+          . 
+            <span class="oRef">¤</span>gaeth <span class="trans">
+            <span class="def">eddying</span> <span class="def">wind</span>
+          </span>: 
+            sitgail na saebgaithi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1972
+            
+          . 
+            <span class="oRef">¤</span>léim: bedg, 
+no redg, no lua, no saebleim `<span class="quote">false spring</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 180.17 
+Comm.
+           
+            ra lingestair saebléim isin ṁBoind, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 25
+            
+          . 
+            <span class="oRef">¤</span>mám: 
+nach mug . . . forsa tabarthar sáebmám isin domnach `<span class="quote">wrongful bondage</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 194 § 9
+          . 
+            <span class="oRef">¤</span>níam: nocon é in saeb-niam 
+sar-nua `<span class="quote">specious splendour</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 340.30
+          . ? 
+            <span class="oRef">¤</span>rath: 
+
+            ise fer inso dona timdibhenar a dhire cid saebratha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 
+356.2 Comm.
+            
+          
+        </p>
+       
+         
+          <p class="result">
+            
+              <span class="oRef">¤</span>recht: 
+              sóifither ecna i soibrechta, 
+                <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 40 
+§ 214
+              
+             <span class="lbl">v.l.</span> (see above under 
+              <span class="oRef">¤</span>breith). 
+              for saigtib saoibrechtae, 
+
+                <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 48.13
+              
+            . corus marb i n-óenfhecht de | tria sáeb-recht 
+súain serb-dige `<span class="quote">sleep-bringing spell</span>' (or for saeb-bricht?), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 14.24
+            . </p>
+        
+       
+        <p class="result">
+          
+            <span class="oRef">¤</span>ríagail: 
+            ac sidib co saebriaglaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 27b49
+            
+          . 
+
+            <span class="oRef">¤</span>shacart: saibsacart gl. seodopontifice, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 75d3
+          . 
+            <span class="oRef">¤</span>shanas: 
+in tres saobh-sanus Lethe Cuinn `<span class="quote">one of the three crooked counsels</span>' (expulsion of Mo Chuda from Rahen), 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 302 § 9
+          . 
+
+            <span class="oRef">¤</span>shruth: 
+            tar saebhsrothaib (<span class="lbl">sic leg.</span>) sál, 
+              <span><strong class="pop" style="color:blue" href="bibliography/HyMaine" title="eDIL Bibliography">Hy Maine</strong></span> 92.15
+            
+          . 
+síon na saobhshroth <span class="ediltr">treacherous streams</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 
+144.167
+          . 
+            <span class="oRef">¤</span>shuidiugud <span class="ediltr">false arrangement</span>: 
+            trefocal . . . cen 
+sáebshuidiugud .i. díalt ic frecra d' íarcomruc i n-urd bairdne, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 293.10
+            
+          . 
+            <span class="oRef">¤</span>thonn: do sguiredar na saobh-thonna dā 
+sibal `<span class="quote">turbulent waves</span>' (Gloss.), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 716
+          . 
+            <span class="oRef">¤</span>uisce: sōit srotha 
+saebusci `<span class="quote">eddies</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 4.23
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) with nouns to form adjj.: 
+            <span class="oRef">¤</span>derc <span class="trans">
+            <span class="def">squint-eyed</span>
+          </span>: 
+            Sarán 
+Saoibhderc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 231 § 142
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 1827
+          ). 
+            <span class="oRef">¤</span>ruisc (<span class="case g">g</span>
+          <span class="number s.">s.</span>): 
+
+            Nindedh Saebhruisc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 4142
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) with adjj.: 
+            <span class="oRef">¤</span>dall: súile saobh-dhalla `<span class="quote">crooked and blind</span>' 
+(Gloss.), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6613
+          . 
+            <span class="oRef">¤</span>dían: 
+            sruth-aibhne . . . saeb-diana, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 240.15
+            
+          . 
+            <span class="oRef">¤</span>millte (
+            <span class="oRef">¤</span>milliud?): 
+            na siangártha sáebhmíllti 
+sídhi so, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Comp.CC" title="eDIL Bibliography">Comp. CC</strong></span> 83.1
+            
+          . 
+            <span class="oRef">¤</span>thim: 
+            ruire . . . nach saoibhthim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 87.21
+            
+          . 
+            <span class="oRef">¤</span>úar: dar tuind sáili sóeb-úair `<span class="quote">cold and 
+treacherous</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 10.56
+           (= 
+            sóebruade, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 162a19
+            
+          ).</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) with adjj. formed from nouns: 
+            <span class="oRef">¤</span>shúilech <span class="trans">
+            <span class="def">squinting</span>
+          </span>: 
+            L. 
+. . . saebsuileach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 177a30
+            
+           (= 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 257b23
+          ). 
+            <span class="oRef">¤</span>thonnach: 
+
+            tar na srothaibh . . . sáobhthonnach[a], 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 110 § 2
+            
+          . </p>
+      
+    
+  
+  
+    <p class="result"> 
+See also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=saebch&#xED;all">saebchíall</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=saebchoire">—choire</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=saebchuithe">—chuithe</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=saebn&#xF3;s">—nós</a></span> <span class="lbl">infra</span>.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="9377">clár</h3><span class="citation">Cite this: eDIL s.v. clár or <a class="reference" href="9377">dil.ie/9377</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                -mruig</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen n.">n.</span> and <span class="gen m.">m.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 96
+      . </p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">board</span>, <span class="def">plank</span>
+        </span>: 
+          c.<span class="oRef">¤</span> ndara 
+iter cach dí chóemdai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 102
+          
+        . cláraib cainib . . . / 
+do fidrud saindil Secheim (of the ark), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4221
+        . 
+          cethri 
+clair . . . / o[c] coṅgbáil na sanctare, 
+            4257
+          
+        . co nār f[h]āguib 
+in ghaoth aca clār gan crithnugad (of ships), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 703
+        . ’nar gcairbh síos ’gá gcur lé cláir '<span class="quote">are being put down into our ships with gangplanks</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/CMCS" title="eDIL Bibliography">CMCS</strong></span> xxxiv 34 § 9
+        . 
+          ba 
+h-é rian a thocht-ch.<span class="oRef">¤</span> (<span class="lbl">sic leg.</span>) thoir / triall tré chorp-lár an 
+chobhluigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Miscell.Celt.Soc." title="eDIL Bibliography">Miscell. Celt. Soc.</strong></span> 344.19
+          
+        . 
+          na clara tirma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+1257
+          
+        . gur shín an Rí a chorp red chláraibh (to the Cross), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> iii 9
+        . Fig. an dara c.<span class="oRef">¤</span> tar éis an luingbhristi (of 
+sacrament of repentance), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 29
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">Of a variety of specific <span class="def">flat</span> <span class="def">articles</span> normally made of 
+wood</span>:</p>
+      
+      
+        <p class="result">(<span class="edilb">i</span>) <span class="trans">
+            <span class="def">breastwork</span> of a <span class="def">chariot</span>:</span> dofil in carpat afrithisi ┐ 
+dorala c.<span class="oRef">¤</span> clé frinn (a challenge to combat), 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5668
+           (TBC). 
+
+            tossoísom iarom c.<span class="oRef">¤</span> clé a carpait fri hEmain, 
+              5194
+            
+           (TBC). 
+
+            c.<span class="oRef">¤</span> a charpait re broind, ar ná tuitted a ḟobach ┐ a inathar ass, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4430
+            
+          . 
+            carpat . . . co tarbc[h]lāraib umaidib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2549
+            
+          . </p>
+      
+    
+
+      
+        <p class="result">(<span class="edilb">ii</span>) <span class="trans">
+            <span class="def">stave</span> (of a vat or cask):</span> 
+            in chetna dabach . . . ro díscáil 
+da cláraib ┐ da circlaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1366
+            
+          . mar théid c.<span class="oRef">¤</span> a taoibh 
+thunna `<span class="quote">as a plank goes out of the side of a cask</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 
+1924, 89 § 30
+          .</p>
+      
+    
+
+      
+        <p class="result">(<span class="edilb">iii</span>) <span class="trans">
+            <span class="def">wooden</span> <span class="def">cover</span>
+          </span>: 
+            clar fodluta, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 79
+            
+           
+(`<span class="quote">a floodgate</span>(?)'). 
+            corb écen clár dia dlúthad / ós a lár dia 
+lánmúchad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 456.83
+            
+           (`<span class="quote">a sluice</span>'). c.<span class="oRef">¤</span> casta <span class="ediltr">a 
+wine-press</span> (gl. torcular), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 1043
+          . cláir ṡaltrach duinde 
+ní dúin <span class="ediltr">does not close the covers of the brown psalter</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. 
+ex. 2088
+          . 
+            c.<span class="oRef">¤</span> ar ṡaltair lé leigthir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 11.27
+            
+          . Fig. 
+            do 
+theilg sé a ch.<span class="oRef">¤</span> dá chroidhe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 23.24
+            
+          . beanaidh sé c.<span class="oRef">¤</span> 
+dhom chumhoigh `<span class="quote">lets my tears flow unchecked</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 3870
+          . 
+
+            an mheadh as lán dom lochtaibh / bean a c.<span class="oRef">¤</span> dod chumhochtaibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxii 12
+            
+          . </p>
+      
+    
+
+      
+        <p class="result">(<span class="edilb">iv</span>) <span class="trans">
+            <span class="def">gaming-board</span>:</span> 
+            clar n-argit ┐ 
+fir óir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10807
+            
+          . 
+            adrethsat na firu óir ┐ argait tarsin c.<span class="oRef">¤</span> 
+crédumae, 
+              5444
+            
+           (TBC). 
+            ar rop é in síthbe óir dar in c.<span class="oRef">¤</span> 
+findruini síl Aeda . . . dar Bregmag, 
+              4269
+            
+          . 
+            pa meitigthir clar 
+fichille cech det, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 271.26
+            
+          . 
+            fir chorra ar chláraibh ar sean 
+/ do chnámhaibh loma Laighean, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Miscell.Celt.Soc." title="eDIL Bibliography">Miscell. Celt. Soc.</strong></span> 160.7
+            
+          . 
+
+            béim chláir ar fhoirinn óir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 17.15
+            
+          . 
+            na cláir brannaimh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 106.37
+            
+          . 
+            c.<span class="oRef">¤</span> nocha bí gan bhranán, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 
+1924, 243 § 15
+            
+          . 
+            c.<span class="oRef">¤</span> na himeartha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 147
+            
+          . </p>
+      
+    
+
+      
+        <p class="result">(<span class="edilb">v</span>) <span class="trans">
+            <span class="def">table</span>
+          </span>: 
+
+            biad berbtha ┐ clāir lāna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 87.29
+            
+          . 
+            clār <span class="frn ">a nomine</span> 
+clarna <span class="lbl">i.e.</span> <span class="frn ">mensa</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 359
+            
+          . 
+            scian co cnaim eilipaínt for 
+clar i na comair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 497a30
+            
+          . 
+            ni bíd mias nā clar occu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 
+155b53
+            
+          . os cionn chláir `<span class="quote">seated at table</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> lxii 40
+          . 
+
+            do shéan-roinn chláir an chomhóil, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 1016
+            
+          . 
+
+            mírín aráin eorna áin / is í mo chuid-se don ch.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 
+771
+            
+          . ceann ar c.<span class="oRef">¤</span>
+           (of one who is senseless from drink), 
+            <span><strong class="pop" style="color:blue" href="bibliography/P&#xE1;rl.namB." title="eDIL Bibliography">Párl. na mB.</strong></span> 3229
+          . 'na seasamh a náirde ar chlár na mionn 
+<span class="ediltr">witness table</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 209.152
+           (Midn. Court). Fig. clār na 
+cléire <span class="ediltr">entertainer of the poets</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ButlerPoems" title="eDIL Bibliography">Butler Poems</strong></span> 48
+          . 
+            c.<span class="oRef">¤</span> tiomna na 
+trócaire, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 21a.12
+            
+          
+        </p>
+      
+    
+
+      
+        <p class="result">(<span class="edilb">vi</span>) <span class="trans">
+            <span class="def">writing</span> <span class="def">tablet</span>
+          </span> (under influence of Lat. <span class="frn ">tabula</span>,  <span><strong class="pop" style="color:blue" href="bibliography/DeutscheKeltenundIren" title="eDIL Bibliography">Deutsche, Kelten und Iren</strong></span> 99
+          ), <span class="trans">
+            <span class="def">inscribed</span> tablet</span>: 
+hi claraib gl. in caereis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCr." title="eDIL Bibliography">BCr.</strong></span> 41a1
+          . c.<span class="oRef">¤</span>
+           gl. tabula, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 67
+          . 
+
+            in clar i scribad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 50.5
+            
+          . 
+            na haithneda do-fhácsam 
+ac Moysi . . . iter da claraib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7298
+            
+          . 
+            clar ciartha . . . ┐ se 
+scribtha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3698
+            
+           = 
+            in tabhuill ciartha, 
+              3704
+            
+          . 
+            clar 
+aircdidi ┐ ainm Magnuis Cam 'arna scribhadh . . . fair, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 66
+            
+          . 
+            cláir an chonnartha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Heb.</strong></span> ix 4
+            
+          . Fig. hi claar 
+cridi gl. in tabulis cordis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 15a11
+          .</p>
+      
+    
+
+      
+        <p class="result">(<span class="edilb">vii</span>) <span class="trans">Of some part of a 
+`cruit', the <span class="def">sounding-board</span>(?):</span> 
+            onmhuin an bas do bheanadh 
+/ an clar tana taoib-leabar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MannersandCustoms" title="eDIL Bibliography">Manners and Customs</strong></span> iii 273 n.
+            
+           
+            an 
+saoi le seinntear an chruit / . . . / tré ghoradh guith-bhinn 
+a cláir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 247
+            
+          . </p>
+      
+    
+
+      
+        <p class="result">(<span class="edilb">viii</span>) Other applications: 
+            re 
+denam . . . clar sadall de, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 134.30 Comm.
+            
+           (`<span class="quote">saddle 
+trees</span>'). lín . . . mad for a cois beth . . . mad innarta . . . o do 
+choi o clar (implement used in scutching flax), 
+            ii 374.6 
+Comm.
+           = 
+            fo c.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 930
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 658b
+            
+          ); 
+            for c.<span class="oRef">¤</span>
+            , 
+              303
+            
+           (
+            237
+          ).</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">By extension applied to other materials. <span class="def">strip</span> or <span class="def">plate</span> 
+(of metal), <span class="def">pane</span> (of glass, crystal):</span> 
+          clar di argut, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4289
+          
+        . 
+
+          clar nderccoir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 435
+          
+        . 
+          c.<span class="oRef">¤</span> nglainidi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1796
+          
+        . lene 
+cona clar argait immi <span class="trans">
+          <span class="def">border</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii 177.93
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 115b10
+        ). 
+          c.<span class="oRef">¤</span> 
+gemnide do lííc logmair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 24905
+          
+        . ba do claruibh óir 
+aithleaghtha ros-dín `<span class="quote">plates</span>' (of halls and rooms), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 
+147
+        . 
+          mar théid tré ch.<span class="oRef">¤</span> ngloine an ghrian, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxvi 23
+          
+        . 
+feilm chathardha 'n-a dá c.<span class="oRef">¤</span>
+         <span class="ediltr">a martial helmet split into two 
+(metal) plates</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 91.49
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">Used of various <span class="def">flat</span> <span class="def">parts</span> of the <span class="def">body</span>:</span> 
+          tulch.<span class="oRef">¤</span> ind étain, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4908
+          
+         (TBC). 
+          conici clar a dá imdai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.MSS.Ser." title="eDIL Bibliography">Ir. MSS. Ser.</strong></span> 176.23
+          
+        . 
+moṅg . . . órbuidi . . . fair co c.<span class="oRef">¤</span> a dá leas `<span class="quote">to the level of his 
+thighs</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 138.x
+        . tugais . . . / 
+fuil croidhe is c.<span class="oRef">¤</span> ndearnainne <span class="ediltr">palm of the hand</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> 
+xxviii 29
+        . 
+          i gc.<span class="oRef">¤</span> do bhrollaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 39
+          
+        . See also óenchlár s.v. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=&#xF3;en">óen</a></span>.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+          <span class="def">level</span> <span class="def">expanse</span>, <span class="def">plain</span>; <span class="def">surface</span>
+        </span>: clar cosmoil an domhan 
+`<span class="quote">a level expanse</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 951
+        . 
+          am heolach cláir thalman 
+tinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 45 Comm.
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 178
+        ). 
+          dia taethsad neam 
+anūas for clār an talman, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 54.29
+          
+        . 
+          a c.<span class="oRef">¤</span> findglan . . . / 
+a thír ferach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4122
+          
+        . 
+          Magh Raighni . . . / clar lethan 
+lanḟota, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 95 § 147
+          
+        . cach caille c.<span class="oRef">¤</span>
+         `<span class="quote">every spreading wood</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xvii 91 § 10
+        . 
+          bātar cadain for clār chlīu / clār ṅdess 
+gēisse for suidiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 281. 12
+          
+        -
+          13
+        . 
+          fo c.<span class="oRef">¤</span> 
+nimhe gloin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 238 § 15
+          
+        . C.<span class="oRef">¤</span> Cormaic, C.<span class="oRef">¤</span> Cobhthuigh 
+(poetical names of Ireland), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mart.Don." title="eDIL Bibliography">Mart. Don.</strong></span> xxxix 5
+        , 
+          6
+        . ? Also 
+          du Chlár Chonairi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xxi 137 § 3
+          
+        . 
+          da mbeith 
+an talamh na clar comtrom, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 20.x
+          
+        . tri dha poll 
+a da clar `<span class="quote">of its two surfaces</span>' (of an astrolabe), 
+          132.27
+        . ar ch.<span class="oRef">¤</span> gach conaire `<span class="quote">along every path</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/LBranach" title="eDIL Bibliography">LBranach</strong></span> 3268
+        . c.<span class="oRef">¤</span> 
+oighridh <span class="ediltr">ice-flag</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxxi 11
+        . 
+          c.<span class="oRef">¤</span> na mara do sgaipeadh 
+le sgála, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 223
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Midn.Court" title="eDIL Bibliography">Midnight court</strong></span> 742
+        ). 'na c.<span class="oRef">¤</span> choimhréidh 
+chrábhaidh (of the soul), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 10526
+        . <span class="lbl">Cf.</span> ar ch.<span class="oRef">¤</span> do chroidhe 
+`<span class="quote">on the table of thy heart</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> iii 3
+        . ? clar, bas, <span class="ediltr">a spoke</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 522
+        . See also óenchlár s.v. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=&#xF3;en">óen</a></span>.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) <span class="trans">
+          <span class="def">table</span> of <span class="def">contents</span>, <span class="def">index</span>
+        </span> (infl. of Lat. <span class="frn ">tabula</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/JCL" title="eDIL Bibliography">JCL</strong></span> ix 44
+        ,  <span><strong class="pop" style="color:blue" href="bibliography/DeutscheKeltenundIren" title="eDIL Bibliography">Deutsche, Kelten und Iren</strong></span> 99
+        ): clar . . . 
+iar n-urd aibghidre <span class="ediltr">an alphabetical index</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 541.35
+        . 
+in dara capidil don dara c.<span class="oRef">¤</span>
+        , cited 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODon.Gram." title="eDIL Bibliography">O'Don. Gram.</strong></span> p. 377
+         fr. Med. 
+MS. 
+          ataid x. cclair orra sin an .c. clar dibh neach labrus do 
+na siroipibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MackinnonCat." title="eDIL Bibliography">Mackinnon Cat.</strong></span> 301.11
+          
+        . c.<span class="oRef">¤</span> chaibidlech `<span class="quote">table of 
+contents</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RSCl&#xE1;ra" title="eDIL Bibliography">RSClára</strong></span> f. 160b
+          
+        . 
+          c.<span class="oRef">¤</span> an leabhair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> xlvi 1
+          
+        . </p>
+     
+      <p class="result"> 
+Obscure: 
+          colla c.<span class="oRef">¤</span> cannoe nad léit Lugthiach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 287a22
+          
+        . 
+
+          atait tri tedmanna faillsigthe condad comdire fri bas bet, 
+clar neinech ┐c.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2142
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, f. 2(3)b
+          
+        ). 
+          dichor Cairpri 
+do chlar fiss, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 56
+          
+        . </p>
+    
+  
+  
+    <p class="result"> 
+Compds. With noun. in gach cláradba <span class="ediltr">wooden dwelling</span> 
+(of ships), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 210.24
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 258
+      ). lingid bric is eignedha 
+/ do chlar-bharr gacha tuinne <span class="trans">
+        <span class="def">smooth</span> <span class="def">top</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 313.28
+      . 
+in da bla dec frisi cuindrighter crich . . . Clarbla, ailbla . . . 
+`<span class="quote">a flat mark, a stone mark</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 142.9 Comm.
+       ; clar bla 
+[.i.] crich annsin nad n-incoisceadsiach comarda, ┐ na 
+cuinnridter seancaid <span class="ediltr">which is not distinguished by any landmark</span>, 
+        12 Comm.
+       clár-bhórd taoibhe loinge <span class="trans">
+        <span class="def">plank</span>
+      </span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Hard." title="eDIL Bibliography">Hard.</strong></span> ii 
+224.3
+      . ina clarcolbadaibh gorma `<span class="trans">
+        <span class="def">board-pillars</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4424
+      . 
+da clárchiste mora <span class="trans">
+        <span class="def">wooden</span> <span class="def">chests</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 179.183
+      . clārc[h]oilér 
+cressa `<span class="trans">a <span class="def">stout</span> <span class="def">corslet</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 84.29
+      . clarcraithe coimhlethna 
+capcainn-reamra for gach mūl `<span class="trans">
+        <span class="def">blinkers</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 252.25
+      . 
+clarchris `<span class="trans">
+        <span class="def">board-baldric</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5227
+      . ro scaoilseat clárdroicheat Cille Dalua <span class="ediltr">plank bridge</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1178.13
+      . 
+        lethanchlais 
+. . . ┐ clárdhroicheat comhdhluta fuirre, 
+          vi 1896.7
+        
+      . mó a 
+clárḟíacail (<span class="lbl">sic leg.</span>) . . . / iná fían-chlár fidchille <span class="trans">
+        <span class="def">front-tooth,</span> 
+<span class="def">incisor</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 138.77
+      -
+        8
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 29910
+      ). 
+        dothuit an fer 
+mór . . . ┐ aghaidh ar Coinchulainn, go ttarla cláirfiacail 
+an ḟir mhóir a mullach a ghualann, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 130 § 41
+        
+      . 
+        lan 
+eneclann isin da clar fiacail anuas . . . leth eneclann isin da 
+clar fiacail anis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 354.8
+        
+      , 
+        9 Comm.
+       
+        a clarfhiacla 
+uachtair ┐ a culfiacla ichtair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 154a52
+        
+      . clarland cummaide 
+credhumha `<span class="quote">flat plate</span>(?)', 
+        <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5229
+      . in clair-leibind 
+<span class="ediltr">level expanse</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 356.22
+      . 
+        da thir as uaisli a 
+nEirind / da cúigead in clairleibind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 62a39
+        
+      . etir na 
+clarlestraib út <span class="ediltr">wooden containers</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 181
+      . clármachaire in 
+Choruinn <span class="ediltr">level plain</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1504
+      . 
+        fail ann . . . / mor cet 
+cetach clármaige, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 508
+        
+      . 
+        dognitis clarmhuige coimreidhe 
+dona slebtibh roardaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3930
+        
+      . clarmíasa bíadhmhara 
+an tighi co mbíadhaibh examhla <span class="ediltr">wooden dishes</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 
+156.32
+      . -mruig: 
+        ro thidnacht dō tír Caim / ┐ clárbruigi 
+Cannáin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2794
+        
+      . cláirneamh `<span class="quote">Heaven's land</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 
+1215
+      . 
+        coraib . . . / ríu i clárnimh ar comdál!, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> Apr. 14
+        
+      . 
+
+        din carpat itir cret ┐ cuing ┐ clár-rothaibh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBCSt." title="eDIL Bibliography">TBC St.</strong></span> 667
+        
+      . 
+        <span class="oRef">¤</span>sceimelta (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 sceimled">1 sceimled</a></span>) <span class="trans">
+        <span class="def">wooden</span> <span class="def">coverings</span>
+      </span>: 
+        clar-sceimelta cengailti 
+. . . cath-sciath, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 224.4
+        
+       (`<span class="quote">breastworks</span>'). 
+        do chlarscíathaibh 
+aladaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4983
+        
+      . 
+        <span class="oRef">¤</span>ṡnaide: 
+        inneamh póirghine gach cnó 
+dá clárshnoighe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 83.16
+        
+      . téada . . . / ar clarṡoileach 
+`<span class="quote">a willow harp</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/MannersandCustoms" title="eDIL Bibliography">Manners and Customs</strong></span> iii 271n.
+       </p>
+  
+  
+    <p class="result"> 
+With adj. an fPailís . . . chlárchorcra `<span class="quote">red-timbered</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 
+1920, 262 § 5
+      . ferais tromṡnechta . . . corbo chlarḟind uili 
+coiceda Herend don tṡnechtu <span class="trans">
+        <span class="def">white-surfaced</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 9026
+       (TBC). 
+
+        a cúirte clárghorma, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1920, 568 § 21
+        
+      . 
+        ó Chodhal 
+chláirleabhar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 4.7
+        
+      . 
+        tulcha cláirmhíne Caisil, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 74.45
+        
+      . soitheach cláirniamhdha cloichdhearg `<span class="quote">of 
+shining expanse</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> ii 165 § 35
+      . 
+        nemh fuair an tanmchara adcidh | ar a thír clár tana coemh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 886.x
+        
+      . 
+an t-all cláirthe cuaisleacach `<span class="quote">hot-flagged</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 2347
+      . 
+
+        idir shleasaibh do choim chláirthigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 122.13
+        
+      .</p>
+  
+  
+    <p class="result"> 
+With adj. derived from noun. mic Connil Cláiringnig 
+<span class="trans">
+        <span class="def">flat-nailed</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 111.38
+      . 
+        do glaic Congail Chláringnig, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 15112
+        
+      . cumhdaighthi clarthairrngeacha `<span class="quote">made of boards 
+nailed together</span>' (Gloss.), 
+        <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 108.28
+      . 
+        Niall on Challaind 
+chlartholgaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 15366
+        
+      . </p>
+  
+  
+    <p class="result"> 
+With past participle: 
+        cathbarr ciarrach clardedaighthi, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 299.10
+        
+      . do chubachlaibh claruaighte na cceledh nDé 
+<span class="ediltr">made of planks joined together</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 32.28
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

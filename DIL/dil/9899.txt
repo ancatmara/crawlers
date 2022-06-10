@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="9899">cochall</h3><span class="citation">Cite this: eDIL s.v. cochall or <a class="reference" href="9899">dil.ie/9899</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                -chull, -cal(l), cocal, cucal</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen m.">m.</span> (Lat. <span class="frn ">cucullus</span>). Also -chull, -cal(l). 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT Decl.</strong></span> 
+§ 17
+      . </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">cowl</span>, <span class="def">hood</span>, <span class="def">hooded</span> <span class="def">cloak</span>
+        </span> (<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/DuCange" title="eDIL Bibliography">Du Cange</strong></span> <span class="lbl">s.v.</span> coccula
+        ): 
+
+          
+            cocal. <span class="frn ">quasi</span> cucal <span class="frn ">ab eo quod est cucul[l]a</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 262
+          
+        . 
+
+          gerrcocholl co mell a ndá lárac, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6960
+          
+         (BDD). ? 
+          hi 
+cocill chumucc for echaib sengaib, 
+            5505
+          
+         (TBC rhet.). 
+          bratt 
+toillcend .i. c.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 18.4
+          
+        . c.<span class="oRef">¤</span> Clothrand (a magic 
+cloak), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 955
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 668
+        ). airligud cochaill cleirig (one 
+of seven borrowings that incur honour-price), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 372.18
+        . 
+
+          hi cochlaib findaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/VitaBr." title="eDIL Bibliography">Vita Br.</strong></span> 2
+          
+        . 
+          cochaill gerra aigreta impu, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2180
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 26
+        ). 
+          c.<span class="oRef">¤</span> etech imbe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2573
+          
+        . 
+          iarna 
+cumrech . . . / dichocholl huillnech Aróin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4510
+          
+        . C.<span class="oRef">¤</span> 
+fliuch mac Maic Senain `<span class="quote">Wet-Mantle</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 54.2
+         
+(Tig.). 
+          a ch.<span class="oRef">¤</span> sirecdai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 80
+          
+        . 
+          aged chāin a cochlaibh 
+srōil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 307.2
+          
+        . i gcaoileirr an chochaill (of cowl used 
+as pocket), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 6.5
+        . scaoith na mban gc.<span class="oRef">¤</span>
+         `<span class="quote">hooded women</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ORah." title="eDIL Bibliography">O'Rah.</strong></span> 22.11
+        . 
+          ar chochlaibh áille aifrinn '<span class="quote">as well as lovely mass-cowls</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/GiollaBrighde" title="eDIL Bibliography">Giolla Brighde</strong></span> 192 § 11
+          
+        . Note further: c.<span class="oRef">¤</span>
+         gl. cassula, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 121
+        . 
+c.<span class="oRef">¤</span> do línanart glegil imbe a cosmailes tsacairt `<span class="quote">surplice</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 2155
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) Other applications: amál chócúll dercon no chno 
+<span class="trans">
+          <span class="def">husk</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> i 5.38
+        . ? 
+          na tri cochuill . . . / isna criolaibh 
+maithib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 227 § 4
+          
+        . grainne buidhe ag cur a chochuill 
+<span class="ediltr">shedding its husk</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 172.y
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 397
+        . 
+cochvill ālainn, snaic-ar-daraigh `<span class="quote">beautiful hooded birds</span>,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/K.andH." title="eDIL Bibliography">K. and H.</strong></span> 26
+         = cochuill alaid `<span class="quote">with pied plumage</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/EIL" title="eDIL Bibliography">Murphy Lyrics</strong></span> 8.26
+        . 
+          i líon tarraing tig a lomlán ... gabhair ag Gofraidh | cabhair shluaigh i gcochlaibh cuir '<span class="quote">into the dragnet comes a full catch ... Gofraid catches in casting-nets that which delights the host</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/GiollaBrighde" title="eDIL Bibliography">Giolla Brighde</strong></span> 56 § 14
+          
+        . fascad do berar for cochull iascaig <span class="ediltr">fisher's 
+net</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1592
+        . 
+          oc telach al lin ┐ a chocholl, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 405a33
+          
+        . 
+ 
+          snechta mór . . . go 
+raibhi c.<span class="oRef">¤</span> dhe immón mboith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 13.9
+          
+        . fa chochlaibh a 
+ciabh `<span class="quote">matted tresses</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 2.35
+        . 
+          gur thuit mór-fhearg 
+Dé ionna ch.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/TrompanabhF." title="eDIL Bibliography">Trompa na bhF.</strong></span> 3061
+          
+         `<span class="quote">head</span>', Gloss. an c.<span class="oRef">¤</span> 
+doichill uhī ina c[h]roidhe <span class="ediltr">shell of surliness</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FeisTigheChon&#xE1;in" title="eDIL Bibliography">Feis Tighe Chonáin</strong></span> 1448
+        . 
+
+          i gcochal a chlí istigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 825
+          
+         (see 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> i 378
+        ). <span class="trans">
+          <span class="def">Restraint</span> (<span class="def">hood</span>) for poultry</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/EIF" title="eDIL Bibliography">EIF</strong></span> 141, 494
+        : 
+          an coimet adeir dliged orro .i. cochaill impa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CIH" title="eDIL Bibliography">CIH</strong></span> i 73.28
+          
+        . 
+Meaning uncertain: 
+          da cornd . . . / co cochluib óir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 
+3938
+          
+        . 
+          do gab an talam trochull / do ghab cochull cend 
+n-enaig, 
+            2414
+          
+        .</p>
+    
+  
+  
+    <p class="result"> 
+Compds. With adjj.: air a mbeith cochal-árd cúmhachtach 
+<span class="ediltr">haughty</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/DeImit." title="eDIL Bibliography">De Imit.</strong></span> 17.y
+      . t'fhonn / cochollghlas gcoll `<span class="quote">with 
+its blue mantle of fruitful hazels</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 350
+      . </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

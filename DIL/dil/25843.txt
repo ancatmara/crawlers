@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="25843">gilla</h3><span class="citation">Cite this: eDIL s.v. gilla or <a class="reference" href="25843">dil.ie/25843</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                gilld, gille, gille</p></div><div class="col-sm-9 result_content">
+   
+
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        gilld, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 676
+        
+      , 
+        1059
+       (
+        p. 93.11
+      ) ; also 
+        gille, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. exx. 1136
+        
+      , 
+        1405
+      , 
+        2130
+       ; <span class="lbl">cf.</span> gilli (: fīrindi), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 
+246.7
+       ; gille (: imme), 
+        <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 69.30
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> gailli (subscript <i>a</i>), 
+        gaille, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xxvii 43 (B)
+        
+      . <span class="itype io">io</span>, <span class="gen m.">m.</span> A word of 
+pre-Norse origin, prob. from Latin. See Pokorny, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 
+298
+       ff. ; Marstrander, 
+        <span class="lbl">ib.</span> 309
+       ff.</p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">a <span class="def">youth</span> of an <span class="def">age</span> to <span class="def">bear</span> <span class="def">arms</span> ; one who has arrived at 
+the third of the six ages of man</span> (for which see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gillacht">gillacht</a></span>) : 
+          Dauid 
+in gille dáne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> i 12
+          
+        . 
+          gilla oac amulach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3825
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 
+§ 37.14
+        ). 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 265
+        . 
+          do gilli no óclig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 41
+          
+        . <span class="case v">v</span>
+        <span class="number s.">s.</span> 
+
+          cucainn cetna thanacais do chétgasciud, a gillai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 103.9
+          
+        . 
+
+          a gilli, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3535
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> § 29
+        ). 
+          a ghille ... doní uaill as do ghile, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xliii 2.
+          
+         As a contemptuous mode of address : 
+
+          creud as creidemh dhuitsi, a ghiollaidh thall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 182
+          
+        . 
+<span class="number pl.">pl.</span> 
+          a ṅgillai óca, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> § 34
+          
+        . 
+          gilde ┐ ócláoich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 48
+          
+        . 
+
+          a gillu Connacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 106.21
+          
+         (LL). 
+          chethirn ṅ-gilla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+5762
+          
+        . gialladh do ghillaibh óga <span class="ediltr">giving youths as hostages</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> ii 540.17
+        . 
+          tri chet do gillib occa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1468
+          
+        . tuc Ráp 
+... aeghaidhecht do ghilladaib Israel (of the spies), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ii 
+52.9
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> § 90
+        ). 
+          atconnarc gillu glána, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3767
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 
+§ 34
+        ).</p>
+    
+  
+  
+    
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) Sometimes (with or without `bec') used as the equivalent of `mac,' <span class="trans">a <span class="def">male</span> <span class="def">child</span>, a <span class="def">boy</span> :</span> 
+            in gilla bec mo dalta sa, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 842
+            
+          , 
+            gilla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 514 
+            
+          = 
+            mac bec, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1015
+            
+          . <span class="lbl">Cf.</span> also 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 508
+          , 
+            537
+           with 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 989
+          , 
+            1046
+           respectively. 
+            ba gilla 
+bec, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 226b28
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 700
+          ). 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1366.
+          
+        </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">Used of a <span class="def">pupil</span> :</span> 
+          gilldæ .i. is fri gil is cosmail. ... issē 
+dono bēssad in gilla tosugud (do ṡugud, LB) forcetail do 
+t[h]engaid a fithidire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 676.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">a <span class="def">servant</span>, a <span class="def">gilly</span>, a <span class="def">messenger</span> :</span> 
+          gilla <span class="frn ">a cillus, graece 
+manus unius</span>, ar is lām do cach áon a gilla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 702
+          
+        . 
+<span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 654
+        . 
+          a gilla laiss .i. ēcsīne ēiside co menmuin 
+fithidire lais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 825
+          
+        . 
+          ro chuir in gilla na eocho hi 
+fergort, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8514
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 36
+        ). 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3295
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2468
+        . 
+
+          ro-fhóid tra Iacop a gilla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2193
+          
+        . C. giolla gradha do 
+Brian `<span class="quote">confidential officer</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 102.19
+        . gilla Crist (gl. 
+<span class="frn ">Christianus</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 523
+        . 
+          gilla ... nó timtirid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 
+§ 37
+          
+        . <span class="number pl.">pl.</span> ferr lais feis la gillib <span class="ediltr">to sleep with his servants</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+292.22
+        . daescurṡluag ┐ gillida fedma `<span class="quote">drudges</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5627
+        . 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> § 28
+        . gilli na sluag `<span class="quote">horse-boys</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 82.7
+        . giollaidhe 
+an tsluaigh `<span class="quote">camp-followers</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 3199
+        . daill iad 
+┐ giolladha dall = <span class="frn ">duces caecorum</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 401
+        . With a 
+defining gen. of the work allotted or the service performed : 
+g.<span class="oRef">¤</span> adhairce (gl. cornicen), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 1018
+        . g.<span class="oRef">¤</span> con <span class="ediltr">a kennel 
+attendant</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 72.29
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 254.16
+        . g.<span class="oRef">¤</span> cupáin 
+<span class="trans">
+          <span class="def">cup-bearers</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">1 Kings</strong></span> x 5
+        . g.<span class="oRef">¤</span> na-n-each (gl. mango), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 
+946
+        . <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 141.196
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 102.2
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex 2130
+        . 
+
+          g.<span class="oRef">¤</span> an eich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 22.17
+          
+        . gille echraide <span class="trans">
+          <span class="def">grooms</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 26 § 25
+        . 
+g.<span class="oRef">¤</span> na fi[d]chli <span class="ediltr">chess-board attendant</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1344
+        . 
+          g.<span class="oRef">¤</span> na filed 
+.i. g.<span class="oRef">¤</span> urraith .i. i cometecht caich bis a bailiu i mbailiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 106.10 Comm.
+          
+        ; '<span class="quote">baggage-boy</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/UR" title="eDIL Bibliography">UR</strong></span> 133
+        . g.<span class="oRef">¤</span> gái 
+<span class="trans">a <span class="def">spear-gilly</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 66.1
+        . marbus g.<span class="oRef">¤</span> in gái .i. in callaire 
+<span class="trans">
+          <span class="def">sergeant</span> (?)</span>, 
+          76.9
+        . g.<span class="oRef">¤</span> glomair <span class="trans">
+          <span class="def">horse-boy</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 72.29 Comm.
+         
+g.<span class="oRef">¤</span> an ghobanno <span class="trans">the <span class="def">boy</span> who <span class="def">feeds</span> the <span class="def">smith's</span> <span class="def">furnace</span> :</span> fuaradh 
+ghiolla an ghabhann (prov. saying), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6206
+        . g.<span class="oRef">¤</span> scuir 
+<span class="trans">a <span class="def">stud-groom</span>, a <span class="def">stableman</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 778
+        . g.<span class="oRef">¤</span> tened <span class="ediltr">one who 
+attends to the fires</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 354.33
+        . g.<span class="oRef">¤</span> turusa <span class="trans">a <span class="def">messenger</span> :</span> 
+          cursúr 
+.i. gilla turusa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2601. 
+          
+        
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 72.29 Comm.
+         g.<span class="oRef">¤</span> urláir 
+<span class="ediltr">a household servant</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 72.29 Comm.
+         <span class="lbl">Cf.</span> 
+          echlach urláir, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 15.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) Commonly used from the close of the 10th cent. as the 
+first element of masc. proper names, foll. by gen. of <span class="pos npr." style="color: #ff8000">npr.</span> 
+(saint or other), see Marstrander, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 313
+        . 
+          Gillacolaim, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 488.16 (<span class="lbl">an.</span> 976)
+        . 
+          G.<span class="oRef">¤</span> Patraic, 
+            492.22 (<span class="lbl">an.</span> 982)
+        . 
+
+          G.<span class="oRef">¤</span> Ciarain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Caithr.CC" title="eDIL Bibliography">Caithr. CC</strong></span> § 53
+          
+        . 
+          G.<span class="oRef">¤</span> na Trinódi hUa Dálaigh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 270.1
+          
+        . For further exx. see 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> (Index) : 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 
+2-3 n.
+         and 
+          <span><strong class="pop" style="color:blue" href="bibliography/Heldensage" title="eDIL Bibliography">Heldensage</strong></span> (Index). Also (accompanied by a 
+descriptive adj. or gen.) used as <span class="pos npr" style="color: #ff8000">npr</span>
+        <span class="gen m.">m.</span> or sobriquet : 
+          G.<span class="oRef">¤</span> Bec, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 159a14
+          
+        . 
+          G.<span class="oRef">¤</span> Luaithrindi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 57rb16
+          
+        . In 
+          G.<span class="oRef">¤</span> Leithderg O Concobair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 276.25
+          
+        . See also Dubgilla, 
+Crōngilla, 
+          Gormgilla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 1
+          
+        -
+          2
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

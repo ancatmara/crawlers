@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="41872">trí</h3><span class="citation">Cite this: eDIL s.v. trí or <a class="reference" href="41872">dil.ie/41872</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                tri, trí, tre, tri, tri, trí, trí, tri, tri, trib, teoir, teora, teora, teoraib, teoraib, tri, trí, teora, teora, teora, trí, trib, i trí, teóra, trí</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos num." style="color: #ff8000">num.</span> <span class="pos adj." style="color: #ff8000">adj.</span> <span class="trans">
+        <span class="def">three</span>
+      </span>. Usually spelt tri in the O. Ir. Glosses, 
+but trí when absolute (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 386
+      ). Archaic 
+tre (Camb., <span class="lbl">etc.</span>). Like <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=d&#xE1;">dá</a></span> does not prevent nasalisation of 
+a following noun after pl. poss.: a tri nglantae <span class="ediltr">their three 
+cleanings</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Bodl." title="eDIL Bibliography">Corm. Bodl.</strong></span> 38.13
+      . See 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xi 148.9
+      .</p>
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">I</span> Attributive uses.</p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) Inflexion in O. Ir. <span class="gen Masc.">Masc.</span> <span class="case nom.">nom.</span> 
+            
+              tri tuisil, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 148b8
+            
+          . 
+
+            
+              tri tuimthea, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> i 495.5
+            
+          . 
+            
+              trí mís deacc, 
+              ii 33.18
+            
+          . 
+            
+              trí 
+séoit, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 119
+            
+          . <span class="case acc.">acc.</span> 
+            tri fichtea bliadne `<span class="quote">for three score 
+years</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 238.17
+          . 
+            na tri turcu, 
+              293.4
+            
+          . 
+            tri maccu, 
+
+              303.2
+            
+          . <span class="case gen.">gen.</span> 
+            delb tri tuisel, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 148b8
+            
+          . 
+            athair trī cethrur, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 300.7
+            
+          . Archaic: 
+            rath tre gním[e], 
+              <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 28 § 
+76 a
+            
+          . <span class="case dat.">dat.</span> 
+            dia trib nōnbaruib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1018
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iv 
+88.8
+          ). 
+            trib asaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 75
+            
+          . 
+            co trib hettib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2132
+            
+          . 
+<span class="gen Fem.">Fem.</span> <span class="case nom.">nom.</span> 
+            inna teoir ranna sa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 26b13
+            
+          . 
+            teüir oenaidchi, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 291.6
+            
+          . 
+            teuir cleithna, 
+              292.12
+            
+          . teoir baí (teora, 
+<span class="lbl">v.l.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 383
+          . 
+            teoir fodlai, 
+              446
+            
+          . 
+            teor buidne, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> 
+iii 18.23
+            
+           =
+            téora buidne, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 769
+            
+          . 
+            teor (<span class="lbl">leg.</span> teora ?) 
+menadcha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 158.1
+            
+          . 
+            na teora persana, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9c30
+            
+          . 
+
+            teora tonna, 
+              27a14
+            
+          . 
+            teora huara, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 95d8
+            
+          . 
+            teora cethramdin huare, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BCr." title="eDIL Bibliography">BCr.</strong></span> 25c1
+            
+          . 
+            teora bliadni, 
+              32b6
+            
+          . 
+            na teora 
+litre so, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 10a12
+            
+          . 
+            teora greca, 
+              148b12
+            
+          . 
+            teora cnoe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> 
+ii 249.7
+            
+          . 
+            teora mucca, 
+              250.15
+            
+          . ? 
+            teōra ingne, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 
+297 § 48.
+            
+           <span class="case acc.">acc.</span> 
+            
+              teora lethindli, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 239 6
+            
+          . 
+            hi teora bríathra, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 40
+            
+          . 
+            teora biadi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 129.8
+            
+          . 
+            tar 
+teora sealba, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 136.19
+            
+          . 
+            teor (<span class="lbl">leg.</span> teora ?) erca, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 
+46 § 34.
+            
+           <span class="case gen.">gen.</span> 
+            inna teora liter, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 7b9
+            
+          . 
+            inna teora ṅguttae, 
+
+              40b8
+            
+          . 
+            rí teora túath, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 459
+            
+          . <span class="case dat.">dat.</span> 
+            donaib teoraib 
+personaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 186a2
+            
+          . 
+            dinaib teoraib trebaibsea, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 108
+            
+          . 
+<span class="gen Neut.">Neut.</span> <span class="case nom.">nom.</span> and <span class="case acc.">acc.</span> (leniting): 
+            
+              tri anman, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12a6
+            
+          , 
+            16a18
+          . 
+
+            inna tri anman hisiu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 121c16
+            
+          . 
+            tri gné, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/BCr." title="eDIL Bibliography">BCr.</strong></span> 33a8
+            
+          . 
+            na tri noiláithe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 116b1
+            
+          . tri lida `<span class="quote">three Lida</span>,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 34.32
+          . ni cen tri chet `<span class="quote">not without three hundred</span>,' 
+
+            291.12
+          . 
+            tresna thri grad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 446
+            
+          . 
+            trí thráth, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 
+12
+            
+          . Archaic: 
+            tre chenélae, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 246.27
+            
+           (Camb.). 
+            tre 
+chenéle, 
+              247.21
+            
+          . 
+            tre chenél, 
+              247.16
+            
+          . ? 
+            tre blaī, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 
+93 § 28.
+            
+           na trē nói n-ithe `<span class="quote">the thrice nine eatings</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 75.18
+          . 
+            trē fretiuch, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 453.23
+            
+          . Hence leniting in 
+Mod. Ir. when folld. by sg. noun: 
+            na trí chonnsuine dhég, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Introd. 1.14
+            
+          . See 
+            § 18
+          . Note also: 
+            na tri druïd, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 63
+            
+          . 
+            na trí maccáin maith-sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Aug. 2
+            
+          . 
+            na tri recte, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 29a16
+            . See 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITSSub." title="eDIL Bibliography">ITS Sub.</strong></span> xxvii § 6.2.
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) In Mid. and Mod. Ir. trí and teora are used irrespective of gender. teora with <span class="gen neut.">neut.</span>: 
+            teora búada, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 115
+            
+          . 
+
+            téora anmi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3256
+            
+          . 
+            teora thráth, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 30.19
+            
+          . Less 
+frequ. with <span class="gen masc.">masc.</span>: 
+            
+              teora catha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 38.11
+            
+          . trí with <span class="gen fem.">fem.</span> : 
+
+            co trib delbaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4276
+            
+          . 
+            tri leca, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2053
+            
+          . Confusion is 
+common in the phrase trí lá ┐ teora aidchi (correctly 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 
+4
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 5.21
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 356.3
+          , <span class="lbl">etc.</span>): 
+            co cend teora laa ┐ 
+t[e]ora [n]-aidche, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2494
+            
+          . 
+            seoladh teora lá ┐ teora 
+aidhche, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 158 § 12
+            
+          . 
+            udi tri lá ┐ tri n-aidche, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+8137
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 10
+          ). 
+            ri hed na tri láá ┐ na trí n-aidche, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2506.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) In Mod. Ir. the usual form <span class="lbl">passim</span> is trí: 
+            na trí báis 
+úd, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 984
+            
+          . 
+            trí sleagha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 20.10
+            
+          . 
+            lá seanaidh na 
+dtrí dteaghlach, 
+              25.34
+            
+          . See end of (<span class="edilb">a</span>) <span class="lbl">supra</span>.</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) In compd. numerals: trí traigid .x. <span class="ediltr">thirteen feet</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 103
+          . luid tri firu déc <span class="ediltr">he went with thirteen men</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 66.13
+          . Multiplying follg. num.: 
+            an oen ar fichit 
+it tri secht són, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 2d2
+            
+          . 
+            tír trí .vii. cumal, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 172
+            
+          . 
+
+            tri fichit fer, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 242.2
+            
+          . 
+            co trib cétaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6454
+            
+          . 
+            na tri 
+coicait duan, 
+              p. 114
+            
+           (prose). do trib cethorchait aidchi 
+`<span class="quote">thrice forty nights</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 136.7
+          . 
+            trī chét bliadan, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 5
+            
+          . 
+            dochumlaisom ass ... tríb nónbaraib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 367
+            
+          . 
+
+            trī chōic bliadna
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 94 § 30.
+            
+          
+        </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> Absolute uses.</p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) With prec. a: óin a ssessed dáu a trian a trí a lleth 
+á sé `<span class="quote">three its half</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 31.27
+          . a tri dib <span class="ediltr">three of them</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 248
+          . 
+            bíit a trí ocá díunuch, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 309
+            
+          . 
+
+            da fhiadain no a tri indruca, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3375
+            
+          . 
+            dá uair nó a thrí, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 82.25
+            
+          . 
+            húaire dofoxla ilgíallu, a dáu no a trí nó [a] 
+cethair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 460
+            
+          . 
+            cis lir congellait for treisi? ... a 
+tri, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 230.4
+            
+          . 
+            ca meid caithe fil a comicheas ?—a 
+teora, 
+              iv 138.22
+            
+          . With follg. <span style="color: #ff8000">rel.</span> clause: 
+            ataat dano a tri 
+aili todacrat do ríg, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 527
+            
+          . 
+            aatat a tri noda icat, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 50.28
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) In <span class="pos adverbial" style="color: #ff8000">adverbial</span> phrases. (co) fo thrí <span class="trans">
+            <span class="def">thrice</span>:</span> 
+            fomlámas 
+bádud fo thrí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 17d4
+            
+          . 
+            fu thrí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 242.15
+            
+          . 
+            co fo 
+thrí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 292
+            
+          . 
+            fo thrí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7723
+            
+          . 
+            co fá thrí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+10767
+            
+          . 
+            co bo thrí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> viii 60.3
+            
+          . i trí <span class="trans">
+            <span class="def">in three</span>:</span> 
+            co mmebaid 
+hi trí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 346.5
+            
+          . 
+            in lá do raind i trí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 869.
+            
+          
+        </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">III</span> As <span class="pos substantive" style="color: #ff8000">substantive</span>.</p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) 
+            is lour da preceptoir i n-aeclis no thríi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 13a9
+            
+          . 
+
+            arna trí remeperthise, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 65a11
+            
+           (attrib. ?). a noi frisna tri 
+`<span class="quote">nine in addition to the three</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 197b6
+          . 
+            ní gnáth 
+chomsuidigud i n-ainmnidib <span class="frn ">pronomen</span> acht inna trí dombeir 
+som, 
+              201a5
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) teóra as <span class="gen masc.">masc.</span> noun folld. by gen. <span class="trans">
+            <span class="def">triad</span>.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. 
+§ 2 (39.27)
+          . 
+            a chú ara tád teóra búadh, 
+              ex. 792
+            
+          . 
+            cia don 
+teora crann-sa an chroch, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> iii 27
+            
+          . 
+            teóra ceardcha, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Ir.Review" title="eDIL Bibliography">Ir. Review</strong></span> 1913, 594 § 4
+            
+          . <span class="lbl">Cf.</span> 
+            teora póc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 12.15
+            
+          .</p>
+      
+     
+      <p class="result"> 
+(<span class="edilb">c</span>) trí <span class="gen m.">m.</span> <span class="trans">the <span class="def">three</span> at <span class="def">dice</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 108
+         (?), 
+          § 112
+        .</p>
+     
+  
+    <p class="result"> 
+In compds. tri— (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tr&#xE9;imse">tréimse</a></span>), trí— (Mod. See trí—aon), 
+tre-, tré—, see separate articles. Note also tregort crann, 
+trecrann cú, trecú marc, <span class="lbl">etc.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 184.y
+      -
+        z 0
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

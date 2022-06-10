@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="42353">tuinide</h3><span class="citation">Cite this: eDIL s.v. tuinide or <a class="reference" href="42353">dil.ie/42353</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                tuinidhe, tuinidhiu, tuinigthe, tuinide, tuinigthe, tuinighthe, dtuinnighibh, tuinide, tuinidh[e]</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="gen f.">f.</span> in: ó fir na tuinidhe
+       (or <span class="case g">g</span>
+      <span class="number p.">p.</span> ?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 622
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, col. 463
+      -
+        4
+      ). But <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        tuinidhiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 364.30
+        
+       (?). 
+? 
+        <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 64
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 23a
+        
+      ). <span class="pos vn." style="color: #ff8000">vn.</span> of *do-neith (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tuinither">tuinither</a></span>). 
+The form tuinigthe, usual in Mod. Ir., seems to be a development from tuinide. There is no distinction of meaning 
+between the two except that tuinigthe does not occur in the 
+meaning under I (a), where the exx. are mostly old. The 
+form tuinighthe seems <span class="number pl.">pl.</span> at 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1782.12
+      , and note 
+        a 
+dtuinnighibh
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xxiv 118.22
+        
+      . 
+        gur ob tenna ... tuinide bar 
+tren-fear, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 126.5
+        
+      .</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> As <span class="pos subst." style="color: #ff8000">subst.</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">possession</span>, <span class="def">ownership</span>. In some exx. 
+perh. <span class="def">usucapion</span>, <span class="def">owner's rights</span> acquired by long <span class="def">possession</span> 
+or <span class="def">tenancy</span>
+          </span> (see Thurn. 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 347
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 228
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/LawsCrit." title="eDIL Bibliography">Laws Crit.</strong></span> 42
+          ): tuinidhe .i. sealbh. fir torachda tuinidhe .i, 
+an lucht frith na gcomhnaidhe as léo sealbh ó cheart, 
+O'Cl., see LL <span class="lbl">infra</span>. 
+            im t.<span class="oRef">¤</span> raitig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 122.15
+            
+          . 
+            t.<span class="oRef">¤</span> raitaig 
+a triun sealba, 
+              iv 28.1
+            
+          . <span class="lbl">Cf.</span> im tuinid raitig .i. fer do teit 
+anechtair co fine, gaibith athgabail ar a fine .i. gaibthius 
+do rod con saigh cuid cuca i sseilb `<span class="quote">permanent establishment 
+of a vagrant in the fine</span> (?),' Plummer MS. notes, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 791
+           
+(
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 369a
+            
+          ). 
+            aitheam gaibeas tuinighe mad on teallach 
+medonach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 2.3
+            
+           
+            .i. luaithíu gabus nech tuinidi in 
+fearaind, 
+              11 Comm.
+            
+           <span class="lbl">Cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 126.
+           
+            adh na techta tuinige 
+... ad do coislead tuinidhe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 4.18
+            
+          , 
+            19
+          . 
+            cem bes a t.<span class="oRef">¤</span>
+            , 
+
+              v 210.3
+            
+          . rucus tuinede la fer n-ecoir `<span class="quote">den (dauernden) 
+Besitz</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 346 § 37
+          . 
+            dearbthar tuinde do cetchor .i. 
+dearbthar tuinighe in fearainn ..., 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1894
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/23P3" title="eDIL Bibliography">23 P 3</strong></span> fo. 22c
+            
+          ). 
+
+            forruimther tuinidhe la cétchor, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 824.
+            
+           
+            cach aidbriudh 
+do cuisin cach laisi naidbrithter is lais a t.<span class="oRef">¤</span> (.i. a airisam), 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 
+336
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 185a
+            
+          ). 
+            do fastad tuinidhe ... is fír lim in ferann 
+don ti escartar ina t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 621
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, col. 463
+          -
+            4
+          ). 
+um inní for a roibhe a tuinidhe o bealltaine go bealltaine, 
+
+          
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 625
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, col. 465
+          -
+            6
+          ). 
+            dligid toreic t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 14.25
+            
+           
+(see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tairecc">tairecc</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=t&#xE1;rrachtain">tárrachtain</a></span>). 
+            fir toracta t.<span class="oRef">¤</span> .i. na fir fúarabair 
+na taoi-aireg, .i. na ccomnaidhe, as leó o cert an tsealb, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 254.3
+            
+           and gloss. 
+            concertaim tuinidi | tire toracda 
+.i. ... sealbh an tíre a bfuarabair iat na ccomnuide, 
+              254.8
+            
+           
+and gloss. fir torachta tuinnidé dar nói tonna móra <span class="ediltr">men 
+who arrived and took possession</span> (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 13a41
+           = 
+            fír tharrachta 
+tuinidhi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 40a53
+            
+          . <span class="lbl">Cf.</span> O'Cl. <span class="lbl">supra</span>. 
+            conternam tunide 
+tíre tarrechmar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 13a43
+            
+          . 
+            treise triath tuinithe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 
+251.26
+            
+          . trí ríg ... | ... | sínset im tuinithi thend | indse ... 
+hÉrend `<span class="quote">strove for the mighty possession</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 136.23
+          . 
+aspert ... conid les fein tuinithi in chlaidib <span class="ediltr">that the sword 
+belonged to him</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 200 § 65
+          . rucsat fón innassain trethan 
+trén timsaigthech i cend maigi ... na Frígia do thunidi 
+thimsaigthech ar in Troi `<span class="quote">to take collective possession of Troy</span>,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1678
+          . da ttegmhadh Cúchulainn agus Fionn i ttuinidhe 
+dhúdhchuis edir na tuathaibh da n-ainmnighionn an duain 
+iad <span class="ediltr">hereditary possession</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Geneal.Tracts" title="eDIL Bibliography">Geneal. Tracts</strong></span> 85.12
+          . In name of 
+a story: 
+            mad ferr lat toghla .i. ... Tuinighe Tighe Buirich, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 45.16
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">fixed</span> <span class="def">position</span>, <span class="def">station</span>:</span> co naccassa ... isin tunidi-sin 
+<span class="ediltr">they were seen in this position</span> (<span class="lbl">i.e.</span> fixed to the ground by 
+stone pillars driven through garments or body), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 
+1413
+          . búi issin tunide sin co tráth teirt árnabárach `<span class="quote">remained thus without moving</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 452.18
+          . 
+            mo tuaru 
+mo t.<span class="oRef">¤</span> | robu inmuin cacht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 138.15
+            
+           = mo thūara lam 
+th.<span class="oRef">¤</span>
+           `<span class="quote">my food with my station</span>,' 
+            ii 56 § 7
+          . ? 
+            atrachtatar tri 
+thapad a thunidi a tairismi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1504
+            
+          . lucht cogair ... | 
+agaibh tarla i dtuinidhe <span class="ediltr">firmly established</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 101.16
+          . 
+
+            cor' chuirset assa t.<span class="oRef">¤</span> in tromchloch, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2811
+            
+          . gosan 
+tuinithe ttairismech i mbatar a ttreoin ┐ a ttoisigh `<span class="quote">the 
+secure position</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 166.17
+          . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=etartuinide">etartuinide</a></span>. a 
+n-ucht inn imbualta ┐ a tuinigti an catha <span class="trans">
+            <span class="def">battlefield</span> (?)</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4866
+          . 
+            gur chriothnaigheadur ... dia ttreóir ┐ dia 
+ttuinighthe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CathMT" title="eDIL Bibliography">Cath MT</strong></span> 985
+            
+          . tuinighthe bearna baoghuil (of 
+a person), 
+            <span><strong class="pop" style="color:blue" href="bibliography/LBranach" title="eDIL Bibliography">LBranach</strong></span> 5305
+          . stialladh tuinithe tuinne na 
+féarghnúise `<span class="quote">rent is the covering surface of earth's grassy 
+countenance</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 4.2
+          . ? 
+            toing do dia, benai foria 
+aurlithe do chuise hi nglas do bragat hi slabraith co tumidiu 
+(<span class="lbl">leg.</span> tuinidiu ?) chip no carcrae, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 64
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 23a
+            
+          ).</p>
+      
+     
+      <p class="result"> 
+Frequ. with follg. gs. talman: saithis a sgiath a tuinighthi 
+in talman <span class="ediltr">into the firm grip of the earth</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 20.28
+        . 
+cártha ... cloiche sáidhte a dtuinnighibh na talmhan `<span class="quote">imbedded in the earth</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xxiv 118.22
+        . Note also: a slegha 
+saidhti trena corpaibh, co ngabtais in talam-t.<span class="oRef">¤</span> trempo 
+`<span class="quote">were taking hold of the site of the earth</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 6138
+        . 
+          gur 
+ob tenna ... t.<span class="oRef">¤</span> bar tren-fear re tenntaib trom-thalman, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 126.5
+          
+        . <span class="trans">Perh. <span class="def">rock</span> (=<i>that which is firmly embedded</i> ?) 
+in:</span> 
+          fria licuibh ┐ tuinidib in talman, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 58
+          
+        . gabsait 
+do lorcuibh ┐ tuinidhibh in talman forro `<span class="quote">with cudgels and 
+rocks of the earth</span>,' 
+          148
+         (<span class="lbl">cf.</span> cloch th.<span class="oRef">¤</span>
+         under <span class="edilb">II</span>). 
+          na carrthadha 
+... cloch ┐ tuinightheach na talmhan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CathMT" title="eDIL Bibliography">Cath MT</strong></span> 158
+          
+        . Note 
+also: cuasa crann na carracc, ná tuinigthe talmhan `<span class="quote">in 
+subterranean caverns</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1782.12
+        . And <span class="lbl">cf.</span> do rinneabhairsi tuinidhe bhithbhineach dhe (
+        <span class="frn ">σπήλαιον</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Mark</strong></span> xi 17
+         = 
+
+          tuinuighthe ghaduidhthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Luke</strong></span> xix 46
+          
+        . tuinidh[e] `<span class="trans">a 
+<span class="def">den</span>
+        </span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 318.
+        
+      </p>
+     
+      <p class="result"> 
+? gur chuir trom-ármhach ar na tuingibh (tuinnighthibh, 
+<span class="lbl">v.l.</span>) do'n tres-ghleo sin `<span class="quote">inflicted heavy slaughter on the 
+strong men</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/CRR2" title="eDIL Bibliography">CRR²</strong></span> 96.7
+        . is miochair a chumann re tuinnighthe an taoibh a dtá `<span class="quote">the people who dwell where he lives</span>,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> i 124.12
+        .</p>
+     
+      <p class="result"> 
+Gramm. dallbach trentuinidi ┐ dalḃach beccthuinidhe ┐ 
+dallbach cen tuinidi (subdivisions of airchetal aíre), 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 
+299a31
+        . soil cédus, rí na cconnsuineadh | trí tuinighthi 
+bhoga iar sin (the consonants c, p and t ?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Introd. 
+9.23
+        .</p>
+    
+  
+  
+     
+      <p class="result"> 
+<span class="edilb">II</span> As <span class="pos adj." style="color: #ff8000">adj.</span> (attrib. <span class="case g">g</span>
+        <span class="number s.">s.</span> ?) <span class="trans">
+          <span class="def">firm</span>, <span class="def">fixed</span>, <span class="def">immovable</span>:</span> 
+          risin 
+tuirid taebalaind tuinidi nobid ar lar na heclaisi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 
+68a3
+          
+        . 
+          do thuathaib tunidi Troianna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 973
+          
+        . Commonly 
+of stones, <span class="lbl">etc.</span>: clacha toinighthe an talmhon (: roibheithre. 
+Of Síol gColla), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 9.4
+        . ag tuargain na Cloiche Barraighe 
+┐ na g-cloch dtuinighthe do bhádar láimh ria `<span class="quote">fixed stones</span>,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 32.27
+        . 
+          co n-tógluaiseadh cairrgi troma tuinidi an talman, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 874
+          
+        . for tealccadh táithleac ttuinigthe `<span class="quote">massy 
+flags</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1982.2
+        . Various applications: 
+          tar clár dtoinighthe an talmhan (: doighirthe), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 7.37
+          
+        . 
+          táin trom-thuinighthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 89.7
+          
+        . béasgnadha tuinighthe Taidhg 
+`<span class="quote">the unshakeable words of T.</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxii 20
+        . cona 
+n-inneoin-traigthibh tanaidib tuinighthi fothu `<span class="quote">immoveable</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5274
+        . tuirthi ... t.<span class="oRef">¤</span>
+         `<span class="quote">immoveable pillars</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 
+150.3
+        . tamhan ... tuinighthi (of Adam as the trunk of a 
+genealogical tree), 
+          98.14
+        . ag búaladh a ccolg tuinidhe ... 
+ar chorpaibh `<span class="trans">
+          <span class="def">firmly-hilted</span> (?)</span>' (Gloss.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/FeisTigheChon&#xE1;in" title="eDIL Bibliography">Feis Tighe Chonáin</strong></span> 1844.
+        
+      </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

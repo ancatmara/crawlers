@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="32953">naiscid</h3><span class="citation">Cite this: eDIL s.v. naiscid or <a class="reference" href="32953">dil.ie/32953</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                naisc, nascat, nais, na, nenais, nenais, nenasc, nenasc, nenaisc, nenscais, nascair, fora-nascar, nasair, nasar, nastar, nasatar, nasaiter, naisidar, nensitir, nas, nass, nais, nassa, ronnassa, nassa, naidm, naiscea, nasciub, nascestar</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> 
+      <span class="itype i">i</span>. Early forms: <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        ni naisc
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 86 n. 1
+        
+      . 
+ <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        ni nascat
+        , 
+          186.14
+        
+      . <span class="mood s-subj.">s-subj.</span> <span class="per 2">2</span> <span class="number s.">s.</span> <span class="tns pres.">pres.</span> 
+        ni nais
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 36.1
+        
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1505
+      , <span class="lbl">cf.</span> 
+        1256
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        ro na
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1378.
+        
+       <span class="tns fut.">fut.</span> (redupl.) <span class="per 2">2</span> <span class="number s.">s.</span> 
+
+        ro nenais
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1594.
+        
+       <span class="per 3">3</span> <span class="number s.">s.</span> *nenais, <span class="lbl">cf.</span> neanais .i. ceanglais, 
+O'Cl. (taken as <span class="tns pret.">pret.</span>). <span class="tns pret.">pret.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        ro nenasc-sa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9373.
+        
+       <span class="per 2">2</span> <span class="number s.">s.</span> 
+        ro 
+nenaisc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5662
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1185
+       (<span class="lbl">rectius</span> nenasc). <span class="per 3">3</span> <span class="number s.">s.</span> 
+        nenaisc, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 346.5
+        
+      . neanaisc no 
+ro neanaisc .i. do cheangail, O'Cl. (with pron. suff.) 
+        nenscais, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 116c29
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC4;lt.Ir.Dicht." title="eDIL Bibliography">Ält. Ir. Dicht.</strong></span> i 17 § 11
+       (where Meyer emends: 
+nenscus). <span class="voice Pass.">Pass.</span> <span class="tns pres.">pres.</span> <span class="number s.">s.</span> 
+        nascair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 210.25
+        
+      . 
+        fora-nascar, 
+
+          194.23
+        
+      . <span class="mood subj.">subj.</span> <span class="number s.">s.</span> 
+        nasair, 
+          ii 126 z
+        
+      . 
+        ro nasar
+        , 
+          ii 122.13
+        
+      , 
+        iv 100.10
+      . 
+
+        coro nastar
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4898
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 411
+      , <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 370.7
+      , 
+        378.2
+      . 
+ <span class="number pl.">pl.</span> 
+        ro nasatar
+        , 
+          i 50 z
+        
+      . 
+        ro nasaiter
+        , 
+          v 254.2
+        
+      . 
+        ro naisidar
+        , 
+          430.2
+        
+      . 
+ <span class="tns fut.">fut.</span> <span class="number pl.">pl.</span> 
+        nensitir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 378.7
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/B.inSc&#xE1;il" title="eDIL Bibliography">B. in Scáil</strong></span> § 18
+      ). <span class="tns pret.">pret.</span> <span class="number s.">s.</span> 
+        ro 
+nas
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 216.24
+        
+      ; 
+        ii 14.28
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 645.
+       
+        ro nass
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4894
+        
+       
+= 
+        ro nais
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 407.
+        
+       ? 
+        
+          nassa
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 365 § 50.
+        
+       
+        viii 118 § 25
+      . 
+(<span class="number pl.">pl.</span> ?) 
+        
+          ronnassa
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 1.10
+        
+      . <span class="pos part." style="color: #ff8000">part.</span> 
+        nassa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4567.
+        
+       <span class="pos vn." style="color: #ff8000">vn.</span> naidm 
+(see also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=nascad">nascad</a></span>).</p>
+   
+    <p class="result"> 
+Already fairly early in Mid.Ir. commonly treated as a weak 
+<span class="pos vb." style="color: #ff8000">vb.</span>, stem naisc- or less commonly nasc-: <span class="per 1">1</span> <span class="number s.">s.</span> <span class="tns pres.">pres.</span> <span class="mood subj.">subj.</span> 
+        ara 
+naiscea
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5870
+        
+       ( 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1401
+      ). <span class="tns fut.">fut.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        rat nasciub
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+6054.
+        
+       <span class="tns pret.">pret.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        rat nascestar
+        , 
+          3791
+        
+      .</p>
+   
+    <p class="result"> 
+In general sense <span class="trans">
+        <span class="def">binds</span>, makes <span class="def">fast</span>.</span> nas .i. ceangal; ro nasa 
+.i. do ceangladh, O'Cl.</p>
+  
+  
+    
+      <p class="result">(<span class="edilb">a</span>) in lit. sense: rat-nascestar mar 
+nasces feith fidu <span class="ediltr">he has clasped thee as woodbine clasps trees</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3791
+        ; <span class="lbl">cf.</span> 
+          6054
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 408 § 19
+         (rot-naisc). 
+          ro nascadh 
+[in sín] ima bragait, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 65.4
+          
+        . in cruit ara nenaisc [in 
+Dagdae] na ceola <span class="ediltr">had bound (<span class="lbl">i.e.</span> silenced) the melodies</span>, 
+          RC xii 
+108 § 163
+        . <span class="trans">In sense <i>makes</i> <span class="def">captive</span>:</span> nenaisc iathu fer Fēne 
+`<span class="quote">er legte in Bande</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC4;lt.Ir.Dicht." title="eDIL Bibliography">Ält. Ir. Dicht.</strong></span> ii 28
+         (&lt; 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 346
+        ). 
+
+          nenaisc niathu Alinde, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 82.36
+          
+         (see note): the 
+sense in both exx. may possibly be <span class="trans">
+          <span class="def">secured</span>, made <span class="def">firm</span> or <span class="def">safe</span>
+        </span>.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) more often as <span class="trans">fig. &amp; legal term <span class="def">binds</span>, <span class="def">exacts</span> a <span class="def">pledge</span> 
+(promise, obligation, payment)</span>, with acc. of thing and FOR of 
+pers.; in Laws often glossed by fonaisc, <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1256
+        , 
+          1378
+        . 
+See 
+          <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 83.
+         
+          ni nais uma nā hairgead nā hōr acht for 
+māl, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 36.1
+          
+         (only a chief is to be bound to pay in copper, 
+silver or gold). ni nais etach for nach nocht <span class="ediltr">thou shalt not bind 
+a naked person to pay in clothes</span>, 
+          <span class="lbl">ib.</span> 3
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1505.
+         do fiur 
+adbaill de na-ro nastar tasicc fair `<span class="quote">upon whom repayment cannot 
+be imposed</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 370.7
+        . ro nenasc-sa foraib . . . .vii. cét 
+talland argait <span class="ediltr">I bound them to pay</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9373.
+         ced nāro nais [ro 
+nass, LU, <span class="lbl">sic leg.</span>] do ḟoesam-su forsna maccu? <span class="ediltr">why were the lads 
+not bound (made promise) to protect thee?</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 407.
+         
+          nenaisc dag-eraic a mucc foraibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 3 § 9
+          
+         = 
+          coros-naisc eraicc, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 62b52
+          
+        . naiscset a coma fair <span class="ediltr">they made him promise to 
+grant their boon</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 896.
+         
+          ro naisced orm airfided dom thigerna 
+anocht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 60 § 19.
+          
+         
+          naiscis inti Ruadhan forna demhnu 
+triall rempu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 319.7
+          
+        . tugsad dó an uile umhlacht dar 
+naisg orra san chonnradh <span class="ediltr">all the obedience he had exacted from 
+them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xvi 161.
+         
+          do naiscius air . . . techtairi do chur 
+chugam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xix 104.5
+          
+        . ro naisgetar ar inchuibh in Coimdhe 
+fair cen anadh a nEirinn (<span class="lbl">sic leg.</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlvi 232.4
+        . <span class="lbl">Cf.</span> do 
+naiscetar sin a briathar fair . . . im chomall dōib na brethi <span class="ediltr">bound 
+him under a promise</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 149.8
+        . With acc. only: 
+          ro nasctis 
+giallu cáich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 146a43
+          
+         = 
+          fonensaitis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 379.16
+          
+        . 
+          ro naisc 
+Tuathal in bórama, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 23b40
+          
+        . nenaisc a dín <span class="ediltr">he bound [Senán] 
+to protect him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 222.7
+        . <span class="trans">
+          <span class="def">Secures</span> (by pledge, <span class="lbl">etc.</span>), makes 
+<span class="def">sure</span> (a <span class="def">bond</span>, <span class="def">contract</span>, promise) :</span> 
+          atait secht nadmand nascar 
+la Feine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 364.12
+          
+        . ni nascar dilsi for mac ┐ a raith 
+ <span class="ediltr">a thing the ownership of which is secured by `<span class="frn ">mac</span>' and `<span class="frn ">raith</span>' 
+sureties</span>, 
+          314.19
+        ; <span class="lbl">cf.</span> 
+          292.16
+        , 
+          430.2
+        . 
+          in cor amra ro nenaisc .i. 
+comruc re hēnfer, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1185.
+          
+         
+          fiadnaisi .i. fiadae ro nass in 
+cor, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 499
+          
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 645.
+         da naisc ar mummi . . . ar 
+cró cotaig <span class="ediltr">bound our blood-covenant</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4134.
+         imon ccodach 
+. . . ro nenaisg Nel fri macaibh Israel <span class="ediltr">the covenant which N. 
+made with</span> . . ., 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> i 200.12
+        . With acc. of guarantees: 
+
+          tar sárugad . . . na ndūl ro naisc-sium forro, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 4.2
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/FDG" title="eDIL Bibliography">FDG</strong></span> 
+1.9
+         (i.e. violation of an oath taken on the elements). <span class="lbl">Cf.</span> nassa 
+fīr na ndūla de <span class="ediltr">the `<span class="frn ">fir</span>' of the elements was pledged thereto</span> (?), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 118 § 25
+         = 
+          násad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9814
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> vi 165.31
+        ). With 
+obj. omitted: naisc-siu . . . for deiss rig is ruirech (= take the 
+right hand of kings . . . as security), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3069.
+         Rarely with 
+acc. of pers. who becomes surety: ollam ard . . . naisci[d], ni 
+nascar `<span class="quote">he binds, he is not bound</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 358.14
+        . naisc 
+Carpre mín Manand <span class="ediltr">take C. as your security</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3090.
+         a 
+Dail Cais . . . rob-nais Banba co mblaid <span class="ediltr">may B. bind you (to 
+defend her</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 56.2
+         (poem).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">betroths</span>; <span class="def">unites</span> in <span class="def">wedlock</span>:</span> ro chendaig [Míliuc] cumail 
+corus-naisc do Patraic hi (= <span class="frn ">voluit ancillam illi adiungere</span>), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 59.15
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 25b36
+        . 
+          ni hí ro naiscedh dō acht a siur, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Nenn." title="eDIL Bibliography">Todd Nenn.</strong></span> 178.4
+          
+        . 
+          sochaidhe diár naisged Fionnabhoir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+x 290.5
+          
+        . 
+          ros-naisg i llanumnus do A., 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 424b22
+          
+        . <span class="pos part." style="color: #ff8000">part.</span> 
+          ba 
+nassa dam-sa ind ingen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4567.
+          
+         See also ? <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=nassaid">nassaid</a></span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xi 169
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

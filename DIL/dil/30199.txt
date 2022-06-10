@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="30199">1 lige</h3><span class="citation">Cite this: eDIL s.v. 1 lige or <a class="reference" href="30199">dil.ie/30199</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                luighi, loighi, lighi, li(u)gu</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="itype io">io</span>, [<span class="gen n.">n.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> p. 448
+      ]. luighi loighi lighi (na 
+leaptha) <span class="gen m.">m.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 2.
+       <span class="pos Vn." style="color: #ff8000">Vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=laigid">laigid</a></span>. 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs § 74.
+       
+<span class="case d">d</span>
+      <span class="number s.">s.</span> somet. li(u)gu in early texts.</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">act of <span class="def">lying</span> <span class="def">down</span>, <span class="def">reclining</span>, <span class="def">sleeping</span>
+          </span>. Of persons: 
+nicon fordamar suide nó ligi do fir díob `<span class="quote">he did not suffer one 
+of them to sit or lie down</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 85
+          . 
+            ní reid bith fris im 
+longud no im ligi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5957
+            
+           ( 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1491
+          ). 
+            ba fer borb . . . im 
+longud ┐ im ligi in Mand, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span>
+               6708
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span>
+             2166
+          ). 
+            rocomraicset . . . fri 
+aroile co ttard Cana fo dheoidh ar Cairbri luighe for sccáth 
+a scceith, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 233.9
+            
+          . dochum a leaptha laighi `<span class="quote">her couch</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 628
+          . 
+            ina tigh lighi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 42.14
+            
+          . 
+            tráth luighe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 
+11.106
+            
+          . 
+            gan luighe araen ar éinphioll, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 367.19.
+            
+           
+
+            nách áil lighe acht ar chuilt chlúim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs ex. 665
+            
+          . go 
+dtí leam lighe do Dhia `<span class="quote">may God let me rest</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 58.2
+          .</p>
+       
+        <p class="result"> 
+<span class="trans">Of the sun, <span class="def">setting</span>:</span> 
+            taithneamh gréine i ngar dá loighe, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 9.13
+            
+          . 
+            ón cheidesbart go luighe ghreine ar n-a 
+bharach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 3564
+            
+          .</p>
+       
+        <p class="result"> 
+<span class="trans">Of birds, <span class="def">perching</span>:</span> 
+            atconcadar braineoin ┐ badba ┐ ethaidi 
+aeóir . . . ag laidi arna corpaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 243.11
+            
+          . 
+            enlaith 
+Erenn do luighe arin mbile sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 89.25
+            
+          . Of animals: 
+
+            is feis cach l.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 78.8
+            
+          . Of dust: 
+            ar luighe ceo ar ghrís, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xiv 19.
+            
+           Note further: 
+            is i no marbad in trichait 
+dia figrann (<span class="lbl">leg.</span> fidchrann?) dia liugu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 1010
+            
+           and 
+            n. 0
+           
+dá phudhair luighe gach lis <span class="ediltr">two misfortunes causing prostration</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 73.12
+          . iar luighi a finnfaidh for a bód bunnremar 
+barrdaíngenm (a lion), 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> i 91 10
+          . Fig. of mystic 
+espousals: más luighe trír dleaghair díom `<span class="quote">I may espouse all 
+three</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 9.2
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) With prec. prepp. With <span class="itype I">I</span> and possess.: <span class="trans">
+            <span class="def">lying</span>, in <span class="def">lying</span> 
+<span class="def">position</span>
+          </span> as opposed to standing and sitting; <span class="trans">
+            <span class="def">resting</span>, <span class="def">sleeping</span>
+          </span>: 
+suidigis inna liugu amal bid inna chotlud no beth. 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> 
+i 34.4
+          . nar ablad na ṡuidiu nach ina ligu <span class="ediltr">that he might not 
+die seated or lying down</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 14045
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 181.28
+          ). ina 
+ṡeasam ┐ ina laigi (of pillar-stones), 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 26.9
+          . 
+            in lin 
+tallat na suidiu ni tallat 'na ligiu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 56.23
+            
+          . tig 'n-a luighe 
+ar leic a dalta <span class="ediltr">came and lay on her Son's tomb</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 30.29
+          .</p>
+       
+        <p class="result"> 
+Also <span class="trans">
+            <span class="def">prostrate</span>
+          </span>, often as a result of violence of distress: 
+            gach 
+huili dhúil do beith 'na luighi la homhun, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxviii 312. 6
+            
+          . 
+
+            bátar inn arrachta huili inna ligib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 194.24
+            
+          . 
+            na dee-si 
+no-t-cuireb-sa uaib iat, co mbet fo-m chosaib i n-a lige, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+762
+            
+          . 
+            ech . . . in n-a laige fo eri, 
+              5846
+            
+          . ro chuir ina loighi for 
+lár (of felling trees), 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1783
+          . 
+            con-da-acca inna crois[fh]igil in hi ligiu ossí oc irnaghti, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 2.21
+            
+          . 
+            sluagh na 
+lighi a gcosair chró, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 48.
+            
+          
+          <span class="lbl"> Cf.</span> ina laighi laech-miled <span class="ediltr">lying as a conquered warrior</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 270.17
+          . In certain 
+contexts <span class="trans">
+            <span class="def">sick</span>, <span class="def">confined</span> to <span class="def">bed</span> by <span class="def">ailment</span>
+          </span>: 
+            galar do gabail 
+Tairrdelbaig . . . , co raibe fada 'na laighe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 154.16
+            
+          . 
+othar blíadhna luidhe Guill `<span class="quote">a sick man for one year—so long 
+was Goll in bed</span>(?)', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> ii 316 § 64.
+           Note: tecla l.<span class="oRef">¤</span> .i. 
+duine sirg. <span class="frn ">Doloris alicujus absque vulneracione</span>
+           `<span class="quote">bedridden 
+person</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> 8
+          . Fig.: tír 'na loighe tír Dá Thí <span class="ediltr">afflicted</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 93.3
+          . Note also: a mbeth na l.<span class="oRef">¤</span> ris in cinaid `<span class="quote">lies 
+imprisoned for the crime</span>' (`<span class="quote">liability for</span>', Plummer MS. notes) 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 106.21 Comm
+          . gach nidh d'á n-aibeoradh do chur 'na 
+luidhe ar a phobul <span class="ediltr">to impress on his people</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 62.26
+          . 
+With OC = ina ligiu: 
+            mé ag loighe is mo chneas ar clúmh, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxix 2
+            
+          . 
+            iomdha ag loighe, . . . / aréir san bhaile a 
+mbímís, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 85 § 2
+            
+          .</p>
+       
+        <p class="result"> 
+With follg. prepp. With AR: Of occupation, work, <span class="trans">
+            <span class="def">applying</span> 
+<span class="def">oneself</span> to</span>: 
+            más é díoth a aithearraigh / tug ortsa luighe ar 
+mhíbheirt, 
+              <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 288.22
+            
+          . 
+            luighe ar mo psaltair 
+nár chleachtas im bhuachaill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 1435.
+            
+           Of lying 
+on a dead body as form of mourning: 
+            dom choeniud ┐ do 
+llige form, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 130b33
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 3.11
+          ). ar éise a croidhe do 
+chrádh / sámh léi-se loighe ar a laogh (of Virgin), 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> ii 24
+          . 
+it luighe a Mhoire ar do Mhac / is dá Mhuire oile iomad 
+`<span class="quote">fainting over</span>', 
+            vi 16
+          . Note also: 
+            cuirfiom luighi ar Lios 
+Túathail . . . 's loighi ar ghoirm-Leic, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 163 § 9.
+            
+           Fig. 
+<span class="trans">
+            <span class="def">oppressing</span>
+          </span>: Mac Muire ní doilghe dhó / luighe oirne ná orra. 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxv 18
+          . 
+            is ineagluighthe dhuit a lámh throm do 
+luighe ort, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3473
+            
+          . 
+            air ro batar na saerchlanna ac laigi 
+forsna ferannaibh i rabatar sum, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 60.22
+            
+          . 
+            aen dib do 
+bai ac loigi fair do inta som fris, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1230. 7
+            
+          . tiug 
+an tsluaig do loigi air <span class="ediltr">the main force pressed him hard</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1398. 5
+          . mo bharr moirne ag duine dhíobh / ag luighe 
+oirne d'imshníomh. 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 111.24
+          . Legal: laige co 
+tren for ferund <span class="ediltr">forcible entry</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 432. 5 Comm
+          .</p>
+       
+        <p class="result"> 
+With DO <span class="trans">
+            <span class="def">submitting</span> to</span>: tar éis luighe dá fhlaith neamhdha / 
+do mhaith uile a ndearna dó (of Peter), 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxxvi 8
+          . 
+With FO: ag loidhe fan éagóir uirthe `<span class="quote">pressing against the odds 
+on it</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1923, 599 § 14
+          . With FRI, LA <span class="trans">
+            <span class="def">cohabiting</span> with</span>: 
+            laige 
+fri bangrád, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3590
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 30
+          ). 
+            bean do-chuaidh libh do loighe, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 64.18
+            
+          . 
+            an bhean do iarr loighe lat, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 29.68
+            
+          . 
+            gach 
+aon-fhear léi-se ag luighe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 1133.
+            
+           Fig. <span class="trans">act of 
+<span class="def">agreeing</span> with, being <span class="def">well-disposed</span> <span class="def">towards</span>
+          </span>: 
+            searc na cléire íad 
+re aroile, / 'siad re chéile ag loighe leó, 
+              <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 251.60
+            
+          . 
+car mhiste dhuit féile leamsa luighe `<span class="quote">if bounty shared her 
+couch with me</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 36.3
+          . <span class="lbl">Cf.</span> mór espa do láech / laigi 
+fri súan serglige <span class="ediltr">to yield to</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3518
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 28
+          ); '<span class="quote">to lie in sleep of wasting sickness</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/SGS" title="eDIL Bibliography">SGS</strong></span> vii 59
+          . laige re nīth 
+(ndíth, <span class="lbl">v.l.</span>) <span class="ediltr">to yield to</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1276.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) In various phrases with adj. or defining <span class="ediltr">gen.</span>: loighi 
+aeisi dho in loighi a dtá <span class="ediltr">old age</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1375
+          . 
+            seal san lathaigh, 
+loighe an doill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 50.4
+            
+           (reference obscure). imgaibh 
+luighi claen is col <span class="ediltr">unlawful intercourse</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 589
+          . i llige chro 
+expl. of 
+            crólige, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> 1 n. 1
+            
+          . o domrala il-ligi leoin <span class="ediltr">illness</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 263.11
+          . ná tuit fri l.<span class="oRef">¤</span> lesce <span class="ediltr">sloth</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> § 30
+          . l.<span class="oRef">¤</span> 
+séolae, l.<span class="oRef">¤</span> siúil <span class="trans">
+            <span class="def">lying-in</span>, <span class="def">lying</span> in <span class="def">childbirth</span>, <span class="def">childbirth</span>, <span class="def">childbed</span>
+          </span> 
+(<span class="lbl">cf.</span> II): 
+            rosalt asa lighi siúil / Conaire, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 58.7
+            
+          . 
+
+            dobi a bean ina luighe seola ar mbreith deisi mac dí, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fier." title="eDIL Bibliography">Fier.</strong></span> 
+197a
+            
+          . 
+            dobhi bean in eathaigh . . . ina luighe seola, 
+              203
+            
+          . 
+            dol 
+dḟios na Rioghna ata ina luighe seóla iar mbreith deise mac, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 166.41
+            
+          . <span class="lbl">Cf.</span> luidhe <span class="ediltr">travailing, delivery</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 573.
+          
+        </p>
+       
+        <p class="result"> 
+With obj. <span class="case gen.">gen.</span>: cach uimme ag loige a laime <span class="ediltr">plying him 
+with blows</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 44b57
+          .</p>
+       
+        <p class="result"> 
+Perh. in phr. copán laoidhe: gan cead do bheuth ag 
+aoinneach uirid an chopáin laoidhe do chungbháil i n-aon 
+áit . . . a mbiaidh m'oighreadha `<span class="quote">guest-cup</span>(?)' (<span class="ediltr">night cap</span>?), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MaguiresofF." title="eDIL Bibliography">Maguires of F.</strong></span> 93
+           (i.e. <span class="ediltr">to offer any hospitality at all</span>?). <span class="lbl">Cf.</span> 
+            97
+          .</p>
+       
+        <p class="result"> 
+In obscure phr. léim luighe (<span class="ediltr">final leap</span>(?), <span class="trans">
+            <span class="def">death-throe</span>
+          </span>? <span class="lbl">Cf.</span> 
+sense II (b)?): 
+            foccus duid do leim luide, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 55 § 40.
+            
+           
+mar rug léim luighe fan lic / fa géim na hoighe [má heilit] 
+(Mary at tomb of Christ), 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 27a.24
+          . 
+            beir leat sinn . . . / 
+dom anmain gomadh léim loighe, 
+              25a.23
+            
+          . go rug fan lia a 
+léim loighe `<span class="quote">lying leap</span>' (of Christ), 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 17.2
+          . 
+            rug in 
+maith ar a lēim luighe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 3600.
+            
+          
+        </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">bed</span>, <span class="def">couch</span>
+          </span>: l.<span class="oRef">¤</span>
+           gl. torus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 52b10
+          . l.<span class="oRef">¤</span>
+           gl. hic lectus, 
+            107a4
+          . 
+
+            intan nombíth innaligiu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 55c19
+            
+          . baoes (= bes) beith inda 
+ligiu `<span class="quote">it may happen in bed</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 63
+          . 
+            dobérat Ulaid a 
+mná dóera chucu i llige, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5613
+            
+           ( 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1134
+          ). 
+            i lligi la 
+mnai Find i taidhe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1018 (87.17)
+            
+          . 
+            ni chotlu leth na 
+h-aidche im ligu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 79.15
+            
+          . techt hi ligi `<span class="quote">going to bed</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+ii 124.19 Comm
+          . 
+            ben ar-a-dala fer cuice i muine no l.<span class="oRef">¤</span>
+            , 
+              v 
+272.8
+            
+          . 
+            bidh lighi tren ┐ truagh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3512
+            
+          . 
+            ragaid mac 
+illigie a ath[ar]. ragaid ath[air] alligi a m[ei]c, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 
+406.28
+            
+          . ? 
+            messam laidi lethard, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 230.155
+            
+          . 
+            nibi i fledaib na lígaib fris-gní, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 27b3
+            
+          .</p>
+       
+        <p class="result"> 
+Of dogs <span class="trans">
+            <span class="def">kennel</span>, <span class="def">lair</span>
+          </span>: 
+            nirbo cuingi ime a lighe chon, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> 
+ii 72.8
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) Fig. <span class="trans">
+            <span class="def">grave</span>, <span class="def">flat</span> <span class="def">burial</span> <span class="def">space</span>
+          </span> (as opposed to fert, lecht): 
+
+            íccfaid drucht a ligi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 224
+            
+          . 
+            nábad airdairc a ligi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+2793
+            
+          . 
+            in corp roláad . . . / for l.<span class="oRef">¤</span> lór Helessé, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7182
+            
+          . 
+            cach 
+fert ┐ cach lecht, cach lia ┐ cach ligi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5704
+            
+          . 
+            is samlaid 
+atá in ligi. ┐ cloch bec fo thalmain na airthiur ┐ alaile na 
+iarthur, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 3845
+            
+          . 
+            ní hadnaghar og lighiu fir no mna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 
+2375
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. B 506</strong></span> 45b
+            
+          ). tri duirn a h'úir deirg . . . / d'úir 
+ligi leptha Cíaráin `<span class="quote">from the bed of clay where C. lies</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 84.64
+          . 
+            isat ili . . . / a ligi ┐ a lechtáin, 
+              134.32
+            
+          . 
+            loc 
+di cetamus l.<span class="oRef">¤</span> Fergusa maic Roich aitt in rohadnucht ar 
+Mag nAi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 3.3
+            
+          . batar imdha leacht ┐ laighi laech ┐ 
+curud gan chend don fobairt (`<span class="quote">lairs</span>'), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 3052
+          . cia in feart 
+do claidhead go mór . . . / a fhad is méd a luighe / uime 
+atú da fhíafraighe `<span class="quote">burial space</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> ii 32.2
+          . 
+            cía 
+in feart dona / ga ffuil in luige fada, 
+              32 § 1.
+            
+          
+        </p>
+       
+        <p class="result"> 
+In legal phrase: 
+            a nastudh ara ligi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2295
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. B506</strong></span>, 28a
+            
+          ) (if children of doubtful parentage have not been 
+affiliated before the death of the putative father, Plummer 
+MS. notes).</p>
+       
+        <p class="result"> 
+In <span class="pos nn.-loc." style="color: #ff8000">nn. loc.</span>, see Hog. Onom.</p>
+       
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

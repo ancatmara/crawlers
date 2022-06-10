@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="41302">toísech</h3><span class="citation">Cite this: eDIL s.v. toísech or <a class="reference" href="41302">dil.ie/41302</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                toísegu, toísigiu, taesca, taísce, túsga, táoiseach, tóiseach, túiseach, túiseach, tóiseach, taíseach</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj." style="color: #ff8000">adj.</span> and <span class="pos subst." style="color: #ff8000">subst.</span>
+    </p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> <span class="pos adj." style="color: #ff8000">adj.</span> <span class="itype o,&#x101;">o,ā</span> <span class="trans">
+          <span class="def">first</span>, <span class="def">former</span>:</span> 
+          isind epistil tóisich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14d1
+          
+        . 
+
+          fon dul toisech, 
+            10b20
+          
+        . 
+          is hires as toisech hi suidib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+14c6
+          
+        . forsind í toisech `<span class="quote">on the first i</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 7b5
+        . ind .a. toisech 
+`<span class="quote">the initial a</span>,' 
+          136a2
+        . 
+          huanaib herchoiltib tóisechaib, 
+
+            199b11
+          
+        . aire túise, cid ara n-eperr? arindí as t.<span class="oRef">¤</span> a ceníul 
+<span class="trans">
+          <span class="def">leading</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 386
+        . 
+          ont shanais taisig rosairg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 
+67.31
+          
+        . 
+          co n-aprai in bolcum tōisech frisin mbolcum ndédenach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 101.13
+          
+        . 
+          o gein tuiseach Edaíne ... cosin 
+ngein déigenach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 156.20
+          
+        . 
+          is in ais tuisigh ... is in 
+ais medhonaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 186.13 Comm.
+          
+         
+          eter dered ind 
+raind toesig ... ┐ tossach ind raind tan[aisi], 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 5369
+          
+        . 
+
+          for láim chlí ind óclaig thoesig tánic issin tulaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5197
+          
+        . 
+
+          in tan túisech beres soillsi grene cecha bliadna cetchoscor 
+do dorcha na haidche, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3515
+          
+        . 
+          Slíab Sobail ... ainm t.<span class="oRef">¤</span> 
+(: nóisech) in tṡen-ṡléibe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 116.96
+          
+        . acht na 
+ndenaid min-ughdair fri dereadh in domain ar thucait a 
+nderscnaighthi seach na n-ughdaru toisseacha `<span class="quote">the former 
+authors</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 59
+        . ro slecht didiu G. iarsin co ro soethe 
+ana gne toisech `<span class="trans">
+          <span class="def">former</span>
+        </span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlvi 239.25
+        . 
+          frisin láithi 
+toisech do mi Febra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 85
+          
+        . <span class="lbl">Cf.</span> tuisiuch a rainnside 
+a trí `<span class="quote">it is to be divided in the first place</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 140.12 
+Comm.
+         
+          is denam for tuisech an deidenach, 
+            i 172.32 Comm.
+          
+        
+      </p>
+     
+      <p class="result"> 
+As <span class="pos adv." style="color: #ff8000">adv.</span> preceding a verb: 
+          is aice toisech tucad chuing 
+for muinelaib dam do feraib Erenn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 178.19
+          
+         (TE). 
+iss é taeisech rosía taisselbad chugut-sa <span class="ediltr">it is it which will 
+first come to be exhibited to thee</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 92.20
+        . 
+          íar fairind 
+... comad hé tósech nóadhrad Fursa, 
+            96.21
+          
+        . 
+          dénaid tindenus 
+co rop sib toisech innises bethaid do'n doman, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3413
+          
+        . 
+
+          co mad i nGalilee toisech atcifitís a apstail Ísu iar n-esergi, 
+
+            3415
+          
+        . 
+          conidh he toissech roscrib i taiblibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 44
+          
+        . 
+
+          rocreit conid hé toisech rogab creidim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 3.13
+          
+        .</p>
+     
+      <p class="result"> 
+<span style="color: #ff8000">Compar.</span> toísegu, toísigiu. Later taesca, taísce, túsga.</p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">prior</span>; <span class="def">first</span> <span class="def">in importance</span>:</span> 
+            ni airegdu a persansom 
+oldaas persan na nabstal olchene ceto thóisegu i n-iriss, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 18d14
+            
+          . 
+            air is toisechu anisiu indaas andabeirsom ar 
+thuus, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 47a14
+            
+          . 
+            amal as toisegiu grían indáas laithe ... 
+síc is toissigiu gein maicc hua athair re cech dúil, 
+              85b11
+            
+          . 
+
+            bái ni bud toisigu dún andás biath do dénam duit, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 
+10.16
+            
+          . 
+            aire tuise .i. tuisechu i n-urd ... he, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 24.27 
+Comm.
+            
+           mar as tusca ... gach ni foirfi na gac ni nemhfoirfi 
+<span class="trans">
+            <span class="def">superior</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 66.16
+          . 
+            os é in credem oibriugud is 
+túsca dib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7813
+            
+          . 
+            dán órdha ní hé do ní | cosnamh gach 
+cúise adeirthí | as taosga i dtealaigh na bhFionn | acht 
+leabhair aosda Éirionn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> vii 12.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result">(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">first</span> <span class="def">in point 
+of time</span>, <span class="def">sooner</span>:</span> 
+            cid toisigiu doberthar ind ḟochaid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+19b11
+            
+          . 
+            aris is toiseghv rocet in coecatmad psalm, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 6.199
+            
+          . 
+            is toisichv rocet pusillus eram, 
+              10.z
+            
+          . 
+            is tōisechu 
+mac et athair oldās úa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1277
+            
+          . 
+            táisechu ro-síacht 
+Cú Chulainn co hEmain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 151
+            
+          . 
+            masa tuisecha ro deirged 
+a lam ... inna ro tsennestar in cin air, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 110.18 Comm.
+            
+           
+
+            taoisechu mes in ratha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 519
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, col. 421
+          ). 
+uair taoisiocha so ionás écc E. `<span class="quote">this was before the death 
+of E.</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 226.17
+          . 
+            ní miad lim-sa diam túscu dó icond 
+áth ná dam-sa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1879
+            
+          . 
+            táisgi rainic CuChulainn mara 
+roibi Orlam ina'n gilla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 540.19
+            
+          . 
+            táisce mo bás cen 
+deibe | ná le nech eile laige, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 61.13
+            
+          . 
+            tuscu Conall anda 
+Corc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 145a32
+            
+          . 
+            sinni ba toisciu ca thocht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 206b46
+            
+          . 
+
+            an inbuid is tusca beg ro gabhadh in athgabail ina táinic 
+in foesum, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 110.26 Comm.
+            
+           
+            cuairteocha mé in domun 
+ag iaraidh mo dhalta, muna faghar nísa tusca é, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 
+91.8
+            
+          . 
+            gach ni as deigmacha bis annsa comtsuigigud is e as 
+tusca bis annsa disgailedh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlix 12.y
+            
+          . 
+            gurabh taesca 
+do ghabhais féin geill treinfer Eirenn 'na do ghabh ri in 
+domhain a n-gheill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CF" title="eDIL Bibliography">CF</strong></span> 216
+            
+          . 
+            gein as taosga (: aosda) do 
+thuair gnaoi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 27.5
+            
+          . 
+            fa taosca sin ioná Cairbre 
+Riada do mharthain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 3685
+            
+          . 
+            go madh taosga deigh-fhreagra ōn rīgh ag breith orra nō M. do thernodh tar a aiss, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 22.26
+            
+          . ní bhfuil peacadh air bioth is taosga `<span class="quote">more 
+ancient</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 156.7
+          . As abstract noun: 
+            munbadh a 
+thúscc ro gonadh an presidens, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2114.23
+            
+          . In phr. 
+mar as t.<span class="oRef">¤</span>
+           <span class="trans">
+            <span class="def">as soon as</span>:</span> 
+            mar as taisce adchonnairc, grádhaighes 
+iat, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> 62 13
+            
+          . 
+            tabair do briathar damsa, maras 
+taosga ticfair an Erinn, nach lecfer oirisim na comnaide 
+doibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 124.68
+            
+          . mar is túsga théid an t-anam ar 
+neamh ┐ is léir dhó lonnradh an lóchrainn diadha `<span class="quote">as soon 
+as</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5086
+          . 
+            mar is túsga do-bheir an diabhal an duine 
+aontuigheas don olc ar chumas an pheacaidh, 
+              7345
+            
+          .</p>
+      
+     
+      
+        <p class="result">(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">sooner</span> <span class="def">in preference</span>; <span class="def">rather</span>:</span> 
+            toisechu bia marb oldas 
+bia meirb, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> xix C 546 § 8
+            
+          . 
+            doberim mo breithir ... conad 
+taesca no ebelaind ... na doberaind poic duit, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 
+198.6
+            
+          . 
+            gorab túsca bas im belaibhsi innas mo bheth ... im 
+senoir ic foglaim foghnamha do duine aili, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5529
+            
+          . 
+
+            bá cora comland do chur rimsa ní bad thaisci (tasca, <span class="lbl">v.l.</span>) 
+ina torchair do rigaib ... adraind cosaníu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4431
+            
+          . 
+
+            is tusca no-berad in t-errandus bud mo dia rige ┐ flaithius 
+doib oldas in cend-sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 906
+            
+          . 
+            is taisce atbél iná-s dogén 
+do diultad-sa, 
+              3014
+            
+          . 
+            is taisce doloiscfedh a ingin ana 
+doberadh do S. hi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 30
+            
+          . 
+            taosga as dúthchas d'aicme 
+Ír ... cuige Uladh ... ionás Luachair, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> v 115
+            
+          . 
+            is 
+túsca no fuicfind-si Ere inás do ghénaind fell for ma dhaltadaib fesin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 12.16
+            
+          . 
+            bheith toiltionach air bhás d'fulang 
+níos taoisge iona chuirfheadh fearg air, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 54.24
+            
+          . 
+            imdhighsi ni sa thaósga do chum na gceannuightheadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Matthew</strong></span> 
+xxv 9.
+            
+          
+        </p>
+      
+     
+      <p class="result"> 
+<span style="color: #ff8000">Superl.</span>: is ed trede as toisechem do duiniu gl. quae 
+inter reliqua uictui necesaria primum obtinent locum, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+20d2
+        . tóisigem gl. primus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 42a3
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> As <span class="pos subst." style="color: #ff8000">subst.</span> <span class="itype o">o</span>, <span class="gen m.">m.</span> táoiseach, tóiseach, 
+          túiseach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> 
+Decl. § 11 (54.29)
+          
+        ; túiseach, tóiseach, 
+          taíseach, 
+            § 104
+          
+        .</p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">first</span>, <span class="def">first-mentioned</span> thing or person.</span> honaib toisechaib gl. prioribus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 56b22
+          . 
+            essu rubu thoisech hi suidiu, 
+
+              63b5
+            
+          . 
+            ūr .i. cach (<span class="lbl">sic leg.</span>) tūisech ┐ īar cach ndēigenach, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1291
+            
+          . nád aithgainethar a t.<span class="oRef">¤</span>
+           <span class="ediltr">first mentioned</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 564
+          . 
+            cérba tróm in tóisech, i[s] sechttruma in 
+dédenach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 61.16
+            
+          . lethfiach don tuisech lanod 
+`<span class="quote">half fine due to the first man of full privilege</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 136.y 
+Comm.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">leader</span>, <span class="def">chief</span>:</span> 
+            hore rombu thoissech na fectae, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+33a20
+            
+          . 
+            ban chossmaili friar tuissech, 
+              33b20
+            
+          . 
+            amal bid nach 
+toisech corpthae dudfessed, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 78b14
+            
+          . 
+            Iob ba dicerta crich | 
+toisech míltnechta Dauid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6594
+            
+          . 
+            tóisech int sluaig, 
+
+              4797
+            
+          . 
+            snáidsiunn Moysi degthóisech, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 300.9
+            
+          . 
+            tóisech 
+inna mban, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> 31.7
+            
+          . 
+            acht atndaimet do thóisiuch 
+┐ aurlabraid remib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 279
+            
+          . 
+            im dán toísig nó 
+thánaisi, 
+              322
+            
+          . 
+            cach buden immá túsech, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8103
+            
+           (FB). 
+
+            na tōisig fot smacht | cidat nōisig neirt, 
+              <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 268 § 41
+            
+          . 
+
+            cach buiden imma tuisech, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 459
+            
+          . 
+            ech cach tóisich, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 94.10
+            
+          . 
+            Aengus bá toiseach doib uili, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 
+142.21
+            
+          . 
+            tuisech cacha fine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 438.25
+            
+          . 
+            cach tōisich 
+a thulach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 226.6
+            
+          . 
+            tuatha cen taisechu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+3049
+            
+          . 
+            ité ... in cóica ingen ...: isī a tāisech fil sunn for mo 
+leathlāim-sea .i. Deichtir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 502.3
+            
+          . 
+            a thaisechu iffirn, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3868
+            
+          . 
+            do thúisigh uile is t'uirrígh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 74.16
+            
+          . 
+            tréit 
+┐ taisig tretil, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 160.7
+            
+          . 
+            rug a craísech chraebh 
+n-úaine | taísech úaine a táebh thóire, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1205
+            
+          . 
+Of rulers of peoples or territories: 
+            toesech na nDubgennti, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 366.1
+            
+          . 
+            Cerran mac Colman tosech cenel Maelche, 
+
+              428.6
+            
+          . 
+            toisech Mesopotamia, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5284
+            
+          . 
+            ro boí toisech Ua 
+Conaing and, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3110
+            
+          . 
+            tōsig Thūath Bíd, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 83.20
+            
+          . 
+With following gen. of description; t.<span class="oRef">¤</span> céit <span class="trans">
+            <span class="def">centurion</span>:</span> 
+            doronadh iarsin tuiseach cett ic Cesair deisiom, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3554
+            
+          . 
+t.<span class="oRef">¤</span> celebarta <span class="trans">head of the canonical offices, <span class="def">cantor</span>
+          </span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/R&#xED;ochtnaMidhe" title="eDIL Bibliography">Ríocht na Midhe</strong></span> viii 8
+          : 
+            sacart, ┐ toiseach ceileabhartha Cluana mic Nóis, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> II 764.18
+            
+          . t.<span class="oRef">¤</span> cethrair <span class="frn ">quadrumvir</span>: taisech cetráir gl. quadrum uir, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 400
+          . t.<span class="oRef">¤</span> cóicir <span class="frn ">quintumvir</span>: taisech cuigir gl. quinctum 
+uir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 401
+          . t.<span class="oRef">¤</span> conaire <span class="trans">
+            <span class="def">guide</span>:</span> 
+            tarsna beilghibh rotioncoisccset a thoisigh conaire dhó, 
+              <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 86.7
+            
+          . t.<span class="oRef">¤</span> imgona 
+<span class="trans">
+            <span class="def">battle chief</span>:</span> 
+            ba tóisech imghona la Cublay esium, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 
+128
+            
+          . t.<span class="oRef">¤</span> na macc léiginn <span class="trans">
+            <span class="def">master</span> of the novices</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/R&#xED;ochtnaMidhe" title="eDIL Bibliography">Ríocht na Midhe</strong></span> viii 8
+          : 
+            [in] dā toīsech c[e]lebar(ta ocus toīsech na mac lēgind) do muntir Cenannsa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Notiti&#xE6;" title="eDIL Bibliography">Notitiæ as Leabhar Cheanannais</strong></span> 20.11
+            
+          . 
+            toīsech na macc lēgind .i. Ōengus Ūa Gamna, 
+              30.10
+            
+          . t.<span class="oRef">¤</span> na scolóc <span class="trans">
+            <span class="def">the head of the novices (?)</span>
+          </span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/R&#xED;ochtnaMidhe" title="eDIL Bibliography">Ríocht na Midhe</strong></span> viii 15
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Peritia" title="eDIL Bibliography">Peritia</strong></span> i 314
+          : 
+            toisech na scoloc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Misc.Arch.Soc." title="eDIL Bibliography">Misc. Arch. Soc.</strong></span> i 140.y
+            
+          . t.<span class="oRef">¤</span> teglaig <span class="trans">
+            <span class="def">chief</span> of the <span class="def">household</span>, <span class="def">major-domo</span>:</span> 
+            taiseach 
+teglaig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 149
+            
+          . 
+            co rob e ba taisech teglaich ac Meidb, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 182.14
+            
+          . <span class="lbl">Cf.</span> 
+            is iomdha ardtaoiseach do bhíodh ... 
+ar an bhFéin, mar atá ... taoiseach caogaid amhail bhíos 
+lieutenant ┐ taoiseach trí naonbhar amhail bhíos corporal, 
+┐ taoiseach naonbhair amhail bhíodh decurio ag an Rómhánach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5164
+            
+          -
+            69
+          .</p>
+      
+     
+      <p class="result"> 
+Compd. 
+          <span class="oRef">¤</span>aire <span class="trans">
+          <span class="def">chief noble</span>:</span> 
+          airech tóisechaire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 50a26
+          
+        . 
+          <span class="oRef">¤</span>gein <span class="trans">
+          <span class="def">first-born</span> one</span>: 
+          dliged in tuīsechgeine (gl. primgene), 
+            <span><strong class="pop" style="color:blue" href="bibliography/CB" title="eDIL Bibliography">CB</strong></span> 162 § 43 gl. 1
+          
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

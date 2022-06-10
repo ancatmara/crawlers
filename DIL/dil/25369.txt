@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="25369">1 gar</h3><span class="citation">Cite this: eDIL s.v. 1 gar or <a class="reference" href="25369">dil.ie/25369</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/></div><div class="col-sm-9 result_content">
+   
+
+    
+      <p class="result">
+        <span class="pos adj" style="color: #ff8000">adj</span> 
+        <span class="edilb">I</span> <span class="itype o,&#x101;">o,ā</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">short</span> (of time or space):</span> 
+            gar cían biasa hifus, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 62
+            
+           (Eg.). 
+            cian gar dorigéni gnimrada gaile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1967
+            
+          . 
+
+            <span class="lbl">ib.</span> p. 911 n. 3
+          . as gar go roisch 'obair (<span class="lbl">sic leg.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 66 § 31
+          . 
+
+            cidh cian, cidh gar ar dhá ré | nochan fhaicfem a ceile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+253.19
+            
+          . fis gar <span class="ediltr">brief knowledge</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 316.9
+          . go gar 
+iarsin <span class="ediltr">shortly afterwards</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 24.x
+          . 
+            bláth dar ghar teacht 
+'na thoradh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 105.11
+            
+          .</p>
+       
+        <p class="result"> 
+<span style="color: #ff8000">Compar.</span> 
+            an uain bhus goire gabham, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1829.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">near</span> (of place or time):</span> 
+            a c(h)rannghal sa c(h)loch 
+aolta | gar da chéile a ccomhaonta, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 60.121
+            
+          . 
+            is gar 
+dona drochghnimhuibh dighultas De, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xix 14.12
+            
+          . 
+            is gar 
+bas damh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 25.35
+            
+          . 
+            rob gar leigheas dar leónadh, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1921 74 § 8
+            
+          . 
+            sínfead ris mo tháobh go gar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 
+350 § 6
+            
+          . gar do chéad <span class="ediltr">almost a hundred</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xiii § 25
+          . 
+            ní 
+gar d'inghin Í Bhriain bean, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 2077
+            
+          . 
+            gar go 
+bhfuil a oiread soin ... do Chonnachtaibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> v § 151
+            
+          . Of 
+kinship: Mac S. ... gar é d'oireachus Eirionn `<span class="quote">he was nearly 
+related to the sovranty</span>' ... 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 281.25
+          . 
+            an seiseadh glún 
+achd giodh gar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT Introd.</strong></span> § 36
+            
+          . 
+            do mháthair Dé is gar mo 
+ghaol, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> ii 2
+            
+          . 
+            ar chonnailbhe ná ar ghaol ghar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> 
+ix 4.
+            
+          
+        </p>
+       
+        <p class="result"> 
+<span style="color: #ff8000">Compar.</span> 
+            dobert a longport ní bá goire biucc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2254.22
+            
+          . 
+an té fá goire céim <span class="ediltr">next in rank</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 1225
+          . As intens. 
+prefix to (f)ocus <span class="trans">
+            <span class="def">near</span>
+          </span>: bá garfocus dóibh é (<span class="lbl">sic leg.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+1776
+          . 
+            ó rangatar ... i ngarfoccus don chaislen, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2016.7
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) By extension <span class="trans">
+            <span class="def">easy</span>, <span class="def">likely</span>, <span class="def">pleasant</span>, <span class="def">convenient</span>:</span> In 
+gar leat sosceli do dénam ar F. ... Is gor ar C.C. <span class="ediltr">would it suit 
+thee ... ?</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 202.37
+          . aithescc fire nar gar liom ... <span class="ediltr">that was 
+not pleasing to me</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 253.18
+          . in ba gaire gnim Cormaic ? 
+<span class="ediltr">would C's prowess be more likely [of success] ?</span>
+          
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 78 
+§ 79
+          . isé an arra is gaire les <span class="ediltr">this is the compensation which 
+he thinks most convenient</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1597
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H5.15" title="eDIL Bibliography">H 5.15</strong></span>, 10a
+          ). ní gar 
+<span class="trans">
+            <span class="def">not</span> <span class="def">easy</span>, <span class="def">not</span> <span class="def">likely</span>:</span> 
+            ní gar dogebhthar an ingin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 
+164 § 20
+            
+          . ní gar meas ar áirimh t'eoil `<span class="quote">hard is moderation</span> ...,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xii 10
+          . muna lingthi dá lár féin ... 
+níor ghar dhóibh toghail na Traoi (<span class="lbl">i.e.</span> but for the enemy 
+within her gates Troy were not likely to have been destroyed), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 26.38
+          . ní gar nach diongnadh é féin d'inneall <span class="ediltr">it is not 
+likely that he would not</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2240
+          . gar ... ingar (amgar) 
+<span class="ediltr">easy ... difficult; pleasant ... unpleasant</span>, <span class="lbl">etc.</span>: 
+            roraid F. dobérad 
+inni no iarfad, gemad gar ingar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> i 459.1
+            
+          . 
+            do thuilleamh 
+tighe na glóire | is gar amhghar airdhe an chuirp, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> x 8
+            
+          . 
+
+            guais damh mé do mhealladh | is gar é is is ingar, 
+              <span class="lbl">ib.</span> viii 8
+            
+          . 
+fa gar agus fá hamhghar dó-san sin, <span class="ediltr">it was both convenient 
+to him and the reverse</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Atlantis" title="eDIL Bibliography">Atlantis</strong></span> iv 158.17
+          .</p>
+       
+        <p class="result"> 
+Compds. 
+            <span class="oRef">¤</span>scél: bid garscel co feastar sin <span class="ediltr">it will not be 
+long till that be found out</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 201 § 71
+          . 
+            <span class="oRef">¤</span>uar <span class="trans">a short <span class="def">time</span>:</span> 
+            bid 
+gar úar dosom ón, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 144
+            
+          . 
+            gar úar gur ḟurmius a bruth, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3517
+            
+          . 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3344
+          . 
+            is garuair co tainic ..., 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2462
+            
+          . 
+
+            roécc gar uair iarsin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1712.12
+            
+          . 
+            a ttuidhecht i ngaruair, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> § 29 (16a)
+            
+          . See also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gars&#xE9;clae">garséclae, garsécle</a></span> and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gars&#xE9;le">garséle, garséghla</a></span>.</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> <span class="pos Subst." style="color: #ff8000">Subst.</span> gen. used adverbially <span class="trans">a <span class="def">short</span> <span class="def">time</span>, <span class="def">proximity</span>; 
+hence <span class="def">convenience</span> :</span> 
+          gar ré coscur écin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5228
+          
+        . 
+          gar 
+rena chésad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> § 2
+          
+         (LB). 
+          gar reimi sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 225.20
+          
+        . 
+
+          gar d'aimsir iarum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7199
+          
+        . 
+          gar becc rīa n-espartain, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 13
+          
+        , 
+          25
+        . 
+          romarbad gar bic iartain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> ii 166.9
+          
+        . 
+
+          an fuil sluaigh S. ar gar duin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xix 280.25
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Fier." title="eDIL Bibliography">Fierabras</strong></span> 
+§ 209
+        ). i nghar do uisci <span class="ediltr">near water</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 375.11
+        . 
+          ni 
+raibe uisge a ngar do, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 86
+          
+        . 
+          ag a raibhe dolás i ngar 
+dhó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 540.12
+          
+        . 
+          na coin na gar is na gadhair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT Decl.</strong></span> ex. 1507
+          
+        . 
+          bás atá im ghar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 985
+          
+        . i ngar 
+do leth na conaire <span class="ediltr">nearly half way</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1970.7
+        . 
+          v 1720
+        . 
+ni táinic a lamh a ngar ina timcill <span class="ediltr">his hand did not nearly 
+reach round it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DIV2" title="eDIL Bibliography">D IV 2</strong></span>, 44vb20
+        . focal sin 's a chiall na gar 
+<span class="ediltr">whose sense is not far to seek</span> (<span class="lbl">i.e.</span> that he who runs may read), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 82.2
+        . ní gar díbh aon nidh ... do thabhairt 
+chuige <span class="ediltr">it is not fitting (?) for you</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> iii 112.17
+         (Tór. Dh.). 
+<span class="trans">Concrete for abstract a <span class="def">convenient</span> thing (?):</span> reidh ngair .i. 
+cos escradh (a kenning) <span class="ediltr">the smooth part of a convenient 
+object (?</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 91.5.
+        
+      </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

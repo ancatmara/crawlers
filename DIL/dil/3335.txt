@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="3335">anál</h3><span class="citation">Cite this: eDIL s.v. anál or <a class="reference" href="3335">dil.ie/3335</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                anál</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> Orig. <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=anaid">anaid</a></span>. 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celt.Verb" title="eDIL Bibliography">Celt. Verb</strong></span> p. 186
+      . Pedersen, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Litteris" title="eDIL Bibliography">Litteris</strong></span> ii 77
+      -
+        94
+       (Best Bibliogr.), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LEIA" title="eDIL Bibliography">LEIA</strong></span>
+       anál <span class="gen f.">f.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> 
+Decl. § 149
+      . <span class="case n.">n.</span> <span class="number sg.">sg.</span> 
+        anáil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LoingesMacnDu&#xED;lDermait" title="eDIL Bibliography">Loinges mac nDuíl Dermait</strong></span> 58 § 31
+        
+      . <span class="trans">
+        <i>act of</i> <span class="def">breathing</span>; <span class="def">breath</span>:</span> donanáil gl. anele, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Gild.Lor." title="eDIL Bibliography">Gild. Lor.</strong></span> gl. 123
+       (
+        anhela, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DuCange" title="eDIL Bibliography">Du Cange</strong></span>
+        
+      , see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ascoli" title="eDIL Bibliography">Ascoli</strong></span> xxxiii
+      ). 
+ic egmig impu . . . fot a n-anali <span class="ediltr">till out of breath</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1902
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 56.15
+      ). 
+        anála fer ┐ ech, 
+          9246
+        
+      . 
+        anáil nathrach, 
+          5442
+        
+       
+(TBC). rob imda airech . . . ica urgabail ar n-urnaidm a 
+anala air <span class="ediltr">through shortness of breath</span> (of fleeing men), 
+        <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 
+318.11
+      . 
+        tocbaid bar n-anála i núachtur bar cléib du bar 
+n-étrummugud tairis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mer.Uil." title="eDIL Bibliography">Mer. Uil.</strong></span> 65
+        
+      . 
+        tromtínfed a mbrenanala, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 495a8
+        
+      . 
+        bolad fína lía anóil (: óir), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3640
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 31
+      ). a.<span class="oRef">¤</span> mnáa lat ingin <span class="ediltr">breathes like a woman</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 373
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 5 § 14
+      ). omun iar sin hi cride / iss a.<span class="oRef">¤</span> hi 
+trommchride (on the situation (in the body) of the passions 
+and propensities), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 223.10
+      . lán dom anáil ón uabhar 
+<span class="ediltr">puffed up with pride</span>(?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 87 § 16
+      . 
+        cuir mar 
+thúis anáil th'ochta / fam ghnúis d'fhagháil fhurtochta, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 67.30
+        
+      . 
+        goill dom athchur 'sdom arguin / . . . / rug a 
+hanáil óm inntinn, 
+          90.5
+        
+      . do-bhir dá ḟine a n-anáil `<span class="quote">who gives 
+life to his kinsfolk</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 32.80
+      . 
+        lé anáil na nél um nóna / fér 
+ag fagháil chóra a críaidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1153
+        
+      . d'anáil 
+óirmheirgeadh <span class="ediltr">the breeze caused by the waving of ensigns</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 100.200
+      . 
+        lé séideadh nó lé súghadh a 
+anáile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1896
+        
+      . oiret anala géoid <span class="ediltr">the slightest breath</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xxiv 381.18
+      . táinig d'anáil chuaigh fa Chormac `<span class="quote">such fumes 
+arose from the goblet</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 29.34
+      .</p>
+  
+  
+    <p class="result"> 
+In various phrases. do-beir a.<span class="oRef">¤</span> fo <span class="trans">
+        <span class="def">breathes</span> <i>on</i>:</span> a ndorat a 
+anáil foí <span class="ediltr">when he blew under it</span> (of a fire), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 132
+      . tuc a a.<span class="oRef">¤</span> 
+fai iarsin `<span class="quote">the Devil breathed on him them</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 454.28
+      . do-beir a.<span class="oRef">¤</span> for: dobeir an sacart secht n-[an]ála Dē for a muin 
+<span class="ediltr">the priest breathes seven breaths of God on his back</span> (significance 
+obscure, apparently a form of appeasement), 
+        <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 96.27
+      . 
+
+        dobeir íarum an t-airchindech secht n-anāla Dē for a muin 
+corigci an lic i ndorus a tighi apad, 
+          29
+        
+      . gaibid ar (for) a.<span class="oRef">¤</span>
+      : 
+no co ngaba for thrí ara anáil <span class="ediltr">till he thrice holds in his breath</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Mer.Uil." title="eDIL Bibliography">Mer. Uil.</strong></span> 135
+      . 
+        rogab for a anáil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2072
+        
+      . do léici, 
+léicid a.<span class="oRef">¤</span>
+       <span class="trans">
+        <span class="def">exhales</span> <span class="def">breath</span>:</span> crét tái cen t'anál do lécud immach? 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8136
+      . 
+        ro teilgedh a anál, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2164
+        
+      . 
+        aithinne dubh 
+. . . léicis Mlaise a anáil foillsigh / fúithib gur shoillsigh, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 27.33
+        
+      . dia ttealccat an lucht úd a n-anala <span class="ediltr">get breathing 
+time</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1766.24
+      . do-léici, léicid a.<span class="oRef">¤</span> do: ma tarlaic a 
+nanala doibh <span class="ediltr">if he gave them a breathing space</span> (of driving 
+cattle), 
+        <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2325
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 25 (26)b
+        
+      ). 
+        ro léc a tri nanala 
+doib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2341
+        
+       (<span class="lbl">ib.</span> 
+        26 (27)c
+        
+      ). intan dorelced mo anāl damsa 
+<span class="ediltr">provided I can breathe</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2192
+      . 
+        nír léig Gall ort a anáil '<span class="quote">no foreigner breathed upon you</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/GiollaBrighde" title="eDIL Bibliography">Giolla Brighde</strong></span> 40 § 5
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">In descriptions of heroes' <span class="def">feats</span> (precise application not 
+clear)</span>: rothchless ┐ otar ┐ cless for análaib (of Cú Chulainn), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5972
+       (= gless (cleas St.) 
+        for a.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2111
+        
+      ). 
+        eter chles 
+for análaib ┐ ubullchles ┐ siaburchles, 
+          8442
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 30
+      ). 
+        léim 
+tar neimh ┐ cleas fur anala, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 128 § 35
+        
+      . 
+        ro clisius for 
+analaib / uasa uíb ( ? uas aúib) na n-ech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9345
+        
+      . 
+        immasleig cach la beirt immin n-araid gabáil na n-ésse biid uasaib 
+┐ análaib, 
+          9294
+        
+      . <span class="lbl">Cf.</span> in descriptions of fighting: 
+        is amlaid 
+bís mo chú . . . oc imguin ós analaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 531
+        
+      . 
+        arfich ó 
+aíb ech ┐ analaib fer, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8347
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 24
+      ). atrácht a én gaile 
+osa anáil co m-búi for folúamain imma chend (of Hercules), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 225a48
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 600
+      ). 
+        rachomaicsigsetar na catha da ceile 
+. . . co raeirgetar a n-eoin gaile ósa n-analaib, 
+          239b42
+        
+       (
+        1706
+      ).</p>
+  
+  
+    <p class="result"> 
+<span class="trans">Of <span class="def">recitation</span>, ref. to the number of words, <span class="lbl">etc.</span> to be <span class="def">spoken</span> 
+in one breath:</span> intan ba roscadh . . . cindas nothomsidhe? 
+. . . do focul forba anaile no-taispenta don choiceadh focul, 
+uair is coic focail romesadh i n-anail in filed <span class="ediltr">by a word completing a breath which was indicated by the fifth word</span> . . ., 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 930
+       = 
+        3860
+      . dilius do bair[d]ne a tomus <span class="frn ">et</span> coir 
+n-anala <span class="ediltr">their measure and correct phrasing</span> (lit. <span class="ediltr">breathing</span>), 
+
+        3528
+      . is é cóir nanála .i. narop sia las in bfer nít gaib (= 
+nodgaib ?) ó aná[i]l cen (<span class="lbl">leg.</span> cech ?) leth ┐ gach cethruma 
+inás a céile, ar na roib cam .i. cin claen dona claenaib . . . 
+<span class="ediltr">that the man who recites it in (one ?) breath may not prolong 
+any one couplet or any one line more than another(?)</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 
+1222
+       (H 2.15, 86b). <span class="trans">Of the <span class="def">chanting</span> of <span class="def">psalms</span>:</span> 
+        a sailm iar 
+fersaib ┐ linib ┐ adhantaib ┐ analaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 24.9 Comm.
+        
+       
+
+        oc cetul a shalm . . . for aillib ┐ annalaib ┐ ernalib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 
+13.11
+        
+      . <span class="trans">Of the <span class="def">recitation</span> of a <span class="def">magic</span> formula:</span> 
+        D. doroine 
+dic[h]etal do cennaib for enanail do cuingidh feraind for 
+C., 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 392b53
+        
+      . Similarly: 
+        for óenchoiss ┐ óenláim ┐ óenanáil 
+rachain dóib insin uile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6983
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 562
+      . Legal: 
+tucait mbinniusa .i. a foclaib ┐ a nanalib <span class="ediltr">diction and enunciation</span> (of speaking in court), 
+        <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 849
+       (H 3.17, c. 603). 
+        fot 
+naen anala do boaire, ┐ .u. focuil inti, a dó do filid . . . a 
+tri do flaith . . . a secht do eclais, ┐ nai focail cethrachat 
+indtib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 698
+        
+       (H 3.18, 337). 
+        go deich do foclaib ┐ vii 
+nanala don eclais ┐ vii focail in cach anail . . . da anail don 
+fili ┐ v focail in cach anail, 
+          227
+        
+       (122).</p>
+  
+  
+    <p class="result"> 
+On the connection between a.<span class="oRef">¤</span>
+       and poetic art (aí), see 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> vi 215 ff.
+       
+        do glaine n-anáile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 37.15
+        
+      . 
+        do-glind anáil / ailibh caoinibh / inghen gaoithe . . . eisimh 
+teisimh / eallaing, teallaincc, 
+          16
+        
+      . 
+        a hainm (<span class="lbl">i.e.</span> aí) i ccaoimthecht fria hanail, 
+          39.24
+        
+      .</p>
+  
+  
+    <p class="result"> 
+Compd. anal-utmall <span class="trans">
+        <i>of quick</i> <span class="def">breath</span>, <span class="def">panting</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+4956
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="9150">cinniud</h3><span class="citation">Cite this: eDIL s.v. cinniud or <a class="reference" href="9150">dil.ie/9150</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                cin(n)te, cinneadh, cinniomh</p></div><div class="col-sm-9 result_content">
+    
+    <p class="result">
+      <span class="gen m.">m.</span> <span class="case g">g</span>
+      <span class="number s.">s.</span> cin(n)te. <span class="pos Vn." style="color: #ff8000">Vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 cinnid">1 cinnid</a></span>. 
+        cinneadh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs 
+§ 71
+        
+      . 
+        cinniomh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CRR2" title="eDIL Bibliography">CRR²</strong></span> 27
+        
+      . </p>
+   
+    
+      <p class="result">
+        <span class="edilb">I</span> As <span class="pos vn." style="color: #ff8000">vn.</span> <span class="trans">act of <span class="def">fixing</span>, <span class="def">defining</span>, 
+<span class="def">deciding</span>
+        </span>. In Sg. always in phr. c.<span class="oRef">¤</span> persine glossing Lat. 
+<span class="frn ">demonstratio</span>, <span class="lbl">etc.</span> = defining (grammatical) person: cen 
+chinniuth persine, 
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 27a6
+        . gl. discretionis uel significantiae, 
+
+          198a5
+        . gl. demonstratio (ostendit), 
+          24
+        . 
+          200a4
+        . Ref. to <span class="frn ">finit</span>, 
+
+          197a11
+        . Other contexts: 
+          iar c.<span class="oRef">¤</span> na fiach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 250
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 
+145a
+          
+        ). 
+          iar c.<span class="oRef">¤</span> cach thuir thogaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 967
+          
+        . 
+          tabartar tennta . . . 
+ima cindiudh ┐ ima comailliud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 238a41
+          
+        . ced smuainiud 
+cindti cacha caingni <span class="ediltr">the first consideration with a view to the 
+solution of every problem</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 94.2
+        .</p>
+     
+      <p class="result"> 
+In phrases: c.<span class="oRef">¤</span> bethad <span class="trans">act of <span class="def">dedicating</span> one's <span class="def">life</span>
+        </span>: 
+          I. . . . 
+d'facbail an tsaeguil . . . ┐ cinned a bethad do . . . a manestir 
+na mBrathar Preciur, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1269.2
+          
+        . ri is mo ro toccaib 
+do . . . chomtinolaib cinti bethadh `<span class="quote">religious communities</span>' (of 
+Cathal Crobderg), 
+          1224.2
+        . c.<span class="oRef">¤</span> catha, comlainn <span class="lbl">etc.</span> <span class="trans">act of 
+<span class="def">terminating</span> <span class="def">battle</span> <span class="lbl">etc.</span> <span class="def">successfully</span>
+        </span>: atragat díb días aile / fair 
+do chinniud chomraime `<span class="quote">to win a triumph over him</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 
+100.y
+        . 
+          im thincem a tressa ┐ im ch.<span class="oRef">¤</span> a cath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 31635
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 
+823
+        ). ar c.<span class="oRef">¤</span> cacha ruathair `<span class="quote">after completing</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 242.11
+        . 
+          ní 
+cinneadh cogaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 78.3
+          
+        . c.<span class="oRef">¤</span> comairle <span class="ediltr">act of deliberating, 
+making a decision</span>: 
+          co ndernsatar c.<span class="oRef">¤</span> comairle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 31893
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1080
+        ). 
+          cáirde trí lá . . . re cinneadh comhairle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 
+22.14
+          
+        . With ar: 
+          iar gcinneadh ar an gcomhairle sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+5494
+          
+        . measaim gurab oircheas dam cinneadh mar úghdardhás air, `<span class="quote">to rely on it as authority</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 90.38
+        .</p>
+     
+      <p class="result"> 
+?tirud, ┐ cirud, ┐ c.<span class="oRef">¤</span> do munudh doibh <span class="trans">
+          <span class="def">measuring</span>
+        </span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+ii 152.11 Comm.
+         (`<span class="trans">
+          <span class="def">wood-cutting</span>
+        </span>').</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> (<span class="edilb">a</span>) <span class="trans">
+          <span class="def">certainty</span>, <span class="def">limit</span>, <span class="def">definition</span>
+        </span>: dentadha . . . arnar cind 
+ugdair cinnedh denmha `<span class="quote">structures for which the authors 
+have not specified a particular type of construction</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+xvii 72 § 13 gl. 11
+        . cate deochraigter eter c.<span class="oRef">¤</span> ┐ cintech[u] 
+. . . C.<span class="oRef">¤</span> in aipigitir Grecda `<span class="quote">definite, more definite</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 
+1254
+        -
+          5
+         = 
+          cinnedh, 
+            4366
+          
+        . 
+          is se seo cindead et comhair, tosach 
+┐ tren-deirid . . . na h-aisi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 236a1
+          
+        . i comhflaithes gan 
+cinned (of heaven) <span class="ediltr">limitless</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 274.10
+        . ní cíndedh fil 
+ure `<span class="quote">there is no limitation upon it</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 166.2 Comm.
+         </p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">decision</span>, <span class="def">decree</span>; <span class="def">agreement</span>
+          </span>: 
+            ro boí c.<span class="oRef">¤</span> tria chombáig 
+. . . eter Choin C. ┐ Conall, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 14097
+            
+          . is iat so cinte 7 gnathaighthe búi oc scoil Oíc-Sinchill <span class="trans">
+            <span class="def">arrangements</span>
+          </span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 
+41.20
+          . 
+            o atchuala . . . na cindte, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 611
+            
+          . 
+            do f[h]āem-sabair 
+orum-sa / c.<span class="oRef">¤</span> cruaid nach téit taithleach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCellaig" title="eDIL Bibliography">CCellaig</strong></span> 371
+            
+          . 
+dorónadh cinniudh senaidh occo `<span class="quote">passed a decree</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+389
+          . 
+            nír-bo choir duit an cinnead sin do denam, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4791
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">destiny</span>, <span class="def">fate</span>
+          </span>: ni heidir dul sech an cinneadh `<span class="quote">there is 
+no avoiding destiny</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 745
+          . 
+            ōn chinneadh nī thēid 
+gach ní, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 1964
+            
+          . olc d'Ibh Cobhthaigh a gcinneadh 
+<span class="ediltr">evil their lot</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 110.30
+          . In phrase at-tá i c.<span class="oRef">¤</span> (do) <span class="ediltr">is fated</span> 
+(<span class="ediltr">for</span>): día mbia i cc.<span class="oRef">¤</span> aittreb na carcrach sin (<span class="lbl">i.e.</span> hell), 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+2459
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iv 254.17
+          ). 
+            ata i cinnedh dhamh dhul ann, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 
+774
+            
+          . nethe . . . bis a cinded <span class="ediltr">which are fated</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 38.17
+          . 
+            an 
+bith cé . . . / do bhaoi dé (sé, MS.) i gcinneadh a chríoch, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> iii 8
+            
+          . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=cinnemain">cinnemain</a></span>.</p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

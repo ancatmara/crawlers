@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="26408">gorm</h3><span class="citation">Cite this: eDIL s.v. gorm or <a class="reference" href="26408">dil.ie/26408</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="itype o,&#x101;">o,ā</span> <span class="pos adj." style="color: #ff8000">adj.</span> of colour.</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">blue</span>
+        </span> (gen. <span class="trans">
+          <span class="def">deep-blue</span>, <span class="def">caerulean</span>
+        </span>, 
+as opposed to glas): 
+          a n-étguda, eter chorcair ┐ gorm ┐ dub, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 66
+          
+        . <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 146.13
+        . 
+          brat gorm crónchorcra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+8637
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 47
+        ). guirmidir (<span class="lbl">v.l.</span> gurmu na) gas do glaisin (of 
+eyes), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 96.14
+        . <span class="trans">Of <span class="def">crystal</span>, <span class="def">metallic</span> <span class="def">sheen</span>:</span> 
+          lebend ... 
+di glain gil ... iarna brechtrad di gurm ocus chorcra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2039 
+          
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 11
+        ). 
+          cona comladaibh gorma gloinidhi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5608 
+          
+        St. 
+
+          dabhach ... do gloine ghuirm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 156.x
+          
+        . Often of 
+weapons or armour: 
+          fri slendaibh slegh ... n-gorm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+5651
+          
+         St. 
+          taisbenad a craisigi cennguirme, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 196.5
+          
+        . cnedh 
+ó chrúaidh gurm ... <span class="ediltr">blue steel</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1129
+        . Of sea 
+or water: 
+          sāl gorm glé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 24.2
+          
+        . 
+          srotha gorma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 13.3
+          
+        . 
+Of sky: 
+          i nim glan gurm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 235 § 9.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">green</span>. Of verdure, vegetation; water:</span> 
+          gorm fallán fér 
+na hinnse, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1920, 568 § 20
+          
+        . 
+          múr ... na dtulach ngorm, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 11.2
+          
+        . 
+          26.42
+        . 
+          a tobair gorma ghlana, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 542.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">dark</span>, <span class="def">swarthy</span>, <span class="def">black</span>:</span> cona c[h]eithirn guirm ghlóraigh 
+(of devils), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 216 § 4
+        . leisin ngrinne ngorm ... <span class="ediltr">swarthy 
+host</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 114 § 15
+        . creach na nGall ngorm <span class="ediltr">of the swarthy 
+Norsemen</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 90.1
+        . fer gorm (form assumed by the 
+devil), 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 56 § 60
+        . fir gorma= <span class="frn ">nigri</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 162.3
+        . beirt 
+d'feroip gorma <span class="ediltr">negroes</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 254.z
+        . <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xiv 64.16
+        . 
+
+          fa ech ngorm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 221 § 37
+          
+        ; 
+          220 § 28
+         (where distinguished from `ech dub'). 
+          da ttug gabhair nguirm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 
+96.19
+          
+        . gorm garbgáisitech (of a boar), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 64.13
+        . da 
+óclach ... abratgorma <span class="ediltr">with dark lashes</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4346
+        . 
+          fegais ... 
+in carcair ngairbh nguirm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3633
+          
+        . cúilteagh na 
+gclár ngorm (description of a castle), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 119 § 27
+        . 
+
+          guirmther gual, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 20.7
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 37.7
+        . 
+          do seitidaib gorma ... 
+tarb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1280
+          
+        . 
+          a n-as gurma (.i. as duibhe), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 
+490 § 17
+          
+        (B. na Filed). 
+          a chuil ghormsa dhatha an dáoil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> 
+Decl. ex. 863
+          
+        . Fig. truagh mo betha gaibthech gorm ... 
+<span class="ediltr">gloomy</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 415.7
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">Fig. <span class="def">illustrious</span>, <span class="def">splendid</span>:</span> 
+          gorm .i. urdairc <span class="frn ">ut est</span> an-as 
+gurma rudhradh rígh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1033
+          
+         (= 
+          gurmu, 
+            1345
+          
+        ). 
+          gorm .i. 
+oirdheirc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         
+          in gormríg ro múchtha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 233
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+xiii 16 § 21
+        . Ailill, Etan canar gorm <span class="ediltr">who is famed in song</span> (?), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 110 § 23
+        . 
+          hūa nīamguirm Nēill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 217 § 1
+          
+        . 
+          rí 
+rogorm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CS" title="eDIL Bibliography">CS</strong></span> 188.4
+          
+        ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 82.39
+        . 
+          macc Echach 
+ollguirm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 182b44
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 60 § 20
+        ). 
+          rí roghach rath-gorm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 418.11 (<span class="lbl">an.</span> 902)
+        . 
+          féin ṅguirm nglése, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 133b42 
+          
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/Nenn." title="eDIL Bibliography">Todd Nenn.</strong></span> 228.62
+        ; possibly used of weapons). Maol fial 
+Finnia ... eo ruadh roghorm `<span class="quote">most illustrious hero</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 
+556.z
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 418.4 (<span class="lbl">an.</span> 902).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+          <span class="def">fiery</span> <span class="def">red</span> (?):</span> 
+          gorm .i. dearg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         (prob. only a guess, 
+due to association with compds.; see below). 
+          grían tul-gorm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 461
+          
+        . ? la Marc rūadgorm rīgdae `<span class="trans">
+          <span class="def">red-fiery</span>
+        </span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 
+Ep. 260.
+        
+      </p>
+    
+  
+  
+    <p class="result"> 
+Compds. (<span class="edilb">a</span>) With adj. or noun of colour: 
+        <span class="oRef">¤</span>chorcra: sian 
+a grúadi gormchorcrai ... <span class="trans">
+        <span class="def">olive-hued</span> (?)</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 69.4
+      . 
+        <span class="oRef">¤</span>dub: 
+
+        do refeduib gormdubhaibh glasiaraind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2627
+        
+      . 
+        <span class="oRef">¤</span>gel: 
+da n-grúad gormgela cróderca ... <span class="ediltr">veined with blue and blood-red</span> (?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8677
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 51
+      ). 
+        <span class="oRef">¤</span>glas: egcosc inn e[i]ch sin .i. 
+gabair gormglasa ... <span class="ediltr">dark grey (?</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2279
+      . 
+        <span class="oRef">¤</span>ruad (of a 
+spear), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 310.39
+      .</p>
+  
+  
+    <p class="result"> 
+(<span class="edilb">b</span>) With subst. or adj. either in primary sense or <span class="lbl">fig.</span>: 
+
+        <span class="oRef">¤</span>abrach <span class="trans">
+        <span class="def">dark-lashed</span>:</span> 
+        in tsúil ... gormabrach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 218 
+§ 22
+        
+      . 
+        
+          <span class="oRef">¤</span>aibnech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 21.29
+        
+      . 
+        <span class="oRef">¤</span>ainech <span class="trans">of <span class="def">illustrious</span> <span class="def">fame</span>:</span> 
+        rige 
+gormainech Galian, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 85a17
+        
+      . fian gormainech goburglas 
+<span class="trans">
+        <span class="def">noble-faced</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 10 § 8
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 544.16
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 98a1
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 
+670
+      . 
+        <span class="oRef">¤</span>at[t] <span class="trans">a <span class="def">silvery-blue</span> <span class="def">helmet</span>:</span> <span class="number pl.">pl.</span> 
+        gormait, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Caithr.CC" title="eDIL Bibliography">Caithr. CC</strong></span> 
+§ 11
+        
+      . 
+        <span class="oRef">¤</span>chath: 
+        iar ngormchath '<span class="quote">after the harsh battle</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/SRGreene" title="eDIL Bibliography">SR (Greene)</strong></span> 6559
+        
+      . 
+        <span class="oRef">¤</span>dercach <span class="trans">
+        <span class="def">blue-eyed</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 17.42
+      . 
+        <span class="oRef">¤</span>duille <span class="trans">
+        <span class="def">green</span> (dark ?)</span> 
+<span class="trans">
+        <span class="def">foliage</span>:</span> 
+        ar feadh fedha gormdhuille, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> x 137.21
+        
+      . 
+
+        <span class="oRef">¤</span>gae <span class="trans">a <span class="def">blue</span> <span class="def">spear</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 13 § 25
+      . 
+        <span class="oRef">¤</span>glan: do chiniud gorm-glan Galīan <span class="trans">
+        <span class="def">bright</span> and <span class="def">famous</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 66.2
+      . 
+        <span class="oRef">¤</span>grianach 
+`<span class="trans">
+        <span class="def">blue-soiled</span>
+      </span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 9.45
+      . 
+        <span class="oRef">¤</span>inis `<span class="trans">
+        <span class="def">blue</span> <span class="def">isle</span>
+      </span>,' 
+        21.17
+      . 
+        <span class="oRef">¤</span>lann 
+<span class="trans">
+        <span class="def">burnished</span> <span class="def">blade</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 184a22
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 72 § 36
+      ). 
+        <span class="oRef">¤</span>némann 
+<span class="trans">
+        <span class="def">grey</span> <span class="def">pearl</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 19.1
+      . 
+        <span class="oRef">¤</span>rí <span class="trans">
+        <span class="def">famous</span> <span class="def">king</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 223
+      . Of 
+God, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 16 § 25
+      . 
+        <span class="oRef">¤</span>ṡáile <span class="trans">
+        <span class="def">dark-green</span> <span class="def">sea</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 
+638
+      . 
+        go Drobaois ... gormsrothaigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 204.y
+        
+      . 
+        <span class="oRef">¤</span>shluag 
+`<span class="quote">famous host</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 158a5
+      . 
+        <span class="oRef">¤</span>tholach <span class="ediltr">green hill</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. 
+ex. 746.
+      
+    </p>
+  
+  
+    <p class="result"> 
+(<span class="edilb">c</span>) With other adjj., prob. with intensive force: 
+        <span class="oRef">¤</span>gér: 
+
+        galar goirmgēr goineidech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 393 § 10
+        
+      . 
+        <span class="oRef">¤</span>glan: a 
+gheasa gorm-ghlana <span class="ediltr">his very clear</span> (?) <span class="ediltr">taboos</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 12.6
+      . 
+        <span class="oRef">¤</span>nár: 
+ardrí gormnár Gaedal <span class="ediltr">truly-noble</span> (?), <span class="ediltr">illustrious and noble</span> (?), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 132b33
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

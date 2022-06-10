@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="7996">1 caithid</h3><span class="citation">Cite this: eDIL s.v. 1 caithid or <a class="reference" href="7996">dil.ie/7996</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                -chaithi, -caithe, -caith, caitheóchat, caithem, caitte, caithte</p></div><div class="col-sm-9 result_content">
+    
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> 
+      <span class="per 3">3</span> <span class="number s.">s.</span> conj. 
+        -chaithi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6c11
+        
+      . 
+        -caithe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 
+145.20
+        
+      . 
+        -caith, 
+          146.9
+        
+      . <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-caithi">do-caithi</a></span>. <span class="tns fut.">fut.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        caitheóchat, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/DeContemptu" title="eDIL Bibliography">De Contemptu</strong></span> 2718
+        
+      .</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">consumes</span>, <span class="def">spends</span>, <span class="def">uses</span>
+        </span>. Of food 
+and drink: 
+          dund óis nad chaithi cach tuari, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6c11
+          
+        . 
+          mani 
+chaithea. . . feoil ┐ saill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 51
+          
+        . 
+          nochaithed ceathroimthi na bairgine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 7.26
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCano" title="eDIL Bibliography">SCano</strong></span> 225
+        ). ni caithfiter ni de 
+`<span class="quote">naught thereof shall be consumed</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 54.30
+        . 
+          rī Cothail caithis 
+proind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xviii 62 § 17
+          
+        . 
+          co caithinn i n-ōen-adaig mo 
+sháith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 25.y
+          
+        . 
+          uair bhar n-airighidh ro-caithsib, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Thurn.ZuIr.Hdschr.u.Lit." title="eDIL Bibliography">Thurn. Zu Ir. Hss.</strong></span> i 43.3
+          
+        . 
+          da g[c]aithit in biad, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 
+34.21 Comm.
+          
+         acht nar caithid imarcraid (of cattle), 
+
+          iii 
+262.18 Comm.
+         
+          ro-chaithed praind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 34.1
+          
+        . 
+          roráidset nád 
+caithfitis feis Temra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 126.3
+          
+        . 
+          nochar chaith saith no 
+séire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> i 62.x
+          
+        . 
+          dia cathed nech . . . cid dig n-usci n-and, 
+
+            iii 206.8
+          
+        . 
+          meinic do chaithsead a gcuid / do láimh abadh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 241 § 3
+          
+        . 
+          ad-chaith blod dib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/E3.29" title="eDIL Bibliography">E 3.29</strong></span>, 40 rb 
+42
+          
+        . 
+          cor chaith corp Crist, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 196.18
+          
+        . rochaith comaind ┐ 
+sacarbaigg do láim epscuip Erc. 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 160.22
+        . 
+          caith fo 
+thrī'sa bliadain corp, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 272 § 15
+          
+        . ?<span class="lbl">Cf.</span> corp De rocaithed 
+dar ndīn (of consecrated wafer), 
+          vii 304 § 11
+        . <span class="trans">Of clothing 
+<span class="def">wears</span>
+        </span>: 
+          cét rí ro chaith cetchorcair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 17782
+          
+        . 
+          in t-etach ro 
+caithedh ris, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 218.23 Comm.
+          
+         </p>
+     
+      <p class="result"> 
+<span class="trans">Of wealth, property <span class="lbl">etc.</span>, <span class="def">spends</span>, <span class="def">enjoys</span>:</span> 
+          céin cor chaithsetar a feib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2829
+          
+        . 
+          na cathid uar seoid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2236
+          
+        . ni 
+tú chaithfes iet (of kine), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBCSt." title="eDIL Bibliography">TBC St.</strong></span> 3638
+        . ri rochaitetur tuatha 
+┐ ecolsa . . . somaine `<span class="quote">whose wealth was partaken of by</span> . . .', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1224.2
+        . mas re hindliged . . . ro caithed iad (of church 
+offerings), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 122.22 Comm.
+         a ghrás ní chaithfe `<span class="quote">exhaust</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 96.21
+        . 
+          a lucht caithes in conāch, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 239 §
+24
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 80
+        ).</p>
+     
+      <p class="result"> 
+Of time, span of life <span class="lbl">etc.</span>: 
+          goro cathestar Moysi trian a 
+æísi i clemnus in sacairt, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 5.3
+          
+        . 
+          ré buan ro-chaith 
+in treb the, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 124a39
+          
+        . 
+          roschathetar na hosadha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 407b29
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 2173
+        ). 
+          ro chathis do re, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 140a26
+          
+        . reimis tri rig 
+do rigaib Erind do chaith <span class="ediltr">he reigned as long as</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 188va34
+        . 
+
+          gur chaitheas urmhór m'aoise, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xi 7
+          
+        . 
+          an corp gur 
+chaith a óige, 
+            xxi 8
+          
+        . 
+          fearg ag Chríosd re cloinn Eabha / gur 
+chaithsead cúig aimseara, 
+            xvii 28
+          
+        . 
+          do chaith a ré, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 218.27
+          
+        . annsa mí sin do caith tu <span class="ediltr">last month</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 297.6
+        . <span class="trans">Of <span class="def">enjoyment</span> of <span class="def">office</span>:</span> 
+          ro chaithedar a com-f[h]laithes ar in c[h]ōrugad sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1014
+          
+        . 
+          is amlaid caithes 
+C. a rige, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBCSt." title="eDIL Bibliography">TBC St.</strong></span> 766
+          
+        . <span class="trans">Of <span class="def">royal</span> <span class="def">circuit</span>:</span> iss amlaid no 
+caithed rí Temrach Erinn .i. a Temraig i lLaignib <span class="ediltr">used to 
+traverse</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 80.y
+        . ?<span class="lbl">Cf.</span> tuath cach thire caithfed de `<span class="quote">should be 
+his</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 132.11
+        .</p>
+     
+      <p class="result"> 
+With other objects: ar nā caite lés occae `<span class="quote">that light might 
+not be spent therein</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 319.5
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> ii 55
+        ). mór n-amsach 
+cóem roscathi `<span class="quote">it spent the strength of many a . . . hireling</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 148.2
+        . comram dia chomramaib / Cerbaill 
+rodoscaith `<span class="quote">who achieved them</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 212 § 10
+        . 
+          éc roscaithi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 15812
+          
+        . da chaith gach comhland gu ceill <span class="ediltr">waged battles</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> x 87 § 97
+        . co ro caithe a lan-saire <span class="ediltr">till he have exhausted 
+his full privilege</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 200.1 Comm.
+         
+          caithidh bur ccurpa 
+do chosnamh bar nanma, bar nuaisli, ┐ bar nathardha, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 229.6
+          
+        . ros-caith imghluaisecht mara . . . hi (an 
+island), 
+          i 414.9
+        . ó chaithesdair an ghaeth a goil <span class="ediltr">when the 
+wind had spent its valour</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 48.21
+        . do chaith cérd a chomhachta re dénamh an deighchríosa `<span class="quote">exercised his best skill</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 262.7
+        . caithid . . . / ar ḟeadh n-aonlaithe mh'anáir 
+`<span class="quote">exhaust their entertainment of me in one day</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 15.12
+        . 
+
+          caithidh umhlacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 58.28
+          
+        . caiter an féarsa-sa <span class="ediltr">let 
+this verse be used</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 287.13
+        . déine aithrighe i n-am 
+chóir / ós ann caithfidhe an cuspóir `<span class="quote">achieve thy end</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xli 7
+        . Of lord consuming his food-rents <span class="lbl">etc.</span>: 
+          cib 
+ead caithes do biud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 520.10 Comm.
+          
+         cīos is cāin Ērenn 
+re hedh / i ttír Conaill co caithfedh <span class="ediltr">that for a time he might 
+spend the tributes and taxes of Ireland in Tirconaill</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 
+108.21
+        . <span class="trans">Of territory <span class="def">dwells</span> in, <span class="def">enjoys</span>:</span> ro catsetar crich 
+Candan o chein <span class="ediltr">lived in</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 238b25
+        . 
+          mas e an ferann ro 
+fagaib se, caithid an fine an ferann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2293
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 
+22(23)a
+          
+        ). 
+          caithid . . . / an chaithir do cheannchubhair, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 29.28
+          
+        . ?<span class="lbl">Cf.</span> ó chaitheadar tar fairrge go cian an táin 
+(of the Irish chiefs who fled to Spain), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett2" title="eDIL Bibliography">Hackett²</strong></span> xlvii 11
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) In phr. c.<span class="oRef">¤</span> x fri y <span class="ediltr">treats y with x; spends, uses x against y</span>: 
+a c[h]uirp, notc[h]aith fri crābud `<span class="quote">apply thyself to</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 
+264 § 1
+        . 
+          ionnmhas Néill chaitheas re clú, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 2035
+          
+        . 
+
+          ní chaitheadh sé acht réidhe rinn, 
+            4239
+          
+        . red chosg níor 
+chaitheamar dlús `<span class="quote">I was not in earnest in chastising thee</span>' (to 
+body), 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xix 10
+        . 
+          Mac Muire dá gcaithe an chóir / re 
+gach nduine, 
+            xxiii 39
+          
+        . foirm do chunnraidh . . . / . . . caith 
+rú `<span class="quote">keep to the letter of the contract with them</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 31.19
+        . 
+
+          gul . . . / ná caith re breith chomhthruim Críosd, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+26.28
+          
+        . caith rer ndaingin-dín duthracht `<span class="quote">be jealous in my 
+strong guarding</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xix 3
+        . 
+          bíodh go gcaithfidhe 
+leighis . . . ris, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rial.S.F." title="eDIL Bibliography">Rial. S.F.</strong></span> 164
+          
+        . With prep. AR: do chaith sé 
+fhíoch ar t'aghaidh <span class="ediltr">he spent his fury fighting you</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 
+8.42
+        . caith oram, a urla fhiar <span class="ediltr">fix your choice on me</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 11.33
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">casts</span>, <span class="def">hurls</span>, <span class="def">throws</span>
+        </span> (missile): 
+          ró chaith Cc. an gá bulga, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 565 n.
+          
+         an tonn do chaith Ó Cathail / rim `<span class="quote">the wave 
+which Cathal's descendant cast against me</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 220.21
+        . 
+
+          gur chaith orchar ós íseal, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 23.32
+          
+        . 
+          bogha as a 
+gcaithtear croinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> i 86 § xii
+          
+        . 
+          do chaith an luáithred, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">2 Kings</strong></span> xxiii 6
+          
+        . Note also: 
+          caitheas O. léim, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> vi 
+98.17
+          
+        . With prep. FRI, FOR, LA: 
+          do chaithedar . . . ilmilti do 
+liagaibh . . . re hE., 
+            <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1549
+          
+        . 
+          gur chaithis sleig form, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 11
+          
+         R.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) In <span class="voice pass.">pass.</span> with ro <span class="trans">is <span class="def">required</span>, <span class="def">needed</span> (lit. <span class="def">can</span> <span class="def">be</span> <span class="def">used</span>?):</span> 
+rochatir . . . / óic is airm don immargail `<span class="quote">gebraucht werden</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 512
+         = 
+          recaigter, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBCSt." title="eDIL Bibliography">TBC St.</strong></span> 421
+          
+        . rocaiter a deg[fh]rithailem 
+`<span class="quote">he must be well served</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 87.5
+        . ? a mian don cholainn 
+caithtir <span class="ediltr">the body must needs be gratified</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> vii 19
+        . Note 
+also: gíd úathad lín in chaire / dochaitter menma aire <span class="ediltr">it 
+must be taken seriously</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2358
+        . Later in somewhat difft. 
+idiom (act. as well as pass.) in <span class="tns fut">fut</span>. and <span class="tns sec.-fut.">sec. fut.</span> only <span class="trans">is <span class="def">obliged</span>, 
+<span class="def">must</span>
+        </span>: 
+          caithfead mo c[h]uid do c[h]aitheam[h] . . . an c[h]aitheachtain a p[h]earsa; l. denmhas neith aige acht ar da 
+fhaistine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bard.Synt.Tr." title="eDIL Bibliography">Bard. Synt. Tr.</strong></span> 44
+          
+        . With follg. <span class="pos Vn." style="color: #ff8000">Vn.</span> phrase or 
+equivalent: 
+          adubairt . . . co caithfidis dul leis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 51.12
+          
+        . 
+
+          go gcaithfedh dul, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 150.738
+          
+        . 
+          caithfid a n-aisec ina 
+shaegul, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7615
+          
+        . 
+          fían Shaxan do ṡeachna . . . caithfead, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 167 § 37
+          
+        . 
+          go gcaithfidhe a rinn reimpi / maithmhighe ar gcinn choimirce, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 11.36
+          
+         `<span class="quote">the indulgence 
+of my Protector must stretch forward to its utmost</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 
+1930, 517
+        . 
+          caithfir in tír . . . d'faghbail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 80.21
+          
+        . 
+          do 
+caithfidhe . . . / bláth ar maithmhighe M., 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 11.9
+          
+        . 
+túr an tighe / . . . do caithfidhe `<span class="quote">that home should be striven 
+for</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 89.40
+        . 
+          do chaithfeá-sa an tslighe-si uile do 
+ghabháil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 604
+          
+        . 
+          go gcaithfediss foighite do bheith aca, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 22.13
+          
+        .</p>
+     
+      <p class="result"> 
+With difft. kind of object <span class="trans">
+          <span class="def">must</span> <span class="def">have</span>
+        </span>: do chaithfinn dom 
+fheitheamh air / . . . lagthomhas meidhe Míchíl `<span class="quote">I require 
+. . . to have</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 15.15
+        . 
+          caithfidh tú síth nach sáoile / do 
+dhíth dáine a crú (gc.<span class="oRef">¤</span>, ch.<span class="oRef">¤</span>, <span class="lbl">v.ll.</span>) an chíghe, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 
+1267
+          
+        . 
+          caithfed fesd aignedh airech / a mesg chaidrebh 
+comhoidhech, 
+            ex. 831
+          
+        . do chaithfinn m'aithne d'Íosa `<span class="quote">I must 
+have some warrant(?) for Him</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> i 2
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">Of <span class="def">grinding</span> <span class="def">weapons</span>:</span> 
+          Maine fer neimnech isé rodasinnsmasdair ┐ romheil (.i. rocaith no rolimadh), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thurn.ZuIr.Hdschr.u.Lit." title="eDIL Bibliography">Thurn. Zu Ir. Hss.</strong></span> ii 16.i
+          
+        .</p>
+     
+      <p class="result"> 
+<span class="pos Vn." style="color: #ff8000">Vn.</span> caithem. <span class="pos Part." style="color: #ff8000">Part.</span> caitte. <span class="pos Vbl.-of-necess." style="color: #ff8000">Vbl. of necess.</span> 
+          caithte, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+21A.24
+          
+        .</p>
+     
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

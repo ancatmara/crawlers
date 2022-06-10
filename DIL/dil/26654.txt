@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="26654">grind</h3><span class="citation">Cite this: eDIL s.v. grind or <a class="reference" href="26654">dil.ie/26654</a></span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype i.">i.</span>
+    </p>
+   
+    
+      <p class="result">
+        <span class="edilb">I</span> <span class="trans">
+          <span class="def">accurate</span>, <span class="def">exact</span>; <span class="def">intent</span>, <span class="def">diligent</span>:</span> atá lim co 
+grind | cech gabáil rusgob `<span class="quote">I know accurately every conquest</span>,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 128.27
+        . 
+          gach ní atú do luad go grind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 261.29
+          
+        . 
+
+          gach duine do tiucfadh annso d'fechain co grinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xix 
+272 § 194
+          
+         (Fier.). 
+          rop dīriuch a forcitul, | rop grēssach, 
+rop grinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 313 § 11
+          
+        . 
+          is misi Colum Cille | antē is 
+grinne laphrus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 50.19
+          
+        . foillseochamaid so nis grinne 
+`<span class="quote">in more accurate detail</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 70.y
+        . comall ngrinn 
+(cheville), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 107 § 4
+        . 
+          le seanchas grinn géar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> 
+xvi § 183
+          
+        . 
+          dá bhféachadh go grinn [an faltanas so], 
+            <span class="lbl">ib.</span> xvi 
+§ 60
+          
+        . 
+          aní do thuigfeadh duine go grinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2898
+          
+        . 
+          tuigse 
+ghrinn, 
+            2908
+          
+        . 
+          ag dénamh rēimeann rīomh grinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. 
+ex. 1258
+          
+        . 
+          an tí fhéuchas go grinn ar reachd ... na sáoirse, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">James</strong></span> i 25
+          
+        . 
+          smuain orra go grinn gérros[c]ach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 
+337.16
+          
+        . 
+          biodh cluas roghrinn aige ris na neithibh bhenas 
+rea sdaid féin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 336.5
+          
+        . 
+          a rádh ... go mbiadh 
+eolas grinn na chreideamh ag Luitear, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;H&#xE9;odhusa" title="eDIL Bibliography">Ó Héodhusa</strong></span> 41.13.
+          
+         
+
+          fear is grinne i gcéill 'sa dtuigse, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xvii 116.139
+          
+        . 
+          grinn 
+.i. cuibhdheas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         go grinn <span class="ediltr">attentively, steadfastly, sharply</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 359.
+        
+      </p>
+     
+      <p class="result"> 
+Compds. 
+          <span class="oRef">¤</span>fégad: 
+          roboi Sir Persaual ica grinnfegad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DIV2" title="eDIL Bibliography">D IV 2</strong></span>, 72rb8
+          
+        . 
+          <span class="oRef">¤</span>feithem: 
+          ag grinn-fheitheamh na glóire, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2275
+          
+        . 
+          <span class="oRef">¤</span>fhis, 
+          'na ghrinnfhios as gnāth sinne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> xli 11
+          
+        . 
+          <span class="oRef">¤</span>mer: i bfeichemh shuaingherr ghrinnmher 
+`<span class="quote">in a brief-slumbered and alert watch</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 504.15.
+        
+      </p>
+    
+  
+  
+     
+
+      <p class="result"> 
+<span class="edilb">II</span> <span class="trans">
+          <span class="def">pleasant</span>, <span class="def">lovely</span>, <span class="def">comely</span>, <span class="def">witty</span>:</span> 
+          ba bind a céol ṅgrinngel 
+ṅglé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5907
+          
+        . 
+          nem talam ésca grīan grind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 57 § 10
+          
+        . 
+
+          fo gréin grinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 98 § 25
+          
+        . 
+          gid gāeth, gid grinn, gid 
+graifnech in láech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 299.1
+          
+        . sássad ngrind `<span class="quote">a fine 
+satisfaction</span>' (cheville), 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l.2" title="eDIL Bibliography">Fél.²</strong></span> lxv 32
+        . 
+          gairm grinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 
+50.10
+          
+        . 
+          rob imda dér dar gruadh ngrinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/M&#xF3;rthimch.Erenn" title="eDIL Bibliography">Mórthimch. Erenn</strong></span> § 6
+          
+        ; 
+
+          fa bean ghrind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 61.69
+          
+        . 
+          mac in abaid is 
+in cill grinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 382.22 Comm.
+          
+         
+          grinn .i. glan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         
+grinn .i. greannmhar, <span class="lbl">ib.</span> ag aithris grinn gach líne romhainne 
+`<span class="quote">rehearsing the witty compositions of past generations</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/ORah." title="eDIL Bibliography">O'Rah.</strong></span>, ITS iii 130.178 (2nd ed.). 
+          planda is binne ghrinne 
+┐ is dísle do mhnáibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xvii 114.108
+          
+        . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=grenn">grenn</a></span>.</p>
+     
+      <p class="result"> 
+? Compd. in grin-gen (= grinn-gen ?) graigech co ṅgail 
+`<span class="quote">the comely youth</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 98.87
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">III</span> <span class="trans">
+          <span class="def">swift</span>, <span class="def">quick</span>:</span> 
+          araile ech ... grind imma áig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8668 
+          
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 50
+        ). 
+          for gabru grinne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 82.39
+          
+        . 
+          iar mbuaid 
+do graipnib grindib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 264.2
+          
+        . 
+          reithfid in mag amal 
+ro reithset eich grinni Faoaetan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> ix 294.4 
+          
+        = 
+          eich 
+greini, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2287
+          
+        . 
+          foidis techtairi ... | aracenn cogrinn, co 
+luath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3461.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">IV</span> <span class="trans">
+          <span class="def">strong</span>, <span class="def">vigorous</span>, <span class="def">fierce</span> (?):</span> 
+          grinn .i. daingean, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         
+
+          Glanna glan gas co ngail grinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 118 § 18
+          
+        . Slane 
+na ṅ-gal ṅ-grind <span class="ediltr">S. of the vigorous battle-feats ?</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 
+212.7
+        . 
+          rob ūathmar in gnīm garb grind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 174 § 4
+          
+        . 
+ropsam grind grind ri harcaib `<span class="quote">fierce, fierce I was in straits</span>' (?), 
+
+          <span class="lbl">ib.</span> i 72.12
+        . 
+          matat co mēt teimil ... | mo dā rosc i ngeimil 
+grinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 263 § 8.
+          
+        
+      </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="38009">smacht</h3><span class="citation">Cite this: eDIL s.v. smacht or <a class="reference" href="38009">dil.ie/38009</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                smaicht, smachtu</p></div><div class="col-sm-9 result_content">
+    
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype u">u</span>
+      <span class="gen m.">m.</span> <span class="lbl">Cf.</span> also <span class="case n.">n.</span>
+      <span class="number p.">p.</span> 
+        smaicht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 903
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 401
+      ). 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 95 (127.14)
+      . </p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span>
+      </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">rule</span>, <span class="def">ordinance</span>, <span class="def">regulation</span>, <span class="def">command</span>, <span class="def">stipulation</span>
+          </span> (freq. 
+in <span class="number pl.">pl.</span>): tect fo smachtu rechto `<span class="quote">to go under the rules of the Law</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 19d11
+          . pridchibid smactu rechto fetarlicce `<span class="quote">institutes</span>', 
+
+            26a8
+          . nachib berar i smachtu rechta fetarlicce `<span class="quote">be ye not borne 
+into the institutions of the Law of the Old Testament</span>', 
+            27a24
+          . 
+isnaib smachtaib hisin gl. (cur) in illis pactis (non manserunt 
+quae apud patres in lacrimarum ualle firmata sunt) under those 
+conditions (<span class="lbl">i.e.</span> in that state), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 105a5
+          . inna smachtu
+           gl. 
+(uictis) condiciones (pacis dabunt) <span class="trans">
+            <span class="def">conditions</span> (of peace)</span>, 
+            135c3
+          . 
+In <span class="number sg.">sg.</span>: do chosnam in smachta gl. habundantius aemulator 
+existens paternarum mearum traditionum `<span class="quote">to contend for the 
+rule</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 18c18
+          . huan s.<span class="oRef">¤</span>
+           gl. ea pactione (ut omnes Iudeos in 
+Gentilium scita traduceret) <span class="ediltr">on this condition</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 73b6
+          . huan s.<span class="oRef">¤</span>
+           
+gl. á condicione (foeni) (prob. a misunderstanding of the Latin 
+text, where <span class="frn ">conditio</span> means <span class="ediltr">a state of being</span>), 
+            113a1
+          . uair do-chuabar dar mo s.<span class="oRef">¤</span>
+           <span class="ediltr">since you have transgressed my commandment</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 58.21
+          = 
+            recht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1443
+            
+          . dorónta cluiche 
+chointe dó amal robái i smachtaib ┐ besaib na Troiandae 
+<span class="ediltr">according to the institutions and customs of the T.</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 1230
+          . 
+
+            do dímicin a smachta som ┐ a rechta ┐ a mbésa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 144a17
+            
+          . 
+ní ro gabhadh uadh an taons.<span class="oRef">¤</span> sain na Cascc . . . go nuige am 
+bliadhainsi (Adamnán) <span class="ediltr">that ordinance regarding Easter</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 
+114.14
+          . 
+            s.<span class="oRef">¤</span> an Choimdheadh . . . | . . . mairg do bhris, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+26.6
+            
+          . With follg. vn. constr.: tucatur maigestri na sersenach 
+s.<span class="oRef">¤</span> cen duine do marbad <span class="ediltr">gave orders that none should be killed</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1235.14
+          . is é cets.<span class="oRef">¤</span> rigi doordaigh-sium andsin .i. 
+can duine . . . d'adlucadh . . ., 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 4586
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">sway</span>, <span class="def">dominion</span>, <span class="def">rule</span> (of a king, chief, <span class="lbl">etc.</span>):</span> 
+            na túatha 
+cen s.<span class="oRef">¤</span> rig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3440
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 21
+          ). 
+            a bhfuil dod s.<span class="oRef">¤</span> | . . . ar ichtar 
+Chonnacht, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 101 § 37
+            
+          . 
+            laoich fhearchonta as 
+fhíorghlan s.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1920, 566 § 9
+            
+          . beir do bhreith smachta, 
+smuaintig do recht rig <span class="ediltr">give judgement according to thy power</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 160.8
+          . mac Coisi ar nách cúala s.<span class="oRef">¤</span>
+           `<span class="quote">sway over whom I have 
+not heard of</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 168.71
+          . Commonly with prep. FO: dorad 
+iathu Erenn ┐ Alban fo s.<span class="oRef">¤</span> flaithiusa Muman <span class="ediltr">subjugated</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xxiv 186.7
+          . 
+            osnadu na n-iltuath bitís fo s.<span class="oRef">¤</span> ┐ dáire ocaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 
+40
+            
+          . 
+            do-s-ber diabul fo s.<span class="oRef">¤</span> fen iat, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2356
+            
+          . 
+            ríghe Érenn 
+árdaoibhne | cuirfet fo s.<span class="oRef">¤</span> a bfine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iv 86 § 47
+            
+          . 
+            fo s.<span class="oRef">¤</span> 
+┐ fo geilsini, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 48.10
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">control</span>, <span class="def">restraint</span>, <span class="def">discipline</span>; <span class="def">punishment</span>
+          </span>: s.<span class="oRef">¤</span> féig fíadnach 
+`<span class="quote">government</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 94 § 11
+          . ón ghrás do ghabh s.<span class="oRef">¤</span>
+           <span class="ediltr">He allowed 
+mercy to overrule him</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 5.22
+          . aingeal re haghaidh 
+smachta (Michael), 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xiv 4
+          . Usually with follg. prep. 
+AR: ár ní thabratsom s.<span class="oRef">¤</span> no recht no ríagail ar denam a peccaid 
+<span class="ediltr">they sin without restraint</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2377
+          . s.<span class="oRef">¤</span> ar colainn, snige dēr 
+(duties of ascetic life), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 297.11
+          . 
+            s.<span class="oRef">¤</span> ón ghaoith ar a 
+ghruaidh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlix 173 § 28
+            
+          . 
+            ar an uisge gur fhéad s.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 
+20.31
+            
+          . 
+            go s.<span class="oRef">¤</span> uaidh ar chach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Atlantis" title="eDIL Bibliography">Atlantis</strong></span> iv 160.29
+            
+          . In chevilles: 
+
+            dían in s.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 27a32
+            
+          . 
+            borb an s.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 39 § 22
+            
+          . an té 
+fhúathuighios s.<span class="oRef">¤</span>
+           `<span class="quote">he that hateth reproof</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> xii 1
+          . s.<span class="oRef">¤</span> an 
+Tighearna `<span class="quote">chastisement</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Deuteronomy</strong></span> xi 2
+          . nach gabhann beadhgadh 
+tré s.<span class="oRef">¤</span> dá ndéanann Dia orra <span class="ediltr">are unmoved by God's punishment</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1928
+           (<span class="lbl">cf.</span> 
+            1922
+          ).</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span>
+      </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) In Laws <span class="trans">
+            <span class="def">penalty</span>, <span class="def">fine</span> for breach of law, trespass, non-payment of debt, etc</span>. See 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 6
+          . 
+            <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 38
+          . In 
+some passages the amount of the s.<span class="oRef">¤</span>
+           is fixed in terms of bó, 
+cumal, sét: aic macu ara-[m]bera boin smachta ┐ imdechta 
+`<span class="quote">die Kuh der Tarifbusse</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 14
+          . 
+            in tan is trian 
+eneclainne is trian smachta . . . in tan is lan eneclainne is lan 
+smachta .i. leth secht cumala, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 833
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 595
+          ). But 
+<span class="lbl">cf.</span> secht cumala do s.<span class="oRef">¤</span> . . . dona huaisli a marbadh for a comairci <span class="ediltr">a s.<span class="oRef">¤</span> of seven cumals to nobles for killing of persons under 
+their protection</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 232.7
+          . 
+            is inann . . . a smachta .i. cuic 
+thseoit, 
+              ii 20.12 Comm
+            
+          . noca nairilltnighinn feich ann .i. s.<span class="oRef">¤</span> 
+metha gi(a)n co ructhar iad for folach notrus[a] `<span class="quote">the penalty for 
+omission (to provide nursing</span>)', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 10 § 8 gl. 2
+           (BCrólige). 
+
+            cach [n-]ecubus cona dire ┐ a fuilliud ┐ a smachtaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 
+346 § 7
+            
+           (here = s.<span class="oRef">¤</span>-ētaim `<span class="quote">feste, in ihrer Höhe unveränderliche 
+Busse</span>', Thurn. <span class="lbl">ib.</span> See also 
+            § 29
+          , and cpds. below). In Cóic 
+Con. Fug. the s.<span class="oRef">¤</span>
+           for offences during the hearing of a law-suit 
+is fixed at one `bó' (see 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span>
+             p. 62
+          , 
+            63
+          , 
+            81
+          ): 
+            inannus smachta riu 
+uile . . . is é int inannus smachta in bo i nemaithne na conaire, 
+
+              23 § 22
+            
+          . 
+            inunn in s.<span class="oRef">¤</span> fil i-nne[ma]ichni [na] conaire re ngabail 
+tacrai, 
+              15 § 2
+            
+          . <span class="lbl">Cf.</span> bo sin in (<span class="lbl">leg.</span> isin) tuisled don conair fora 
+[c]ele <span class="ediltr">for lapsing into a different form of legal procedure</span>, 
+            58
+§ 137
+          . 
+ s.<span class="oRef">¤</span> urchlaidhe (<span class="lbl">leg.</span> urchrai?) `<span class="quote">Tarifbusse des Vereitelns 
+des Termins</span>', 
+            14.17
+          . <span class="lbl">Cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 259
+          , 
+            xvi 210
+          . In other cases 
+the s.<span class="oRef">¤</span> appears to have been variable: gaimorgain mbruigrechta da trian a fochraice is e a s.<span class="oRef">¤</span>
+           `<span class="quote">for winter trespass . . . two 
+thirds of the rent is the s.<span class="oRef">¤</span>-fine</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 88.2
+          . smachta cacha 
+raithe, ni cuma dono s.<span class="oRef">¤</span> samfuachta ┐ gaimfuachta . . . it 
+truma smachta geimrid oldaiti smachta samraid, ar i[s] 
+sruithe bes (<span class="lbl">sic leg.</span>) beatha na mbo oldas a ngeart, ar it 
+geinither fer i samradh. ni tha imurro ní a ngeimre (<span class="lbl">i.e.</span> the s.<span class="oRef">¤</span>
+           
+varies according to season), 
+            88
+          -
+            90
+          . 
+            smachta samraidh; miach 
+cach airlime . . . leth meich ma fri athbrondad . . . it da miach 
+. . . fri geamfuacht, 
+              90.16
+            
+          . In a table given 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1022
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 
+431b
+            
+          ) of trespasses by pigs the s.<span class="oRef">¤</span>
+           is always double the aithgin. 
+re s.<span class="oRef">¤</span> cāna (<span class="lbl">sic leg.</span>) `<span class="quote">inbetreff der Tarifbusse für (Verletzung der) 
+<span class="frn ">cāin</span> (des gesetzten Rechts</span>)', 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 19.2
+          . <span class="lbl">Cf.</span> 
+            49 § 95. 73
+          . 
+
+            cia meid smachta fil a comiceas?—a dó; s.<span class="oRef">¤</span> ime ┐ ceathra 
+genmota caithe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 138.20
+            
+           
+            .i. cenmotha in s.<span class="oRef">¤</span> uil o na 
+dainibh do niat ris in ferand .i. brised in aile, 
+              140.15 Comm
+            
+          . 
+cia lin fris a tabar smachta i comaithces `<span class="quote">how many things are 
+there for which `<span class="frn ">smacht</span>' fines are paid in the co-tenancy?</span>', 
+            140.11
+Comm
+          . s.<span class="oRef">¤</span> comhaithchiusa do rith riu iar tabairt na ngeall so 
+amail ceathra eile (of bees), 
+            162.24 n
+          . 
+            do lomrad smachta 
+┐ cáiche, 
+              68.3
+            
+           
+            .i. na méich, 
+              12 Comm
+            
+          . s.<span class="oRef">¤</span> a fidh neimhedh no 
+co mbentar uile, ┐ eneclann ind o bentar (of the cutting down 
+of trees in co-tenancy), 
+            150.16 Comm
+          . 
+            cach bail is dám beag 
+┐ s.<span class="oRef">¤</span> mor . . . cach bail atá in dámh mór ┐ in s.<span class="oRef">¤</span> beag, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 
+521
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 423
+          ). comdiles cach s.<span class="oRef">¤</span> fri colainn a feich `<span class="quote">gleich 
+"eigen" sei jede Busse wie der Gegenstand der betreffenden 
+Schuld</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 15 § 51
+           (b). 
+            caite s.<span class="oRef">¤</span> .i. trian cach féich, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 776
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 556
+          ) (according to the Comm., if a debt 
+was not paid at the stipulated time, a s.<span class="oRef">¤</span>
+           equal to one third of 
+it was inflicted for every three days' delay, so that at the end 
+of nine days the debt had doubled). 
+            fon indus sin dona 
+gradaib feine fo uaisle a smachta, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1008
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 428b
+            
+          ). 
+
+            cach uair is [s]macht ictar ann, is a ic fo aicned in ti icas, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 496.8
+            
+          -
+            10 Comm
+          . munu muintiur na neche sin doib, 
+da trian na hiaruta ar s.<span class="oRef">¤</span> ann don aithir `<span class="quote">a fine of two thirds of 
+the price of fosterage</span>', 
+            ii 152.14 Comm
+          . 
+            smachta tairgilli . . . 
+Treidib miach miter cach nethemain, miach i nathlumpaire, 
+lethmiach fri monai ar airlim, 
+              iv 78.1 ff
+            
+          . </p>
+       
+        <p class="result"> 
+In the follg. exx. taken as meaning <span class="trans">
+            <span class="def">requirement</span>, <span class="def">requisite</span>
+          </span> 
+(<span class="lbl">i.e.</span> the tools which tenants of land must have for fencing): 
+smachta ime, rama fri clais, soc fri coraid, biail fri dairime, 
+fidbad fri felmad `<span class="quote">the requisites for the fences are</span> . . .', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 
+72.1
+           
+            .i. is e ní smachtaigther acu ac denum na híme, 
+              13 Comm
+            
+          . 
+cateat smachta imi . . .? .i. rāma fri clais, <span class="lbl">etc.</span> `<span class="quote">Erfordernisse</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 314 § 8 Comm
+          . (Caratnia), see 
+            p. 315
+          . But note: 
+
+            smacht ime, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 138.21
+            
+           .i. in ní smachtaigter i ndul tar 
+an ime `'smacht
+          <span class="ediltr">-fine of fence, i.e. the thing which is commanded 
+to be paid for going over the fence</span>', 
+            140.12 Comm
+          . </p>
+       
+        <p class="result"> 
+Used apparently of the offence itself in: 
+            iss é in(n)sin im[m]a-thoing smachtu m(b)ruigrechta, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 38
+            
+          `<span class="quote">breaches of 
+m.</span>', 
+            p. 100
+          . See 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> 84
+          . </p>
+      
+     
+       
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">penalty</span>, <span class="def">fine</span>, <span class="def">tribute</span>
+          </span> in general: 
+            cána ┐ smachta ┐ císa fer 
+nErend, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4207
+            
+          . gnim, nad lugu s.<span class="oRef">¤</span>, | orggain Eogain <span class="ediltr">for 
+which the penalty is not less</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 70.19
+          . 
+            oc tobhach a císsa ┐ 
+a smachta rígh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 740
+            
+          . 
+            cradh Cindfaelaid in smachta, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 416.y
+            
+          . naomhad gacha toraid . . . d'idhnacul . . . 
+gan dul a nairiumh chána ná smachta <span class="ediltr">and not to be counted as 
+rent or fine</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 54 § 55
+          . 
+            cīsa Mumhan . . . .i. s.<span class="oRef">¤</span> ┐ biathadh 
+┐ turgnumh ┐ faesamh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 60.14
+            
+          . cid ar nar cinded s.<span class="oRef">¤</span> loigi 
+ar na h-aistibh sea? <span class="ediltr">fixed payment</span> (?) (for bardic compositions), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 297a2
+          . an s.<span class="oRef">¤</span> ríogh rug ar an bhféar | . . . | do ghlac mé an 
+crodh dá c[h]omholl <span class="ediltr">the fine imposed for the eating of the grass</span> 
+(story of Mac Con), 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 62.89
+          . </p>
+      
+    
+  
+  
+    <p class="result"> 
+Compds. 
+        <span class="oRef">¤</span>bann: 
+        smachtbhann .i. smachd dlighidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+        
+       
+tucsat s. imruma forra `<span class="quote">a regular oar-stroke</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1931
+      . 
+
+        <span class="oRef">¤</span>cháin <span class="trans">
+        <span class="def">disciplinary</span> <span class="def">law</span>, <span class="def">sway</span>
+      </span>: 
+        smachtchain . . . na hairdríghi 
+Etalta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 288
+        
+      . 
+        ar trebhurdaingne na smachtcána [sída] 
+bói occo, 
+          484
+        
+      . robhaoí dna cóicceadh C. . . . fó s. síodha don 
+dias `<span class="quote">under the peaceable government</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1934.15
+      . 
+        <span class="oRef">¤</span>chomartha <span class="trans">
+        <span class="def">sign</span> of <span class="def">discipline</span>
+      </span>: 
+        ar in cloich sin ro bói in smacht 
+chomarta sida is fearr ro bói a nEirinn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 4467
+        
+      `<span class="quote">official 
+test</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> ii 209
+      . 
+        <span class="oRef">¤</span>chumachtaid <span class="trans">a <span class="def">keeper</span> of <span class="def">discipline</span>
+      </span>: 
+        smacht-cumachtaighi in tsída, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 6900
+        
+       <span class="lbl">v.l.</span> 
+        <span class="oRef">¤</span>etaim (étaim?). 
+According to Thurn., 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 346 § 7 n
+      . <span class="trans">a <span class="def">fine</span> or <span class="def">penalty</span> of 
+<span class="def">fixed</span> <span class="def">amount</span>
+      </span>: cenmotha smacht-etaim meth n-aigillne `<span class="quote">neben 
+der Tarif-Busse für die "Ausfälle" der Unfrei-Genossen</span>', 
+        386
+§ 51
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 320.4
+      . See also under II (a) <span class="lbl">supra</span>. 
+        <span class="oRef">¤</span>gille. 
+Exact meaning not clear. Perh. <span class="ediltr">pledge for payment of a fine 
+or penalty</span> (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 63
+      , 
+        75 f
+      . ). Usually folld. by 
+the attrib. gs. sechtmaid, and therefore prob. one-seventh of 
+the fixed `smacht' (
+        <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 9
+      ): 
+        s. .uii. maid na bo 
+(.i. a n-urlaim coitcinn) fri cert, 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 23 § 21
+        
+      . 
+glethir cert [co s]machtgilli `<span class="quote">
+        <span class="frn ">cert</span> wird mit einem s. (Siebentel-Unterpfand) geklärt</span>', 
+        20 § 12
+      . cid fotera . . . conid inunn in 
+smachtgilli ria ṅgabail tacrai [┐] iar ṅgabail tacrai? `<span class="quote">Tarif-busse-Unterpfand</span>', 
+        17 § 7
+      . Laws Comm. draws complicated 
+distinctions between s. and other types of pledge: 
+        it cetheora 
+fodlai fil for gellaib: langille, ┐ lethgille, triangille, ┐ s., 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>
+           i 
+260.19
+        
+      , and see 
+        p. 276
+      -
+        8
+      . In fasting (see troscud) apparently 
+the pledge given by the debtor to the creditor as a guarantee 
+that his claim will be attended to, and which brings the fast 
+to an end: 
+        s. sechtmaidh do scur troisci im nesam, 
+          276.6
+Comm
+        
+      . 
+        s. ecinntecha do sgur troiscte, s. cinntecha ria mbreth, 
+┐ triangille iar mbreth, 
+          23 Comm
+        
+      . 
+        na ceithri s.; s. sechtmaid 
+do scur troisci feich nesaim toiscide urradais i nurfuigell ┐ s. 
+sechtmaid i nuirfuigell i cain patraic, . . . s. sechtmaid do scur 
+troisci i cain adomnain . . . s. sechtmaid ar treis don filid . . . 
+Fuilledh risin s. sechtmaid co roib langille iar mbreithemnas, 
+
+          iii 324.1 ff
+        
+      . See 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 267
+      . </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

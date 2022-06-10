@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="42079">trúag</h3><span class="citation">Cite this: eDIL s.v. trúag or <a class="reference" href="42079">dil.ie/42079</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                tróg, truag</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype o,-&#x101;">o, ā</span> O. Ir. tróg.</p>
+   
+    
+      <p class="result">
+        <span class="edilb">I</span> Used attributively.</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">wretched</span>, 
+<span class="def">pitiable</span>, <span class="def">miserable</span>, <span class="def">sad</span>:</span> 
+            trūagh .i. trū-āgh .i. āgusta dō 
+gurab trū, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1238
+            
+          . Of persons: 
+            in popul truagsa, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 118c5
+            
+          . ar forbrissiud fir truaig `<span class="quote">for oppressing a wretched 
+man</span>,' 
+            36a32
+          . 
+            fri lobru trúagu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 328.3
+            
+          . 
+            do Eoin 
+tróg imnedach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 177.2
+            
+          . aos trog `<span class="trans">
+            <span class="def">invalids</span>
+          </span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 147.19
+          . 
+            a claín trúaig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8569
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 43
+          ). 
+            a midlach 
+thruag, 
+              8878
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 67
+          ). 
+            dóine tróga, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4286
+            
+          . 
+            dochum 
+dingna mo mathar truaighi-si, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 3845
+            
+          . 
+            na mairtíre 
+trógha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 57.9
+            
+          . Of words, sounds, <span class="lbl">etc.</span>: 
+            cluinte mo 
+chneit trúaigse, 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 314
+            
+          . 
+            glór truagh do bhriathra, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 
+20.25
+            
+          . 
+            faoidhe na sriobh dtaidhiuir dtruagh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 110.21
+            
+          . 
+
+            ilimad do briathraibh truagha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> i 79.29
+            
+          . 
+Various: 
+            ár trog ... | for slóg ... n-Israhel, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6499
+            
+          . cath 
+truagh `<span class="quote">a lamentable battle</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvii 234.13
+          . 
+            a animm 
+thróg, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8184
+            
+          . 
+            in bith t.<span class="oRef">¤</span> hi táam, 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 157
+            
+          . 
+            ag 
+ḟodoíre tróig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3217
+            
+          . temel truag (cheville), 
+            909
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">thin</span>, <span class="def">lean</span>, <span class="def">emaciated</span> (of persons and animals):</span> 
+            
+              <span class="frn ">macer</span>. 
+truagh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 383
+            
+          . 
+            in muc truagh ... in mucc meth, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 
+2417
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. B 506</strong></span>, 53
+          ). 
+            mart meith ┐ mart truagh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xxix 219.22
+            
+          . clērchīn tana trūag (sign of asceticism), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+vii 297.5
+          . feoil truagh muici `<span class="quote">lean pork</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/RosaAngl." title="eDIL Bibliography">Rosa Angl.</strong></span> 104.4
+          . 
+
+            leis na dainibh truagha, 
+              70.3
+            
+          . 
+            go bhfásfuidh méuthus a 
+fheóla trúagh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Isaiah</strong></span> xvii 4.
+            
+          
+        </p>
+      
+     
+      <p class="result"> 
+<span style="color: #ff8000">Compar.</span>: gá truaighe treas (cheville), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 79.28
+        . 
+
+          cá truaighe ceas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 26.5
+          
+        .</p>
+     
+      <p class="result"> 
+As <span class="pos adv." style="color: #ff8000">adv.</span>: 
+          ag freagradh go truagh don cheist se, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+4148.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> As <span class="pos subst." style="color: #ff8000">subst.</span> <span class="itype o">o</span>, <span class="gen m.">m.</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">wretch</span>, <span class="def">miserable</span> <span class="def">person</span>:</span> do ráith 
+a aithig in trūaig `<span class="quote">for her vassal, the wretched one</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 
+342.2
+          . 
+            huaitne ... friseillget troigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 350.x
+            
+          . 
+            a 
+n-aigthe ... na t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2184
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 26
+          ). rí fial ara treise truagh 
+<span class="ediltr">on whom a pitiable person has most claim</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 38.26
+          . 
+tógbhálaigh trógh `<span class="quote">supporter of the indigent</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1652.4
+          . 
+As <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> caoiniud na tróge <span class="ediltr">lamenting for the poor woman</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 130.17
+          . Frequ. in phrase trén ┐ t.<span class="oRef">¤</span>
+           <span class="trans">the <span class="def">strong and 
+the weak</span>, <span class="def">all</span>, <span class="def">everybody</span>:</span> 
+            do thréon na t.<span class="oRef">¤</span> ni thuaraid | oenfer, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5071
+            
+          . 
+            fir hErend eter truag ┐ trén, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9716
+            
+          . 
+            a ndoberó 
+ar Dīa | do thriun nō do thrūagh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 172 § 4
+            
+          . 
+            saoi lé 
+deirc ... fri truaghaibh ┐ trénaibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1008.15
+            
+          . 
+            mallacht 
+na truagh ┐ na tren ar an tí dotug an comurli-sin duit, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 58.18
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">In voc. as <span class="def">term</span> of <span class="def">abuse</span> or <span class="def">disparagement</span>:</span> 
+            maith 
+a thruaíg a Duind Cualnge, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1494
+            
+          . 
+            `tair amach ..., a 
+trōig, a dīabail !' ar Comgall, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 33.2
+            
+          . 
+            maith tra, a 
+t[h]róig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 71.17
+            
+          . 
+            a throgu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4414
+            
+          . 
+            a thruaigh, 
+nírbh é uair an uamhuin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 56.23
+            
+          .</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">III</span> Used predicatively with copula.</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) 
+            ol am triamain 
+trógsa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 26
+            
+          . 
+            nirba truag, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3295
+            
+          . 
+            at trúaga na 
+gáre, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2215
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 29
+          ). oss é aithbriste tróg, 
+          
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9112
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 87
+          ). 
+i flaith nime niba truag | ind luagh <span class="ediltr">the reward will not be 
+paltry</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 193.8
+          . 
+            robai co truag toirrseach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 
+4023
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">In various phrases indicating <span class="def">sorrow</span>, <span class="def">regret</span>, <span class="def">foreboding</span>, <span class="lbl">etc.</span> (copula frequ. unexpressed):</span> truag gl. heu. 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+133a8
+          . 
+            ba tróg, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 60.37
+            
+          . 
+            is tróg nifornintliuchtach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1238
+            
+          . tróg insin `<span class="quote">sad is that</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 19b4
+          . 
+
+            t.<span class="oRef">¤</span> soin, a tigerna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aisl.Tund." title="eDIL Bibliography">Aisl. Tond.</strong></span> 95.y
+            
+          . truág in maten maten 
+máirt | ros bí mac D. <span class="ediltr">alas the morning</span>! 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4138
+          . is 
+truagh an mealladh <span class="ediltr">pitiable is the deception</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 43.5
+          . 
+With follg. clause or vn. constr.: 
+            is tróg ... maic Uisnig do 
+thuitim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 75.5
+            
+          . 
+            truag ... nach rothoitius-[s]a leatsu, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 3381
+            
+          . truagh gurab móide mo mhíghníomh `<span class="quote">alas</span> ! 
+<span class="ediltr">my sins increase</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 1.20
+          . 
+            truagh mar tharla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 
+16.7
+            
+          . 
+            is truagh gan cách mar Ua gC., 
+              34.6
+            
+          . With pron.: 
+nach truagh mé <span class="ediltr">am not I to be pitied</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 88.29
+          . 
+            och, 
+is truagh mise, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5940
+            
+          . (is) t.<span class="oRef">¤</span> do <span class="trans">
+            <span class="def">alas for</span>, <span class="def">woe is</span>, <span class="def">woe to</span>
+          </span>: 
+
+            truag d'Ultaib ... cen sirthin a márica, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3536
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 29
+          ). 
+tróg dún ... ar popa Cūc[h]ulaind cen chobair dó <span class="ediltr">pitiful our 
+treatment of C. that we help him not</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1435
+          . is truag 
+do na dáinib adeir co ru-b olc in maith <span class="ediltr">woe to those who say</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7701
+          . 
+            as truagh duit ... bás mar so do imirt ormsa, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 3642
+            
+          . 
+            is truag duind gan E. acar n-imdidin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 745
+            
+          . 
+            as truágh dhamh mona ndiongna mé an soisgéul 
+do sheanmórughadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">1 Corinth.</strong></span> ix 16
+            
+          . is t.<span class="oRef">¤</span> la x <span class="trans">x is <span class="def">sorry for</span>, 
+that; <span class="def">regrets</span>:</span> 
+            ropo thróg laiss ar mbuith fo mám, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+21b5
+            
+          . cid t.<span class="oRef">¤</span> lasna bráithrea | na guidise uili, | duit, á Chríst, 
+in tráthsa | ro gádsa mo guidi `<span class="quote">though all these prayers seem 
+wretched to the brethren</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 409
+          . 
+            is truag linni ... | 
+an-dorinni Luciphur, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1427
+            
+          . 
+            is truag limsa ... comorad 
+in chatha-sa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 3231
+            
+          . 
+            an truagh leó ... | mar táid 
+Connachtaigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 2.6
+            
+          .</p>
+      
+    
+  
+  
+    <p class="result"> 
+Compds. 
+        <span class="oRef">¤</span>aigméil: doníd casaoid truaighaigmhéil ar 
+chruadháil na Scot ... orra `<span class="trans">
+        <span class="def">pitiful</span>
+      </span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 6063
+      . dohairgeadh go truaghaigmhéil an cine ... lé Berthus = <span class="frn ">B. vastavit 
+misere</span>, 
+        iii 2230
+      . 
+        <span class="oRef">¤</span>dodaing <span class="trans">
+        <span class="def">pitiful</span> <span class="def">trouble</span>:</span> 
+        ar soerad diar 
+trógdoidṅgib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8311
+        
+      . 
+        <span class="oRef">¤</span>lí: Rúadri mac Caite na n-ell | 
+nírbo thruag-lí traite thall `<span class="trans">
+        <span class="def">faint</span> <span class="def">splendour</span>
+      </span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+48.2
+      . 
+        <span class="oRef">¤</span>neiméle,<span class="oRef">¤</span>
+      neimél, <span class="oRef">¤</span>
+      neiméla <span class="trans">act of <span class="def">sorrowing</span>, <span class="def">lamenting</span>
+      </span>: 
+        ad-chondairc drong dearmár don pobal ic toirrse ┐ ic truagnemél 'ma Hísu '<span class="quote">saw a very large body of the people mourning and in sorrow for Jesus</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/StairNic." title="eDIL Bibliography">Stair Nic.</strong></span> 10.174
+        
+      .​​​​​​​​​ 
+        rogabh ag tuirsi ┐ ag truaghneimheile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 51.8
+        
+      
+      
+        rogabh ag tuirsi ┐ ag truaghneimheile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 51.8
+        
+      . 
+        a toirrsi ┐ a truaghneimeile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1616
+        
+      . 
+        ic toirrsi ┐ ic truagneméla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/StairNic." title="eDIL Bibliography">Stair Nic.</strong></span>​ 18.329
+        
+      . 
+        ag toirsi ┐ ag truagnemela, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1014
+        
+      . 
+
+        <span class="oRef">¤</span>neimélach <span class="trans">
+        <span class="def">sorrowful</span>, <span class="def">lamenting</span>:</span> an tan ataid trúaignemelach (<span class="lbl">sic leg.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1122
+      . 
+        go tuirsech, truaghneimhélach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 100.35
+        
+      . 
+        trua-neimelach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 318.11
+        
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="35260">richt</h3><span class="citation">Cite this: eDIL s.v. richt or <a class="reference" href="35260">dil.ie/35260</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                riucht, richt, reachta</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype u">u</span>, <span class="gen m.">m.</span> <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        riucht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tur." title="eDIL Bibliography">Tur.</strong></span> 85
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> i 490.32
+      ). richt <span class="gen m.">m.</span> (<span class="case g">g</span>
+      <span class="number s.">s.</span> <span class="case n">n</span>
+      <span class="number p">p</span> 
+reachta), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. § 71.5
+      .</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">form</span>, <span class="def">shape</span>, <span class="def">guise</span>
+        </span>, in wider sense than delb of whole 
+appearance; gen. in phrase: i rri(u)cht <span class="trans">in the <span class="def">guise</span> (of), <span class="def">disdisguised</span> as:</span> 
+          oc tabairt bendachtae foir hi rriucht Éssu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Tur." title="eDIL Bibliography">Tur.</strong></span> 
+85
+          
+         (of Jacob disguised as Esau). 
+          do luid Lucifer . . . i rricht 
+aingil gil co hEua, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1671
+          
+        . i rricht eoin ticed Victor aingel 
+co Patraic (= <span class="frn ">sub specie avis</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 20.8
+        . 
+          tanic in 
+Mórrígu i rricht sentainne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2411
+          
+         = 
+          i ndeilb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1748
+          
+        . 
+
+          luid an Coimdhe i rriocht aingil go Ruadhan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 319 § 14
+          
+        . 
+i riocht fhir an bhruit lachtna <span class="trans">
+          <span class="ediltr">disguised as a man with a grey 
+cloak</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 3453
+        . ar a mēt no delbad i n-ilrechtaib <span class="trans">
+          <span class="ediltr">for the 
+number of different forms he used to assume</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 75
+        . 
+          tecait 
+anmand firén i rrechtaib én nglégel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 33
+          
+        . 
+          slog mor do 
+ainglib i rrechtu ēn ngel, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 28b49
+          
+        . 
+          tegait [na longa] i 
+rachtaib ingen macdacht fon fairgi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 2035
+          
+        . 
+          do cuir sin 
+dath dubh orra ┐ docuadar isna rechtaibh sin a cenn diuice 
+na L., 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 74.2
+          
+        . 
+          no imbritis a mbrechta druadh forna 
+duilib domunda conā leicctis a richta fein forra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3917
+          
+        . 
+gan ríoghuin 'n-a riocht `<span class="quote">disguising her queenly appearance</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> p. 22 § 36
+        . </p>
+     
+      <p class="result"> 
+i richt with gen. <span class="trans">
+          <span class="def">in the guise of</span> = <span class="def">instead of</span>
+        </span>, passing somet. 
+into sense <span class="trans">in <span class="def">mistake</span> for</span>: 
+          diamad Chú no bet[h] it'richt, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 34
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3752
+        ). 
+          eirg amach im'richt-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 309.11
+          
+        . ól rota i 
+rricht ind lomma <span class="trans">
+          <span class="ediltr">in mistake for milk</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 11a40
+        . 
+          cor marbadur 
+a muinter fein a richt Chlainde Morna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7882
+          
+        . 
+          measaim 
+gurab i riocht an fhocail so `Ronanus' do scríobh Cambrens 
+`Roanus', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 154.6
+          
+        . atáid triar re a luadh ann so i riocht 
+aon duine <span class="trans">
+          <span class="ediltr">three persons are confounded here as being one</span>
+        </span>, 
+
+          152.98
+        .</p>
+     
+  
+     
+
+
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">condition</span>, <span class="def">plight</span>
+        </span>: ? 
+          iss i richt mná siúil | sedda Ulaid uli, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 24
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8357
+        ), <span class="lbl">cf.</span> is i rrechtaib bó ┐ dam . . . settai mná 
+Ulad, <span class="lbl">ib.</span> (
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8367
+        ). 
+          da cinel déc . . . do tiprataib . . . co 
+rechtaib examla orra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 374.5
+          
+        . Toirrdelbhach . . . 
+d'fhágbail a richt duine mairbh <span class="trans">
+          <span class="ediltr">T. was left for dead</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> iii 
+458.18
+        , <span class="lbl">cf.</span> agus hé fós a riochd mhairbh <span class="trans">
+          <span class="ediltr">as good as dead</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Hebrews</strong></span> 
+xi 12
+        . 
+          `Créad an riocht 'na bhfuile?' `Atáim agam' chéasadh', 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5040
+          
+        . gur truagh na reachta sin dár chuireadar 
+a oireachta féin rígh Fhearmanach <span class="trans">
+          <span class="ediltr">pitiable was the plight 
+in which his own vassals had put the king of F.</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MaguiresofF." title="eDIL Bibliography">Maguires of F.</strong></span> § 25
+        . <span class="trans">
+          <span class="def">State</span>, <span class="def">kind</span>, <span class="def">quality</span>
+        </span>: imfresan fiadhnaise for cach 
+richt duine is isli inas <span class="trans">
+          <span class="ediltr">every condition (rank) of person</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 
+84.2 Comm.
+         a breith a richt cruidh in duine sin . . . a mbreith 
+a richt a cruidh fein (= on the understanding that they are 
+the other man's cattle . . . his own), 
+          iv 228.17 Comm.
+         cis 
+rechta na gaibter a fiadhnaisi forgell <span class="trans">
+          <span class="ediltr">what kinds of person are 
+not accepted as evidence?</span>
+        </span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span> f. 51b
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2600
+        ). <span class="lbl">Cf.</span> also: 
+slan don fir etrana . . . an guin ime i richt a n-airm ┐ a n-etaigh 
+(<span class="lbl">i.e.</span> if he injure those around him in the matter of their arms 
+or clothing), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 286.11
+        . i riocht peacaidh `<span class="quote">in way of sin</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 48 § 10
+        . it ōig-rec[h]ta na haisdi seo <span class="trans">
+          <span class="ediltr">new kinds of 
+poetry</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 28.25
+        . 
+          go raibh Críost i dtrí reachtaibh ar an 
+saoghal so . . . go saoghalta somharbhtha . . . go domharbhtha 
+. . . go diamhar dofhaicsiona i sacraimint, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 73.6
+          
+        .</p>
+     
+      
+        <p class="result"> 
+as a richt </p>
+       
+        
+          <p class="result">(<span class="edilb">1</span>) <span class="trans">out of one's proper form (condition, state):</span> teit 
+as a richt ar béluib sluagh (<span class="lbl">i.e.</span> distorts himself in public, of a 
+mountebank), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 354.5 Comm.
+             ragaid cech oen ass a 
+richt la uaill ┐ dimmus <span class="trans">
+              <span class="ediltr">will leave his natural state (station</span>
+            </span>), 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xxvi 36 § 187
+            . airchinnech glan . . . fodlad dia manchaib co 
+cert, | ní rucca as a richt <span class="trans">
+              <span class="ediltr">let him not take them from their proper 
+stations</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 106 § 41a
+              
+             (Rule of Ailbe). 
+              téit cech duine ass 
+a richt nā tabair tóeb fri hanmcharaid, 
+                i 218 § 2
+              
+            . as edh rom 
+ucc as mo riocht (<span class="lbl">i.e.</span> that has made me a `geilt'), 
+              <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 38 y
+            . 
+
+              mo chuimhne dochóidh a riucht, 
+                <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 78 § 1
+              
+            
+          </p>
+        
+      
+
+        
+          <p class="result">(<span class="edilb">2</span>) in late 
+lit. as petrified phrase <span class="trans">of set <span class="def">purpose</span>, <span class="def">deliberately</span>
+            </span>: 
+              goid do 
+chennach asa riocht, 
+                <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;H&#xE9;odhusa" title="eDIL Bibliography">Ó Héodhusa</strong></span> 175.15
+              
+            . 
+              cor a n-aghaidh 
+na fírinne asa riocht, 
+                233.21
+              
+             (a sin against the Holy Spirit). 
+is le mailís ┐ le míorún as a riocht sheunaid . . . <span class="trans">
+              <span class="ediltr">they deny with 
+deliberate evil intent</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 88.20
+            .</p>
+        
+      
+     
+      <p class="result"> 
+i rricht co <span class="trans">
+          <span class="ediltr">in such a way that, so that</span>
+        </span>, of consequence: ceithre 
+chuid . . . d'Éirinn . . . éinfhear dhíobh fa rí Mumhan | i 
+rriocht gurab í an ceathrumhadh <span class="trans">
+          <span class="ediltr">so that Munster is only a 
+fourth part</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> vi 48
+        . is amhlaidh do rinneadh somharbhtha é i rriocht nach féadfadh an bás d'fhagháil (<span class="frn ">sic . . . 
+ut non mori posset</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3399
+        . </p>
+    
+  
+  
+     
+
+
+      <p class="result"> 
+(<span class="edilb">c</span>) in Bérla na f. <span class="trans">
+          <span class="def">person</span>, <span class="def">individual</span>
+        </span>: 
+          cia in richt rongiul a 
+slechta (.i. cia in fer do lenfa a lorg), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 489 § 11
+          
+        . <span class="lbl">Cf.</span> 
+ceall o n-eitcither cach richt `<span class="quote">a church by which every form 
+(<span class="lbl">i.e.</span> condition) of person is refused</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 118.2
+        , glossed 
+          .i. 
+. . . cach richt duine, 
+            120.13
+          
+        , and see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=4 recht">4 recht</a></span>.</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

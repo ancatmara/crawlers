@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="31242">1 mael</h3><span class="citation">Cite this: eDIL s.v. 1 mael or <a class="reference" href="31242">dil.ie/31242</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> (moel, maíl) <span class="itype o,&#x101;">o,ā</span>. perhaps orig. <span class="pos subst." style="color: #ff8000">subst.</span> In Glosses occurs 
+only in compd. <span class="pos npr." style="color: #ff8000">npr.</span> (Mail- Ml., Maél- Sg., Móel- Stowe Miss.). 
+Frequently precedes noun, forming a compd.</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">crop-headed</span>, <span class="def">shorn</span>, and by extension <span class="def">bald</span>
+        </span>. Totmáel, gl. 
+<span class="frn ">totum calvum</span> (name of Patrick's charioteer), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 322.26
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 13b2
+        ). in m.<span class="oRef">¤</span> Melchisediach <span class="trans">
+          <span class="def">tonsured</span>
+        </span> (<span class="lbl">i.e.</span> a priest), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+2256.
+         ulcha . . . for in fer m.<span class="oRef">¤</span>
+         (of St. Paul, said to have introduced the religious practice of shaving the entire head), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+iii 194 § 3.
+         fer maeldub <span class="ediltr">with black cropped hair</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 38.
+         
+          scailp 
+ingini maeili duibhi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1901.
+          
+         triar scoloc maelruad 
+(= with cropped red hair), 
+          6147
+        . co mbui in-a lobur moel 
+<span class="trans">
+          <span class="def">bald</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 376.
+         
+          an duine a ttuiteann a ghruagh d'á cheann, bí 
+sé maol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Levit.</strong></span> xiii 40.
+          
+         do loisgedh thrí chéad inghen maol '<span class="quote">shorn maidens</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 26.161
+        . (oppd. to: 
+          thrí chéad caillech, 
+            157
+          
+        ). eiric giunta co lomad a ciabaib na crosan ┐ na scoloc ┐ na ningen mæl '<span class="quote">the shorn girls (?)</span>' (possibly a disparaging term) 
+          <span><strong class="pop" style="color:blue" href="bibliography/CIH" title="eDIL Bibliography">CIH</strong></span> i 304.11
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lii 218
+        . roschaullach ingine móile <span class="ediltr">a horse of a shorn girl (?),</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> § 114
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lii 220-22
+        . (cryptic) 
+          mvnchaol .i. maol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Goid." title="eDIL Bibliography">Goid.</strong></span> 78 § 220 (Dúil Laithne)
+          
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xlix-l 613
+        . As sobriquet: Lucet m.<span class="oRef">¤</span>
+         (name of a 
+druid), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 4a1
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 259.37
+        ). 
+          Lucat Mæl, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 32.28
+          
+        . 
+          Aoibhioll mhaol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D.MacCarrth." title="eDIL Bibliography">D. MacCarrth.</strong></span> 3.10
+          
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lii 225-26
+        .</p>
+    
+  
+  
+     
+
+
+      <p class="result"> 
+(<span class="edilb">b</span>) in follg. exx. applied to persons mael seems to imply 
+<span class="trans">
+          <span class="def">youth</span>
+        </span> (possibly with the reference to the custom of cutting 
+a boy's hair at the age of seven, <span class="lbl">s.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 162 n. 9
+        ): 
+          leanb óc, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 182.8
+          
+         = lenam maol, Rawl. </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">of cattle, <span class="def">hornless</span>:</span> i richt samaisce muile (maíle LU), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1722
+        ; 
+          1625
+        . 
+          hi rricht bó deirgi maíle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 141.2
+          
+        . 
+
+          bae móelæ, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 84.16
+          
+        . 
+          conaccatar . . . daumu móra máela, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1750
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> ix 482.
+         
+          secht cēt molt nach m.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 270b47
+          
+        . 
+Hence as name of a cow: 
+          an Maol Flidaise, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> iv 106.
+26
+          
+        . 
+          ar cenn na Maile, 
+            <span class="lbl">ib.</span> 20
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">of things <span class="def">blunt</span>, <span class="def">headless</span> or <span class="def">pointless</span> (of a torso, stump, 
+etc., also of weapons):</span> 
+          co tall a ceand de gur fagaib ina thamun 
+mæl, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 443b37
+          
+        . 
+          gursat maela a méidhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1034.
+          
+         ina 
+meidhibh moílderga (<span class="lbl">i.e.</span> <span class="ediltr">headless and bleeding</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 94.16
+        , 
+<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 6084
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> iv 94.15
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 122.25
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span>. v 
+1758.15
+        . lorga maela `<span class="quote">headless handles</span>' (of hurling-sticks or 
+clubs), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 28.17
+        . 
+          a dreolláin cusin eirr maíl, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 274b25
+          
+         = 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 57.9
+        . 
+          fíacla máela, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. ex. 408.
+          
+         
+          cloidhmhe maela, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 481.
+          
+         
+          má bhíonn an t-iarann máol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Eccles.</strong></span> x 10.
+          
+         
+dearna an deilg mhaoil <span class="ediltr">the hand pierced by the blunt nail</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> v 9
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">of places, <span class="lbl">etc.</span>, <span class="def">bare</span>:</span> 
+          indsi maela, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> ix 460.
+          
+         tá . . . an 
+túr maol (<span class="lbl">i.e.</span> <span class="trans">
+          <span class="def">dismantled</span>
+        </span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 1515.
+         <span class="lbl">Cf.</span> maelráith 
+below. <span class="trans">
+          <span class="def">Exposed</span>, <span class="def">defenceless</span>:</span> maol guala gan bhráthair <span class="ediltr">bare is 
+the shoulder without a brother</span> (= a man is weak without kinsmen), O'Rahilly 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Prov." title="eDIL Bibliography">Ir. Prov.</strong></span> § 61
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1804.3
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 
+354.25
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) <span class="trans">
+          fig. <span class="def">blunt</span>, <span class="def">dull</span>, <span class="def">obtuse</span>:</span> 
+          cen medra m.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2975
+          
+         (<span class="ediltr">without 
+pointless talk, circumlocution</span>?). 
+          do 
+c[h]lannaibh Cuinn nár maol ferg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 224.5
+          
+        . 
+          trét' 
+aighnios maol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxi 21.
+          
+         
+          i nduain mhaoil, 
+            xx 7.
+          
+         
+maelinntinnech (= <span class="frn ">hebes sensūs</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 238.33.
+         lá co 
+leith, ni maoilriaghail `<span class="quote">no false rule</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 572.10
+        .</p>
+    
+  
+  
+     
+
+
+      <p class="result"> 
+(<span class="edilb">g</span>) cruithnecht m.<span class="oRef">¤</span>
+         `<span class="quote">beardless wheat</span>' (some kind of inferior 
+grain?): 
+          arbur can frichgnum .i. . . . cruithnecht maol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+v 222.23 Comm.
+          
+         
+          cruithneacht mhaol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xvii 244.
+          
+         
+          ruadhan 
+. . . .i. mael-cruithnecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1369
+          
+        , <span class="trans">
+          <span class="def">awnless wheat</span>, or perhaps <span class="def">free-threshing wheat</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/EIF" title="eDIL Bibliography">EIF</strong></span> 228
+        . <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 mael">2 mael (e)</a></span> and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=mael&#xE1;n">maelán III</a></span>.</p>
+    
+  
+  
+    <p class="result"> 
+Compds.</p>
+   
+    
+      <p class="result">
+        <span class="edilb">1</span> With adj. formed from noun: mugh maílmérach 
+<span class="trans">
+          <span class="def">blunt-fingered</span>, <span class="def">clumsy</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. ex. 789.
+         tairrnge maelrennach <span class="trans">
+          <span class="def">blunt-pointed</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 196.3
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">2</span> With subst.: 
+          <span class="oRef">¤</span>achad <span class="gen m.">m.</span>: 
+          cathir is cul maelachaid ṁbil, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 149b20
+          
+        . 
+          <span class="oRef">¤</span>árus (
+          <span class="oRef">¤</span>áires): na máelairise cen togail .i. Ráith 
+Airthir, Sendomnach `<span class="trans">
+          <span class="def">consecrated</span> <span class="def">residences</span>
+        </span>' (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 250.5
+        . 
+
+          <span class="oRef">¤</span>assa <span class="gen m.">m.</span> <span class="trans">a <span class="def">blunt</span> or <span class="def">broad-toed</span> <span class="def">shoe</span> or <span class="def">sandal</span>
+        </span> (<span class="lbl">esp.</span> one of 
+metal): 
+          mælassai chredumai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 245b22
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. liii
+        . 
+          da 
+moelasa fhindruine impi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 46 § 54.
+          
+         
+          da mælasa finddruine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 193 § 25
+          
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 200.2
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 5.24
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+iii 152.20
+        . 
+          do theiged ina mælossaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> viii 150 § 1.
+          
+         
+          <span class="oRef">¤</span>chend 
+<span class="gen n.">n.</span>: nírba timm ar ná ba maelc[h]end `<span class="quote">lest I should have my 
+hair cropt off</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 7.17
+         = melcend, LL. in a mhaoilchionn <span class="trans">
+          <span class="def">bald</span> <span class="def">head</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Levit.</strong></span> xiii 43.
+         
+          <span class="oRef">¤</span>chircul <span class="gen m.">m.</span>: 
+          m.<span class="oRef">¤</span>-c. óir co 
+clucinib fo bragit cech eich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 14
+          
+         (<span class="quote">eine abgerundete 
+Scheibe</span>, Wind.). <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=maelland">maelland</a></span>. 
+          <span class="oRef">¤</span>chloch <span class="gen f.">f.</span>: móelchloch `<span class="trans">
+          <span class="def">bare</span> 
+<span class="def">stone</span>' (<span class="def">blunt</span> or <span class="def">flat</span>?)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 48.10
+        . 
+          <span class="oRef">¤</span>chnoc <span class="gen m.">m.</span> <span class="trans">a <span class="def">flat-topped</span> <span class="def">hill</span>:</span> 
+          Maolchnoc Gréine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 440.
+          
+         
+          <span class="oRef">¤</span>chruithnecht <span class="gen f.">f.</span> see (<span class="edilb">g</span>) above.</p>
+     
+      <p class="result">
+        
+          <span class="oRef">¤</span>dorn <span class="gen m.">m.</span>
+      </p> 
+        
+          <p class="result">(<span class="edilb">a</span>) <span class="trans">a <span class="def">clenched</span> <span class="def">fist</span>:</span> 
+              meitither 
+muldorn míled, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2597
+              
+             = 
+              re mǽldhorn, 
+                <span><strong class="pop" style="color:blue" href="bibliography/H2.17" title="eDIL Bibliography">H 2.17</strong></span>
+              
+            , Eg. Of 
+the <span class="trans">fist with <span class="def">closed</span> <span class="def">thumb</span> used as a <span class="def">measure</span>, about <span class="def">four 
+inches</span>
+            </span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 240.4 Comm.
+             (oppd. to `airdem', the fist with 
+thumb extended). <span class="trans">Transf. <i>a</i> <span class="def">blow</span> with the <span class="def">fist</span>, a <span class="def">cuff</span>:</span> 
+              toirbiris 
+moeldorna mora tar a gnúis, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3903
+              
+             St.</p>
+        
+       
+        
+          <p class="result">(<span class="edilb">b</span>) By extension of (<span class="edilb">a</span>),<span class="trans"> <span class="def">sword</span>:</span> 
+              m. finn-argit fa choim, 
+                <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 267b33
+              
+             = 
+              <span><strong class="pop" style="color:blue" href="bibliography/MU" title="eDIL Bibliography">MU</strong></span> 
+38.14
+            . 
+              m. findargait, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5211
+              
+             = 
+              mael ṅdorn, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 3173.
+              
+             
+
+              maoldorn fionnairgid .i. cloidheamh, óir as na dhornaibh 
+máola toimsithear an chloidheamh .i. an ordóg leagtha aga 
+thomas, 
+                <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+              
+             (prob. a wrong explanation; see Macalister, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ArchaeologyofIrel." title="eDIL Bibliography">Archaeology of Irel.</strong></span> 153
+            ).</p>
+        
+      
+     
+      <p class="result">
+        
+          <span class="oRef">¤</span>gae <span class="gen f.">f.</span> <span class="trans">
+          <i>a</i> (<span class="def">blunt-headed</span>?) <span class="def">spear</span> or 
+<span class="def">javelin</span>:</span> 
+          moelgae hi llaim gach fir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 239.141
+          
+        . 
+          dā maelgai 
+. . . co semmannaib argait, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 5
+          
+        . 
+          <span class="oRef">¤</span>mír <span class="gen n.">n.</span> <span class="trans">a <span class="def">large</span> <span class="def">mouthful</span> or <span class="def">lump</span> (<i>of food</i>)?</span> 
+          eistecht grech a glasbraiget fri med ina 
+maelmireann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 177a23
+          
+         = 
+          na mælmirenn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 257b17
+          
+        . 
+
+          <span class="oRef">¤</span>ráith <span class="gen f.">f.</span> <span class="trans">a <span class="def">dismantled</span> or <span class="def">outworn</span> <span class="def">earthen</span> <span class="def">fort</span>:</span> 
+          immat maelrátha (MS moel | rátha) <span class="ediltr">a large number of abandoned forts</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Stud.Celt." title="eDIL Bibliography">Stud. Celt.</strong></span> xxiv-xxv 67.13
+          
+        . 
+          maolrátha gan mhórtharbha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> v 105.
+          
+         maolrátha glasa ┐ doireadha 
+neannta `<span class="quote">unroofed green raths</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Atlantis" title="eDIL Bibliography">Atlantis</strong></span> iv 144.32
+        . 
+          <span class="oRef">¤</span>scolb <span class="gen m.">m.</span> 
+<span class="trans">a <span class="def">blunt</span> <span class="def">splinter</span>:</span> as contemptuous epithet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 102 § 189
+         = 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> i § 86
+        . 
+          <span class="oRef">¤</span>taman <span class="gen m.">m.</span> <span class="trans">
+          <span class="def">stump</span> of a <span class="def">tree</span>:</span> as alleg. <span class="pos npr." style="color: #ff8000">npr.</span> <span class="gen m.">m.</span>: 
+
+          mac Maoltamain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 55.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">3</span> With vb.: 
+          <span class="oRef">¤</span>tamnaigid <span class="trans">
+          <span class="def">truncates</span>:</span> 
+          ro maeltamnaigit 
+mēidi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> x 112.30
+          
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="17889">do-indnaig</h3><span class="citation">Cite this: eDIL s.v. do-indnaig or <a class="reference" href="17889">dil.ie/17889</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                doindnaich, do-n-indnig-som, tonindnaig, tinnagat, do-ndn-indinsin-se, duindainsed, tindnised, do-dn-indnasti-se, do-n-indin, -tidnastis, duécomnacht, do-n-écomnacht, tecomnacht, dorindnacht, doindnagar, tindnagtar, doindnastar, doindnasatar, doindnastar, doinnasatar, doindnacht, doécomnacht, teícomnacht, do-r-rindnacht, thinnachtae, tindnacol, doidnais, do-ridnacht, dorignacht, doeccomnacht, doridhnacht, rot(h)idnacht, tidnastar, doridnacht, tidnaicid, doridnaic, tidnacad, tindlaig-, dosrindlacht, doninnlaic, tindlacan, tidlaig-, tidlacad, tidnais, tidnais, t[h]idnuis</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (*
+        to-ind-anag, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 456
+        
+      ). <span class="mood Indic.">Indic.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+
+        doindnaich, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 27b12
+        
+      . 
+        do-n-indnig-som, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28a17
+        
+      . 
+        tonindnaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 13889
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> <span style="color: #ff8000">rel.</span> 
+        tinnagat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 93a20
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns impf.">impf.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+
+        do-ndn-indinsin-se, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9b7
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        duindainsed, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 78b18
+        
+      . 
+
+        mani tindnised
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4b13
+        
+      . <span class="per 2">2</span> <span class="number pl.">pl.</span> 
+        do-dn-indnasti-se, 
+          9b7
+        
+      . 
+ <span class="tns Fut.">Fut.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        lasse do-n-indin
+        , 
+          13b29
+        
+      . <span class="mood Condit.">Condit.</span> <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        -tidnastis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 896
+        
+      . <span class="tns Perf.">Perf.</span> (with -com-) <span class="per 2">2</span> <span class="number s.">s.</span> 
+        duécomnacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 77c5
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        óre 
+do-n-écomnacht
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 1a1
+        
+      . <span style="color: #ff8000">rel.</span> 
+        tecomnacht, 
+          26d23
+        
+      . (with -ro-) 
+
+        dorindnacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 124
+        
+       (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 533
+      ).</p>
+   
+    <p class="result"> 
+ <span class="voice Pass.">Pass.</span> <span class="tns pres.">pres.</span> <span class="number s.">s.</span> 
+        doindnagar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 16d14
+        
+      . <span class="number pl.">pl.</span> <span style="color: #ff8000">rel.</span> 
+        tindnagtar, 
+
+          15c2
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns pres.">pres.</span> <span class="number s.">s.</span> 
+        doindnastar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 142d1
+        
+      . <span class="number pl.">pl.</span> 
+        doindnasatar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 17a2
+        
+      . <span class="tns Fut.">Fut.</span> <span class="number s.">s.</span> 
+        doindnastar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 46c20
+        
+      . <span class="number pl.">pl.</span> 
+        doinnasatar, 
+
+          30c17
+        
+      . <span class="tns Pret.">Pret.</span> 
+        doindnacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 296 § 43
+        
+      . <span class="tns Perf.">Perf.</span> (with 
+-com-) 
+        doécomnacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14c33
+        
+      . 
+        frisa teícomnacht
+        , 
+          19c8
+        
+      . 
+(with -ro-) 
+        do-r-rindnacht, 
+          20d15
+        
+       (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 533
+      ). 
+ <span class="pos Part." style="color: #ff8000">Part.</span> 
+        thinnachtae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 126d12
+        
+      . <span class="pos Vn." style="color: #ff8000">Vn.</span> tindnacol.</p>
+   
+    <p class="result"> 
+In Mid.Ir. the above stem is generally replaced by follg.:</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) do-idnaig-: <span class="tns Fut.">Fut.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+          doidnais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 210.12
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9633
+        ). 
+ <span class="tns Perf.">Perf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+          do-ridnacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1469
+          
+        , 
+          2020
+        , <span class="lbl">etc.</span>, 
+          dorignacht, 
+            2672
+          
+        . 
+
+          
+            doeccomnacht .i. doridhnacht
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 792
+          
+        . 
+          rot(h)idnacht, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1977
+          
+        , 
+          2633
+        , <span class="lbl">etc.</span> <span class="voice Pass.">Pass.</span> <span class="tns fut.">fut.</span> <span class="number s.">s.</span> 
+          tidnastar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ix 454.26
+          
+        . 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5144. 6918
+        . <span class="tns Perf.">Perf.</span> 
+          doridnacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 158.18
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Nov.
+12
+         <span class="lbl">v.l.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 9.5
+        . Later as simple <span class="pos vb." style="color: #ff8000">vb.</span> tidnaicid (note also 
+ <span class="tns perf.">perf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+          doridnaic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 632
+          
+        ). <span class="pos Vn." style="color: #ff8000">Vn.</span> tidnacad.</p>
+     
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) tindlaig-: <span class="tns Perf.">Perf.</span> 
+          dosrindlacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 64.6
+          
+         (= 
+          dosrinnlach, 
+
+            22
+          
+        ); doninnlaic (dotnindlaic, <span class="lbl">v.l.</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1522
+        ; usually as 
+simple <span class="pos vb." style="color: #ff8000">vb.</span>, <span class="pos vn." style="color: #ff8000">vn.</span> tindlacan.</p>
+     
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) tidlaig-, treated as simple <span class="pos vb." style="color: #ff8000">vb.</span>, <span class="pos vn." style="color: #ff8000">vn.</span> tidlacad.</p>
+     
+  
+    <p class="result"> 
+(<span class="edilb">d</span>) tidnais-: <span class="mood ipv.">ipv.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+        
+          tidnais comarli dam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl.2" title="eDIL Bibliography">MacCongl.²</strong></span> 29.892
+        
+      . <span class="tns pret.">pret.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        
+          tidnais oen dó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl.2" title="eDIL Bibliography">MacCongl.²</strong></span> 20.613
+        
+      . 
+        messi t[h]idnuis robud duit araír, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl.2" title="eDIL Bibliography">MacCongl.²</strong></span> 27.852
+        
+      .</p>
+   
+    <p class="result"> 
+See 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs § 56
+      . </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">gives</span>, <span class="def">bestows</span>, <span class="def">grants</span>, <span class="def">hands over</span>
+        </span> (with DO of recipient): 
+translates Lat. <span class="frn ">largiri</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 93a20
+        ; contribuere, 
+          78b18
+        ; distribuere, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 27b12
+        ; tradere, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4b13
+        , 
+          9b7
+        , 
+          13b29
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 126d12
+        . 
+
+          mrechtrad inna ndáne tindnagtar do chách, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 15a2
+          
+        . 
+          in 
+soinmigi duécomnacht dun, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 77c5
+          
+        . 
+          dorindnacht soas do 
+Chummain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Nov. 12
+          
+        . 
+          rí doridnacht talam tlacht | do 
+Adaum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1469
+          
+        . 
+          rí rothidnacht do doenib | domun cona 
+degmóinib, 
+            1977
+          
+        . ni tidnaic deorad De <span class="ediltr">what a pilgrim bestows</span>, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 438.16
+        . 
+          co nus-tidnaicce Dia duit bethaid suthain, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6631
+          
+        . i
+          n tan na tidnaicc do bochtaib a chuit áine, 
+            8373
+          
+        . 
+
+          in spirut nóeb . . . tínaiced a rath in bale is áil dó, 
+            5493
+          
+        . 
+
+          tidnaig a dig do, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 14.19
+          
+        . 
+          tindlaicc dam aeib is eolus, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 399a31
+          
+        . 
+          caith a ndothidnacht Dia duid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 46.9
+          
+        . 
+          cid 
+mor maithiusa notidnaiced in toictiu dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1090
+          
+        . 
+          soilse 
+ind Righ thidnaicis in flaith; soilse na noeb dia tidnacar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+ii 144 § 161
+          
+        . With omission of obj.: 
+          acht mad doene anforbthi 
+. . . dōib-sede nī thidnaice, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 316 § 44
+          
+        = 
+          doib noco comtidnais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 261a55
+          
+        . Rarely with accus. of pers.:
+           bendac[h]fuid cāch, cac[h] oc a bennochad; tidnocfaid cāch, cāch oc a 
+t[h]idnocol, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ix 455
+          
+        . With FOR of pers.: 
+          méit donindnagar fornni fochith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14b15
+          
+        . <span class="trans">Of <span class="def">offering</span> in <span class="def">sacrifice</span>:</span> 
+
+          muirfidhter da fer .x. gach lai ┐ tidnaicfidhter dona deib, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 154
+          
+        . <span class="trans">
+          <span class="def">Delivers</span> up, <span class="def">hands over</span>:</span> 
+          [du]ecomnacht Dia in 
+cathraig hi lāma Cald, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 54c18
+          
+        . 
+          morfessur clainne Saóil | 
+dosridnacht Dauid . . . | i lamaib Ammoníta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6747
+          
+        . 
+          mani 
+bed drochduine he, ni thindlécmais-ne det-siu he, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2699
+          
+        . 
+
+          mairc . . . don tí triasa tídnustar mac duine fri croich, 
+            5144
+          
+        . 
+
+          do tionnlaicedh O Donnabhán do M., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 88.2
+          
+        . go dtiodhlaicidh an Tighearna thú ar dtuitim do láthair do námhad 
+(= <span class="frn ">tradat te Dominus corruentem ante hostes tuos</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 9705
+        . 
+ <span class="trans">
+          <span class="def">Hands down</span> (of tradition, <span class="lbl">etc.</span>):</span> 
+          is é rotomais ina fuil itir 
+firmamint ┐ grēin ┐ doridnacht do rimairib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 28.12
+          
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 124
+        ). tidnaic sen do tsin <span class="ediltr">one senior conveys (tradition) to 
+another</span>, 
+          36.19
+        . isuide dodnidnaig cluais do cluais do comceniuil (of a claim regarding tenure of land which is based on 
+family tradition), 
+          iv 286.1
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">brings</span>, <span class="def">conveys</span>, <span class="def">conducts</span>
+        </span> (this sense seems confined to 
+stem tidlaic- or tindlaic-): co ba trí do hinnlaicedh don 
+Róimh eiséin <span class="ediltr">thrice it was taken to Rome</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 31.37
+        . 
+          ratinnlaicidh ar amus Comghaill iat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 321
+          
+         <span class="lbl">v.l.</span> 
+          § 4 n. 1
+        . 
+
+          guidh an Coimdhiu . . . co rotidlaici tu cusan creidem, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+x 184
+          
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="36030">sainred</h3><span class="citation">Cite this: eDIL s.v. sainred or <a class="reference" href="36030">dil.ie/36030</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                sainreth, sun(n)rad, sonnrad, sunnradh</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype u">u</span> or <span class="itype o">o</span>, <span class="gen n.">n.</span> later <span class="gen m.">m.</span> (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 sain">1 sain</a></span>). In O.Ir. freq. sainreth. In 
+later Mid.Ir. generally sun(n)rad, sonnrad. sunnradh <span class="gen m.">m.</span> (<span class="case g">g</span>
+      <span class="number s.">s.</span> 
+<span class="case n">n</span>
+      <span class="number p.">p.</span> -raidh, -artha), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 49 (102.13)
+      . </p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span>
+      </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">peculiar</span> <span class="def">property</span> or <span class="def">characteristic</span>, distinguishing an 
+individual from others:</span> a sainreth gl. proprium, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 26b10
+          , 
+            14
+          . 
+is s.<span class="oRef">¤</span> do gl. speciale 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 44d5
+          . attáa lemsa a s.<span class="oRef">¤</span> -sa `<span class="quote">I have this 
+peculiarity</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 32a5
+          . derscaigthetaid .i. a s.<span class="oRef">¤</span> techtas nech 
+sech cách gl. praestantia, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 37b8
+          . sainretha nó etarscarthi 
+gl. vasa . . . sancta, 
+            37b1
+          . sainretha .i. noiba gl. sanctos, 
+            37b4
+          . 
+<span class="lbl">Cf.</span> 
+            37a18
+          . With gen.: 
+            s.<span class="oRef">¤</span> n-eulais leu isin dan frisgníat sech 
+cách, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 37b12
+            
+          . s.<span class="oRef">¤</span> litre gl. proprietatem, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 6b25
+          . iss ed 
+sainreth <span class="frn ">pronominis</span> a shuidigud ar anmmaimm dílius gl. 
+proprium est pronominis, 
+            27a1
+          . sunnradh anmann ughdar 
+shenchais . . . Érenn `<span class="quote">a particular list of names</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Geneal.Tracts" title="eDIL Bibliography">Geneal. Tracts</strong></span> 
+i 4.1
+          . As pred. with copula folld. by DO <span class="trans">
+            <span class="def">proper</span> to, <span class="def">characteristic</span> of</span>: is s.<span class="oRef">¤</span> doib insin .i. epert gue gl. quibus est familiare 
+mendacium, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 31b12
+          . 
+            s.<span class="oRef">¤</span> do daltu anisiu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 27d18
+            
+          . 
+            is 
+sainreth do interiecht guth formúigthe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 9b18
+            
+          . 
+            sainreth 
+do maccaib a pélogud, 
+              45b6
+            
+          . fobith is [s]ainred do Dróbéiss 
+tonnem caín and <span class="ediltr">for D. is noted for beautiful salmon</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 
+1697
+          . sainreth gním dogníth la D. <span class="ediltr">distinguished the deed</span> (?), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 36a11
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) in IGT <span class="trans">state of being <span class="def">definite</span>, act of making <span class="def">definite</span>, a 
+<span class="def">particle</span> <span class="def">making</span> a noun <span class="def">definite</span>
+          </span>: ceithre sunnartha na Gáoidheilgi, tulshunnradh, ┐ sunnradh innsgne, ┐ sunnradh an 
+táoibhréime, ┐ sunnradh an anma baisde; ┐ tigthear le 
+sunnradh do bheith san iollradh mur so: `dá fhear' no `dá 
+throich' <span class="ediltr">the four (ways of making) definite nouns, by means of 
+prefixed article, possessive, following genitive, and proper names</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> 
+            Introd. § 15 (7.8)
+          . Día nimhe, lochdach sunnradh air . . . gan 
+shunnradh gach ní oirrdhearc énaránach, <span class="lbl">ib.</span> (
+            7.13
+          ). an fearsa, 
+cóir; fearsoin . . . lochdach . . . óir ní cóir barr gan shunnradh, 
+<span class="lbl">ib.</span> (
+            7.27
+          ). séimhiughadh sunnartha <span class="ediltr">aspiration caused by 
+article</span>, 
+            § 68 (17.19)
+          . easbaidh sunnartha (a metrical fault), 
+            § 2 
+(2.26)
+          . 
+            iarmbérla sunnartha . . . mur tá don, no ón, no san. 
+Fear, focal neamhshunnartha; an fear, focal sunnartha, 
+              § 15 (7.20)
+            
+          
+(<span class="pos participial" style="color: #ff8000">participial</span> form ?). See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tul&#x1E61;unnrad">tulṡunnrad</a></span>.</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> Generally used as an <span class="pos adv." style="color: #ff8000">adv.</span> in dat. case either alone or 
+preceded by the article or prep. DO (DI) to qualify a word or 
+a statement. Frequently in a particularizing statement follg. 
+a more general one, <span class="trans">to be <span class="def">precise</span>, more <span class="def">exactly</span>
+        </span>: amal nad 
+finnatar sidi cia loc sainriud dia regtais `<span class="quote">to what particular 
+place they would go</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 99b10
+        . duérglas soilse sainriud . . . do 
+imthimchiull in choimded `<span class="quote">a special radiance</span>', 
+          120d2
+        . is do 
+as[sa]raib intsainriud `<span class="quote">of the Assyrians in particular</span>', 
+          35a8
+        . 
+
+          doluid D. . . . inna ndunad ┐ luid co port i mbói in rí indsainriud, 
+            55c1
+          
+        . 
+          hisind luc sin indshainriuth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 8b6
+          
+        . togu damsa 
+. . . túsu indsainriud dia nertad sech cách <span class="ediltr">you of all others</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PCr." title="eDIL Bibliography">PCr.</strong></span> 2a2
+        . 
+          seta in duine cu coitcend . . . ┐ ni seta oenduine 
+sainrud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4011
+          
+        . sechum na peccaid dia domnaig saindrud 
+<span class="ediltr">especially on Sunday</span>, 
+          7360
+        . ní haigne sainrad `<span class="quote">as such</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+i 92.29 Comm
+        . is edh tra sainriud i ragab cach dibh a ughtaras 
+<span class="ediltr">these are the authorities on whom they relied in particular</span>, 
+          24.x 
+Comm
+        . ceth sainriuth dotuic forsin meis[s]iu? <span class="ediltr">what particular 
+reason placed you on this dish?</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 11 § 33
+        = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 
+325.x
+        . ni rabi ic íarraid a dorais don t-ṡainruth itir, acht ra 
+minaig beirn <span class="ediltr">he was not looking for its door in particular but 
+broke a breach</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5137
+        . 
+          cia tir i rrugad Gaedeal? . . . I 
+nEgipt. Ocus cia airm sonnrud? . . . I mmaigh Ucca, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 
+16
+          
+        . iss airi is dia tochmarc sainrud ludi C. <span class="ediltr">it is on this account 
+that C. went to woo her above others</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10190
+        . inna mná aile 
+bátár con ríg . . . .i. Eithne . . . in t[s]inrud <span class="ediltr">E. in particular</span>, 
+
+          4239
+        . 
+          ba saeth mor la D. inn t-sinnruth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 138.27
+          
+        . 
+          in fad 
+sin do tshinnrudh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 54
+          
+        . 
+          laad snechta an gemrid do 
+sunnrad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Death-talesoftheUlsterheroes" title="eDIL Bibliography">Death-tales of the Ulster heroes</strong></span> 36.11
+          
+        . 
+          aidchi samna do sonrad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 
+178.17
+          
+        . 
+          do Connachtaib dó . . . do clannaibh Bríain . . . an 
+tsainnrith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 11 § 1
+          
+        . 
+          cur' bhó sanntach um crudh ┐ um 
+ór he do sunnraid
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 292
+          
+        . 
+          marbthar Zacarías . . . itir 
+in altoir ┐ in tempul sáinnrud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 144a51
+          
+        . 
+          fóidit . . . Balam 
+in druí uadib . . . ┐ láir amail eoch fóa dishundrad, 
+            122b52
+          
+        . 
+on lúan re samain sáinriuth cossin cetáin iar n-imbulc <span class="ediltr">precisely</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2472
+        . 
+          a cínn a secht mbl[iadhna] deg do sinnr[u]d, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 187.21
+          
+        . 
+          do feraib [Hérenn] a cenēl, do Ultaib intshainnriuth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 45.26
+          
+        . 
+          fuair se bás fa cend sé la iar sin adhaigh 
+domnaich cincísse do sundradh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 406.29
+          
+        . 
+          itir gach nech 
+da tanic ann tanic Sir H. do shinnrud . . . ann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 90.34
+          
+        . 
+
+          in ix. ad laithi a raith samraid do sunrad sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 114.3
+          
+        . 
+
+          oidhche Cascc do shonradh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1882.5
+          
+        . 
+          bheith for a 
+ccionn ag Scéith Ghabhra an tsainridh, 
+            1876.2
+          
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

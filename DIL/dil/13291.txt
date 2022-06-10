@@ -1,0 +1,839 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="13291">1 cú</h3><span class="citation">Cite this: eDIL s.v. 1 cú or <a class="reference" href="13291">dil.ie/13291</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                chon, coin, choin</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype n">n</span>, <span class="gen m.">m.</span>, later also <span class="gen f.">f.</span> See 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> §§ 328
+      , 
+        74
+      , 
+        89
+      , 
+        203
+      . With lenition of closely following wd. (
+        c.<span class="oRef">¤</span> ches, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8336
+        
+      , <span class="lbl">cf.</span> Cú Chulainn, <span class="lbl">passim</span>), 
+        § 232
+      . For gender <span class="lbl">cf.</span> <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        in chon
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mer.Uil.2" title="eDIL Bibliography">Mer. Uil.²</strong></span> 267
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        na coin
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 9.21
+        
+       (so also 
+        <span><strong class="pop" style="color:blue" href="bibliography/SCano" title="eDIL Bibliography">SCano</strong></span> 287
+      ). 
+        in choin
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bodl.Dinds." title="eDIL Bibliography">Bodl. Dinds.</strong></span> 32
+        
+      . With masc. pron.: 
+        smacht ar choin gan eill ní heidir / a thoil féin dá 
+léigir lais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xix 8
+        
+      . c.<span class="oRef">¤</span>
+       <span class="gen m.">m.</span> (and <span class="gen f.">f.</span>, <span class="lbl">v.l.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 21
+      . </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">dog</span>, <span class="def">hound</span>
+        </span>: 
+          c.<span class="oRef">¤</span> goirt elscothach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> § 64 (69.2)
+          
+         
+= <span class="frn ">avidus canis</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/VitaBr." title="eDIL Bibliography">Vita Br.</strong></span> 10
+        . 
+          do conaibh gortaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 
+107
+          
+        . 
+          co rāssa in cū, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 539
+          
+        . 
+          ba samalta ri gláim con 
+allmaraig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 611
+          
+        . 
+          D. ┐ D. . . . dā choin M. Fothartaig, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 59
+          
+        . 
+          ri iarthair Laigen, ┐ a ben . . . ┐ a chu do 
+marbad i n-aen uair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 570.4
+          
+        . cia ris fa fearr do crudh c.<span class="oRef">¤</span>
+         
+<span class="ediltr">who loved a hound better</span>? 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 898.20
+        . da folaib con ┐ catt ┐ 
+druad (<span class="lbl">sc.</span> noxious liquid for spearheads), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 732
+        . .iii. 
+bliadna don gurt. trí saeguil in guirt don coin (dog's life-span), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> xli 7
+        . coin a tuil a leanmhain día sleghaibh 
+(<span class="lbl">sic leg.</span>) `<span class="quote">their hounds asleep, fastened to their spears</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 70 (322.15)
+        . dá maer a chon <span class="ediltr">masters of hounds</span> (in 
+enumeration of Finn's household), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 93.14
+        . c.<span class="oRef">¤</span> bhus 
+oirrdhearca n-iomráidh (in praise of Mag Uidhir's dog), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 112.1
+        . lēcad chon re fīed (an unprofitable act), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 125.18
+        . fágbhaim fútha an ch.<span class="oRef">¤</span> sa cluithe `<span class="quote">the hound and 
+sport</span>' (<span class="lbl">i.e.</span> `<span class="quote">the whole business</span>', note 2), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 196.4
+        . 
+In name of plant: 
+          blas na gcaor gcon, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nfhocail" title="eDIL Bibliography">Dánfhocail</strong></span> 74
+          
+         (`<span class="quote">dog-berry</span>', Gloss.). In more general sense: 
+          a ndul a ndealbaib 
+ceithri con . . . a ndeilb madaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 174.6
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) c.<span class="oRef">¤</span> (allaid) <span class="trans">
+          <span class="def">wolf</span>
+        </span>: cu'allaid gl. lupus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 417
+        . 
+          isait coin 
+altai in degboin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/VitaBr." title="eDIL Bibliography">Vita Br.</strong></span> 27
+          
+        . 
+          lúatha coin dod-repnadar, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1515
+          
+         `<span class="trans">
+          <span class="def">wolves</span>
+        </span>' (
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 166
+        ). os hé conrethed laa cona 
+(of the child Cormac, carried off by a wolf), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 311.1
+        . 
+
+          amal mucca eter conaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4442
+          
+        . 
+          cúana mára cucu (na 
+hoegaire) do chonaib alta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 36599
+          
+        . 
+          atchīatt na conu cucu 
+'na rith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 54.3
+          
+        ; 
+          fáolchonu, 
+            5
+          
+        . 
+          co[i]n allta, 
+            12
+          
+        . 
+          c.<span class="oRef">¤</span> 
+allaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CF2" title="eDIL Bibliography">CF²</strong></span> 1159
+          
+        . 
+          na coin alta ┐ na sinnaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1686
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H5.15" title="eDIL Bibliography">H 5.15</strong></span>, 29 col. 2
+        ). 
+          nuall-ghul . . . amhail chona allta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+5857
+          
+        . <span class="trans">
+          <span class="def">Name</span> of <span class="def">plant</span>:</span> 
+          <span class="frn ">atriplex</span> .i. cu allaid `<span class="quote">orach</span>' (Gloss.), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> i 335 § 86
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) With other defining wds: mo ch.<span class="oRef">¤</span> coiméta `<span class="quote">guardian 
+hound</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 214
+        . 
+          coin fhodhairne .i. dobharchoin, no 
+madaidh uisge, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fodorne">fodorne</a></span>. c.<span class="oRef">¤</span> lechtig, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=? lechtig">? lechtig</a></span>. 
+
+          c.<span class="oRef">¤</span> lomna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fraech" title="eDIL Bibliography">Fraech</strong></span> 330
+          
+        . c.<span class="oRef">¤</span> neimhe <span class="ediltr">fierce hound</span> (the smith's 
+hound in Táin), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Syll.Poetry" title="eDIL Bibliography">Ir. Syll. Poetry</strong></span> 59 § 4
+        . ō mud na con tairisi 
+.i. na con tighi `<span class="quote">of faithful dogs</span> (<span class="lbl">i.e.</span> <span class="ediltr">of domestic dogs</span>'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 
+82.z
+        -
+          84.1
+        . c.<span class="oRef">¤</span> ruadh .i. seannach `<span class="trans">
+          <span class="def">fox</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/P.OC." title="eDIL Bibliography">P. O'C.</strong></span>
+         
+          c.<span class="oRef">¤</span> ruad 
+Droma meic Dáir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 56.21
+          
+         `<span class="quote">wolf</span>'. 
+          cū otraigh '<span class="quote">a yard (lit. dung-hill) dog</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xxv 151
+          ​​. See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 &#xE1;rach">1 árach</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 lorg">1 lorg</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=loman">loman</a></span>, and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=sodach">sodach</a></span>.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) Fig. Usu. laudatory of persons, <span class="lbl">etc.</span>: flaith in chon bic 
+(<span class="lbl">i.e.</span> Congalach, a king), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 236 § 55.3
+        . c.<span class="oRef">¤</span> congbhála 
+cáich `<span class="quote">maintaining hound</span>' (Conn), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 86.5
+        . c.<span class="oRef">¤</span> fiadhaigh 
+fhola hAdhaimh (of Mary's glory), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 87.2
+        . In 
+unfavourable sense: I. h. Flannchada, cu na naemh ┐ na 
+firen (`<span class="quote">persecutor</span>', note), 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 570.7
+        -
+          10
+        .</p>
+     
+      <p class="result"> 
+Very frequ. in <span class="pos nn.-pr." style="color: #ff8000">nn. pr.</span> notably in name C.<span class="oRef">¤</span> Chulainn. See 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Contribb." title="eDIL Bibliography">Contribb.</strong></span> 539
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> Index 572 f.
+         
+          Mac Con, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 312.9
+          
+        . 
+          mo Ch. cháem chain (<span class="lbl">sc.</span> C.<span class="oRef">¤</span> Chulainn), 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 
+426
+          
+        . 
+          in C.<span class="oRef">¤</span> Chulaind . . . no bíd ar Maig . . . Murthemne . . . 
+Mássa C.<span class="oRef">¤</span> fil and, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9312
+          
+        -
+          16
+        . 
+          eter Conall Cernach ┐ Coin 
+Culaind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8781
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 58
+        ). C.<span class="oRef">¤</span> na Cerda `<span class="quote">Hound of the Smith</span>' 
+(C.<span class="oRef">¤</span> Chulainn), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 434
+        . 
+          ó Choin cherda Conchobair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+3573
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 29
+        ). O Coin Allta `<span class="quote">grandson of</span> C.<span class="oRef">¤</span> Allaid', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 
+271.18
+        . Blatmhac mac conbreatan maic conngosa (in 
+title), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> p. 2
+        . 
+          do Coin-bretan . . . Cu-bretan mac C., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 48.3
+          
+        , 
+          4
+        . 
+          C.<span class="oRef">¤</span> corb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 191
+          
+        . 
+          C.<span class="oRef">¤</span> cen mháthair, 
+
+            48
+          
+        . Clann Con-Coingelt (genealogical heading), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 
+292.24
+        . Cúduiligh (name of a coarb of Máedóc Ferna's), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 287 § 274
+        . 
+          drai derg donnbuidhe / curaí ín rindmuighe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 94 § 144
+          
+        . 
+          Cū Rūi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> 26 § 58
+          
+        . 
+          lecht 
+Con-rúi i Sléib Mis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiii 306 § 10
+          
+        . hi crolecht Caunrai 
+(<span class="lbl">rhet.</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 565.10
+        .</p>
+     
+      <p class="result"> 
+(Prov.) 
+          doringnis C.<span class="oRef">¤</span> ┐ Cethen dím .i. c.<span class="oRef">¤</span> thanic i tech 
+Cormaic . . . co ro marb Cethen . . . ┐ co romarbad in c.<span class="oRef">¤</span> 
+fochetóir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 161b
+            
+          
+         <span class="lbl">marg. sup.</span> </p>
+     
+      <p class="result"> 
+Metr.: c.<span class="oRef">¤</span> mara, fault to be avoided by poets, consists in 
+lack of a second internal rhyme in second couplet. Named 
+from the ex.: 
+          ni cainfidhear Cu Mara / da fagha bu du-bera, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Metr. Faults§ 9
+          
+        . Exemption is given in some metres. 
+
+          da aisdi ina tabar sairsi do Choin mara no tri no .i. leith-dechnaidh . . . ┐ dian oireng ┐ deachnaidh breacht, 
+            § 75
+          
+        . 
+sairsi dhisi sa leithdeachnaidh, amail ata ni doigh Daire ag 
+roind a tire / re cloinn Creidhe (the lack of an internal rhyme 
+with Daire is permitted because of the shortness of the line). 
+
+          Ata comardudh re `roind' . . . gurab uime sin do-berar 
+sairsi do Choin mhara isin aisde sin, 
+            § 76
+          
+        . 
+          §§ 77-8
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) In extended application <span class="trans">
+          <span class="def">creature</span>, <span class="def">insect</span>, <span class="def">parasite</span>
+        </span> (us. 
+with defining word): 
+          cú cnámha .i. snasán, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         `<span class="trans">
+          <span class="def">vermin</span>, 
+<span class="def">louse</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Contribb." title="eDIL Bibliography">Contribb.</strong></span> 540
+        . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=cn&#xE1;m">cnám</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=loscann">loscann</a></span> . 
+          c.<span class="oRef">¤</span> 
+cherchailli .i. findoi facabar a fés na hóili, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ha.5280" title="eDIL Bibliography">Harl. 5280</strong></span>, 41a
+            
+          
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Contribb." title="eDIL Bibliography">Contribb.</strong></span> 540
+        . <span class="trans">
+          <span class="def">moth</span>, <span class="def">bed-bug</span> (?)</span>, see c.<span class="oRef">¤</span> finda <span class="lbl">s.v.</span> 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ca(u)nna">ca(u)nna</a></span>. c.<span class="oRef">¤</span> ḟiaclach, see 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1886
+        -
+          7
+         (of person, the 
+c.<span class="oRef">¤</span> glas) under (f) below.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) Legal. 
+          cu na tri ngnimh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2449
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. 506</strong></span>, 
+f. 61 p. 1 col. 1
+        ) `<span class="quote">a dog that can track and seize, and can 
+defend against attack</span>', Plummer MS notes. im choin for a 
+mbi ottrach `<span class="quote">hound of the dung hill</span>' (watchdog), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 
+126.8
+         
+          .i. cu sechtair doiris, 
+            144.7 Comm.
+          
+         
+          na dobrana amhail 
+na cona cennta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1686
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H5.15" title="eDIL Bibliography">H 5.15</strong></span>, p. 29 col. 2
+        ). 
+          da cet do 
+cach crudh aici (in briughadh leithech) cinmotha coin ┐ cata, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 46.24 Comm.
+          
+         tri coin fogail fomnaither and <span class="ediltr">three 
+dogs are checked in trespass</span>, 
+          iii 414.23
+        . caithe con `<span class="quote">trespasses 
+of hounds</span>', 
+          iv 122.4 Comm.
+         muilliud con `<span class="quote">setting on a dog</span>', 
+
+          iii 518.20
+        . ni cuirter coin congail[e] fair `<span class="quote">no dogs are set 
+fighting in his (the invalid's) presence</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> 61
+        . 
+          aithne con 
+do sedhguinecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 190.18
+          
+        . oin con fri tofund `<span class="quote">the 
+loan of a hound to hunt with</span>', 
+          278.5
+        . in cu confaid `<span class="quote">mad dog</span>', 
+
+          iii 272.20 Comm.
+         in cu cedcintach (of liability in cases of 
+dog's first bite), 
+          522.16 Comm.
+         `<span class="frn ">c. glas</span>' (derogatory term 
+          <span><strong class="pop" style="color:blue" href="bibliography/BBCS" title="eDIL Bibliography">BBCS</strong></span> xxiv 116
+        ) <span class="quote">of person without 
+legal status except through his wife, hence one whose 
+children become in effect members of their mother's `<span class="frn ">fine</span>', 
+their father as an outsider having no `<span class="frn ">fine</span>'</span>, <span class="trans">
+          <span class="def">stranger</span>, <span class="def">castaway</span>
+(?)</span>, see 
+          <span><strong class="pop" style="color:blue" href="bibliography/Stud.inE.Ir.Law" title="eDIL Bibliography">Stud. in E. Ir. Law</strong></span> 132
+        , 
+          183
+        , 
+          197
+        : 
+          cu-glas (.i. in ti 
+amail coin imfaenledaigi gabar tar glas na fairgi, in murcurthe, na fuil ac tigerna airithe, 
+            19 Comm.
+          
+        ), 
+          direnar side 
+a inchaib a mna, ┐ is si iccas a cinta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 516.7
+          
+        . cu glas 
+(.i. deorud loingsig, Comm.) di-renar side a inch(a)uib a 
+mna, <span class="lbl">etc.</span> c.g. <span class="lbl">i.e.</span> <span class="ediltr">a proscribed foreigner</span> (Thurn.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span> 
+64 § 4
+        . ni aile maithre cuit i maccaib — acht mac con glais 
+(.i. ín muircairthi, Comm.) 
+          no mac ambui, 
+            31 § 33
+          
+        . 
+          fiacail 
+conglas . . . .i. in cu fiaclach gabair tar glas na fairge, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 
+1886
+          
+        -
+          7
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/23Q6" title="eDIL Bibliography">23 Q 6</strong></span>, 22 aa
+        ). <span class="lbl">Cf.</span> 
+          Mac con glaisi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 418
+          
+         `<span class="quote">son of 
+the gray wolf</span>' (or <span class="ediltr">of the female stranger</span> or <span class="pos n.-pr." style="color: #ff8000">n. pr.</span> <span class="gen f.">f.</span> ?).</p>
+    
+  
+  
+    <p class="result"> 
+Compds. oi-ba . . . coinba, echba, duineba <span class="ediltr">murrain of 
+dogs</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 245.y
+      . 
+        conbadh inna con, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 246.2
+        
+      . conbóchail gl. Hylax, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 47.25
+      . im conbuachaill (<span class="lbl">sic leg.</span>) 
+cacha cethra `<span class="quote">watch-dog</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 126.8
+      . 
+        rucus slān cinad 
+conbuachalla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 331 § 22
+        
+       (Caratnia) `<span class="quote">das Vergehen des 
+Hirtenhunds</span>'. Fothad coincheann <span class="trans">
+        <span class="def">dog-headed</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 
+103.14
+      . concro gl. decipula, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 261
+      . hi con-chrú `<span class="quote">amid 
+the blood of dogs</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 392.z
+      . 
+        Fear glas fri concuru, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 369a18
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> ii 496.31
+       `<span class="quote">handling of hounds</span>' = 
+        fri concairecht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 35
+        
+      . a coindobrain `<span class="quote">his otters</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/HyMaine" title="eDIL Bibliography">Hy Maine</strong></span> 90.z
+      . 
+confæl conrechta .i. ben conrechta .i. inti risa cartanach dol 
+asa eol a richtaib con amail atait i coinerca (Í Chon Erca, 
+Ed.), 
+        <span><strong class="pop" style="color:blue" href="bibliography/BCr&#xF3;lige" title="eDIL Bibliography">BCrólige</strong></span> 32
+       and n. 
+        conoel (<span class="lbl">leg.</span> conḟoel .i. ben tet a 
+conrecht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 269
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 95
+       = fáelchú '<span class="quote">wolf</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/CMCS" title="eDIL Bibliography">CMCS</strong></span> xliv 64 n. 105
+      ) 
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 67
+      ). in cetramod plag .i. cinomi ┐ scinifi ┐ confiaclaca 
+conda i cricaib . . . Egept <span class="trans">
+        <span class="def">biters</span> (<span class="def">flies</span>, <span class="def">midges</span>
+      </span>) = 
+<span class="frn ">muscae</span> ( 
+        <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Exodus</strong></span> viii 22
+      , 24), 
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 240a46
+      . <span class="lbl">Cf.</span> 
+        na cuili conda 
+mus-luaiditis dar béolu ┐ tar gruaithe dóib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 
+24.326
+        
+      -
+        7
+      . coinḟiadh (sinnach, <span class="lbl">v.l.</span>, notes) dá lí ar tí a hén 
+<span class="trans">
+        <span class="def">fox</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 846
+      . ? 
+        mar da chuala in cughaire / noco cluinfea 
+in damgair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 89 § 112
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/MurphyMetrics" title="eDIL Bibliography">Murphy Metrics</strong></span> 60 § 85
+       (`<span class="quote">hound-cry</span>', Gloss.). 
+        <span class="oRef">¤</span>glecc, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=coinglecc">coinglecc</a></span>. co n-gabdáis cointéill ┐ 
+echlusca duit `<span class="quote">lash thee with dog-straps, <span class="lbl">etc.</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 107.1
+      . 
+coneill (<span class="case a">a</span>
+      <span class="number s.">s.</span>) <span class="trans">
+        <span class="def">dog-leash</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 3208
+      . 
+        de genere 
+CorchuChonlúain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 265.9
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 11b
+        
+      ). ga chonmhaoraibh `<span class="quote">gillies</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 20.5
+      . conmaor `<span class="quote">intendant de chiens</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> xii 532
+      . a conmír gl. offam, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 103b1
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 276
+      . ferr cara inā conmīr (prov.), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 260.22
+       `<span class="quote">a ham 
+is better than a morsel for a dog</span>' (?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlv 88 § 5
+      . See <span class="lbl">s.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 cara">2 
+cara</a></span>. conogam .i. archu, <span class="lbl">etc.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 5740
+      . tiagait iat i 
+conrechtaib `<span class="quote">in the form of wolves</span>' (of Síl in Faelchon in 
+Ossory), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Nenn." title="eDIL Bibliography">Todd Nenn.</strong></span> 204.2
+      , <span class="lbl">cf.</span> 
+        <span class="oRef">¤</span>ḟáel <span class="lbl">supra</span>. (in <span class="pos n.-loc." style="color: #ff8000">n. loc.</span>) 
+        Glenn 
+na conricht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7716
+        
+      . deisidh for a chon-righthibh hi 
+fiadhnuse na heillte `<span class="quote">on his (a wolf's) paws</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 29 § 34
+      . 
+tar a conumbur (<span class="lbl">sic leg.</span>) `<span class="quote">dog-trough</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 118.16 Comm.
+       </p>
+  
+  
+    <p class="result"> 
+See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 cana">1 cana</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=coinchenn">coinchenn</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=coin&#x1E1F;&#xED;ad">coinḟíad</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=4 con">4 con</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=conchar">conchar</a></span>.</p>
+   </div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="5566">béim</h3><span class="citation">Cite this: eDIL s.v. béim or <a class="reference" href="5566">dil.ie/5566</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                béime</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">(-mm) <span class="itype n">n</span>, <span class="gen n.">n.</span> <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=benaid">benaid</a></span>, see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 735.
+       
+b.<span class="oRef">¤</span>
+       <span class="gen m.">m.</span> and <span class="gen f.">f.</span>, <span class="case g">g</span>
+      <span class="number s.">s.</span> and <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        béime, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 45
+        
+       (<span class="case g">g</span>
+      <span class="number s.">s.</span> ex. 572, 
+<span class="case d">d</span>
+      <span class="number s.">s.</span> ex. 693).</p>
+   
+    
+      <p class="result">
+        <span class="edilb">(a)</span>
+        <span class="trans">act of <span class="def">striking</span>; <span class="def">cutting</span>, <span class="def">hewing</span>, taking (<i>off, 
+away</i>), <span class="def">removing</span>, <span class="def">stripping</span> (clothes, <span class="lbl">etc.</span>):</span> beim a cinn fri 
+cloich gl. capita petrís inlidant, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 139c3
+        . la beim dom 
+churp cuimnech `<span class="quote">at the smiting of my mindful body</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l.2" title="eDIL Bibliography">Fél.²</strong></span> Ep. 363.
+         fo-loimetar a b.<span class="oRef">¤</span> cosna claidbib <span class="ediltr">they threaten to 
+smite him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1206.
+         ba b.<span class="oRef">¤</span> cride fri cliab leis (of fear), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1038.
+         iarna beím dó asa fremaib (of an oak), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 18R
+        . 
+
+          oc bēim ḟeda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 778.
+          
+        
+        
+           fertais carpait do bēimim (béim, 
+LU), 
+            780
+          
+        . 
+          a chenn do bēim (bein, <span class="lbl">v.l.</span>) de, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 7.
+          
+         
+          dixit 
+cend Lomnae drūith īarna bēimeim de, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1018 
+(87.4)
+          
+        . iar mbeim a chind do Ch. `<span class="quote">after striking off C.'s head</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 30 § 13.
+         a ndrisi ┐ a ndraigne do beim dib (of land), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 128.9 Comm.
+         im beim adbar droichit `<span class="quote">cutting the 
+materials for a bridge</span>', 
+          134.27 Comm.
+         
+          b.<span class="oRef">¤</span> .i. búain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+        
+      </p>
+     
+      <p class="result"> 
+Special applications: 
+          sesem ic beim in cluic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 346.38
+          
+        . 
+
+          oc b.<span class="oRef">¤</span> tened, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 480.
+          
+         
+          b.<span class="oRef">¤</span> spréde, 
+            487
+          
+        . tene an aonbeime 
+.i. Aodh (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=&#xE1;ed">áed</a></span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 52.1
+        . iar mbēim eiti <span class="ediltr">when he 
+flaps his wings</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 310 § 7.
+         dóṡuidigthi .i. cechtar nái 
+foleith cen b.<span class="oRef">¤</span> foscdæ innalaill (gl. apposita) <span class="ediltr">without (the 
+one) casting a shadow on the other</span> (of genders of <span class="frn ">oppidum</span> and 
+<span class="frn ">Suthul</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 63a15
+        . íar bēim dei a lēned <span class="ediltr">having taken off his 
+tunic</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1387
+        . 
+          a etach . . . do beim do na corpaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 
+176.7 Comm.
+          
+         ní maith lim-sa a manaig do bēim ar L. `<span class="quote">to 
+deprive L. of his monks</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 84.16
+        . ? ni fess mo bunad 
+ria beím `<span class="quote">I know not my race to proclaim it</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 225.19
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(b)</span> <span class="trans">
+          <span class="def">blow</span>, <span class="def">stroke</span>; <span class="def">cut</span>:</span> bemmen gl. ictús, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 39c17
+        . bémen 
+dígle . . . nímmalle act is cach ae fo leith .i. coic cethorchuit 
+béimmen `<span class="quote">blows of punishment . . . five forties of blows</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 17d2
+        . ind mbemmi <span class="ediltr">a glancing blow</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 11091
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+4285
+        ). fer benas dam óenbeímmim `<span class="quote">at a single blow</span>' 
+(Vocab.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 557.
+         
+          is ē nobenfad a crand ōen bēim 
+(óenbéimim, LU) dia bun, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 339.
+          
+         b.<span class="oRef">¤</span> búirid fri teora sústa 
+iarnae <span class="ediltr">they strike a blow with three iron flails</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1270.
+         
+co tarat beim (
+          la tabairt beimen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 39
+          
+         Eg.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8536.
+         
+
+          dobert b.<span class="oRef">¤</span> dind echfleisc dó, 
+            3287
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 8
+        ). 
+          benaim bēimend 
+ágmara / for slōg síabra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1686
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6170
+        ). 
+          roben a 
+teora mǣla Midi da thrī bēmennaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 3603.
+          
+         
+          in treas 
+beimennd Fergusa . . . .i. na tri maola Midhi, it e na tri 
+beimenna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 52.13
+          
+        . dá cét mbéimen for láma (of 
+penitential exercises), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 197.5
+        . cin coisi, di bemium 
+`<span class="quote">crime of foot, by kicking</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 238.11
+        . 
+          doradad iarsin b.<span class="oRef">¤</span> 
+dara munel cor beanad a cheand de, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 56.1
+          
+        . beim co 
+commus (one of Cú Chulainn's feats), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 30.12
+        . beim 
+fo clos `<span class="quote">some kind of military exploit</span>' (Plummer MS. notes), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 488b22
+        . co mbeim léoman (rhetoric), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5442
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 966.
+         
+bēimm dobeir nathair do neoch <span class="ediltr">an adder's sting for someone</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> 22 § 48
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 78 § 48
+        ). fri b.<span class="oRef">¤</span> n-aéla <span class="ediltr">thrust</span> (of a 
+fleshfork into a cauldron), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 38376
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 58
+        ). 
+          ráinic b.<span class="oRef">¤</span> 
+ǽile fon choire do Conall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 219.19
+          
+        . 
+          B. breo betha 
+buadaig / beim in æl airimh ænuigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3464.
+          
+         rus-bean 
+bem da heirr `<span class="quote">struck . . . with a stroke of its tail</span>' (of a serpent), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 2074
+        . 
+          gearraidh sí (<span class="lbl">i.e.</span> a scythe) d'aon-bh. an feóithne 
+┐ an fochnagán, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2644.
+          
+        
+      </p>
+     
+      <p class="result"> 
+Extended applications: Bemenda Branduib i mBreghaib 
+(<span class="lbl">i.e.</span> `<span class="quote"> seven battles</span>', ed.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvii 163.12
+        . 
+          Bemenna B. i 
+mBreaghaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 222.6
+          
+        . brogais Bernsa b.<span class="oRef">¤</span> don maig 
+`<span class="quote">advanced a pace</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 92.39
+        . 
+          bēim <span class="frn ">graece 
+bemandro .i. pasus</span> (<span class="lbl">leg.</span> <span class="frn ">passus</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 140.
+          
+         bēim didiu 
+.i. césad nó foditiu (through confusion with Lat. <span class="frn ">passio</span> ?), 
+<span class="lbl">ibid.</span> 
+          b.<span class="oRef">¤</span> .i. céim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         bēim, cēim `<span class="quote">a step</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 717
+         
+          (see <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xi 119)
+        . beim 
+beg do breathaibh crolighi annso (title of passage consisting 
+of extracts from commentaries on Bretha Crólige, see 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+xii 2
+        ), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 305
+         (H 3.18, 167). <span class="lbl">Cf.</span> beimm cenelach lessom 
+anisiu `<span class="quote">this is a general remark</span> (?),' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 39.22
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(c)</span> <span class="trans">In legal contexts <span class="def">determination</span>, <span class="def">decision</span>, <span class="def">definition</span>, <span class="def">rule</span>, 
+<span class="def">statement</span> (?):</span> 
+          b.<span class="oRef">¤</span> .i. cinneadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         
+          beim tuathi do nartaiched 
+aicne .i. in cinnedh doní in tuath on aigne dia toirithín, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 
+444
+          
+         (H 3.18, 238b). beim naillech nad nertad tuatha <span class="ediltr">deter-
+mination, assertion (?) by oath</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 232.1
+         (and 234.6 
+Comm.). beim nailliuch . . . .i. noill cinnti . . . .i. in luighe 
+cinnedh (in tuath), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 105
+         (H.3.17, 86). 
+          b.<span class="oRef">¤</span> sét ro slanaige tuathband, 
+            576
+          
+         (443). beim .i. cinne (<span class="lbl">leg.</span> cinned, 
+Stokes), 
+          beim sochaidi ro sluagaigh (<span class="lbl">leg.</span> slanaigh) tuathbann .i. is cinne sochaidhi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 311.
+          
+         
+          beim sochaidh ro 
+slanaigh tuathbann .i. ro slanaigh in dliged so co obund is na 
+tuathaib. Cail mar cuirfidh in bec sin re cheile. In beim 
+annsa roscadh inand he ┐ in dliged ata sa fasach. In tobonn 
+ata sa fasach is inand ┐ in beim mar in cetna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2113
+          
+         
+(H.4.22, 79a). 
+          beim sochuir ro slánaigh tuathband ┐ do 
+garar nos la curaibh cosmailsi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 533
+          
+         (H. 3.17, 431) 
+`<span class="quote">the striking [?] of a good contract which public law validates</span>', 
+Plummer MS. notes. 
+          beim tairbe na tarrathar .i. bem so 
+tairben cluais na tarruith nech adidceth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 879
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 
+394a
+          
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+ 
+<span class="edilb">(d)</span> In various special phrases: b.<span class="oRef">¤</span> n-asclaing see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=asclang">asclang</a></span>. 
+b. císa <span class="trans">a <span class="def">rate</span> (?) (<span class="def">levying</span> ?) of <span class="def">tribute</span>:</span> 
+          ben do beim císa 
+orainn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3195
+          
+         . <span class="lbl">Cf.</span> (c) <span class="lbl">supra</span>. b.<span class="oRef">¤</span> n-écndaig, <span class="lbl">cf.</span> (e): ba 
+ussa . . . a dilgud sein oldaas beim n-ecnaich for Dia `<span class="quote">blasphemy 
+of God</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 122 § 63.
+         See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=&#xE9;cndach">écndach</a></span>. b.<span class="oRef">¤</span> forais (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=forus">forus</a></span>): 
+b.<span class="oRef">¤</span> foris inso sís uile <span class="ediltr">all that follows is a laying down, or statement, 
+of rules</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25c18
+        . <span class="trans">
+          <span class="def">aphorism</span>:</span> forus .i. <span class="frn ">forismus graece 
+sermo breuis latine ipocrāit (?)</span> no <span class="frn ">excerptio interpretatur 
+unde dicitur</span> adcomced beim foruis fair (see Gwynn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 
+183
+        ), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 108b36
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 578.
+         b.<span class="oRef">¤</span> súl(a) (see <span class="lbl">s.v.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=s&#xFA;il">súil</a></span>): 
+
+          gebis galur Dauid . . . tria béimm súla ┐ tria aídcell anfhoill, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 129a15
+          
+        . treisi an b.<span class="oRef">¤</span> súla iná sin <span class="ediltr">the evil (?) (envious ?), 
+eye can go further (<span class="lbl">lit.</span> is stronger) than that (?)</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bard.Synt.Tr." title="eDIL Bibliography">Bard. Synt. Tr.</strong></span> 219.17
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(e)</span> Fig. <span class="trans">
+          <span class="def">blow</span>, <span class="def">stroke</span> of feeling, emotion; <span class="def">reproach</span>, <span class="def">offence</span> 
+(with FOR, AR); <span class="def">blemish</span>, <span class="def">fault</span>, <span class="def">disgrace</span>:</span> 
+          beim di omhon, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 134 § 118.
+          
+         
+          in bem dimecin dorat L. fair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 416a16
+          
+        . 
+
+          dorat . . . aithis ┐ beim forsan coicedh n-uili, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> R 14
+          
+         . 
+benais M. b.<span class="oRef">¤</span> n-aisce fair <span class="ediltr">reproached him</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 472.
+         beim ar a 
+ecna `<span class="quote">offence à sa science</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 377.29
+        . 
+          b.<span class="oRef">¤</span> .i. égnach no 
+toibhéim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 718.
+         
+          is b.<span class="oRef">¤</span> ar inchaib na h-atharda, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 300.31
+          
+        . fagail beime ni dual di <span class="ediltr">she should not receive 
+reproach</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ii 337.22
+        . ní b.<span class="oRef">¤</span> ar Bh. `<span class="quote">no reproach to B.</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 6. 17
+        . 
+          le a dtréithibh gan bh.<span class="oRef">¤</span> ar bioth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> lv 13
+          
+        . 
+
+          ná bíodh 'na bh.<span class="oRef">¤</span> air ar n-obadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 693.
+          
+         buain 
+béime ar mo bhogha-sa `<span class="quote">that you have undertaken to revile 
+my bow</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxiv § 22
+        .</p>
+    
+  
+  
+    <p class="result"> 
+Compd. 
+        <span class="oRef">¤</span>scrisad: do bhéimsgriosadh . . . le tréan-thuile 
+mhóir <span class="ediltr">violently snatched away</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ORah." title="eDIL Bibliography">O'Rah.</strong></span> 44.5.
+      
+    </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

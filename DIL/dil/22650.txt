@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="22650">fo-eim, -foím, -fóem</h3><span class="citation">Cite this: eDIL s.v. fo-eim, -foím, -fóem or <a class="reference" href="22650">dil.ie/22650</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                fóemaid, fáemaid, foemaim, fuimiu, foím, faemhuidh, -faemhann, fáemit, foemtaitt, faema, rofaomae, rofaemadh, ḟaemadh, foremais, foet, foet, ḟoet, fáet, forroet, ar-foím, for-étt, fhaomh, faemastar, faemastair, aemasdar, foetatar, ḟaemsat, fáemóbh-, fóemhōghaidh, ḟaemabh</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">later as simple <span class="pos verb" style="color: #ff8000">verb</span>, fóemaid, fáemaid. 
+ <span class="mood Ind.">Ind.</span> <span class="tns pres.">pres.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        foemaim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8488
+        
+      . 
+        ni fuimiu
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 314.21
+        
+      . 
+ <span class="per 3">3</span> <span class="number s.">s.</span> 
+        conda foím
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 163 § 27
+        
+      . faemhuidh, -faemhann, 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2923
+      -
+        4
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        fáemit, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9036
+        
+      . (With suff.) 
+        foemtaitt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 303 § 12
+        
+      . <span class="tns pres.">pres.</span> <span class="mood subj.">subj.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        ron faema
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8223
+        
+      
+
+        na rofaomae
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 54
+        
+      . <span class="tns past">past</span> <span class="mood subj.">subj.</span> <span class="per 3">3</span> <span class="number s.">s.</span> rofaemadh 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 502.22
+      . 
+        acht con ḟaemadh
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 174y
+        
+      . <span class="tns pret.">pret.</span> 
+and <span class="tns perf.">perf.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+        foremais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4012
+        
+       (forfáomhais
+       St) <span class="per 3">3</span> <span class="number s.">s.</span> 
+
+        ni foet
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 346 § 2
+        
+       (<span class="lbl">cf.</span> 
+        ni foet
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 96
+        
+      ). 
+        nad ḟoet
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 
+1336
+        
+       = 
+        fáet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5807
+        
+       (
+        ni forroet
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 698
+        
+       belongs to 
+ar-foím. <span class="lbl">cf.</span> also 
+        ní for-étt
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 26.30
+        
+      ). gur fhaomh
+      , 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 5 § 27
+      . 
+        nír faemastar
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2186
+        
+      . ro faemastair
+       
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 322 § 29
+      . 
+        nír aemasdar
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 394b18
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        ni foetatar
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 63.10
+        
+      . 
+        nar ḟaemsat
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 141bz
+        
+      . Middle Ir. 
+ <span class="tns fut.">fut.</span> stem fáemóbh-: 
+        fóemhōghaidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 174z
+        
+      But: 
+
+        ní ḟaemabh
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Verbs ex. 583
+        
+      . See <span class="lbl">ib.</span> 
+        § 67
+      , where the 
+short vowel is queried, and in some copies condemned. <span class="pos Vn." style="color: #ff8000">Vn.</span> 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xE1;emad">fáemad</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xE1;emachtain">fáemachtain</a></span> <span class="lbl">q.v.</span> </p>
+   
+    <p class="result"> 
+In general sense <span class="trans">
+        <span class="def">accepts</span>, </span> <span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ar-fo&#xED;m">ar-foím</a></span>.</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">accepts</span>, <span class="def">receives</span> 
+(person or thing; DI or ó <i>from</i>), often with notion of <span class="def">approving</span>, <span class="def">countenancing</span>:</span> 
+          ni rofoemus sai ... mnai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 237.8
+          
+        
+= 
+          nír forfáemusa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10323
+          
+        . úair nad fáet úad a targid 
+dó <span class="ediltr">since he did not accept from him what he had offered him</span>
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5807
+        . 
+          ro thairgedar do Ercuil a righi ┐ nir fhaem-sam 
+sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 490
+          
+        . fu[a]cair ... do chlannaib S. ... na 
+roḟaema duine dib | ingena ... Caín <span class="ediltr">command the children 
+of S. not to take unto them the ... daughters of C.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 
+76a22
+         (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 141b27
+        ). ochtor do sil Seth ... naroemsat 
+Chain <span class="lbl">ib.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span>
+           76a
+            26
+         (= nar ḟaemsat LL). 
+          ní roḟaem nech ... in 
+n-ardríg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 342.63
+          
+        . ar na roḟoem in gilla hi 
+bus hi <span class="ediltr">as the youth (Joseph) did not consent to join her</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 
+115b1
+        . tri bliadna deg ... rofaemadh Niall <span class="ediltr">was accepted</span>
+(as king) 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 50b20
+         ( 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 422
+        ). duīne ... conscelaigetar do briathraib esbaib ... ni rofaemtha cucut <span class="ediltr">thou shalt 
+not admit to thy company</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 29.12
+        . 
+          ni ḟaomha luighech 
+laimthech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 20.12
+          
+        . do aomh sé Muire mar mhnaoi, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> ii 13
+        . 
+          a anim ararb urusa aslach cech uilc, ┐ ná 
+ro ḟóem in maith itir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8116
+          
+        . 
+          cén mótá uathadh na ro 
+ḟaomh baitsiodh nā creideamh uadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 130
+          
+        . faemais R. 
+inni sin donti náemh F. <span class="ediltr">accepted that (blessing) from F.</span>
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 321 § 24
+        . in gáir tucsumar nir ḟaem <span class="ediltr">heeded not</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 
+40.6
+        . hit ēsin a n-anmann | dia faemtatar togarmand <span class="ediltr">from 
+which they received their appellations</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 246 § 20
+        
+(corresponding to: 
+          conid uaidib ar-femat anmanna, 
+            245.2
+          
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">agrees to</span> (a proposal), <span class="def">consents</span> (to do something), 
+ with neg. <span class="def">refuses</span>:</span> 
+          eircid, for C., cussin fer ... Foemaimsea 
+sin tra, for Cú Ch., 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8488
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 34
+        ). 
+          ba si comairli Ulad 
+forro ... fáemitsium dano ani hisin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span>
+             9036
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 78
+        ). 
+          ba dirsan 
+duit nách athesc ... Fergusa foremais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4012
+          
+        . 
+          ca tindscra 
+chuinghi ... ? Mo beith ... ac in ḟir. In fáeme-si siut ? 
+ar P. Fáemaim ... cach ní adera-su rium do dénum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 
+6680
+          
+        . 
+          faomaid umaloitt do denum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 56.10
+          
+        . 
+          nír 
+faemsad na cleirigh anmain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 319.4
+          
+        . 
+          nír aemh 
+codlud lea máthair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 258
+          
+        . admháil Iosa ... níor 
+aomh aon-asbal eile <span class="ediltr">no other apostle confessed Jesus</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xx 14
+        . 
+          ro faemabair mo mharbad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 160.8
+          
+        . rofóemad 
+leo a bás ... menisoerad mo Rígmac <span class="ediltr">they had agreed to slay 
+him</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3133
+        . faemais F. ... a breth dosan mar dubairt 
+`<span class="quote">agreed that he should receive his award</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 226 § 50
+        . 
+
+          eirgedh ... cu F., dia fhis in bhfaemhann an cis-sin ... 
+Faemhuidh F. in cís-sin ┐ geallaid a thabairt uadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2923
+          
+        . rogabh A. ... do comrag la F. acht conḟaemadh 
+F. <span class="ediltr">provided F. would consent</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 174y
+        . 
+          do aomhadar 
+cáin do dhíol uatha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 3954
+          
+        . nír faemastar Fer b. 
+[cen] in comrac do denam <span class="ediltr">F. would not consent to relinquish 
+the fight</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2186
+         = nir ḟoem F. cen in comrac, <span class="lbl">etc.</span> St. nir 
+fhaem orumsa ... dul isin glenn <span class="ediltr">would not go in to the glen 
+for me</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Comp.CC" title="eDIL Bibliography">Comp. CC</strong></span> 86.12
+        . gach itchi nár ḟaomhus ort <span class="ediltr">which 
+I did not grant for thy sake</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 348 § 13
+        . </p>
+     
+      <p class="result"> 
+With ellipse of vn. obj.: muna faoma am imdaigh <span class="ediltr">if 
+thou wilt not come to my couch</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> i 134y
+        . ro innsidar nar 
+faem Bibus leo <span class="ediltr">that B. had refused to come with them</span> 
+          vi 
+278.32
+        .</p>
+     
+      <p class="result"> 
+Passing into sense <span class="trans">
+          <span class="def">undertakes</span>, <span class="def">attempts</span>
+        </span> (to do something): 
+          is snámh a n-aghaidh srotha sin ... ┐ ní 
+ḟaomhaim-si é, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> iv 90.26
+          
+         (perhaps = <span class="ediltr">I do not 
+accept the task</span>). faemait ... teiced ceilgi rompo <span class="ediltr">take to 
+feigned flight</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3101
+        . ro faemustar in t-athleim `<span class="quote">made 
+a second leap</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 234 4
+        . 
+          cradh Cind Faelad ... do faemadh 
+la Findachta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 50a46
+          
+         ( 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 416
+        ). (ellipt.) ó ró 
+thuit C , ... ┐ ro ḟaomhsad Laighnibh as a láithrib catha 
+`<span class="quote">betook themselves from their positions of battle</span>' (= <span class="ediltr">gave 
+way</span> ?) 
+          <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> iv 104 § 45
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">accepts</span> (<span class="def">ill-treatment</span>, <span class="lbl">etc.</span>), <span class="def">submits to</span>, <span class="def">allows</span>:</span> 
+          is 
+tūscu ro ḟaemomais-ne sin inás do ticfámais tar in mbreithir 
+doratsum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1682
+          
+         (foidenmis; no fodemmais <span class="lbl">v.l.</span>). 
+gur fhaomh a ghabháil `<span class="quote">deigned to be made prisoner</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 
+5 § 27
+        . mina faemair do gabail <span class="ediltr">unless you consent to be captured</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 36.12
+        . do aomhsad a léirscrios tar sáile amach, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xv 37
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">yields</span>, <span class="def">concedes</span>, <span class="def">grants</span>, <span class="def">allows</span>
+        </span> (with DO of pers.): 
+dona fíb nochretitis ... ┐ no fáemtaís a n-anmchardine dó 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2262
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 32
+        ). 
+          faomhuis ... don mnaoi ... | Ráith 
+Ráithleann do bheith da ghairm | ...mar ainm ar an múr 
+[<span class="lbl">sic leg.</span>], 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 99.5
+          
+        . 
+          foemuis Magnus doibh oirisium for 
+dliged a sen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 25
+          
+        . inní nár faematar a athair 
+nā ṡenathair do fémad dó <span class="ediltr">to yield to him what ... never 
+yielded</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 142.19
+        . 
+          ro fhaomhsat Tuath De D. an righe 
+do Breas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> i 164.13
+          
+        . neamh dá humhla go n-aomhthaoi <span class="ediltr">may heaven be granted to her meekness (used to be ?</span>) 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 122
+        z.</p>
+     
+      <p class="result"> 
+ <span class="lbl">Cf.</span> 
+          Cenel nA. ni theiged hi Caisiul co núe, ar ni foetatar 
+ni assa cuit i mBruig Rig ...; is N. namma di maccaib C. 
+dobert mbruig Rig do Chaissiul. ni foetatar a maic olchena, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 63.10
+          
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

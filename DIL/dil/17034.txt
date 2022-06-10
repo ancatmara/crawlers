@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="17034">dliged</h3><span class="citation">Cite this: eDIL s.v. dliged or <a class="reference" href="17034">dil.ie/17034</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                dlíged, dligeth, dleged, dligid, dligud, dliguth, ndliged, dligetha, dligeda, dliged, dliged, dligedaib, dligedib, dlige, dligid, dligid, dliged, dligetha, dligedaib</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen n.">n.</span> <span class="case n">n</span>
+      <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        dlíged, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10d16
+        
+      , 
+        19
+      . 
+        dligeth, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 26b7
+        
+      . 
+
+        dleged, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 50d2
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        dligid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3c7
+        
+      , 
+        13a29
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        dligud, 
+          5d8
+        
+      . 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 19d10
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 71a6
+      . 
+        dliguth, 
+          26b7
+        
+      . 
+        frisa ndliged
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+23c11
+        
+      . <span class="case a">a</span>
+      <span class="number pl.">pl.</span> 
+        dligetha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6a23
+        
+      ; 
+        13a29
+      . 
+        dligeda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 35b1
+        
+      . 
+
+        dliged, 
+          18c11
+        
+      . <span class="case g">g</span>
+      <span class="number pl.">pl.</span> 
+        dliged, 
+          35b17
+        
+      . <span class="case d">d</span>
+      <span class="number pl.">pl.</span>
+      
+         dligedaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 16b6
+        
+      . 
+
+        dligedib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 193b6
+        
+      . Later often dlige.</p>
+   
+    
+      <p class="result"> 
+Charles-Edwards, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xxiv 75-78
+        , proposes the following ordering for the O.Ir. senses: <span class="edilb">I (a)</span> <span class="trans">an individual’s <span class="def">entitlement</span>, <span class="def">right</span>.</span> <span class="edilb">(i)</span> <span class="trans">a <span class="def">right</span> in respect of fair contract as opposed to <span class="frn ">naidm</span> ‘binding surety’.</span> <span class="edilb">(ii)</span> <span class="trans">name of the second of the five paths to judgement chosen by a plaintiff who is the creditor in a contract, whereas the third path, <span class="frn ">cert</span>, is chosen by someone arguing that the terms of a contract were unfair,</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> § 8-9 (R/E Recension)
+        . <span class="edilb">(iii)</span> <span class="trans">Of the judicial settlement of a claim which follows upon the defendant’s decision to accept legal process, the right as upheld by a judicial verdict. Hence </span>
+        <span class="edilb">(iv)</span> <span class="trans">rightful state or condition.</span> <span class="edilb">(b)</span> <span class="trans">(collectively) body of rights.</span> <span class="edilb">(c)</span> <span class="trans">thing or action to which someone is entitled; <span class="def">debt</span>, <span class="def">obligation</span>.</span> <span class="edilb">(d)</span> <span class="case g">g</span>
+        <span class="number s.">s.</span> <span class="trans">as attrib.: <span class="def">rightful</span>.</span> <span class="edilb">(e)</span> <span class="trans">As adverb: <span class="def">rightfully</span>.</span> <span class="edilb">II</span> <span class="trans">(Latin usage)</span> <span class="edilb">(a)</span> = <span class="trans">
+          <span class="frn ">ratio</span>:</span> <span class="edilb">(i)</span> <span class="trans">
+          <span class="def">calculation</span>
+        </span> <span class="edilb">(ii)</span> <span class="trans">
+          <span class="def">argument</span>
+        </span> <span class="edilb">(iii)</span> <span class="trans">
+          <span class="def">reason</span>
+        </span> <span class="edilb">(iv)</span> <span class="trans">grammatical process, mode or method of forming derived</span> <span class="edilb">(v)</span> <span class="trans">rational order, intelligible structure</span> <span class="edilb">(b)</span> = <span class="trans">
+          <span class="frn ">sententia</span> or <span class="frn ">dictum</span> (sometimes ‘correct statement’ in contrast to <span class="frn ">toimtiu</span> ‘wrong opinion’).</span> <span class="edilb">(c)</span> = <span class="trans">
+          <span class="frn ">intellectus</span>
+        </span>. To which add <span class="edilb">(d)</span> <span class="trans">
+          <span class="def">form</span>:</span> amal rochumtaig thall i céttustin na ndúl na curpu dermara den dligud nemaicside ┐ den dligud nemchorptha ro techtsat co hinchlithe intib na dúli dia ro tusmidea na cu[i]rp sin '<span class="quote">… as He (God) had fashioned then in the primal creation of all the elements the vast bodies from the invisible form and from the incorporeal form which the elements out of which those bodies were generated possesed latent within them</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Medium&#xC6;vum" title="eDIL Bibliography">Medium Ævum</strong></span> lxxviii 219 (LU 2598, Scéla na esérgi)
+        . </p>
+     
+      <p class="result">
+        <span class="edilb">I</span> In O.Ir. Glosses in various senses of the Lat. <span class="frn ">ratio</span> which 
+it freq. glosses or translates (
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5d8
+        , <span class="lbl">cf.</span> 
+          24b21
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 19d1
+        , 
+
+          27d7
+        , 
+          54a4
+        , 
+          111c17
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 40a7
+        , 
+          61a9
+        , 
+          63a9
+        , 
+          75a1
+        , 
+          181a8
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCr." title="eDIL Bibliography">BCr.</strong></span> 3c
+          
+        ). 
+Transl. <span class="frn ">ius</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 98c8
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 11b2
+        ; dictum, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 35b1
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acr." title="eDIL Bibliography">Acr.</strong></span> 6a1
+        . 
+ placitum (<span class="trans">
+          <span class="def">maxim</span>, <span class="def">rule</span>
+        </span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 7b9
+        .</p>
+     
+      
+        <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">In sense of Lat. <span class="frn ">ratio</span>, <span class="def">guiding</span> <span class="def">principle</span>, <span class="def">law</span>, or <span class="def">theory</span> 
+(regarded as <span class="def">basis</span> of belief or action):</span> iár ṅdligud hirisse gl. 
+ secundum rationem fidei, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5d8
+          . 
+            ni fel nech lasa mbed d.<span class="oRef">¤</span> 
+remdeicsen do dechrugud etir maithi ┐ olcu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 19d2
+            
+          . d.<span class="oRef">¤</span> 
+buithe in boicht fo mam int sommai <span class="ediltr">the principle that the poor 
+should be under the yoke of the rich</span>, 
+            27d7
+          . ba nephimmaircide 
+nad techtadsom d.<span class="oRef">¤</span> coimdemnachtae isnaib dulib doforsat gl. 
+ ut nihil iuris haberet in his quae ipse consederat, 
+            17b6
+          . conna 
+biad d.<span class="oRef">¤</span> n-erchissechta la dia gl. miserationis ius, 
+            98c8
+          . ní 
+coméicnigedar na d.<span class="oRef">¤</span> insin gl. nulla ratione cogente, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 61a9
+          . 
+ní chen d.<span class="oRef">¤</span> a nephdiall gl. non absque ratione non declinatur, 
+
+            75a1
+          . do chloud in dligid sin <span class="ediltr">view, theory</span>, gl. ad huiusmodi 
+depellendum errorem, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 56b16
+          .</p>
+      
+     
+      
+        <p class="result"> 
+Hence (<span class="edilb">b</span>) <span class="trans">
+            <span class="def">principle</span>, <span class="def">rule</span>, <span class="def">norm</span>
+          </span>; common in Sg. of laws of 
+grammar, <span class="lbl">etc.</span>: d.<span class="oRef">¤</span> lechtha .n. post .m. <span class="ediltr">the law of the liquidation 
+of n after m</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 11b2
+          . d.<span class="oRef">¤</span> nihelsa <span class="ediltr">rule of nullity</span>, 
+            14a2
+          . conforcmat 
+d.<span class="oRef">¤</span> inna ṅdiuite <span class="ediltr">so that they (components) preserve the 
+law of uncompounded words</span>, 
+            21b4
+          . a nd.<span class="oRef">¤</span> cruthaigtheo genitensa <span class="ediltr">this norm of forming the genitive</span>, 
+            113b3
+          . d.<span class="oRef">¤</span> rimae <span class="ediltr">law of 
+calculating</span>, 
+            181a8
+          . ised slánd.<span class="oRef">¤</span> salto, noichtiche col-leuth du 
+árim i n-éscu <span class="ediltr">the sound law of the leap</span> (gl. salva ratione), 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCr." title="eDIL Bibliography">BCr.</strong></span> 
+3c
+            
+          . dlighi gl. rhetorica, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 87
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">dictum</span>, <span class="def">authoritative</span> <span class="def">statement</span>:</span> ni ed a met demnigmi-ni 
+ar ndligeda ho testimnib screptaire gl. dicta nostra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 35b1
+          . 
+ní fail ní nád tái mo dligeth-sa fair (Priscian is the speaker), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 26b7
+          . 
+            inna dligeda anúas roráitsem, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 2.34
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Acr." title="eDIL Bibliography">Acr.</strong></span> 
+6a1
+          ). 
+            dofuit im lín chéin d.<span class="oRef">¤</span> ndoraid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 293.21
+            
+           (SP ii). 
+atta ni forsatæt a nd.<span class="oRef">¤</span> sa <span class="ediltr">which supports this statement</span> (that 
+David alone sang the psalms), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 5.149
+          . <span class="trans">More loosely 
+of a <span class="def">statement</span> or <span class="def">saying</span> in general:</span> 
+            adrimfem . . . cech n-oin 
+d.<span class="oRef">¤</span> fil <span class="frn ">in psalmis</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 14d5
+            
+          . trisna dligeda mrechtnichti inna 
+aisndissen `<span class="quote">varied expressions</span>', 
+            44d11
+          . 
+            76a13
+          .</p>
+      
+     
+       
+
+        <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+            <span class="def">reason</span>, <span class="def">argument</span>:</span> n-armtar (<span class="lbl">sic leg.</span>) condegdligedaib dia 
+frithtuidecht <span class="ediltr">with good reasons to oppose them</span> gl. his obiectionibus . . . poterint armari, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 16b6
+          . ata d.<span class="oRef">¤</span> ann <span class="ediltr">there is reason for 
+it</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5207
+          . 
+            ata ni do dligudh and, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 17.8
+            
+          . in dligedchetil so gl. ratiocinationis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 480
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Enchir.Aug." title="eDIL Bibliography">Enchir. Aug.</strong></span> 71a
+            
+          ).</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+            <span class="def">reckoning</span>, <span class="def">computation</span> (?):</span> intan as conguin dligid hua 
+dligud ailiu `<span class="quote">the violation of a reckoning by another reckoning</span>' gl. de ratione (computation, referring to calendar), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+181a8
+          .</p>
+      
+     
+       
+
+        <p class="result"> 
+(<span class="edilb">f</span>) <span class="trans">
+            <span class="def">nature</span>, <span class="def">condition</span>, <span class="def">kind</span>, <span class="def">manner</span>:</span> ní ó ógai tantum acht 
+is . . . ó dligud lanamnasa <span class="ediltr">the lawful state (?) of matrimony</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 3.34
+          . 
+            is he sin dlige (<span class="lbl">leg.</span> dliged) demin tresa tanic 
+an imagin-se Crist . . . co Siria, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 232
+            
+          . </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">II</span> Hence <span class="trans">
+          <span class="def">law</span> in wide sense, of a <span class="def">prescript</span>, <span class="def">code</span>, or <span class="def">tradition</span> 
+based on <span class="def">authority</span> of some kind and demanding <span class="def">obedience</span>;</span> 
+`<span class="quote">both law in general and a subjective legal right</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 
+p. 84
+        . See also 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 8
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Stud.inE.Ir.Law" title="eDIL Bibliography">Stud. in E. Ir. Law</strong></span> 13
+        , 
+          16
+        . 
+
+          duni conái dligid (= dliged?) Dé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 449
+          
+        . 
+          iar ndligud Dé, 
+
+            4447
+          
+        . 
+          dliged a n-ecailse, 
+            4920
+          
+        . 
+          iar ndliged rechta Moysi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5110
+          
+        . 
+          comedait d.<span class="oRef">¤</span> na fírinde diada, 
+            4063
+          
+        . iar ndligud 
+chardessa no chondalbais <span class="ediltr">according to the law of gossipred or 
+relationship</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 248
+        . is do chóicid Connacht iar ndlighed 
+roindi coicid in ferann sin <span class="ediltr">according to the law of the division 
+of a province</span> (or in sense <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=dliged I (f)">I (f)</a></span> above ?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 186
+        . <span class="trans">Esp. of 
+<span class="def">civil</span> <span class="def">law</span>:</span> ata i ndlige na fēine buachaill oc cach cethra <span class="ediltr">it is 
+(enacted) in the law of the F. that</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 96.22
+        . issed adeir 
+dligedh <span class="ediltr">this is what the law says</span>, 
+          48.9 Comm.
+         dlighe frithe 
+ <span class="ediltr">the legal regulations regarding waifs</span>, 
+          v 336.9 Comm.
+         fail lim 
+d.<span class="oRef">¤</span> is damna, | senchas sliged sóer-Banba `<span class="trans">
+          <span class="def">legal</span> <span class="def">lore</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 278
+        . 
+          ní mheasaim go bhfuil cine . . . is mó do bhiadh 
+umhal do dhlighe ionáid Éireannaigh dá roinnti comhthrom 
+an dhlighidh riú, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 5751
+          
+        . 
+          gur chumadar dlighthe . . . 
+dhóibh féin contrárdha do dhlighthibh . . . na hanma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+2929
+          
+        . 
+          reacht, dlighe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 520
+          
+        . fear dlighidh <span class="trans">
+          <span class="def">lawyer</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 50
+        . 
+          dochtúirí an dlighidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Luke</strong></span> v 17
+          
+        . 
+          dliged Canona, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 1336
+          
+        . 
+          saoi foircthe isin dá dhligheadh .i. ciuil ┐ canóin, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 74
+          
+        . 
+          ard maighistir dlighid nua ┐ sendlighidh hi 
+lex ┐ canoin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 600.x
+          
+        = 
+          ardmhaighistir dlighidh nuifhiadnaisi ┐ shenreachta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 526
+          
+        . ? isin cet bliadin den 
+dlegaid <span class="ediltr">in the first year of the (penitential) rule</span> (<span class="lbl">i.e.</span> of my life as 
+an incluse), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 15
+        . <span class="trans">Passing into sense of <span class="def">judgement</span> or 
+ <span class="def">jurisdiction</span>:</span> 
+          (Michael) is e dobera d.<span class="oRef">¤</span> tar cend na noem ┐ na 
+fhiren il-lou bratha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6272
+          
+        . lá an dlighidh (<span class="lbl">i.e.</span> <span class="trans">
+          <span class="def">Doomsday</span>
+        </span>), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxxv 6
+        . 
+          ro cuireadh dliccheadh fair go ro daoradh 
+dochum báis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1906
+          
+        . ina mbáoi fo dliccheadh ó Bhoinn 
+co Comar <span class="ediltr">all who were subject to the laws (of England</span>), 
+          v 1730
+        . 
+
+          adubhairt nach rabhadur sin fa na ndlighe féin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Gadelica" title="eDIL Bibliography">Gadelica</strong></span> 234
+          
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/PCT" title="eDIL Bibliography">PCT</strong></span> 1746
+        ). <span class="lbl">Cf.</span> also: do bhreith fhiledh craoi Cuinn | do bhí 
+a ndlighedh í Dhomhnaill <span class="ediltr">subject to O'D.</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/BookofOConorDon" title="eDIL Bibliography">Book of O'Conor Don</strong></span> 182b5
+        . <span class="trans">In sense of <span class="def">abstract</span> <span class="def">justice</span>, <span class="def">right</span>:</span> 
+          fir ┐ d.<span class="oRef">¤</span> (<span class="lbl">sic leg.</span>), 
+cert ┐ techta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 15 § 1
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 258.19
+        ). intí tí 
+a seilbh gan d.<span class="oRef">¤</span>
+         <span class="trans">
+          <span class="def">unlawfully</span>
+        </span>, 
+          iv 270.24 Comm.
+         
+          damad cinnte leis 
+na demtha d.<span class="oRef">¤</span> do, 
+            4.14 Comm.
+          
+         nírbo cam in d.<span class="oRef">¤</span>
+         (of a just 
+retribution), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 698
+        . <span class="case g">g</span>
+        <span class="number s.">s.</span> as attrib.: a fer dligid
+         <span class="ediltr">her 
+lawful husband</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3c7
+        . 
+          co cétmunteras dligid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 
+339
+          
+        . 
+          ma daime dáil ndligid dún, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 227 § 64
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">III</span> <span class="trans">What is <span class="def">lawful</span> or <span class="def">incumbent</span>, <span class="def">duty</span>, <span class="def">obligation</span>
+        </span>. <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+54a4
+        : is d.<span class="oRef">¤</span> leu tabart inna fochaide foraib <span class="ediltr">they deem it a law 
+that</span> (gl. ratione patientes). arna dich cách assa dligud i 
+nadaltras <span class="ediltr">lest everyone go out of his duty</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9d24
+        . d.<span class="oRef">¤</span> cach 
+ 
+epscoip so (gl. cuius . . . opus est scire, <span class="lbl">etc.</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> viii 367
+        . 
+          is é d.<span class="oRef">¤</span> 
+na mban beth i tāi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 23 n. 13
+          
+        . <span class="lbl">Cf.</span> further: ni bit 
+i ndligud fri nech, ni bi nech a ndligudh friu <span class="ediltr">they are indebted 
+to nobody</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 206.6 Comm.
+         (or in meaning <span class="edilb">V</span>?). <span class="trans">As 
+pred., is d.<span class="oRef">¤</span> (dom) <span class="def">it is right</span> (<span class="def">for me</span>), <i>it is (my</i>) <span class="def">duty</span>:</span> mar so is 
+dligedh a radha .i. mui[n], <span class="lbl">etc.</span> <span class="ediltr">this is the right way to say it</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 850
+        . 
+          is ed ba d.<span class="oRef">¤</span>, fer grāid cecha chille, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 220 § 16
+          
+        . 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 192a35
+        . 
+          is dligead duit an féar-sa do cur ar t'altaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 294.27
+          
+        . 
+          atáit ceithre féilti . . . ana dligeadh do parráisdeach tiacht chum eagailsi, 
+            318.14
+          
+        . adeir Ipocras gurab 
+dligedh don liaigh beth co hinntleachtach (= <span class="frn ">oportet</span> . . .), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/23P10" title="eDIL Bibliography">23 P 10</strong></span>, 10a1
+        . Often in combination with dír: 
+          is dír ┐ is 
+dlighedh duinn . . . briathra fíri do chantain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 630
+          
+        . 
+
+          laidh . . . is dir ┐ is dligeadh d'éicsib d'aisnéis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 92.4
+          
+        . 
+ <span class="case g">g</span>
+        <span class="number s.">s.</span> as pred.: 
+          ni dluig ┐ ni dligid duit-siu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 154.1
+          
+        . 
+          as dior 
+┐ as dligid do, 
+            264.11
+          
+        . But in these two exx. perh. simply for 
+dliged.</p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">IV</span> <span class="trans">What is <span class="def">right</span> or <span class="def">due</span> (to someone); <i>due, right</i>, <span class="def">prerogative</span>:</span> 
+dlíged sacairt i tempul <span class="ediltr">a priest's right in the temple</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+10d16
+        . dligetha gl. reddite omnibus debita, 
+          6a23
+        . cid nodasóera? 
+A ndéis a nd.<span class="oRef">¤</span> cach áe <span class="ediltr">according to the legal right of each</span> (of the 
+grades of nobility), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 319
+        . fri d.<span class="oRef">¤</span> tuise <span class="ediltr">claim to 
+leadership</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 16 § 3
+        . 
+          sreth failsigthi na conaire 
+fugill is d.<span class="oRef">¤</span>
+          , 
+            18 § 8
+          
+        . ? 
+          tabair dam inad it churp | iarmo dliged, 
+iarm' intliucht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1154
+          
+        . ? 
+          co n-indised a ndíre ┐ a nd.<span class="oRef">¤</span> doib, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 824
+          
+        . 
+          da n-ícat mo screpul-sa | is mo dlighed, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 34
+          
+        . 
+
+          ma beith do uaisle ind fhir grāid . . . doformagar a dligid, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 220 § 15
+          
+        . nico raga bairgen dot dligiud so <span class="ediltr">you shall not 
+lack a loaf of your due</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 11
+        . 
+          caire ainsic . . . .i. iarsinni 
+aisices a d.<span class="oRef">¤</span> do gach ae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 361
+          
+        . With DO: ni gébed 
+Ioseph nach fiach | óna tuathaib acht mad biad . . . dia 
+dligiud (<span class="lbl">sic leg.:</span> ciniud) do ríg Egept <span class="ediltr">J. would not take any 
+debt . . . of what was due to the king unless paid in provisions</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3392
+        . don laech ucud diar ba dlighed an smior <span class="ediltr">who was 
+entitled to the marrow</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 70.11
+        . inní nach dligedh don Rígh 
+. . . ná sír <span class="ediltr">seek not aught that is not due to the king</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 
+301 § 13
+        . In <span class="number pl.">pl.</span>: rofiadaiged ar grádaib ┐ dánaib ┐ dligedaib
+         
+ <span class="ediltr">according to (their) rights</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 997
+        . ? 
+          ro ordaigh a cuit coir 
+ar dāinib is ar dligedaib . . . do gach duni, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 82
+          
+         (possibly 
+<span class="trans">
+          <span class="def">conditions</span>
+        </span>, <span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=dliged I (f)">I (f)</a></span> above). Folld. by AR (FOR): asberit conad 
+ferr a nd.<span class="oRef">¤</span> forsin righi annāi-si <span class="ediltr">that their right to the realm is 
+better than thine</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 54
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">V</span> <span class="trans">
+          <span class="def">Due</span>, <span class="def">tax</span>, <span class="def">tribute</span>:</span> domeled Clothru dligeda Connacht <span class="ediltr">the 
+tribute of C.</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 125a1
+        . 
+          ba cu comorbu Peaduir . . . teghedh 
+cis ┐ d.<span class="oRef">¤</span> Erenn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 244.10
+          
+        . 
+          tuctha císai ┐ dligedai o 
+fheraib domain do rigu na Pers, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 208
+          
+        . 
+          ni thabrum císa 
+na d.<span class="oRef">¤</span> do demnaib, 
+            903
+          
+        . 
+          dligheadha righ Ereann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 662.13
+          
+        . 
+
+          dlighe an mhuilinn do thabhairt don tighearna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 10074
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">VI</span> <span class="trans">
+          <span class="def">Faculty</span> of <span class="def">reason</span> (an extension of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=dliged I (d)">I (d)</a></span> above):</span> dlighedh 
+gl. ratio (distinguished from <span class="frn ">intellectus</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 879
+        . 
+          ídail cen 
+cheill cin d.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2520
+          
+        . 
+          iar comairle a menman ┐ a dligid, 
+
+            4745
+          
+        . 
+          ó scrútán inmedonach a ndligid ┐ a n-intliuchta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> 
+xxv 248 § 28
+          
+         (LU). amail betis dóine co ndligud aicenta iat (of 
+foxes), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 127a42
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">VII</span> As <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=dligid">dligid</a></span> <span class="trans">
+          <span class="def">deserving</span>:</span> dia nderna nech . . . gnim gin 
+dliged a oidedha dhe <span class="ediltr">any deed not deserving of death</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 
+41
+        . dia marbthur nech do d.<span class="oRef">¤</span> bais (<span class="ediltr">for an offence) deserving 
+death</span>, 
+          51
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

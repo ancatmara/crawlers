@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="1149">aimser</h3><span class="citation">Cite this: eDIL s.v. aimser or <a class="reference" href="1149">dil.ie/1149</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                amser, aimsir, aimsire, aimsiri, aimsire, aimsir, aimsera, aimseara, aimsior, aimseraib</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> i 339
+      ) <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        ind a.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 66b12
+        
+      . 
+        ind amser
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 229.26
+        
+       (PCr.). <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        aimsir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9a9
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        aimsire, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+66b15
+        
+      . 
+        aimsiri, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8049
+        
+      . ?
+        an aimsire
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1902
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/23P3" title="eDIL Bibliography">23 P 3</strong></span> , 23 
+(21)b
+        
+      ). <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        aimsir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 23d23
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        aimsera, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlix 7 § 3
+        
+      . 
+<span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        aimseara, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 261
+        
+      . <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        aimsior, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 572.29
+        
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+
+        aimseraib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 10
+        
+      . See Vendr. Lex.</p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">point of <span class="def">time</span>:</span> 
+          condidtísed ind a.<span class="oRef">¤</span> ba chomadas dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+21a1
+          
+        . 
+          tánicc a.<span class="oRef">¤</span> mo idbarte se, 
+            30d11
+          
+        . 
+          isind aimsir sin, 
+            13b1
+          
+        . 
+
+          tanicc a.<span class="oRef">¤</span> derb togle troi, desmrecht insin ar aimsir deirb, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 66b17
+          
+        . cisi a.<span class="oRef">¤</span> hi forcomnactar in gnimai `<span class="quote">at what time 
+the deeds took place</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 97a5
+        . 
+          is í sein trá amser i llotár in 
+macrad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6344
+          
+         (TBC). cethardai condagar da cech 
+elathain .i. locc ┐ a.<span class="oRef">¤</span> ┐ persa ┐ fáth airicc (a common opening 
+of Irish treatises), 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 2.1
+         (<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 2-4
+        ). 
+          aimsir cinnte a 
+báis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 336 § 27
+          
+        . adeir fellsam díb anuair docí sé curab 
+a.<span class="oRef">¤</span> dó <span class="ediltr">that it is the right time for it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> 204
+        . Note also: 
+tōet for m'ainech-sa co fārgub-sa Temair lais ar nī lim ind a.<span class="oRef">¤</span> 
+rucus brith <span class="ediltr">it is no longer mine since I gave the judgement</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 311.36
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">period of <span class="def">time</span>, <span class="def">span</span>, <span class="def">spell</span>:</span> robói a.<span class="oRef">¤</span> nad rochreitsid 
+`<span class="quote">there was a time that ye have not believed</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5c10
+        . ataat 
+alaili feidligte ho aimsir `<span class="quote">there are some who endure for a 
+while</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 21d4
+        . 
+          ilardatu inna aimsire mbite som isind 
+fognam, 
+            28b9
+          
+        . baí oca amser már iar sin <span class="ediltr">for a long time</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+14554
+        . 
+          in aroli d'aimsir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hom.Leg." title="eDIL Bibliography">Hom. Leg.</strong></span> 77.15
+          
+        . fri re n-aimsire 
+<span class="ediltr">for a while</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 76.5
+        . ?immusrala muir aimsera co 
+tāncatar Éirind <span class="ediltr">time and tide served</span>(?) (or for aimserda?), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 312.14
+        . 
+          ar séan uaire ┐ aimsire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 41.15
+          
+        . 
+          i cind 
+amsire iartain fácbaim-se E., 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 7332
+          
+        . tug an toice re 
+haimsir / druim riom . . ., <span class="ediltr">for a time</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 90.2
+        . ó aimsir go 
+haimsir <span class="ediltr">from time to time</span> (<span class="lbl">i.e.</span> occasionally), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 80.21
+        . 
+gacha haimsire `<span class="quote">always</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 122.22
+        . <span class="trans">
+          <span class="def">term</span>, <span class="def">stage</span>:</span> 
+
+          fiarfaighter an bind iiii h-aimsera a gach fiabrus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlix 7 § 
+3
+          
+        . 
+          beir tri h-aimsera gerra ad tigernus fen aris, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 374.7
+          
+        . 
+
+          i n-aimseruib laith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 268.20
+          
+        . Of a legal period a.<span class="oRef">¤</span> 
+togu: cadiad aimsira thogha? . . . a cinn a ceithre mbliadhan 
+dec do ingin, a cinn secht mbliadan dec do mac, <span class="lbl">i.e.</span> the end 
+of the fosterage period, 14 years for a girl, 17 years for a boy, 
+after which a choice could be made between marriage or the 
+religious life, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 192.13 Comm.
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Stud.inE.Ir.Law" title="eDIL Bibliography">Stud. in E. Ir. Law</strong></span> 188
+        . 
+
+          a n-aimsir dithma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 114.19 Comm.
+          
+         
+          a.<span class="oRef">¤</span> aenaid, aimsir 
+dunaig, 
+            v 302. 32
+          
+        . a.<span class="oRef">¤</span> chue see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=c&#xF3;e">cóe</a></span>. <span class="trans">fixed-term agreement (of service)</span>: do-rinneadur aimsear re chēile go ceann bliadhna '<span class="quote">they made an agreement of service between them for a year</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 70.205
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">period</span>, <span class="def">age</span>, <span class="def">epoch</span>:</span> 
+          á aimsir in n-aimsir a saigal hi 
+saigul, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 115b7
+          
+        . 
+          ri co ruinib robai fail / ria ndúilib rianaimseraib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 10
+          
+        . ó cheudtos na naimsior gus aniu, MS. 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Matthew</strong></span> 572.29
+        . 
+          hisin chethramad amsir in domain táncatar 
+Gaedil i nHérind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 1804
+          
+        . fri remius chóic n-aimser cósin 
+`<span class="quote">for the space of five ages</span>' (before the crucifixion), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 
+388.2
+        . ré cúig n-aimsear <span class="ediltr">during five ages</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 20.12
+        . 
+<span class="trans">
+          <span class="def">rule</span>, <span class="def">reign</span>, <span class="def">time</span> of specific persons:</span> 
+          i namseir da mac Aeda 
+Sláne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 298.25
+          
+        . 
+          nach raibi 'na righ-aimsir eineach 
+badh urdrucu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HyMaine" title="eDIL Bibliography">Hy Maine</strong></span> 135.12
+          
+        . 
+          i n-amsir na náem, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+298b5
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 367.2
+        ). 
+          d'aimsir na n-apstal, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5008
+          
+        . <span class="trans">Of 
+<span class="def">contemporary</span> <span class="def">time</span>:</span> 
+          conricci in n-aimsir hi taam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9a9
+          
+        . 
+
+          is it amsir cluinti se / longes tri mac n-ard n-Uisle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 
+70.7
+          
+         (L. mac nU.). 
+          ro derscaigestar a tech . . . do thigib inna 
+hamsiri sin uli, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8049
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 1
+        ). 
+          rosháraigh na uili macu a 
+aimsiri ar mét, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 188.3
+          
+        . bo geis . . . don ḟilidh isin aimsir 
+sin anfis do beith fair <span class="ediltr">at that time</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 4.19
+        . lucht 
+énaimsire <span class="ediltr">contemporaries</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mart.Don." title="eDIL Bibliography">Mart. Don.</strong></span> Feb. 7
+        . <span class="trans">
+          <span class="def">lifetime</span>, <span class="def">life</span>:</span> 
+          do 
+chomurtha a slánti ┐ tormmaig a amsire iarum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 436 
+§ 46
+          
+        . 
+          senoir . . . ar caithemh forgla a aisi ┐ a aimsiri, 
+            x 191.8
+          
+        . 
+
+          biaidh m'aimsear 'n-a héanlaithibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 6.35
+          
+        . 
+          do chaith 
+a aimsir go haithrigheach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 413
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">season</span> (of year); <span class="def">weather</span>:</span> dorala ind aimsir geimrid 
+<span class="ediltr">it happened in the season of winter</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 112
+        . 
+          i naimsir in 
+geamfuachta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 2.7
+          
+        . 
+          i naimsir erraig, 
+            ii 120.17 Comm.
+          
+         
+
+          to-tét meas fo aimsera, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 261
+          
+        . 
+          do 4 haimsearachaib na 
+bliadhna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corp.Astron." title="eDIL Bibliography">Corp. Astron.</strong></span> 16.1
+          
+        . ba ro-mhaith in a.<span class="oRef">¤</span> ┐ na sligthe 
+frissin ré sin <span class="ediltr">weather</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 80.24
+        . 
+          aimsir theinntide 
+thessaide neimhneach, 
+            192.x.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) Gramm.<span class="trans"> Of the `<span class="def">time</span>' or length of <span class="def">sounds</span> and <span class="def">syllables</span>:</span> 
+
+          <span class="frn ">liquidae</span> .i. hit lechdacha lesom in tan nád techtat acht oin 
+aimsir `<span class="quote">he deems them liquids when they have only one time</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 5a10
+        . 
+          fat aimsire na sillab, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l.2" title="eDIL Bibliography">Fél.²</strong></span> ccviii 5
+          
+        . 
+          is cumair sin 
+┐ ni bi fair acht aimsear co leith tantum . . . da aimsir . . . 
+forsin nguthaige fota, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1349
+          
+        . 
+          intan immorro is 
+aenguthaige amal ata a o alt eter da aimsir and, 
+            1432
+          
+        . Of 
+tense: issí ind amser éccríchtha `<span class="quote">the unlimited tense</span> (the 
+aorist)', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 229.26
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/PCr." title="eDIL Bibliography">PCr.</strong></span> 62b2
+        ).</p>
+    
+  
+  
+    <p class="result"> 
+? Temporal <span class="pos adverb" style="color: #ff8000">adverb</span>: 
+        áirmhe náid aimseara . . . lochdach . . . 
+a ttús chomhfhocuil cheirt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Introd. 24 § 97
+        
+      . 
+        áirmhe ┐ 
+aimseara . . . aimseara, íairmbérla coimhleanamhna: ané, 
+aniogh . . . lochdach a ttús chomhfhocuil íad, 
+          28 § 125
+        
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

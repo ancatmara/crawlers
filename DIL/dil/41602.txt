@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="41602">tráth</h3><span class="citation">Cite this: eDIL s.v. tráth or <a class="reference" href="41602">dil.ie/41602</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype u">u</span>, <span class="gen n.">n.</span>, later <span class="gen m.">m.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 38 (87.15)
+      .</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">period of time</span>, <span class="def">hour</span>, <span class="def">point of time</span>:</span> hi comardaib 
+trath `<span class="quote">at the proper hours</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 102.25
+          . in cech trath 
+`<span class="quote">every time</span>,' 
+            280.15 Comm.
+           
+            a ceōil binni in cach thrāth, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/HailBrigit" title="eDIL Bibliography">Hail Brigit</strong></span> 11
+            
+          . nech loingis ríasind trath cóir `<span class="quote">if anyone 
+eats before the proper hour</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 131.19
+          . do-mm-air 
+fiado cech thratha `<span class="quote">may the Lord come each hour to me</span>,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Lib.Hymn." title="eDIL Bibliography">Lib. Hymn.</strong></span> 131.31
+          . ma thānic do thrāth <span class="ediltr">if your hour has 
+come</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2639
+          . 
+            ferna tullochtaib tráthaib iar fuin, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 332
+            
+          . 
+            suidig do da laim cech thrath | fri ruirig nime, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1605
+            
+          . 
+            ní dersaig co t.<span class="oRef">¤</span> teirt ara barach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10755
+            
+          . 
+
+            contuli t.<span class="oRef">¤</span> a dála, 
+              10754
+            
+          . 
+            ríge láech nErend dait úainne on 
+trath sa, 
+              8785
+            
+          . 
+            co deód laí co trath na faire, 
+              9079
+            
+          . 
+            crecha 
+mora eile fa na trathaib cetna sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> iii 360.18
+            
+          . robatar 
+indsin etir da t.<span class="oRef">¤</span> din ló `<span class="quote">for the space of two of the watches of 
+the day</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 184.28
+          . an tír i dt.<span class="oRef">¤</span> a ronna `<span class="quote">when making 
+this division of the land</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 16.6
+          . is maith dhóibhséin 
+go dtí an t.<span class="oRef">¤</span>
+           `<span class="quote">till the good time comes</span>,' 
+            25.16
+          . i dt.<span class="oRef">¤</span> fhillte don 
+fhoghail `<span class="quote">when the attack was repulsed</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 26.37
+          . ón t.<span class="oRef">¤</span> 
+do cuireadh 'na cheann `<span class="quote">as soon as he is attacked</span>,' 
+            18.11
+          . 
+
+            ní fhuil lá ná oidhche, t.<span class="oRef">¤</span> ná uair do chairde chinnte ón bhás, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2658.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">day</span>.</span> According to Thurneysen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> Gloss.
+          , trí 
+tráth was originally <span class="ediltr">from one hour to the second recurrence 
+of the same, two full days and nights</span>, but later on was used 
+for <span class="trans">
+            <span class="def">three full days</span>
+          </span>. <span class="lbl">Cf.</span> (<span class="edilb">d</span>): 
+            drucht .i. maitin no trath ... 
+iar trib druchtaibh .i. iar trib trathaib nó iar trib maitnib, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 677.
+            
+           
+            ar gach laithe naicenta ... tri seotu cach tratha, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 495
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 402
+          ). 
+            feoil doib cacha tratha ┐ gach 
+re trath da ndaim, ┐ im doib in trath eile ... ┐ gacha cethramad trath da ndaim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1031
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 433
+          ). imb dó 
+ala th.<span class="oRef">¤</span>
+           <span class="ediltr">every second day</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 151
+          . 
+            bai corp Adaim 
+trib trathaib | cen anmain fri derbḟathaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1045
+            
+          . 
+            co-rrabe tri th.<span class="oRef">¤</span> cen dig cen biad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 3
+            
+          . 
+            fri trí t.<span class="oRef">¤</span> nír throm-chotail, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 452.32
+            
+          . 
+            nis relic ūad rē sē t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 
+21 i
+            
+          . 
+            co cend naoi tt.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4468
+            
+          . 
+            nói t.<span class="oRef">¤</span> re cur in chatha, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 74.41
+            
+          . 
+            nach mou na di trath atú i n-a hécmais, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1060
+            
+          . ceathracha trath ria ndilind `<span class="quote">forty days before 
+the Deluge</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvi 155.1
+          . 
+            brath ind Rīgh atrae iar tain | 
+hi cind trī trāth a talmain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 196.z
+            
+          . Dia i n-uaigh dá 
+th.<span class="oRef">¤</span> nó a trí `<span class="quote">for two, nay three, days</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 69.32
+          . 
+            do 
+bhí ar th'iomdhaidh teora th.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 30.19
+            
+          . biathadh 
+dá th.<span class="oRef">¤</span> dheág `<span class="quote">provision for twelve days</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 2644.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) In phrase ón t.<span class="oRef">¤</span> co roili <span class="trans">
+            <span class="def">until the same time the next 
+day</span>:</span> suire lubru on trath co raile `<span class="quote">a workman's free quarters 
+from one day to another</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 36.3
+          . 
+            on trath co 'raili <span class="lbl">gl.</span> 
+on trath co celi, 
+              v 86.28
+            
+          . 
+            ón t.<span class="oRef">¤</span> co 'roili, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1250
+            
+          . 
+            on 
+trath sa co alaile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8334
+            
+          . nách óen gébas do immun 
+húan t.<span class="oRef">¤</span> co araile `<span class="quote">from one watch to the other</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 1341
+          . 
+
+            cīa clērech dano rochotail fon sruth ōn trāth coraile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 
+104.11
+            
+          . 
+            marb MacCon di athchumu ōn trāth co arailiu, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 40.4
+            
+          . <span class="lbl">Cf.</span> 
+            co m-boi Cúchulaind on trath co ceile 
+ina suan, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> vi 183.17
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+            <span class="def">canonical hour</span>
+          </span>. For discussion see 
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 160
+          . 
+The number of canonical hours varied from six to eight. 
+See tract in H. 3. 17 (
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 116
+          ), where six are mentioned. 
+Seven are mentioned in the gloss on <span class="ediltr">septies in die laudem 
+dixi tibi</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> i 3.35
+          . Eight in the tract and poem in LB 
+(
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 142
+          ) and in the poem in H. 3. 18 (
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 271
+          ) 
+and 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2956
+          -
+            65
+          . In 23 N 10 (
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 158
+          ) there is a 
+stanza: ocht trath tiagmuid do guide | innosa mo righ-ruire | secht trath nama teigthi tall | ic aes rechta cen 
+imrall `<span class="quote">eight hours do we go to pray now to my Lord King, 
+seven hours only of yore the people of the law were wont to go, 
+without mistake</span>.' Eight canonical hours are also mentioned 
+in FA (
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2010
+          , 
+            2241
+          ) and in the Laws: 
+            cona ordaib 
+coraibh .i. imaithigidh na nocht trath, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 918
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 
+654
+          ). See also under the separate hours: <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 teirt">2 teirt</a></span>, medón laí, 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 n&#xF3;in">1 nóin</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 fescor">1 fescor</a></span> or <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=esparta">esparta</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=coimpl&#xE9;it">coimpléit</a></span>, medón aidche or <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=&#xED;arm&#xE9;rge">íarmérge</a></span>, 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tiugn&#xE1;ir">tiugnáir</a></span>, and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 pr&#xED;m">2 prím</a></span> or <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=anteirt">anteirt</a></span>.</p>
+       
+        <p class="result"> 
+
+            celebrad tratha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25c23
+            
+          . da cet slechtain matin ised 
+dogníd ┐ cet cacha tratha `<span class="quote">a hundred every canonical hour</span>,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 141.4
+          . ceall oc na frith airithiu tratha `<span class="quote">acceptance of the canonical hours</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 118.8
+          . 
+            nad mbentar 
+cloc do trathaib, 
+              ii 120.9 Comm.
+            
+           
+            ba coir do cach cristaide 
+| cia nochiad cach thratha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8018
+            
+          . 
+            fillet a nglúni co 
+gnath | cech trath, 
+              7910
+            
+          . 
+            ro-chelebairset a tratha co creit, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 582
+            
+          . a thrátha ní-s-dermana `<span class="quote">his canonical hours let 
+him not forget them</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 98.15
+          . 
+            go rob clog t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 
+61.9
+            
+          . teagh na dt.<span class="oRef">¤</span>
+           `<span class="trans">
+            <span class="def">oratory</span>
+          </span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 13.26
+          . 
+            mairg nach 
+tathaigh na trátha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxiv 1
+            
+          . a gcūrsa aiffrenn, 
+
+            trāth ┐ senmor, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 56.7
+            
+          . 
+            eidir se ┐ a thratha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 
+2.9
+            
+          . 
+            do thrátha Muire, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 1324.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) Hence in phrase t.<span class="oRef">¤</span> nóna, orig. <span class="trans">
+            <span class="def">canonical hour of none</span>
+          </span>, 
+but used also in general sense of <span class="trans">
+            <span class="def">evening</span>
+          </span>. Also as <span class="pos adv." style="color: #ff8000">adv.</span> 
+<span class="trans">
+            <span class="def">in the evening</span>:</span> 
+            tanic int aingel t.<span class="oRef">¤</span> nóna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 1366
+            
+          . 
+            ataís a 
+ara tenid dó trath nóna na haidchi sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6278
+            
+          . 
+            a mbátár 
+in tslóig and trath nóna, 
+              5884
+            
+          . 
+            ro bátar and trath nóna 
+deód laí, 
+              9183
+            
+          . 
+            ri robennach tuara doib | im trath nóna 
+fochétóir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7702
+            
+          . 
+            co n-accatar ní in t.<span class="oRef">¤</span> nóna arna bárach, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 267
+            
+          . 
+            combatar i n-imacallaim co t.<span class="oRef">¤</span> nóna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 414.9
+            
+          . 
+
+            um th.<span class="oRef">¤</span> nóna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xi 6
+            
+          . 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3800
+          . 
+            a naimsir an t.<span class="oRef">¤</span> 
+nóna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> xxiv 11
+            
+          . 
+            biáidh neamghlan go t.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Levit.</strong></span> xi 24
+            
+          . 
+<span class="lbl">Cf.</span> 
+            trath funid nóna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 6067.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">f</span>) In phrase is t.<span class="oRef">¤</span>
+           ... <span class="trans">
+            <span class="def">it is time to</span> ...:</span> ní t.<span class="oRef">¤</span> dod dhul a 
+Dhiarmaid `<span class="quote">this is no fitting time for thy departure</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 392.3.
+           dámadh t.<span class="oRef">¤</span> risean dá rádha `<span class="quote">were this the time 
+to make it</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 1.1
+          . is t.<span class="oRef">¤</span> dá mhothughadh `<span class="quote">realise this 
+now</span>,' 
+            25.14
+          . ní t.<span class="oRef">¤</span> m'éigean d'fhailleachadh `<span class="quote">no time to 
+neglect my danger</span>,' 
+            23.25
+          . t.<span class="oRef">¤</span> dod chloinn teacht dá dtíosda 
+`<span class="quote">'tis time for thy children to come</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 88.28
+          . 
+            do-chím nach t.<span class="oRef">¤</span> dó a diúltadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 550.
+            
+          
+        </p>
+      
+    
+  
+  
+    <p class="result"> 
+<span class="edilb">II</span> As temporal <span class="pos conj." style="color: #ff8000">conj.</span> (with rel. n- ) <span class="trans">
+        <span class="def">when</span>
+      </span>
+    </p> 
+      
+        <p class="result">(<span class="edilb">a</span>) Without art.: 
+            tráth mbátar and, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 47.14
+            
+          . 
+            t.<span class="oRef">¤</span> ba lethmarb, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9073
+            
+          . 
+            t.<span class="oRef">¤</span> bá medon aidche dó, 
+              9089
+            
+          . 
+            t.<span class="oRef">¤</span> dodeochaid Étaín isa tech, 
+              10759
+            
+          . 
+            t.<span class="oRef">¤</span> ro gab cách dunad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+416
+            
+          . 
+            t.<span class="oRef">¤</span> atchessa di thīr, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 312.15
+            
+          . in troscud t.<span class="oRef">¤</span> 
+bas nadas `<span class="quote">fasting when it is proper</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 65.4
+          . t.<span class="oRef">¤</span> budh 
+dhú díol a dhoirre `<span class="quote">when satisfaction was due</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 21.31
+          . 
+trath ba dolta <span class="ediltr">now that it is time to go</span> (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 61 § 31.
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) With art.: 
+            in trath atconcatar ... in tir ica hinred, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 156.24
+            
+          . 
+            uair in trath sháiles duine, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7784
+            
+          . 
+            in 
+trāth ric co longud, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 297.12
+            
+          . 
+            an trath chuireas cor 
+no culscal de, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1296
+            
+          . 
+            uaigh Thaidhg an t.<span class="oRef">¤</span> do-chífiom, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 10.37
+            
+          . 
+            an t.<span class="oRef">¤</span> is léir sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5166
+            
+          . 
+            an t.<span class="oRef">¤</span> fár ghlac, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 2519
+            
+          . Causal in: cadeat m'acsine-sea ┐ m'urnadmand ... in t.<span class="oRef">¤</span> lamair a rád sin <span class="ediltr">seeing that one dares to say 
+that</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 114.
+          
+        </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">III</span> As <span class="pos adv." style="color: #ff8000">adv.</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) Without art.: 
+            tig t.<span class="oRef">¤</span> eile i nDún Dealgan, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 21.36
+            
+          . ainchidh t.<span class="oRef">¤</span> a Mhíchéil mé `<span class="quote">save me betimes</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 18.33
+          . a mhaoidheamh ós aird 'gun altóir | 
+ionann t.<span class="oRef">¤</span> is teine i gcrios `<span class="quote">is often like flash from flint</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxxi 19
+          . 
+            ní foláir a bheith críochnuighthe t.<span class="oRef">¤</span> éigin, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3153
+            
+          . ar n-a marach moch-thrath =<span class="frn ">summo mane</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SmaointeB.Chr." title="eDIL Bibliography">Smaointe B. Chr.</strong></span> 2926
+          . <span class="lbl">Cf.</span> trath feisi `<span class="quote">at the time of the 
+feast</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 236.22 Comm.
+           See also tráth nóna s.v. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tr&#xE1;th">tráth</a></span>.</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) With art.: duit, á Chríst, in tráthsa | ro gádsa mo 
+guidi `<span class="quote">to thee, o Christ, at this time, I have prayed my prayer</span>,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 411
+          . 
+            biad bec beras ó ghorta in t.<span class="oRef">¤</span>—sin he, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+7549
+            
+          . 
+            co coíed Petar in trathsin cech n-oidche, 
+              3202
+            
+          . 
+
+            créad an cantlamh mheasas tú do bheith ann an t.<span class="oRef">¤</span> soin ?, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6409
+            
+          . See also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tr&#xE1;sta">trásta</a></span>.</p>
+      
+     
+      <p class="result"> 
+Occas. written for <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tr&#xE1;">trá</a></span> <span class="trans">
+          <span class="def">moreover</span>
+        </span>, <span class="lbl">q.v.</span> </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

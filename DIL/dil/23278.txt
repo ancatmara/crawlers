@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="23278">forad</h3><span class="citation">Cite this: eDIL s.v. forad or <a class="reference" href="23278">dil.ie/23278</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                furad, foruth, foraid, foraid, forid, foradu, foirthiu, fortha, faraidh, f., f., f., f., fureth</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span>  <span class="itype o">o</span>, <span class="gen m.">m.</span>; earlier perhaps <span class="gen n.">n.</span>, <span class="lbl">cf.</span> <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        
+          furad 
+n-aircdidi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 116a19
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii 178
+      , <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        forsa foruth
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 
+822
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        ind foraid
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 30a37
+        
+      . See Hogan, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> iv 
+138
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        foraid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 502
+        
+      . ind forid
+       (gl. phari) 
+        <span><strong class="pop" style="color:blue" href="bibliography/BCr." title="eDIL Bibliography">BCr.</strong></span> 33d10
+      . 
+ <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        foradu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 220b44
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 272
+      ). <span class="lbl">Cf.</span> 
+        foirthiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tur." title="eDIL Bibliography">Tur.</strong></span> 65
+        
+      , 
+fortha, O'Cl. <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        faraidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 64.34
+        
+      .</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">a <span class="def">mound</span> or <span class="def">platform</span>
+        </span>, prob. in most cases of earth, 
+used as <span class="trans">a <span class="def">seat</span> or <span class="def">stand</span> for spectators</span>, but also as <span class="trans">a <span class="def">post</span> 
+of outlook</span>; it varied in size and shape, being often large 
+enough to accommodate a number of persons, but sometimes apparently intended for only one; it may in some 
+cases have been circular; at the great interprovincial 
+assemblies each king had a special f. and there seems to 
+have been a f. set apart for women. There was sometimes 
+a f. in or close to a chief's `dún.' There was a f. at Tara, 
+identified by Macalister with a large circular mound still 
+existing (see Temair Breg, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> xxxiv C 244
+         -
+          246
+        ). 
+fortha .i. foradha .i. ionaid suidhe, O'Cl. failet ann ... 
+foraid forōrdai (of the celestial city) 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 502
+        . lathrach in 
+forraid hi taeb latraige tigi Cormaic (at Tara) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 1 § 9
+         = 
+
+          l. ind foraid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 30a37
+          
+        ; <span class="lbl">cf.</span> 
+          Narne .i. Tema[i]r .i. do anmaim 
+in foraid robai inti, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 831
+          
+        . Oenach Tailten do cumusc 
+oc foradhaib im scrin Mic C. ... condid aptha ili de <span class="ediltr">a disturbance broke out among the `<span class="frn ">forad</span>s' of the O.T.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 830
+        . 
+
+          ro hordaigit ... fir Herend for foradaib ind oenaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4217
+          
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 82
+        ). <span class="lbl">cf.</span> 
+          cōrus aonaig .i. a glanad ┐ a forada do 
+denum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 391
+          
+         b (
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 870
+        ; see 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 474.13
+        , 
+
+          476.18
+        ). 
+          baí dano forud ar leith oc na mnáib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4219
+          
+        . 
+          cen 
+techt fer i forud mban, | cen mná i forud fer, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iv 150
+          
+        . fiche forud ríg Temrach ... fiche forud a rígna 
+`<span class="quote">twenty seats</span>', <span class="lbl">ib.</span> 
+          154
+        . 
+          foradh righ Airghiall láimh re foradh 
+righ Erind i [d]Tailltin ┐ a n-Uisneach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 136
+          
+        . Artt hua 
+Ruairc in rigḟoraid `<span class="quote">of the royal seat</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ix 466 § 28
+        . 
+
+          a mbátár inna ingena i sudiu for forod áenaig in dūini, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+10194
+          
+         (= 
+          forad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 232
+          
+        ). <span class="trans">Of a <span class="def">post</span> of <span class="def">observation</span> or 
+part of a <span class="def">rampart</span>:</span> 
+          dorónadh ... foradh leis for temair ┐ 
+dingna na cathrach ... d'fordécsin ┐ do dibricud námhat 
+tairis sechtair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 204
+          
+         (= 
+          forath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 399a38
+          
+        ). 
+          robai 
+... tor ard ┐ forudh fo mur in dunaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 2218
+          
+        
+(= <span class="frn ">turris ... vasto suspectu</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aeneid" title="eDIL Bibliography">Aeneid</strong></span> ix 530
+        ). 
+          ro línsatar 
+múru ┐ dindgnu ┐ foradu na cathrach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 220b44
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 
+272
+        ). in forud i mbíd ic comét na cathrach (of station of a 
+watch-dog) 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1009
+        . Used as a repository for weapons, 
+ <span class="lbl">etc.</span>: 
+          doratad iarum forsin forud fora mbíd do grēs ind 
+inchind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Death-talesoftheUlsterheroes" title="eDIL Bibliography">Death-tales of the Ulster heroes</strong></span> 4 § 3
+          
+        . In follg. ex. seems used of a 
+vallum or rampart: 
+          ba hairegda ind inis ... furad n-aircdidi 
+impe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> II 178z
+          
+        . 
+          fureth, 
+            182.214
+          
+        . furad n-aircdidi impe '<span class="quote">there was a silver rampart around it</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/LoingesMacnDu&#xED;lDermait" title="eDIL Bibliography">Loinges mac nDuíl Dermait</strong></span> 56 § 23
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">transf. of a <span class="def">fort</span>, <span class="def">residence</span> or <span class="def">place</span> of <span class="def">meeting</span> (common 
+in poetry)</span>, <span class="lbl">cf.</span> Lat. <span class="frn ">sedes:</span> 
+          Druim C. cete na noem, forod 
+na ḟenned, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 136
+          
+        . f.<span class="oRef">¤</span> na rig (of Tara), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 4
+        . 
+
+          Dun mB. ... ba f.<span class="oRef">¤</span> find-dond, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 13.13
+          
+        . 
+          Eichtge 
+ard | forud na Fían, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 198b57
+          
+         = 
+          adba, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 304
+          
+        . 
+<span class="lbl">cf.</span> 
+          Forudh na Féine; Forud na fiann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 3339
+          
+        , 
+          3364
+        . 
+
+          a crích Comul ... a forud fíal Oengossa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 134
+          
+        . 
+co forud Fótla (<span class="lbl">i.e.</span> Ireland) 
+          194
+        . 
+          Mide magen clainne 
+Cuind | forod clainne Néill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 184b20
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 82
+        ). 
+tene di nim forsa foruth n-abbadh i nArdd Machae `<span class="quote">the 
+Abbot's mansion</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 822
+        . f.<span class="oRef">¤</span> fessi ┐ fledaichthi airtir 
+in talman (of Priam's palace) 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 443b2
+         <span class="lbl">Cf.</span> 
+          a fisig ┐ a 
+fir-eolaig ... ar foradaib fis ag denam a ndraidechta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+viii 42.6
+          
+        , where f.<span class="oRef">¤</span>
+         is prob. used in a technical sense (<span class="lbl">cf.</span> 
+clíatha fis, expld. 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5448 ff
+        .).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">brow</span>, <span class="def">forehead</span> (?):</span> 
+          co minnaib ... rigmaisecha ar 
+foradh gacha flatha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> ii 208.22
+          
+         (Glenmasan MS. 
+= 
+          for-, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BIV1" title="eDIL Bibliography">B IV 1</strong></span> 134
+          
+        ).</p>
+    
+  
+  
+    <p class="result"> 
+Compds. 
+        <span class="oRef">¤</span>chnoc: i forudhchnoc urard bui. for lar in 
+muighi `<span class="trans">
+        <i>a</i> <span class="def">high</span>, <span class="def">mounded</span> (<span class="def">flat-topped</span> ?) <span class="def">hill</span>
+      </span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2476
+      . 
+caisslen ... ar foradhchnoc ard uas an gcathraigh (of Namur 
+citadel), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 74.16
+      . 
+        <span class="oRef">¤</span>mag: seiss Conchobar ..., co 
+mmathaib Ulad imme, for forodmaig ha hEmna <span class="trans">`<span class="def">place</span> of 
+<span class="def">presidency</span>' (<span class="def">assembly</span> ?)</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 109a43
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 412
+      ). 
+        co 
+forodmag na hEmna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 897.1326
+        
+      . 
+        <span class="oRef">¤</span>mullach: 
+        foradhmullach tṠleibe Mis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 6182
+        
+      . 
+        <span class="oRef">¤</span>múr: ar foradhmúraib 
+an dúnaid `<span class="trans">
+        <span class="def">ramparts</span>
+      </span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> ii 208y
+      . 
+        dobí sí ar foradhmúr na hEmhna gach laí ac feithim in muighe uaithe, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Comp.CC" title="eDIL Bibliography">Comp. CC</strong></span> 114 § 44
+        
+      . </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

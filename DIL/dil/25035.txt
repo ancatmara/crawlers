@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="25035">gabál</h3><span class="citation">Cite this: eDIL s.v. gabál or <a class="reference" href="25035">dil.ie/25035</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                gabaal, gabál, gabail, gabáil, gabáil, gabalae, gabala</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        gabaal, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 7a7
+        
+      . 
+        gabál, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6290
+        
+      . 
+        gabail, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 60a12
+        
+      . 
+        95d13
+      . 
+        gabáil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5126
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> and <span class="case a">a</span>
+      <span class="number s.">s.</span> gabáil, <span class="lbl">q.v.</span>
+<span class="lbl">infra.</span> <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        gabalae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 83a3
+        
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        gabala, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 19a4
+        
+      .</p>
+   
+    <p class="result"> 
+As <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gaibid">gaibid</a></span> (<span class="lbl">q.v.</span>) in all its meanings.</p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">taking</span> (over, into possession), <span class="def">assuming</span> ; <span class="def">passing</span>
+occas. into the sense <span class="def">receiving</span> :</span> 
+          hi tosuch gabalae toisigechtae 
+du Moysi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 83a3
+          
+        . 
+          iar ngabhail righe do Feidhlim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 
+4.27
+          
+        . a ngabāil tar a n-ainme <span class="ediltr">taking them</span> [as wives] <span class="ediltr">in spite 
+of their defects</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 113.10
+        . gabail bachla <span class="ediltr">going on a 
+pilgrimage (lit.</span> taking a staff), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 296.16
+        . do gabail 
+aéir <span class="ediltr">taking the air</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> § 190.8
+        . lā do ghabháil <span class="ediltr">to fix a day</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 137.11
+        . aithrechus do gabail on pecach <span class="ediltr">to accept 
+repentance</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 238.4
+        . 
+          gan oba gliadh ná a gabhail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 
+26.40
+          
+        . bala mumia do gabáil a n-aimsir na plaga <span class="ediltr">to inhale</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 200.2
+        . ier ngabail tighi ōsta <span class="ediltr">after taking lodgings</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 66.27
+        . na luibhe ici ... a[g] gabail na crecht nua ... 
+n-anabaid <span class="ediltr">drawing together</span> (?) or <span class="ediltr">taking effect on</span> (?) <span class="ediltr">the new 
+raw wounds</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 308.5
+        . conā gaib greim nō gabāil ina 
+tómlim <span class="ediltr">what I eat takes no hold or effect</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 95.2
+        . 
+dochúas o Dauid ... fri gabáil nglé <span class="ediltr">for fair reception (?</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+6303.
+         <span class="trans">Of <span class="def">assuming</span> <span class="def">arms</span> :</span> 
+          a chētgabāil ṅgaiscid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 641
+          
+        . 
+<span class="trans">Of <span class="def">conceiving</span> :</span> 
+          féil ghabhála Mhuire i mbroinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3269
+          
+        . 
+<span class="trans">Of <span class="def">receiving</span> and <span class="def">adopting</span> a <span class="def">foster-child</span> :</span> 
+          cidh mac faosma 
+d' ainfine ... mad ro badar ar aird ag a gabhail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 
+256.4 Comm.
+          
+         <span class="trans">Of <span class="def">removal</span> by death :</span> 
+          ar na ghabhail on 
+bheathaigh so, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 8.9
+          
+        . (?) ma romtoiccthi ecc ind-Hí, ba 
+gabal di trocari <span class="ediltr">it were a merciful taking (?</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 19.3
+        . 
+<span class="trans">Of <span class="def">fixing</span> in :</span> ic gabhail férne na pupla don talmain, <span class="ediltr">driving 
+in</span> ... (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 42 § 39.
+        
+      </p>
+     
+      <p class="result"> 
+gabáil lámae duine <span class="ediltr">expelling, removing a person (<span class="lbl">lit.</span> 
+seizing his hand</span>, see 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Recht" title="eDIL Bibliography">Ir. Recht</strong></span>, p. 12
+        ) : 
+          fristulaid C. dó 
+┐ rofóid díis dia muintir do gabáil a láma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> i 146.22
+          
+        . 
+
+          adrodamair láim Patraic do gabail, 
+            <span class="lbl">ib.</span> 148.5
+          
+        . <span class="lbl">Cf.</span> 
+          ii 478.15
+        . 
+
+          cia epscop uáib no ragad ... do gabail laime Mochuta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l.2" title="eDIL Bibliography">Fél.²</strong></span> 
+94.39
+          
+        . leth in sechtmaig ar gabail lama nama <span class="ediltr">only for marrying</span> (of a husband `for bantidnacor'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 392.25 Comm.
+         
+(see Thurneysen, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Stud.inE.Ir.Law" title="eDIL Bibliography">Stud. in E. Ir. Law</strong></span>, p. 59
+        ). With prep. for 
+<span class="trans">
+          <span class="def">enjoining</span>, <span class="def">commanding</span> :</span> 
+          grechus C. C. ar Laogh ... ag 
+gabhail a laimhe fair 'man ngaei mbulga d'indioll, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 
+296.2
+          
+         ; <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2180
+        , 
+          3252
+         ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 156.5
+        . <span class="lbl">Cf.</span> also : ac gabail 
+lama ar an feín dochum an mor-chatha `urging on' 
+          <span><strong class="pop" style="color:blue" href="bibliography/CF" title="eDIL Bibliography">CF</strong></span> 565
+        . 
+See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gaibid">gaibid</a></span>.</p>
+     
+      <p class="result"> 
+In concrete sense : <span class="trans">a <span class="def">collection</span> (of money, <span class="lbl">etc.</span>) :</span> 
+          rogabad 
+gabáal dóib leu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 7a7
+          
+        . 
+          con-gabtis gabala linn ... in 
+Hierusalem, 
+            19a4
+          
+        . dinab gabalib (gl. collectis), 
+          13d33
+        . 
+dodechatar conimbiud a ngabala (.i. tinola)
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 28.16
+        . 
+
+          ar cenn Patraic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 206.8
+          
+        . 
+          doberdis gabala mar (<span class="lbl">sic</span>) 
+doib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 762
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 359 b
+        ). 
+          primiti .i. tosach gabala 
+cach nuathoraidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 52.7 Comm.
+          
+         <span class="lbl">Cf.</span> also leth-gabal
+under <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 ? gabal">2 ? gabal</a></span>.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">seizing</span>, <span class="def">capturing</span> ; <span class="def">conquest</span> ; <span class="def">seizure</span> :</span> gabail etechta
+<span class="ediltr">unlawful seizure</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 84.10
+        . 
+          gabail co toxal, 
+            i 64.3
+          
+        . 
+caill cen gabail `<span class="quote">an unappropriated wood</span>,' 
+          v 484.14 Comm.
+         
+imgeib guin immo-amgeib gabáil <span class="ediltr">he avoids wounding, he 
+avoids capture</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 860
+        . 
+          co ṅ-gabail iṅgni sebaicc, 
+            2725
+          
+        . 
+          ar 
+ngabāil gīall for Mumain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 119y
+          
+        . fer gabala giall 
+nErenn (of a predominant king), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 41.28
+         (Tig.). 
+
+          go sluaghaibh Gréag dá gabháil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 26.33
+          
+        . 
+          ro po goiste 
+gabala don Demun, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 176.17
+          
+         (ACC Comm.). gabála 
+báise cis lir ? <span class="ediltr">how numerous are the seizures (?) of folly ?</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 14
+        . do leigthea gan lan-gabail <span class="ediltr">without being 
+taken prisoner</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 200.11
+        . <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Numbers</strong></span> xx 1
+        ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 306.13
+        ; 
+
+          646.2
+        . 
+          set gabhala, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 540
+          
+        (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, c. 434
+        ). 
+          bó cecha 
+gabala, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 64
+          
+        . in ard-gabail-sea doníat in cuanairt
+`<span class="quote">high-catching</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7385.
+        ? 
+          claideb crúaid ... i n-ardgabail churad bar a chlíu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5340
+          
+        . <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 82 § 84.
+        
+ag gach gabháil dár gheabh `<span class="quote">any who have conquered her</span>,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 17.4
+        ; hence Lebor Gabála Érenn <span class="ediltr">The Book of Conquests</span> 
+(lit. `<span class="quote">of the taking</span>'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 578.24
+        . 
+          cóic gabála ... rogabad 
+Hériu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> ii 286.13 
+          
+        = 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1229
+        . 
+          faghla is gabhála 
+Gaoidheal, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 28.2
+          
+        . <span class="trans">Of <span class="def">taking</span> and <span class="def">harnessing</span> <span class="def">horses</span>, <span class="lbl">etc.</span> :</span> 
+
+          a eich do gabáil do ┐ a charpat do indell, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU" title="eDIL Bibliography">MU</strong></span> 4.12
+          
+        . <span class="lbl">Cf.</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/MaguiresofF." title="eDIL Bibliography">Maguires of F.</strong></span> § 23
+        . 
+          timargain dam fri a ngabail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+486.23
+          
+         ; <span class="lbl">cf.</span> 
+          152.4
+        . dá chéd ngargdhamh n-gabhála <span class="ediltr">plough 
+oxen</span> (<span class="lbl">lit.</span> `<span class="quote">oxen of harnessing</span>'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 220.22
+        . (?) 
+          ni tharraid 
+gabail na slabrad batar ar comlaid na slige, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 131b26 
+          
+        
+= 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cymmr." title="eDIL Bibliography">Cymmr.</strong></span> xiv 104
+        . fuil muc oc a ngabail a cru (one of 
+the seven bloods shed by beasts for which nothing is paid), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 152.4
+        . For legal phr. lám gabálae see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=l&#xE1;m">lám</a></span> II (b).</p>
+     
+      <p class="result"> 
+In concrete sense : <span class="trans">
+          <span class="def">booty</span> ; <span class="def">spoil</span> ; a <span class="def">captive</span> :</span> 
+          iar torachtain cáich cona gabáil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5393
+          
+        . 
+          ocht ngabala fichet tucc 
+Donnchadh leis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 210.17
+          
+        . 
+          rangattar D. ... gusan ngabhail 
+leó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 878.14
+          
+        . 
+          1090.3
+        . bar mná ... iarna mbreith a 
+ngabalaib ┐ a ndaeraib <span class="ediltr">as captives and bondswomen (?</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 
+214
+        . <span class="trans">A <span class="def">catch</span> :</span> 
+          iasgaire ... gēbaid sē a lāngabāil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 345 
+§ 5
+          
+         ; <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Luke</strong></span> v 9
+        . <span class="trans">A <span class="def">gag</span>, a <span class="def">check</span> :</span> gabail for tengthaib `<span class="quote">a 
+gag on tongues</span>' (one of the punishments of hell), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iv 
+252.23
+        , 
+          24
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">holding</span>, <span class="def">occupying</span>, <span class="def">maintaining</span> ; <span class="def">fortifying</span> :</span> 
+          do gabáil 
+in chalaid risin coblach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 224b22
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 545
+        ). 
+          foroprait ar 
+g.<span class="oRef">¤</span> in dúnaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 222
+          
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 276a33
+        . 
+          fouair in Troi n-osluici cen neach aga diten nach ga gabail, 
+            398b28
+          
+        . 
+          nipsa 
+chúsa gabála lis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9325
+          
+        . do ghabhail na conaire coitchinne
+(<span class="lbl">i.e.</span> to occupy the common road against the enemy), 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 
+2276.x
+        . do chuir in iustís locht a gabhála inti (of a place 
+taken by military force), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 9.16
+         (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlii 302.5
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">reserving</span>, <span class="def">reservation</span> (?) of <span class="def">land</span> for <span class="def">cropping</span>
+        </span>, in 
+phrases like cluain gabála, gl. herbagium, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 723
+        . 
+          ní 
+cluain ghabhāla grās Dē, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RIACat." title="eDIL Bibliography">RIA Cat.</strong></span> 4.10
+          
+        . don aengurt gabala, 
+`<span class="quote">grazing-field (?</span>),' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2866
+        . 
+          ocht fichit bó a férgort 
+gabala, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2069.
+          
+         
+          2309
+        . 
+          4181
+        . 
+          7602
+        . 
+          7970
+        . <span class="lbl">Cf.</span> (?) 
+          ar 
+fheurghort gabhla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Tor.Dh.Oss." title="eDIL Bibliography">Tor. Dh. Oss.</strong></span> 60.27
+          
+         (Oss. iii). 
+          mes na caille 
+gabhála, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 748
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, c. 63
+        -4) = 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2202
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/NeroA.vii" title="eDIL Bibliography">Nero A vii</strong></span>, f. 140a
+        ). crim .i. a caill gabala `<span class="quote">in an appropriated 
+wood</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 474.15
+         gloss. ; 
+          <span class="lbl">ib.</span> 30
+        . 
+          im crand ngabala bis i 
+ndithrib, 
+            i 202.2
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2683
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, f. 58 (59) b
+        ). 
+          férbrug 
+gabala, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 4179
+          
+        , 
+          7292
+        . <span class="trans">
+          <span class="def">Levying</span> (?) :</span> <span class="case g">g</span>
+        <span class="number s.">s.</span> in phrase bó 
+gabála <span class="ediltr">a cow levied as a due :</span> (things that may be alienated 
+from the `fine') ni sanntar ni seacha fine ... acht ... forcomal 
+chis flatha i cain aicillne ... no boin gabala <span class="ediltr">nothing is alienated 
+without consent of the fine, save security for the lord's rent, in 
+the law of base clientship ... or a cow levied as a due</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+442.24
+        . <span class="lbl">An leg.</span> bó ingabála ? <span class="lbl">Cf.</span> tiumnaigther uad ... co 
+ructar bó ingabála dia fuiririud (<span class="lbl">sic leg.</span>), 
+          i 136.2 Comm.
+         
+dlighidh saerbiathad deisi ┐ boin lethgabala `... <span class="quote">a cow of the 
+second quality</span>' (<span class="lbl">i.e.</span> that is worth half of the legal levy), 
+          iv 
+350.26 Comm.
+         
+          bo gabhála da gach creich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 134.11
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">
+          <span class="def">taking</span>, <span class="def">passing</span>, <span class="def">going</span> (a road, <span class="lbl">etc.</span>):</span> 
+          techt co Sipra ┐ 
+can gabáil co Ródus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Maund." title="eDIL Bibliography">Maund.</strong></span> 37
+          
+        . ac gabáil na ndorus fria 
+thaebh <span class="ediltr">entering by the side doors</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 77
+        . gan an t-eolus 
+sin do gabhail <span class="ediltr">not to take that route</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 233
+        . fear gabhála
+`<span class="quote">a wayfaring man</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Judges</strong></span> xix 17
+        . 
+          lucht gabāla na sligedh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 88.20
+          
+        . 
+          coblach do Grécaib do gabáil i purt Ségi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 224b18
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 542
+        ). cuan ghabhala <span class="ediltr">landing place</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CF" title="eDIL Bibliography">CF</strong></span> 90.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) <span class="trans">
+          <span class="def">singing</span>, <span class="def">reciting</span> :</span> 
+          na trí cóicait do gabáil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 196.7
+          
+        . 
+
+          do gabail cepoce ... immum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 19.11
+          
+        . 
+          gabail n-ecnairci, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 18
+          
+        . 
+          fear ag gabháil dúaine duit, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. 
+ex. 683
+          
+        . 
+          sailm tra in tan gabar, cech la gabail dib i sessom, 
+araile i ssuide, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RuleofTallaght" title="eDIL Bibliography">Rule of Tallaght</strong></span> § 22
+          
+        . <span class="trans">By extension, of that 
+which is <span class="def">sung</span>, <span class="def">recited</span> :</span> 
+          is hí and cétna gabal lais otha <span class="frn ">beatus</span> 
+corrici <span class="frn ">domine quis</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 31
+          
+        . <span class="lbl">Cf.</span> 
+          § 32
+        , and 
+          <span><strong class="pop" style="color:blue" href="bibliography/RuleofTallaght" title="eDIL Bibliography">Rule of Tallaght</strong></span> § 99 <span class="lbl">seq.</span>
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">g</span>) Used with various prepositions : (for meanings see 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gaibid">gaibid</a></span>). cen gabáil ar m'aicned <span class="ediltr">without controlling my disposition</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mer.Uil." title="eDIL Bibliography">Mer. Uil.</strong></span> 243
+        . gabail ara fual <span class="ediltr">retention of urine</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> § 53
+        . <span class="lbl">Cf.</span> 
+          gabail foraib, <span class="lbl">ib.</span> leighister hí ... le 
+gabáil ar anáil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 193.32
+          
+        . o ... na rabha aca comhang gabhala dhibh a chriche d'innrudh ... <span class="ediltr">to prevent them</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 114 § 120
+        . ní éta gabail disside <span class="ediltr">she could not be 
+prevented</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 71.12
+        . ni edaim a ghabhail duit-se a dula
+<span class="ediltr">I cannot prevent your going (?</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 20 § 13
+        . atrachtsad 
+Laigin do gabail foraib <span class="ediltr">to attack them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 18.1
+        . iar 
+ngabail for a cetfadaib <span class="ediltr">their senses being stunned</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 28
+        . 
+is saoth lium in bachlach ut do gabhail form ar éicin <span class="ediltr">encroach 
+on me</span> (<span class="lbl">i.e.</span> settle on my land), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2279
+        . ní bhaoí 
+cumhang occa gabhail friú im aidhmhilleadh na criche `<span class="quote">nor 
+was he able to prevent them</span> ...,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1924.20
+        . in días do 
+gabáil immón n-óenfer <span class="ediltr">attacking</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8206
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 15
+        ). mas 
+tria anfot rucustar hi ┐ ata ag gabail impi tria anfot (of a 
+false verdict) `<span class="quote">and is adhering to it through inadvertence</span>,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 304.12
+        . gabhail impe tar gealluibh <span class="ediltr">withholding it in 
+spite of pledges</span>, 
+          ii 70.27 Comm.
+         as dliged in ní sin ... ┐ ní 
+était sium gabail uime (of the payment of a tribute) <span class="ediltr">they 
+cannot withhold it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 14 § 8
+        . Mairc do Priaim gabáil 
+impe ... gan a tinnlocadh doibh tar cenn tsidha (of the 
+Greeks demanding the surrender of Helen) <span class="ediltr">Woe to Priam 
+that he withheld her and did not give her over to them in return 
+for peace !</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/KingsInns12" title="eDIL Bibliography">King's Inns MS. 12</strong></span>, f. 26rb
+        . mad ail leis connicc 
+gabail impe a cetoir cena leccudh uadh (of a branch overhanging a neighbour's garden) <span class="ediltr">he</span> (<span class="lbl">i.e.</span> the owner) <span class="ediltr">can withhold it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2284
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. B 506</strong></span> f. 26a
+        ). Conn do gabail 
+leo a n-aghaidh Hui Neill <span class="ediltr">siding with them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> iii 228.25
+        . 
+<span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 3172
+        . robái ... oc gabáil ac Patraic `<span class="quote">a-holding 
+by P.</span>' (= supporting P.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 556.26
+        . gabail ic fannaib
+<span class="ediltr">taking the part of (indulging ?) the weak</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 371c39
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 
+151b41
+        . fer da tuc C. tidhnaicci móra oir ┐ indmais tar cenn 
+gabhála aigi `<span class="quote">for supporting him</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 535.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">h</span>) <span class="trans">
+          <span class="def">leaven</span> (late) :</span> do thógaibh an pobal ... an mhin 
+chomhchroitte, sul do cuireadh gabháil innte = <span class="frn ">antequam 
+fermentaretur</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7753
+        . 
+          'na arán ghlan, gan cumasg 
+laibhín nó gabhála, 
+            8910
+          
+        . deocha geura gabhála <span class="trans">
+          <span class="def">sharp</span>, 
+<span class="def">fermented</span> (<i>?</i>) <span class="def">drinks</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> i 38.25
+        . Prob. = <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gab&#xE1;lta">gabálta</a></span>, <span class="lbl">q.v.</span> </p>
+    
+  
+  
+    <p class="result"> 
+(<span class="edilb">i</span>) <span class="trans">(of a horse) <span class="def">carriage</span>, <span class="def">bearing</span>, <span class="def">posture</span> (?)</span>: da mbia an t-ech gobard ┐ gabail granna aice <span class="ediltr">if the horse is raising its snout and has an ugly bearing</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> ii 46 § 7
+      . dligid ech na gab(ala crom)a beith mi-luthmar. Dligid ech na gabala airde a beith garg mer '<span class="quote">the horse that carries its head bent [?] should be lacking in vigour. The horse that carries its head high [?] should be fierce and giddy</span>' 
+        48 § 11
+      . See also bó-gabál, duine-gabál.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

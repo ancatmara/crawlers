@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="30022">lestar</h3><span class="citation">Cite this: eDIL s.v. lestar or <a class="reference" href="30022">dil.ie/30022</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                lestra, lestair, lestra, lestru, lesdar</p></div><div class="col-sm-9 result_content">
+   
+
+
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen n.">n.</span> later <span class="gen m.">m.</span> (prob. W. loanword, 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 
+120
+      , 
+        178
+      ) <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        l.<span class="oRef">¤</span> n-arggit, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 294.29
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SP" title="eDIL Bibliography">SP</strong></span> iv
+      ). 
+        a l.<span class="oRef">¤</span> mbruithi, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 11.2
+        
+       (Vita Brigitae). <span class="case n">n</span>
+      <span class="number pl.">pl.</span> 
+        lestra, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1713
+        
+       (ICM); 
+but also 
+        lestair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 5623.
+        
+       
+        <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 569.
+       <span class="case a">a</span>
+      <span class="number pl.">pl.</span> 
+        lestra, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 
+42.12
+        
+      . 
+        lestru, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7602.
+        
+       lesdar <span class="gen m">m</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 17.
+      
+    </p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">vessel</span>, <span class="def">container</span>
+        </span> (for liquids): is léir dorigni indala l.<span class="oRef">¤</span>
+         
+gl. uas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4c32
+        . 
+          air lani ind lestair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 94c9
+          
+        . l.<span class="oRef">¤</span>
+         gl. uasis, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 65b6
+        . 
+          <span class="frn ">nomen</span> do lestur chorthón bís oc edpartaib do deib 
+gl. futilis, 
+          56b7
+        . 
+          l.<span class="oRef">¤</span> fás, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 294.28
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SP" title="eDIL Bibliography">SP</strong></span> iv
+        ). 
+          ro bennaig . . . 
+Pátraic in érdig ┐ ros-impoi in l.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 458.16
+          
+        . cach l.<span class="oRef">¤</span> 
+fodlai .i. copana ┐ ballana ┐ milana uma <span class="ediltr">a dispensing vessel</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 406.y
+         and 
+          408.17 Comm
+        . 
+          lan eini in bochtain do 
+loim .i. bec, 
+            i 106.24 Comm
+          
+        . 
+          fidlestra .i. cach l.<span class="oRef">¤</span> cumrigter 
+fri ol as, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1064
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H2.15A" title="eDIL Bibliography">H 2.15A</strong></span>, 34
+        ). 
+          línaid a ll.<span class="oRef">¤</span> dō do lemlacht, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 310.13
+          
+         (Laud Gen.). 
+          tothlaigestar dig a ll.<span class="oRef">¤</span> humi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10597
+          
+        . 
+          curt[h]ir ar æd īarnl.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 4.4
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 13645
+        ). 
+
+          fern na caill . . . ar is di doniter lestair imon lacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 
+5623
+          
+        . 
+          hic techt ar cenn uisci uair / . . . / dā l.<span class="oRef">¤</span> hi llāmaib 
+lē, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 737
+          
+        . 
+          fín nua isna lestraib núib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5511
+          
+        . ni 
+gabait . . . na lestair lána a tórmach (<span class="frn ">plena uasa non recipiunt 
+augmenta</span>), 
+          5480
+        . 
+          coire ramór . . . / l.<span class="oRef">¤</span> lommnán lán do 
+cheō, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 69.4
+          
+        . 
+          ni rabhutar . . . leastair ac muinntir 
+Brigte, acht da lothar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1358
+          
+        . 
+          tucad iarum Grigoir 
+asin leastar a raba, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlvi 237.1
+          
+         ( = 
+          telchoma, 
+            236.x
+          
+        .). 
+
+          leastar .i. soitheach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec.Gl." title="eDIL Bibliography">Lec. Gl.</strong></span> 312.
+          
+         
+          <span><strong class="pop" style="color:blue" href="bibliography/StoweGl." title="eDIL Bibliography">Stowe Gl.</strong></span> 451.
+         Also a 
+vessel for washing in: 
+          a lestraib glaine rot necht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 124.19
+          
+        .</p>
+     
+      <p class="result"> 
+l.<span class="oRef">¤</span> lulaice (samaisce, colpaige, etc.) <span class="ediltr">a vessel worth a milch-cow</span>, etc.: 
+          l.<span class="oRef">¤</span> lulaice gu glún, l.<span class="oRef">¤</span> bo inloighi gu fordrunn, l.<span class="oRef">¤</span> 
+samaisce gu imlind, l.<span class="oRef">¤</span> colbpaighe gu gualaind, l.<span class="oRef">¤</span> dairti go hó, 
+l.<span class="oRef">¤</span> dardadha gu mullach cind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 929
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 658
+        ). 
+          lesdar 
+lulaice tuargaib fear go glun; . . . leastar samaisce tuargaib 
+fear go imlinn; . . . l.<span class="oRef">¤</span> colptaige . . . leastar dairte, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 
+166. 3ff. Comm
+          
+        . 
+          tri duirn i lethet beoil in lestair lulaice, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 903
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 645
+        ). 
+          l.<span class="oRef">¤</span> uan muilt mer (<span class="lbl">leg.</span> métithir ?) 
+ferdorn lethet a beoil, lethlethat a beoil dia domna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+680.
+          
+         <span class="lbl">Cf.</span> 
+          med ferdorn ceachtar n-ai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 118a41
+          
+        . 
+          somaine 
+bech .i. l.<span class="oRef">¤</span> lulaice ian oil lan di mellit ┐ da thartine dec. 
+A lleth insin ar ll.<span class="oRef">¤</span> colpaige, a trian ar l.<span class="oRef">¤</span> ndairte ┐ saithe do 
+sil bech .i. ced saithi intrebad tri misa .i. mi fri criascath ┐ da 
+mi fri trebath. Issed l.<span class="oRef">¤</span> n-iraith insin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 881
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 
+394b
+          
+        ).</p>
+     
+      <p class="result"> 
+l.<span class="oRef">¤</span> Baduirnd name of a magic vessel used in ordeals, one of 
+the 
+          `fīra ro suidistar Pādraic do glēod fer n-Ērend, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+v 470.33 ff
+          
+        . 
+          leasdar Baduirnd . . . is an tan doberta in lam 
+anuind, dia mbeth go lais, no meabad; dia mbeth fir lais, 
+conaigedh, 
+            472.14 Comm
+          
+        . 
+          l.<span class="oRef">¤</span> do eipled ar dornnaib na n-anfiran, 
+no thaithbeoghadh ar dornnaib na firen, 
+            17 Comm
+          
+        . 
+          co n-aca 
+fír n-amra isin tṡidh .i. lestur glain. Fear dobereadh téora 
+briathra góa fai conscaradh fora laim hi tri. Fear adbereadh 
+teóra briathra fira foa conategedh affrithisi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 191 § 19.
+          
+         
+comba head sin leastur no delaighedh gai ┐ fir la Badurn, 
+<span class="lbl">ibid.</span> </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) Fig. of a person: 
+          <span class="frn ">Christus</span> .i. ar ni bí-som i llestur 
+ferce gl. sol non occidat super iracondiam (<span class="lbl">sic</span>) <span class="frn ">uestram</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+22b4
+         (<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Romans</strong></span> ix 22
+        ). l.<span class="oRef">¤</span> óir airegda (of Colum Cille), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> 
+iii 218 § 6
+        . 
+          Dubthach . . . l.<span class="oRef">¤</span> lan do rath in Spirita Naim, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 6.20 Comm
+          
+        . nīdam (<span class="lbl">sic leg.</span>) l.<span class="oRef">¤</span> dingmhāla <span class="ediltr">I am not a 
+fitting vessel</span> (for the reception of the Eucharist), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxxvii 
+349 § 76
+        . 
+          is l.<span class="oRef">¤</span> honorach don chomdid in corp, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5981.
+          
+         
+
+          a Shímoin, . . . a l.<span class="oRef">¤</span> lán do (<span class="lbl">sic leg.</span>) démnaib, 
+            1811
+          
+        . 
+          Maol-brighde . . . l.<span class="oRef">¤</span> n-eccna ┐ n-eolais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mart.Don." title="eDIL Bibliography">Mart. Don.</strong></span> 22.
+          
+         Of 
+the body: 
+          mairg do-nī lān don l.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 240 § 37.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">beehive</span>
+        </span>: 
+          saithe cacha lestair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 192.9
+          
+        . trian do 
+lestur o atelat (of a swarm of bees), 
+          190.10
+        . 
+          forna leastraib 
+. . . .i. for na ceascaib, 
+            178.23 Comm
+          
+        . 
+          occa cumscuchud 
+.i. as gach leastar do leastar, 
+            176.x Comm
+          
+        . 
+          teit . . . do 
+timtirech[t] in lestair, 
+            ii 120.y Comm
+          
+        . saithe bech ┐ lestra 
+gl. 
+          beich[ṡ]luaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 3 n. 35
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) More generally of various receptacles: 
+          corp Crist do 
+thaiscid i mbréit no i ll.<span class="oRef">¤</span> nglan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5332
+          
+        . 
+          dí lestar lana 
+do lebraib, 
+            2235
+          
+        . lan blaisci no lestair na cno <span class="ediltr">nut-shell</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2321
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. B 506</strong></span>, 33d
+          
+        ). contardsad i ll.<span class="oRef">¤</span> ┐ co roadnacht ic Ḟid Duin <span class="ediltr">a coffin</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 38.15
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 135a15
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) ? In a name or sobriquet among the Ó hAinlighe 
+family: 
+          dú atorchair . . . Raduban Mac in Lestair Í Ainlighi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 58.33
+          
+         (Tig.). 
+          Mac in Lestair Húi Ainlighe 
+. . . do marbad, 
+            156.9
+          
+         (do.). 
+          Gilla in Coimdedh mac Inlestair 
+.H. hAinlighe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 162.28
+          
+         (<span class="lbl">an.</span> 
+          1182
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) <span class="trans">
+          <span class="def">ship</span>, <span class="def">boat</span>, <span class="def">vessel</span>
+        </span>: 
+          fo imrim noe no leasdair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+474.8
+          
+        . luchtlach . . . / i llígḟlatha lestur `<span class="quote">in the vessel of the 
+beautiful realm</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 22
+        . 
+          téit . . . isind l.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 
+71.17
+          
+        . 
+          do longaibh ┐ lestraib ┐ nóaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 131
+          
+        . 
+          ruccait tri .c. l.<span class="oRef">¤</span> 
+leis, for Sinaind co Loch Rai, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 108.4
+          
+         (eathar, <span class="lbl">v.l.</span>). 
+          a[c] 
+cur a lestur ó tír, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1424
+          
+        . 
+          luath-iomramh na leastar 
+tar an lear, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 46.14
+          
+         (
+          na long, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 674
+          
+        ). 
+          [cobhlach] . . . 
+i rabhattar dá chéd l.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1056.21
+          
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

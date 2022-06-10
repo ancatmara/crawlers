@@ -1,0 +1,995 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="6201">bó</h3><span class="citation">Cite this: eDIL s.v. bó or <a class="reference" href="6201">dil.ie/6201</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                boin, bou, bo, boin, baí, b, báu, b, bao, Báu, b, búaib, bai, báe, boin, boin, bó, ba, bai, baei, búaibh, b</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="gen f.">f.</span> See 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 60
+      , 
+        § 72
+      , 
+        § 340
+      . <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        boin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1103
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/VitaBr." title="eDIL Bibliography">Vita Br.</strong></span> 24.
+       <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        bou, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 278.2
+        
+      . 
+        bo, 
+          <span><strong class="pop" style="color:blue" href="bibliography/VitaBr." title="eDIL Bibliography">Vita Br.</strong></span> 24.
+        
+       
+<span class="case d">d</span>
+      <span class="number s.">s.</span> boin (<span class="lbl">cf.</span> 
+        a mboi leó do bhú, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 36.4
+        
+      ). <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        baí, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 33395
+        
+       (TBFr.). 
+        ba, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 34
+        
+       (see O'Rahilly, 
+        <span><strong class="pop" style="color:blue" href="bibliography/EIHM" title="eDIL Bibliography">EIHM</strong></span> 462 n.2
+      ). 
+        b, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 46.y
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        báu, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 395.
+        
+       
+        b, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 20 § 1.
+        
+       <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        bao, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 22b11
+        
+      , 
+        Báu, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5373.
+        
+       
+        b, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 335.1
+        
+       (Hy.v), 
+        bó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 33391
+        
+       (TBFr.). 
+<span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        búaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 22315.
+        
+       <span class="case n">n</span>
+      <span class="number du.">du.</span> 
+        di bai
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 2b11
+        
+      . <span class="case a">a</span>
+      <span class="number du.">du.</span> dí báe
+      , 
+TBFr. 
+        dā boin
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1082
+        
+       (prob. a neologism, 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 340.2
+      ). b.<span class="oRef">¤</span>
+       <span class="gen f.">f.</span>, <span class="case d">d</span>
+      <span class="number s.">s.</span> boin, <span class="case g">g</span>
+      <span class="number s.">s.</span> <span class="case g">g</span>
+      <span class="number p.">p.</span> bó, <span class="case n">n</span>
+      <span class="number p.">p.</span> ba, bai (
+        
+          baei: 
+cnai, 
+          ex. 1623
+        
+      ), <span class="case d">d</span>
+      <span class="number p.">p.</span> búaibh, <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        b, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 86.
+        
+      
+    </p>
+   
+    <p class="result"> 
+<span class="trans">
+        <span class="def">Ox</span>, <span class="def">cow</span>:</span> inna mbao (innabao, <span class="lbl">MS.</span>) gl. boum, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 22b11
+      . 
+
+        bō <span class="frn ">nomen de sono factum suae uocis</span> .i. ainm arna dēnam 
+d'foghar in gotha uodēin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 134.
+        
+       b.<span class="oRef">¤</span>
+       gl. vacca, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 159.
+       buachaill b.<span class="oRef">¤</span>
+       gl. bubulcus, 
+        583
+      . 
+        bō <span class="frn ">a boue</span> .i. is coitcenn 
+aní as bós, <span class="frn ">ut est duo juga bouum, non enim uaccas dixit</span>
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 161.
+        
+       
+        domaincheass ainm do boin .i. dammainchess .i. 
+mainchess bō, ar is cotcend do ceniul a mbos, 
+          321
+        
+      . 
+        
+          <span class="frn ">dicitur</span> . . . 
+redg frisin boin mir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1103.
+        
+       
+        coro dart boin dia 
+búaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 22315
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 113
+      ). 
+        rocuinnig seom boin co B., 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 340.17
+        
+       (Hy. v Comm.). 
+        blegon inna mbō fo thrī, 
+          335.1
+        
+       
+(Hy. v). 
+        co tucad na bu co Loch L. . . . dia mblegon, 
+
+          334.43
+        
+       (Hy. v Comm.). 
+        carais forglu inna mbō, 
+          340.1
+        
+       (Hy. v). 
+
+        bo blegar fri fit, bo co ngalur, bo ciss flatha no eclasa, bo 
+brothcain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 260.2
+        
+      -
+        4
+      . 
+        turcreic bo cona timtach tricha 
+set, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 361 § 19.
+        
+       ite ainmead bo ara n-athchuir <span class="lbl">etc.</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 250
+       (H. 3.18, 145a). 
+        trí aithgine in domuin: brú mná, 
+uth b.<span class="oRef">¤</span>, ness gobann, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 148
+        
+      . 
+        eacmaing a bhái ana . . . do 
+breith dolēic, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 172.18
+        
+      . 
+        oc tabairt tānae b.<span class="oRef">¤</span> húait, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 11.
+        
+       i rrechtaib b.<span class="oRef">¤</span> ┐ dam ┐ ech (rhet.), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8367
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 24
+      ). 
+
+        rucad láeg mo bo fadéin . . . uaim-se, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 3.
+        
+       
+        co mblighfidhe 
+ó na buaibh / sáith f[h]er n-Ēirenn re h-aon-uair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 138.
+        
+       
+cethracha b.<span class="oRef">¤</span> mbreithi mbalcc `<span class="quote">forty strong milch cows</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 12.21
+      . 
+        buachaill ag na buaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 86.3 Comm.
+        
+       
+
+        gur f[h]āgaib gach bō 'gā bōthar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1255.
+        
+       
+        no-chennachtís 
+na bú, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4494.
+        
+       no-chennaigitis na bai . . . isin tempul, 4510. 
+ar boin cach naidche ailes `<span class="quote">for he deserves</span> (<span class="lbl">i.e.</span> <span class="ediltr">claims) a cow 
+every night</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 136.8
+      . ansom . . . bai briugad . . . teora 
+bae i muin na trissi bo <span class="ediltr">cows of a briugu</span> (of interest due for 
+use when given as pledge), 
+        v 400.20
+      . 
+        trí haige bruithi and, 
+a dauim, no a boin, co na timthach di saill no charna, 
+          i 48.3 
+Comm.
+        
+       cuic ba imorro in gach indligedh athgabala `<span class="quote">five 
+cows . . . (is) . . . (the fine) for illegal distress</span>', 
+        ii 100.4 Comm.
+       
+
+        in t-airi ard .i. da ba deg a eniclann, 
+          v 46.11 Comm.
+        
+       
+        Bríg . . . 
+is lé tomlachta na bae fothrí i n-oenló, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 56.15
+        
+      . 
+        cain Daire 
+ga[n] bú do marbad, 
+          210.33
+        
+      . lenaid b.<span class="oRef">¤</span> odar eisium, ┐ corbo 
+isin in Odor Ciarain (hence the name of the Codex Lebor 
+na Huidre <span class="ediltr">Book of the Dun Cow</span>), 
+        202.33
+      . 
+        intan dono no 
+gesed in tarb bai ocaib no thiagdais ba in tire comfoco[i]s, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 142.
+        
+       
+        ro ghad boin o Ciaran . . . ro innto an buin go 
+Ciaran doridhisi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 109 § 38
+        
+      . 
+        ní bhean boin do baintrebhthaigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 509.
+        
+       
+        luaith na b.<span class="oRef">¤</span> do bheith ar 
+n-a hiodhbairt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 437.
+        
+       i gcuibhreann na mb.<span class="oRef">¤</span> fán bhféar 
+(of Nabuchadonosar), 
+        3464
+      . 
+        ó tharlais gan bhrat gan bhú, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 27.34
+        
+      . mairg nach tabhair bloigh na b.<span class="oRef">¤</span> / [san] 
+chró [a d]taraidh 'n-a boin bheo <span class="ediltr">alas for him who does not 
+give (to God) a portion of the cow (i.e. some of his wealth) for 
+it will be a whole cow in heaven</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 42.39
+      . ná bíodh aca 
+choidhche, daimh, ba, ná tréuda cáorach = <span class="ediltr">kyne</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/RSCl&#xE1;ra" title="eDIL Bibliography">RSClára</strong></span>
+108a
+        
+      . b.<span class="oRef">¤</span> sa bhoin `<span class="quote">a cow for cow</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 739.
+       In legal 
+contexts frequently a unit of value (Plummer MS. notes), 
+see Binchy, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> (p. 106
+      ): 
+        secht seoit sin da tecait 
+ceithre ba .i. bo mór and ┐ se samaisce ar trí buaib, in bo 
+riu, conid ceithri ba, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 195
+        
+      -
+        196
+       (H.4.22, 8). naoi marg xxit 
+do bhuaibh no darget `<span class="quote">29 marks . . . in cows or in money</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Trans.RIA" title="eDIL Bibliography">Trans. RIA</strong></span> xv (1826) 33.25
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">Of <span class="def">land</span>:</span> 
+        ined da boo deac di thir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 288.11
+        
+       (see 
+Mac Neill, 
+        <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> xxxvi 286 n. 2
+      ).</p>
+  
+  
+    <p class="result"> 
+In phrr. in various applications: 
+        b.<span class="oRef">¤</span> bainne, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 176.16 
+Comm.
+        
+       
+        b.<span class="oRef">¤</span> blicht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 103.2
+        
+      . 
+        ár mbadh bhí bleacht, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 214.368
+        
+       (Midn. Court). in bo derba `<span class="quote">milch cow</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+ii 162.8 Comm.
+       (`<span class="quote">cow of the (milk)-pail</span>' (Thurn.), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xx 199 
+n.7
+      ). b.<span class="oRef">¤</span> ḟind óderg <span class="trans">white <span class="def">red-eared</span> <span class="def">cow</span>
+      </span> `often mentioned in early 
+Irish literature as a choice breed of cattle,' Bergin, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiv 170
+       and <span><strong class="pop" style="color:blue" href="bibliography/Peritia" title="eDIL Bibliography">Peritia</strong></span> xix 239-55
+      : 
+        roerbad iarom b.<span class="oRef">¤</span> find audercc dia taiscid ┐ ba slan di, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/VitaBr." title="eDIL Bibliography">Vita Br.</strong></span> 5.
+        
+       
+        bo find ó. leo, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4410.
+        
+       
+        secht mba finna ō-derga, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 34.
+        
+       
+        dobert a máthair dí báe déc dó assint shíd, it é 
+finda óiderga, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 5.
+        
+       b.<span class="oRef">¤</span> bháthair <span class="trans">a <span class="def">stray</span> <span class="def">cow</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. 
+ex. 1354.
+       Note also: 
+        bo fri blícht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 122.10
+        
+       
+        .i. i n-aimsir 
+lachtha isin tsamradh, 
+          126.19 Comm.
+        
+       bó allaid <span class="trans">(`<span class="def">stag</span>', 
+Plummer MS. notes), perh. <span class="def">hind</span>:</span> 
+        tuc fer boin allaid leis dia 
+hidpairt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 152a58
+        
+      . b.<span class="oRef">¤</span> féich: tighail .i. (<span class="lbl">sic leg.</span>) crīch 
+dédenach tairic in bō fēich <span class="ediltr">cow paid as last payment of debt 
+due</span> (?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 862.
+       b.<span class="oRef">¤</span> ḟeisi (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/B&#xFC;rgschaft" title="eDIL Bibliography">Bürgschaft</strong></span> 66
+      , 
+        78
+      ): ised 
+slan ngell .i. ba fesi gell, tricha a lin . . . ┐ diabludh fiach for 
+bidbuid <span class="ediltr">cows of spending the night</span> (part of compensation 
+payable by defaulting debtor to his surety, kept in captivity 
+by creditor), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 136.5 Comm.
+       
+        cu nícand dech mbu feisi 
+┐ logh einech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 87
+        
+       (H.3.17, 73). 
+        b.<span class="oRef">¤</span> indláeg see indláeg 
+and, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xx 231
+        
+      -
+        2
+      . b.<span class="oRef">¤</span> gabála <span class="trans">
+        <i>a</i> (<span class="def">beef</span>-)<i>cow levied as a</i> <span class="def">due</span>
+      </span> 
+(see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gab&#xE1;l">gabál</a></span>): 
+        bo g. .i. mart, no in b.<span class="oRef">¤</span> méth, ut est athgabail b.<span class="oRef">¤</span> 
+gabala . . . .i. in bo marta nó atgabail gabair im boin marta, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 284.
+        
+       b.<span class="oRef">¤</span> lethgabála (expld. by O'Curry, 
+        <span><strong class="pop" style="color:blue" href="bibliography/MannersandCustoms" title="eDIL Bibliography">Manners and Customs</strong></span> iii 519 n. 580
+       as `rate in aid of a cow (perh. half the 
+cow's value) levied to meet the requisition of the officer for 
+the relief of the poor' (<span class="lbl">i.e.</span> the huaitne fonluing, <span class="lbl">etc.</span>). 
+
+        dlighidh . . . boin lethgab[ala], 
+          519.17
+        
+      . b.<span class="oRef">¤</span> marta <span class="trans">
+        <span class="def">beef-cow</span>
+      </span>, 
+see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 mart">2 mart</a></span>.  b. threlóeg <span class="trans">a cow having had three calves</span>:
+         .i. cuinnid co hobonn boin treloegh ,  <span><strong class="pop" style="color:blue" href="bibliography/Bretha" title="eDIL Bibliography">Bretha</strong></span> 42 § 33.6
+        
+      .
+         .i. ni truma na inni ata ina thoirsiugud umpu na bo trelaog , 
+          44 § 34.9
+        
+      .
+         tri ba inlaega ar da m-buaib tre laega , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 102.19 Comm
+        
+      . b.<span class="oRef">¤</span> thúir see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 t&#xFA;r">2 túr</a></span>.</p>
+  
+  
+    <p class="result"> 
+In <span class="pos nn.-loc." style="color: #ff8000">nn. loc.</span> (see also Hog. Onom.): 
+        
+          <span class="frn ">Campulus Bouis</span> . . . 
+Ached bou, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 278.2
+        
+      . 
+        o Inis bo finne, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 184.18
+        
+      . 
+        Bernas 
+ṁ Bāu (= Báu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5373
+        
+      ) 
+        Cūailnge, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 897.
+        
+      
+    </p>
+  
+  
+    <p class="result"> 
+Compds. With nouns: cin boainmead <span class="ediltr">without bovine defect</span>(justifying, if present, the cancellation of a purchase, Plummer 
+MS. notes), 
+        <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 250
+       (H.3.18, 145). bó-ár <span class="trans">name of a <span class="def">cattle-disease</span>, </span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 428 § 17.
+       boár .i. sgamach nó
+maolgarb (see bódíth <span class="lbl">infra</span>) 
+        no galur righín, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 291.
+        
+       
+        iar 
+dteacht do bh.<span class="oRef">¤</span> nó do bhó-dhíth chuca i n-aimsir C[h]ormaic 
+mic Airt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 89 § 36.
+        
+       
+        bóbard seventh class of sóer bard, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> 
+iii 5.10
+        
+      . 
+        bobard dō, suithi ndebidi scarta la sen etir fod ┐ cuimri, 
+etir trebrad ┐ sned, 
+          28 § 67
+        
+      . 
+        aisti bobaird . . . .i. debidi nimrínd 
+┐ debide scailti etir fot ┐ gair, 
+          45 § 66
+        
+      . Dond Cúalnge . . . / co 
+ndernsat imme in mbó-brait `<span class="trans">
+        <span class="def">Cattle-Raid</span>
+      </span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+370.8
+      . screpul cach bóbotha `<span class="trans">
+        <span class="def">cow-shed</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 430 § 56.
+       
+
+        Dari [.i.] bóchana, fedb, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> Nov. 2.
+        
+       <span class="lbl">Cf.</span> 
+        cain Darí, cen 
+bú do gait, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 306.28
+        
+      , see Thurneysen, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xviii 386.
+       
+
+        ro metadh blicht cacha bo-cheathra, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 100.20
+        
+      . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=b&#xF3;char">bóchar</a></span>. 
+go ndeachaidh do chosnamh a bhóichreche orra `<span class="quote">to protect 
+his cows against them</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 224.6
+      . crecsluaighedh . . . d'ar 
+comairmedh secht cata deg do bochrudh <span class="ediltr">of property in cattle</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> ii 506.20
+      . 
+        leisin mbréid sróllchon sénta / bóchrodh téid 
+dá thaiscélta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 71.
+        
+       bruach do bhiadhfadh 
+bóchuingir <span class="ediltr">a yoke of oxen</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> iii 88.16
+      . ? 
+        ba flaith os 
+chuan cach curaich / fo bái slúag in bo-chumaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iv 338.8
+        
+      . ina bai bit a mbodaingen `<span class="quote">cows should be in a 
+cow-fastness</span>' (<span class="lbl">i.e.</span> at nightfall), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 96.25
+      . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=b&#xF3;dela">bódela</a></span>. 
+at crothle garmilíne / at búanaind bodelbae <span class="ediltr">in the shape of 
+a cow</span> (?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8366
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 24
+      ). bodibad mor fo Erind <span class="ediltr">destruction 
+of cattle</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 470.22
+      . doroine bo-dhibadh mór (of an invad-
+ing chief), 
+        ii 118.21
+      . (as epithet) 
+        Bresal Bodibadh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 
+302.9
+        
+       . bo-dhíth mhór ind Erinn, dá ngoirthí Maolgarbh 
+`<span class="quote">murrain</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1044.11
+      . 
+        earrach an bhó-dhíthe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 
+494.15
+        
+      . bó-dún see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=bad&#xFA;n">badún</a></span>. moch <span class="lbl">i.e.</span> bo-erge <span class="trans">lit. <span class="def">cow-rising</span>
+      </span> 
+(gl. buaroch), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 215
+       (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 14.29
+      ). no sechmallad . . . in ṁbeoḟeoil `<span class="trans">the <span class="def">beef</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 262.19
+       (ACC Comm.). 
+co tuc boghabhail moir <span class="ediltr">a great prey of cattle</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 526.4
+      . nía 
+boidb bógeimnech (rhetoric), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5326
+       (TBC). bōger `<span class="trans">
+        <span class="def">beef-
+lard</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 79.23
+      . bogeltach faithche .i. fer meite coimse 
+na teit tar crich . . . bogeltach .i. fer fogelta a bu a faithce 
+ar cach nach déis etar coin allta ime . . . ni dligh dire na 
+saire `<span class="trans">
+        <span class="def">cow-grazier</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 344.5
+      , 
+        352.18
+      , 
+        21 Comm.
+       bóguin, 
+see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wortk." title="eDIL Bibliography">Wortk.</strong></span> 146
+      : (<span class="case g">g</span>
+      <span class="number s.">s.</span> as epithet) Enna Bōguine (B. ōtāt 
+Cenēl m Bógaine, <span class="lbl">v.l.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 163.2
+      . <span class="lbl">Cf.</span> Boguinig `<span class="quote">the 
+descendants of Enna Boghuine</span>' (note), 
+        <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 156.10
+      . co ro 
+slecht in buar uile, co n-ebert: "Is bo-guine andso ┐ bid 
+[sed] (?) ainm na benni[se]." <span class="frn ">Unde</span> . . . Beann Bogaine `<span class="quote">a cow-
+slaughter</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 142.
+       
+        ingen in righ .i. Boguine a ainm-siden, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 324.7
+        
+      . sinum lactis .i. genus uasis .i. bomilge `<span class="quote">of 
+cows milk</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 48.30
+      . 
+        boogam .i. lilgach ar aicme bethi . . 
+gamnach ar aicme huatha . . . samaisc ar aicme muine, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 5759.
+        
+       bō-otrac[h] <span class="trans">
+        <span class="def">cow-dung</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 196.
+       conamailt saill ┐ bōṡaill foa <span class="trans">
+        <span class="def">corned</span> <span class="def">beef</span> (?)</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 883 (76.11)
+      . 
+ethar bec . . . bōshaille `<span class="quote">of beef-fat</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 85.10
+      . boseiche 
+`<span class="trans">
+        <span class="def">cow-hide</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 148.19 Comm.
+       
+        it séoit bóṡlabra[e] 
+direnatar dó, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 120.
+        
+       tri cóecait cét boslabraidh 
+`<span class="trans">
+        <span class="def">dower-kine</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvii 214.4
+       (Tig.) = 
+        bó ṡlabhra, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 
+2243
+        
+      . bo-ṡlechta `<span class="quote">the law concerning cows</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ann.Inisf." title="eDIL Bibliography">Ann. Inisf.</strong></span> 810.
+       
+rith cana boileachta `<span class="quote">des Rinder betreffenden Gesetzes</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+xviii 383.14
+      . cain boiliuchta (<span class="lbl">i.e.</span> `<span class="quote">the law that treats of 
+cow-killing, cow stealing, etc.</span>' n. 1), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 110.4 Comm.
+       
+
+        seacht cumala lana for fer nurradais mboslechta .i. iar marba 
+buachalla, no airamhain. No is comlaithred deisi iar ngait, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2440
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 36 ra.
+      ) `<span class="trans">
+        <span class="def">cattle-tracking</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 97 § 42.
+       
+bosluaiged <span class="trans">lit. <span class="def">host</span> of <span class="def">cattle</span>
+      </span> gl. mammona, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 300.
+       botheach `<span class="trans">
+        <span class="def">cow</span> <span class="def">house</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 514.35 Comm.
+       bótháin <span class="trans">cow <span class="def">raid</span>
+      </span>: 
+        rohir dam . . . .x. 
+mbuachailli botana, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 3.14
+        
+      . 
+        ron-íurusa im chét mbó 
+bódána, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 267
+        
+       = 
+        bóthána, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6763.
+        
+       
+        co n-immad ech ┐ 
+bótháinte, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3911
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 42
+      ). no geibed Flidais . . . do bóthorud <span class="ediltr">of livestock</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBFlidais" title="eDIL Bibliography">TBFlidais</strong></span> 88
+      . 
+        co tí in bo dia botreib, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 397b2
+        
+      . in a bo-tuar (`<span class="trans">cow <span class="def">dung</span>
+      </span>', Plummer MS. notes), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 464.13 Comm.
+      
+    </p>
+  
+  
+    <p class="result"> 
+With adjj.: bo-abartach, abairt amail in mboin `<span class="quote">behaving like the cow</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 316
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 29.10
+      ). 
+        brucchaid bó-cédach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 137.9
+        
+       `<span class="quote">with hundreds of kine</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 4682.
+       
+
+        Bernngal Bóchétach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5322.
+        
+      
+    </p>
+  
+  
+    <p class="result"> 
+With bú-: ? maccaim beca buaigelta (buaidhghela, <span class="lbl">v.l.</span>), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1372
+      . <span class="lbl">Cf.</span> bógeltach. 
+        a ccreachghabhala cruidh ┐ 
+cethra broide ┐ búalmha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 204.32
+        
+      . for buageltach 
+ṁBreg (of Cú Chulainn), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 12569
+       `<span class="trans">
+        <span class="def">guardian</span>
+      </span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 398 § 
+1
+      . 
+        Buagelltaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9084
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 83
+      ), <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1209.
+      
+    </p>
+  
+  
+    <p class="result"> 
+See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=b&#xE1;rach">bárach</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=b&#xF3;aire">bóaire</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=b&#xF3;bath">bóbath</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=b&#xF3;lacht">bólacht</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=b&#xF3;mlacht">bómlacht</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=b&#xF3;raime">bóraime</a></span>, 
+1, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 b&#xFA;arach">2 búarach</a></span>.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

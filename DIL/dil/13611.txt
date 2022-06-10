@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="13611">cuing</h3><span class="citation">Cite this: eDIL s.v. cuing or <a class="reference" href="13611">dil.ie/13611</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                cuinge, cunga, cuingeadh, cuinge, cungaib</p></div><div class="col-sm-9 result_content">
+    
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="gen f.">f.</span> <span class="case g">g</span>
+      <span class="number s.">s.</span> and <span class="case n">n</span>
+      <span class="number p.">p.</span> cuinge, cunga. <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        cuingeadh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 
+24.7
+        
+      . <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        cuinge, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9190
+        
+      . <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        cungaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5505
+        
+      . c.<span class="oRef">¤</span> coing 
+<span class="gen f.">f.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 14
+      . </p>
+   
+    <p class="result"> 
+<span class="trans">
+        <span class="def">Yoke</span>
+      </span>: 
+        c.<span class="oRef">¤</span> .i. ōn c[h]ongbāil dobir for na damhaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 
+333
+        
+      . ? 
+        coing .i. comching, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> 12
+        
+      . 
+        tucad c.<span class="oRef">¤</span> for muinélaib 
+dam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10819
+        
+      . dagere cuinge sesrige <span class="ediltr">a yoke</span>(<span class="ediltr">d team) of six</span>, 
+
+        7213
+      . ? 
+        ech óenchuiṅg, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 14007
+        
+      . 
+        cunga na ndam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 
+1488
+        
+      . 
+        c.<span class="oRef">¤</span> ┐ cechta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 484.14 Comm.
+        
+       
+        fo chend inna 
+cuṅga, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 14008
+        
+      . c.<span class="oRef">¤</span> argit etarru (of magic birds), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+10574
+      . 
+        pistal cuínge cuírre cruime cruinde, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 101.14
+        
+      . 
+leth a chuṅga fo brágit (of Líath Macha), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 14004
+      . 
+        ar 
+ammus cuṅgi carpait C., 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 1027
+        
+      . c.<span class="oRef">¤</span> immechtair see 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=immechtar">immechtar</a></span>. c.<span class="oRef">¤</span> úarmedóin see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=&#xFA;armed&#xF3;n">úarmedón</a></span>
+    </p>
+  
+  
+    <p class="result"> 
+Extended applications: c.<span class="oRef">¤</span> umai darsa forlés <span class="trans">
+        <span class="def">frame</span> (?)</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Fraech" title="eDIL Bibliography">Fraech</strong></span> 72
+      . a c.<span class="oRef">¤</span> meidhe <span class="ediltr">beam of balance</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 274
+      . 
+        ac.<span class="oRef">¤</span> 
+amedaibh siuil sirthe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 85.6
+        
+      . congbhadh go comhthrom 
+a ch.<span class="oRef">¤</span>
+       `<span class="quote">he should keep his scale even</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xiv 64
+      . c.<span class="oRef">¤</span> 
+leth-remor 'na leth-leirg <span class="ediltr">ridge</span> (of hill), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 46.10
+      . 
+c.<span class="oRef">¤</span> a spuir (<span class="lbl">i.e.</span> curved portion ?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 307
+      . an 
+ceathramhadh c.<span class="oRef">¤</span>
+       (step in a ladder), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 62.24
+      .</p>
+  
+  
+    <p class="result"> 
+<span class="trans">Of (one of) a <span class="def">pair</span> of <span class="def">opponents</span>, <span class="lbl">etc.</span>:</span> ba comnart cuiṅg dar 
+Herind áin / comrac in Guill is Gotáin `<span class="quote">equal match</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 54.155
+      . níor fhás a haithghin eile / . . . na (<span class="lbl">leg.</span> 
+ná) c.<span class="oRef">¤</span> chuimse <span class="ediltr">her fitting equal</span> (?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xv 12
+      . 
+
+        níor mheadh Murchadh dho mar ch.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xviii 142
+        
+      . 
+? iasacht coirbthe cuinge na mbréagchúmthach `<span class="quote">clique</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 6.1
+      .</p>
+  
+  
+    <p class="result"> 
+Fig. <span class="trans">
+        <span class="def">burden</span>, <span class="def">duty</span>, <span class="def">sway</span>, <span class="def">discipline</span>; <span class="def">behaviour</span>
+      </span>: 
+        gan coing 
+uirre acht an t-ard-ḟlaith (: roinn), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 286.60
+        
+      . 
+
+        do scar re c[ui]ng saegalda . . . ┐ do-choidh isna man[c]haib, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 4199
+        
+      . 
+        an ch.<span class="oRef">¤</span> do-chóidh oram-sa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 6.30
+        
+      . bím 
+fa ch.<span class="oRef">¤</span> a ccomuirghe `<span class="quote">under the bond of their protection</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 2518
+      . ní gebaid c.<span class="oRef">¤</span> act a cath <span class="ediltr">will accept no yoke 
+except one imposed by battle</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 22.18
+      . dom ch.<span class="oRef">¤</span>-se `<span class="quote">duty</span>', 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> viii 27
+      . do ghabh mar ch.<span class="oRef">¤</span> uirre féin caora . . . do 
+thabhairt <span class="ediltr">obligation</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 628
+      . biodhbhaidh cuinge 
+Críosd (of sins), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 52.6
+      . lán do thoibhéim do c.<span class="oRef">¤</span> 
+chlaoin <span class="ediltr">perverse ways</span> (?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xix 8
+      . 
+        bean nach 
+cleasach c.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 3433
+        
+      . 
+        atá mo ch.<span class="oRef">¤</span> milis ┐ mh'ualach 
+éudtrom, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rial.S.F." title="eDIL Bibliography">Rial. S.F.</strong></span> 765
+        
+      . cruas gach cuinge <span class="trans">
+        <span class="def">discipline</span>
+      </span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> p. 14 n.
+       gabhaim do chosg ar mo ch.<span class="oRef">¤</span>
+       <span class="ediltr">I undertake to 
+punish you</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxvii 11
+      . ar [an] ch.<span class="oRef">¤</span> bhenduighthe = 
+<span class="ediltr">holy Obseruance</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/RSCl&#xE1;ra" title="eDIL Bibliography">RSClára</strong></span> 95b
+        
+      . In chev.: 
+        calma in chuiṅg, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 22016
+        
+      . 
+        ard a ch.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 7.35
+        
+      .</p>
+  
+  
+    <p class="result"> 
+With (attrib.) gen.: 
+        fa ch.<span class="oRef">¤</span> altrannais uasail, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 66.11
+        
+      . 
+c.<span class="oRef">¤</span> chatha Caisil `<span class="quote">burden</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Caithr.CC" title="eDIL Bibliography">Caithr. CC</strong></span> 22
+      . do bí c.<span class="oRef">¤</span> in catha ar 
+Maccon <span class="ediltr">the brunt of the battle</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 115.23
+      . 
+        a 
+chos chuinge catha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 79.27
+        
+      . Of a person: c.<span class="oRef">¤</span> (in) 
+chatha <span class="ediltr">champion</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 1276
+      . 
+        curata in ch.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 107a39
+        
+      . 
+<span class="lbl">Cf.</span> 
+        c.<span class="oRef">¤</span> cruaidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 405a45
+        
+      . c.<span class="oRef">¤</span> chrábaid (chreitim, <span class="lbl">etc.</span>) 
+<span class="trans">
+        <span class="def">religious</span> <span class="def">life</span>, <span class="def">observance</span>
+      </span>: 
+        fear congmála cuinge crábuid do 
+Chríst, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 82.11
+        
+      . do ghabh c.<span class="oRef">¤</span> chrábhaidh <span class="ediltr">entered religious 
+life</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 352
+      . 
+        fa chuing creidimh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 32.36
+        
+      . 
+        hi 
+ccuincc cléircechta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1048.14
+        
+      . 
+        c.<span class="oRef">¤</span> phósda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/P&#xE1;rl.namB." title="eDIL Bibliography">Párl. na mB.</strong></span>
+1696
+        
+      . 
+        fá ch.<span class="oRef">¤</span> umhlachta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2282
+        
+      . </p>
+  
+  
+    <p class="result"> 
+In phr. fo ch.<span class="oRef">¤</span>
+       <span class="trans">
+        <span class="def">subject</span>, in <span class="def">submission</span>
+      </span>: 
+        fa ch.<span class="oRef">¤</span> don bhanóigh 
+do bhaoi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 13.35
+        
+      . 
+        is mithigh ar gcar fa ch.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> 
+xxiii 32
+        
+      . 
+        do chuir . . . / an chóir fa ch.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 82. 23
+        
+      . 
+dul fa a ch.<span class="oRef">¤</span>
+       <span class="ediltr">to submit to him</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 59.5
+      . Note also: 
+        fa cuir 
+ch.<span class="oRef">¤</span> ar cónsabla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 93
+        
+      . </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

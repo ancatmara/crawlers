@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="17132">do-áirci</h3><span class="citation">Cite this: eDIL s.v. do-áirci or <a class="reference" href="17132">dil.ie/17132</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                táirged, táirced, taircid, taírcaid, doáirci, doáircci, duairci, tairci, tárci, dofarci, dofairce, táirci, thairce, tairces, tairges, dunáirceat, táircet, taircet, -taircet, dothairced, taircitis, dunáirrcea, dunaircea, dunairrcea, duaircem, dunaircet, taircither, dunairced, -dairgeba, taircebat, duaircibed, dunaircibed, do-áirgébad, dorárricc, doraricc, doráricc, durairric, do-rairg, doraraic, doraraic, dothairg, ro tairic, rontaraig, tharaic, tharic, táircide, táircidi, tárcud</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 553
+      , Bergin 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xi 139
+      ). <span class="mood Ipv.">Ipv.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        na 
+táirged
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 23c13
+        
+      . 
+        táirced, 
+          
+            c14
+        
+      . <span class="per 2">2</span> <span class="number pl.">pl.</span> 
+        taircid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 48b15
+        
+      . 
+
+        taírcaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2624
+        
+      . </p>
+   
+    <p class="result"> 
+ <span class="mood Indic.">Indic.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        doáirci, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3d19
+        
+      ; 
+        15b28
+      . 
+        doáircci, 
+          12c26
+        
+      . 
+
+        duairci, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 76a16
+        
+      . tairci (<span style="color: #ff8000">rel.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12c31
+      . 
+        tárci, 
+          25a4
+        
+      . 
+
+        dofarci, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1228
+        
+      . 
+        dofairce, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 293
+        
+      = 
+        <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1935
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8378
+      . 
+        ni táirci
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 27a28
+        
+      . 
+        ni tárci, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 158
+        
+      . 
+        ni 
+thairce
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8385
+        
+      . 
+        
+          <span class="oRef">¤</span>tárcend, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 693
+        
+      . <span style="color: #ff8000">Rel.</span> 
+        tairces, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 73
+        
+      . 
+
+        tairges, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 163
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        dunáirceat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 86c14
+        
+      . 
+        táircet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3b8
+        
+      . 
+
+        taircet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 21
+        
+      . 
+        ni táircet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 30b12
+        
+      . 
+        ní tarcat, 
+
+          31d10
+        
+      . 
+        -taircet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4232
+        
+      . <span class="tns Ipf.">Ipf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        dothairced, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4521
+        
+      . 
+ <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        ní taircitis
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 98c2
+        
+      .</p>
+   
+    <p class="result"> 
+ <span class="mood Subj.">Subj.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        dunáirrcea, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 78b22
+        
+      . 
+        dunaircea, 
+          85c2
+        
+      . 
+
+        dunairrcea, 
+          130a15
+        
+      . <span class="per 1">1</span> <span class="number pl.">pl.</span> 
+        duaircem, 
+          35b3
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        dunaircet, 
+
+          46b15
+        
+      . <span class="voice Pass.">Pass.</span> 
+        ní taircither
+        , 
+          17d5
+        
+      . <span class="tns Ipf.">Ipf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        dunairced, 
+          35a12
+        
+      . 
+ <span class="tns Fut.">Fut.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        -dairgeba, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 266 Comm.
+        
+       <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        taircebat, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 119b29
+        
+       (forms infl. by <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gaibid">gaibid</a></span>). <span class="mood Condit.">Condit.</span> <span class="per 3">3</span> <span class="number s.">s.</span> duaircibed, 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 29c10
+      -
+        11
+      . 
+        dunaircibed, 
+          100b7
+        
+      . do-áirgébad (<span class="lbl">sic leg.</span>, Gloss.), 
+        <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 196
+       (infl. of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=gaibid">gaibid</a></span>).</p>
+   
+    <p class="result"> 
+ <span class="tns Perf.">Perf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        dorárricc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3c15
+        
+      . 
+        doraricc, 
+          19b23
+        
+      . 
+        doráricc, 
+
+          3c29
+        
+      . 
+        durairric, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 33b20
+        
+      . 
+        do-rairg, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 22
+        
+      . 
+        doraraic, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span>
+ Aug. 1
+        
+      . 
+        doraraic, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7216
+        
+      , 
+        7193
+      . 
+        dothairg, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 539
+        
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 16a30
+      . 
+        ro tairic, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4390
+        
+      . ? 
+        rontaraig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1524
+        
+      . 
+? 
+        tharaic, 
+          6367
+        
+      . 
+        tharic, 
+          6741
+        
+      .</p>
+   
+    <p class="result"> 
+ <span class="pos Part." style="color: #ff8000">Part.</span> táircide, <span class="pos Verbal-of-necess." style="color: #ff8000">Verbal of necess.</span> táircidi. <span class="pos Vn." style="color: #ff8000">Vn.</span> tárcud.</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">In general sense <span class="def">causes</span>, <span class="def">effects</span>, <span class="def">induces</span>, <span class="def">brings</span> about, 
+brings</span> (a result, <span class="lbl">etc.</span>); in Ml. usually glosses ferre with some 
+object like adiutorium, 
+          19a4
+        ; auxilium, 
+          78b22
+        ; praesidium, 
+
+          130a15
+        ; sententiam, 
+          35a12
+        ; or compd. thereof; afferre (exemplum, rationem), 
+          35b3 
+        , 
+          46b15
+        ; deferre (servitium), 
+          48b15
+        ; 
+ inferre, 
+          27c20 
+        , 
+          29c10
+        -
+          11
+        , 
+          100b7
+        ; perferre (of a message), 
+
+          33b20
+        ; praeferre (officium), 
+          98c2
+        ; referre, 
+          17d5 
+        , 
+          18a6
+        ; and 
+ incutere (timorem), 
+          85c2 
+        , 
+          86c14
+        . `<span class="frn ">fero</span>' 
+          taircim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Gl." title="eDIL Bibliography">Metr. Gl.</strong></span> p. 4
+          
+        . 
+
+          doáirci bethid dúnni, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3d19
+          
+        , 
+          15b28
+        . 
+          is heside dorárricc 
+báas dúnni, 
+            3c15 
+          
+        ; 
+          3b8
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 76a16
+        . 
+          ní óen-torbe doraricc dún 
+<span class="frn ">crux Christi</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 19b23
+          
+        . 
+          ní tarcat torbe, 
+            31d10
+          
+        . a mba 
+taircide in todernam gl. illato supplicio, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 27c20
+        . 
+          do chalaind ind Auguist | doraraicc mór mbríge, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Aug. 1
+          
+        . 
+          ni 
+thairce tarba nā somáin do nech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8385
+          
+        . nocho taircci baa 
+dam <span class="ediltr">does me no good</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 9
+        . 
+          co tárcend suba ┐ sogra 
+dond ardríg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 693
+          
+        . 
+          dothairg dubha ┐ dobrōn d'feraib 
+Erenn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 539
+          
+        . cia domain doairgebad don ríg in gat 
+`<span class="quote">what damage the theft would cause to the king</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> § 18
+        . 
+          ni 
+rotairic oen lā riem . . . don cinidh doennae sama[i]l in rotairicc 
+in la sin dōib .i. a ndith ┐ a mudugud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4390
+          
+        . 
+          rotáirgfedh mor do allud do Grécaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 413b35
+          
+        . 
+          ní tárci [in gó] ni 
+di ulc [d]ondí frisa n-eperar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 158
+          
+        . trefocal cen scáth 
+dofairce cuitbiud <span class="ediltr">which provokes derision</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 293
+        . 
+
+          dofarce, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1935
+          
+        ; <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1228
+        . 
+          co tarce toil di cach 
+oen | i mbrēithir, i ngnīm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 316
+          
+        . cia lín dond rīgraid 
+rāin ruaid | Temra co n-uail tarcai trāig <span class="ediltr">that causes decline of 
+Tara</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 137a26
+        . findṡruth arggait, drepa óir, | taircet 
+fáilti cech imróill <span class="ediltr">cause joy</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> 40
+        . 
+          ammiti tuathchaecha taircebat mo milliud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 119b29
+          
+        . aingel Dé tharic cech 
+síd (: rádid?) <span class="ediltr">who hath wrought every peace</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6741
+        . ōs dálaib 
+tharaic [Dia] . . . | fot lámaib do dergnamait <span class="ediltr">has placed thy 
+dire enemy in thy hands</span>, 
+          6367
+        . With FOR: 
+          do-fairce péin ┐ 
+digal for nech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8378
+          
+        . hiligthir a pennind fo mēt torraraic 
+fora chomnesam di saethur <span class="ediltr">the amount of trouble he has caused 
+his neighbour</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 158
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">produces</span>, <span class="def">brings forth</span>:</span> rothairg Dia ┐ rotusim donn ūir 
+in uili crand (= <span class="frn ">produxit . . . de humo omne lignum</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> ii 9
+        ), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 16a30
+        = 
+          rothairc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 529a16
+          
+         (but possibly here the 
+notion is to <span class="ediltr">draw</span>, suggested by <span class="frn ">produxit</span>, see below). 
+          rorāid 
+Dia: doradus daib . . . in uili ḟér tairceas sil for talmain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 
+528b27
+          
+        = 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 15b51
+        . 
+          co ndat ambrite ┐ co nā taircet torad, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4232
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">procures</span>, <span class="def">gains</span>, <span class="def">provides</span>, <span class="def">supplies</span>:</span> 
+          comartha tairces 
+churathmír dúib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 73
+          
+        . cia rontáraig Dia bithmaith 
+ <span class="ediltr">though God had secured us lasting good</span> (dia prep., Stokes), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 
+1524
+        = 
+          tuc sum cech maith dun, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 62
+          
+        . 
+          rí doraraic 
+doib mór slúag, 
+            7193
+          
+        . ? tairgid scēth . . . ┐ cloidme `<span class="quote">provide</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 28
+        . mo chathmerge cenand rothairc ferand fó `<span class="quote">that 
+has won good land</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> xix 550
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 147a35
+        ). <span class="lbl">Cf.</span> also follg. 
+exx. from Laws: 
+          ni tualaing rodaselba sanna nech nodoren 
+nade tairce, 
+            i 202
+          
+        . ? nad bi ed ōn donairce `<span class="quote">if it be not he that 
+acquires it</span>', 
+          iii 48
+        . munar tairg int athuir somuine cuige 
+amuigh `<span class="quote">unless . . . has acquired property</span>', 
+          iii 64 Comm.
+         fer 
+conae deis n-athar . . . ┐ do tairchid `<span class="quote">who accumulates</span>', 
+          iv 348
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) Miscellaneous and doubtful uses: 
+          in mias atuaid, 
+taircthi rúin, | cosna bargenaib remuir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4353
+          
+        ; <span class="lbl">cf.</span> 
+          4521
+        . 
+
+          Sárnat ben Chonairi . . . rastuc cen temel mar thaircim | 
+Nemed mac Srabcind na srian, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 138b44
+          
+        = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 399a6
+        
+(do-fairget?). ingen maic Niad co méite, | Téite, notharcitis 
+(rotairgitis, rotairrngidis, <span class="lbl">v.l.</span>) tuir `<span class="quote">whom chieftains used to 
+guard</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 234
+         (referred to do-farcai, Gloss.).</p>
+    
+  
+  
+    <p class="result"> 
+<span class="trans">In follg. instances from Laws apparently <span class="def">brings</span>, <span class="def">conducts</span>, 
+<span class="def">leads</span>:</span> masa codnach rotargestur in ech dochum in denta <span class="ediltr">who 
+led</span>, 
+        iii 254
+      . 
+        mas ī in t-ech rotairgestar in codnach, 
+          256
+        
+      . slān 
+dona damaib cach uile ní (uile) dara dairgeba in codnach iad 
+ina certimāin `<span class="quote">over which a sensible adult conducts them in 
+proper driving</span>', 
+        266
+      . masa codnach rotairged isin rē comraic 
+`<span class="quote">that is drawn into the combat-field</span>', 
+        296
+      . slán d'fir in eich na 
+huile neiche dara taircebar `<span class="quote">over which it is (<span class="lbl">lit.</span> will be) 
+ brought</span>', 
+        180 Comm.
+       In these exx. perh. influenced by 
+tairngid tairgid, prototonic form of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-srenga">do-srenga</a></span> <span class="ediltr">draws</span>.</p>
+  
+  
+    <p class="result"> 
+See also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-airicc">do-airicc</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-fairget">do-fairget</a></span>.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

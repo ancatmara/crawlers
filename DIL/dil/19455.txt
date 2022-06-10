@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="19455">éccosc</h3><span class="citation">Cite this: eDIL s.v. éccosc or <a class="reference" href="19455">dil.ie/19455</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                ecoisce, hæcosc, hecosc</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="itype u">u</span> ; <span class="gen n.">n.</span>, later <span class="gen m.">m.</span> ; the form 
+        ecoisce, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 262a54
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 195 § 36
+      ), if not a scribal error may be <span class="case g">g</span>
+      <span class="number p.">p.</span>
+    </p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) 
+<span class="trans">external <span class="def">characteristics</span>, distinguishing <span class="def">mark</span>, <span class="def">sign</span>
+        </span> by which 
+a person (thing) is known for what he (it) is : conróbad 
+écoscc a cheneóil foir <span class="ediltr">the mark of his nation</span> (<span class="lbl">i.e.</span> circumcision) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6d6
+        . is hecen sainecoscc leosom for accrannaib 
+inna ní prechite <span class="frn ">pacem</span> (gl. quam speciosi pedes evangelizantium pacem) 
+          5a5
+        . 
+          ecosc n-abstal forib, 
+            24a25
+          
+        . 
+          basa 
+iudide ó écosc...nipsa iudide ó béssaib, 
+            10d34
+          
+        , 
+          35
+        . cometecht dia n-écoscaib cen chometecht dia mbésib <span class="ediltr">indulgence 
+of their external customs but not of their morals</span> 
+          11c5
+        . is 
+e in n-écosc .i. cride imthoimnech co ngoirtius nemnech co 
+ndéraib troma, <span class="lbl">etc.</span> (indications of repentance) 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6442
+        . 
+
+          ba berrad mogadh (.i. ecosc) bai fair-seom, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 12
+          
+        . 
+<span class="lbl">Cf.</span> 
+          cach lasa mbiat fethla .i. ecusc no comartha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 899
+          
+        , 
+<span class="lbl">cf.</span> (f) below.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">kind</span>, <span class="def">species</span> :</span> sainécosc noe (gl. celox, species est 
+navis) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 69a24
+        . an uair rachair d'innsaighi in othair... 
+féch ar tús créd é in t-écosc .i. in ben nó in fer é (<span class="lbl">i.e.</span> sex) 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 232.26
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) in general, <span class="trans">
+          <span class="def">appearance</span>, <span class="def">aspect</span>
+        </span> : oft. in combination 
+with delb, cruth, and nearly synonymous, though strictly 
+used in a wider sense, including dress, <span class="lbl">etc.</span>, as well as 
+person ; 
+          snuadh .i. ecosc no sainfeth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1417
+          
+        . 
+          ba 
+hed ecosc na n-erc...i bae findae aúdergæ, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 585
+          
+         . 
+
+          dorīmi a ēugosg feib rombōi a lī, 
+            698
+          
+         (
+          p. 59.22
+        ). 
+          a 
+crúth, a écosc, a chongraim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 44
+          
+        . 
+          tucsatar tuaruscabail 
+na hingene do etir chruth ┐ delb ┐ écuscc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 119.9
+          
+        . 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Moling" title="eDIL Bibliography">Moling</strong></span> 11
+        . 
+          ar chaine a dealbha ┐ ar ingantus a ecoisce 
+(ecoisc <span class="lbl">v.l.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 195 § 36
+          
+        . isin deilb ┐ isin ecosc in 
+rochesair (<span class="frn ">in ea forma habituque</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 97
+        . 
+          for 
+moladh crotha ┐ datha ┐ delbe ┐ eccoscca in clerigh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Moling" title="eDIL Bibliography">Moling</strong></span> 41
+          
+        . 
+          rogab eccoscc doidheilbh fair, 
+            § 52
+          
+        . 
+          tánic 
+Alaxander i fíadhnaisi na hingine do thaiselbadh a crotha 
+┐ a écosca, a eirraid ┐ étaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 493
+          
+        . ba docraid a 
+ecosc il-leth a broitt (<span class="frn ">deformis esse et truncatus habitus 
+videretur</span>, of St. Martin who had given away half of his 
+cloak) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 88
+        . boi menma fherrda i n-écosc banda aicce 
+(of mother of the Maccabees) 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6613
+        . 
+          gnūisi bāna co 
+n-ecusc dhuine mairbh acu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxviii 318 § 36
+          
+        . 
+          gillae ecuisc 
+anindustae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1059
+          
+         
+          <span class="lbl">s.v.</span> Prull
+        . fer écosca ingnaid <span class="ediltr">a 
+strange-looking man</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 289a33
+        . teora hialla go ro-examlacht ecaisc (of bird flocks red, white and black) 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+5632
+         St. 
+          dolluid fond ecosc sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 92
+          
+        . isind ecosc cetna 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1546
+        . 
+          dealradh na diadachta i ndreich ┐ i n-eccoscc in 
+chleirigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 275.4
+          
+        . 
+          a hégosg ní fhidir mé | ní théd súil 
+silleadh uirrthi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1922, 247
+          
+        . ecosc namat <span class="ediltr">ridicule of</span> 
+(<span class="ediltr">a person's) appearance</span> (a punishable kind of satire) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+228.27
+         (with gl.: 
+          namuitt um a ecosc .i. `ni sūil,' `ni 
+srub', 
+            232.8
+          
+        ; <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1297
+        ). Of places, <span class="lbl">etc.</span>: 
+          ecosc 
+ṅ-áimin...tegdassa adchondarc-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 292.22
+          
+        . 
+          ecosc na 
+loch crotha gradhuill n-aluind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 51.1
+          
+        . 
+          ba hedh a 
+hécosc na hindsi, tir mblaith mbuidhech, 
+            70.7
+          
+        . 
+          ed a écosc 
+in taige, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 248b38
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 24z
+        . <span class="lbl">Cf.</span> cit. fr. 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+viii 135
+         below. a phuirt is iongnadh th' éagcosg (to a 
+castle), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1920, 539
+        . rob é airdmes...a n-eices 
+...ar écosc in armuige sin <span class="ediltr">what they judged from the 
+appearance of that slaughter</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 240
+        . By extension <span class="ediltr">goodly 
+appearance:</span> (ben) co ndeilb ┐ écosc ┐ soerchenel <span class="ediltr">of fair form 
+and presence</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 42
+        .</p>
+    
+  
+  
+    
+      <p class="result"> (<span class="edilb">d</span>) <span class="trans">
+          <span class="def">garb</span>, <span class="def">attire</span>:</span> 
+          triar cruittire con-écosc 
+ríg im cech n-æ, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 248b5
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 33.22
+        ). 
+          coica ban... 
+co n-ecosc ban síde impu, 
+            250b45
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 42.5
+        ). ica freasdul 
+la Magnus do bhiudh ┐ deoch ┐ edgud nó ecasc (<span class="trans">
+          <span class="def">livery</span>
+        </span> ?) 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/MarcoP." title="eDIL Bibliography">Marco P.</strong></span> 122
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">e</span>) <span class="trans">in a looser sense <span class="def">form</span>, <span class="def">manner</span>, <span class="def">guise</span>
+        </span>. 
+
+          eccosg .i. cuma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         muadh .i. égcosg dealbh, no cuma, 
+<span class="lbl">ib.</span> 
+          muad .i. egusc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 958
+          
+        . co ructha a breth chōir 
+for cāch...i n-écosc co n-uamun ┐ co n-imecla in choimded 
+`<span class="quote">in a manner suited to</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4154
+        . fo ecusc athgabala <span class="ediltr">by 
+way of distress</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 192.29 Comm.
+         ara feiser fer recht[g]a 
+i n-ecosc dilsi `<span class="quote">that thou mayst know when a lawful man is 
+in the person</span> (<span class="lbl">i.e.</span> the legal position) <span class="ediltr">of an outlaw</span>' 
+          iii 136.1
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) various occasional uses—<span class="trans">
+          <span class="def">Argument</span>, <span class="def">summary</span> (<span class="def">indication</span> of what follows):</span> hæcosc (gl. argumentum) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 27d17
+        . 
+<span class="trans">
+          <span class="def">Figure of speech</span>:</span> hond ecosc [c]omarleicthiu <span class="ediltr">by a permitted 
+figure</span> (gl. schemate) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 20b14
+        . <span class="trans">
+          <span class="def">Equipment</span>, <span class="def">accessories</span>, 
+<span class="def">ornament</span> (?):</span> see (<span class="edilb">d</span>) above and <span class="lbl">cf.</span> further: 
+          fethal conduala .i....eccusc comduala, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 992
+          
+        , quoting 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+384.24
+        : ni conai fethal connduala <span class="ediltr">what keeps the ornamented 
+relic</span> (<span class="lbl">i.e.</span> the case or covering) with gl.: 
+          ni coimedas ecosc 
+dala coin, 
+            386.10
+          
+        . 
+          feuthal .i. eugasg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 669
+          
+        . 
+
+          fethal .i. ecosc <span class="frn ">ut est</span> sceith co fethal condual la cach n-ae 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 616a
+            
+          
+         (glossary to 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span>
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 33.20
+        , 
+and see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fethal">fethal</a></span>). <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 899
+         cited above. 
+          rogha 
+iomdhaigh a nEamhain M. cona hégoscc orrdha fuirre 
+`<span class="quote">the apartment of your choice...with gilt facing</span>' (<span class="ediltr">gilded 
+aspect, splendour</span> ?) 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 135.8
+          
+        . In follg. ex. hecosc 
+may stand for thecosc: 
+          luid tria hecosc ┐ druidecht a 
+ṡenathar do Themuir <span class="ediltr">through the instructions</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 
+311.18
+          
+        .</p>
+     
+      <p class="result"> 
+
+          In fuil écosc fir agat, a ingen ? nimtha. an ail feis lem ? 
+ar C. <span class="ediltr">are you married ?</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 252.15
+          
+        .</p>
+     
+      <p class="result"> 
+<span class="lbl">Cf.</span> 
+          emenina .i. bannda no banecusgda no bangnimach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 3091
+          
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

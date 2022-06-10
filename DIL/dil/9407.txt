@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="9407">clechtaid</h3><span class="citation">Cite this: eDIL s.v. clechtaid or <a class="reference" href="9407">dil.ie/9407</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 clecht">1 clecht</a></span>) <span class="trans">is or becomes <span class="def">accustomed</span> to; <span class="def">accustoms</span> 
+oneself to; of people, is <span class="def">accustomed</span> to, <span class="def">frequents</span>, <span class="def">consorts</span> 
+with; of a calling, <span class="def">practises</span>, <span class="def">plies</span>.</span>
+    </p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) With personal noun or 
+pronoun: conidh misgaisiu lasna tuathaibh na tigerna 
+clechtait forru innat na tigernada aili <span class="ediltr">whom they are accustomed to have over them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5107
+         (ticcernuidhe, <span class="lbl">v.l.</span>). 
+
+          is misi . . . ra chleachtsad ant oireacht-sa orra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 839
+          
+        . 
+tig i láimh an tí chleachtas / an seabhac 'gá mbí aithne 
+<span class="ediltr">to whom he is accustomed</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 25.21
+        . an t-aos cumtha nár chleacht sinn <span class="ediltr">whom I have not frequented</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 
+242 § 6
+        . 
+          seachain sgéulta fábhuill . . . ┐ cleachd thú féin do 
+chum díaghachda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">1 Timothy</strong></span> iv 7
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) With noun or noun-phrase: amal clechtait a n-urcharu 
+(gl. ut soleant iacula) <span class="ediltr">as they are accustomed (to hurl</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gild.Lor." title="eDIL Bibliography">Gild. Lor.</strong></span> 81
+        . is esside toisech ro clecht cruit ┐ organ <span class="ediltr">who first 
+used</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 69b25
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 11a11
+        ). <span class="lbl">Cf.</span> 
+          
+            b23
+        . 
+          F. . . . roda clecht 
+claideb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5566
+          
+         (TBC, rhet.) 
+          nír chlecht góe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 3245
+          
+        . 
+na cleacht cumann re duine cainntech `<span class="quote">do not keep company 
+with a chatterer</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 134.69
+        . na cleacht do lebend do Lurc 
+/ . . . / na leic cnoc Cairmaic do Curc `<span class="quote">let not thy platform 
+become accustomed to Lorc</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 124.14
+        . 
+          do coimhēt slāinte 
+dom' ḟlaith / clechtad farrad (.i. linn) maith is fin, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 
+489 § 14
+          
+         (B. na f.). slán úaim don ceird clechtaim féin <span class="ediltr">which 
+I practice</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 19b2
+         (cited Meyer Contribb.). a coimleaba 
+do-clechtsum <span class="ediltr">we were wont to share his couch</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Prolegomena" title="eDIL Bibliography">Prolegomena</strong></span> 
+45 § 19
+        . 
+          do chleachtais fleadh is fiadhach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 68.20
+          
+        . 
+an 
+cádhus do chleacht idir `<span class="quote">to which she was ever used</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 
+1923, 421 § 3
+        . 
+          cá talamh do chleacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> vi 168.z
+          
+        . na 
+garma chleachtar anois, mar atá barún, bhíocont, iarla . . . 
+<span class="ediltr">that are used</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 123
+        . amhuil damh nar chleachd an 
+chuing (<span class="ediltr">was unaccustomed to</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Jeremiah</strong></span> xxxi 18
+        . 
+          treise ag cath 
+eachtrann oruibh / a Leath Cuinn, nir chleachtobhair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 39.5
+          
+        . altrannas i gcéin cleachtfad <span class="ediltr">I shall practise</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+66.10
+        . cairdi do dhola ar a ndíol / . . . nír chleacht cliar 
+<span class="ediltr">were not accustomed to having their reward postponed</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 
+2681
+        . <span class="lbl">Cf.</span> int shoillsi edrocht . . . indi nar cleachtadar daib 
+<span class="ediltr">the thing to which they had not accustomed themselves</span>(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 
+151b43
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) With vn., quasi-<span class="pos Vn." style="color: #ff8000">Vn.</span> or <span class="pos vn." style="color: #ff8000">vn.</span> phrase: 
+          cléchtait méirlig 
+. . . atréb and, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 1846
+          
+        . 
+          no chlechtatis na genti saerad a 
+mogad isin sechtmad bliadain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 59.13
+          
+         (<span class="frn ">solebant</span>). 
+
+          
+            conclechtaimse (? <span class="lbl">leg.</span> co clechtaimse) cairmteoracht . . . 
+nad clechta err óencharpait do imluad ar m'ési, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8505
+          
+         
+(<span class="lbl">rhet.</span>). 
+          mar ar clecht bronnad i[n] buair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> x 84 § 73
+          
+        . 
+
+          im cech mi-gním . . . ro-clechtsat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4160
+          
+        . 
+          clechtait doine 
+a thadall ┐ a póccad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PetrieRoundTowers" title="eDIL Bibliography">Petrie, Round Towers</strong></span> 435
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 158a18
+        ). 
+
+          ca crich as ar cemnigis ┐ ca cele ca clechtaidh (?<span class="lbl">leg.</span> -ais) do 
+comluigi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> i 48.30
+          
+        . 
+          trenachaur no chlechtad claide, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+20658
+          
+         (hypermetric, ?<span class="lbl">leg.</span> tren caur). nu gu clecht sí a sírsborad <span class="ediltr">until it has grown accustomed to constant spurring</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 214 § 12
+        . 
+          fuarattar an míol mór isin ionadh ina 
+cclectadh beith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 70 § 118
+          
+        . Inis Chuinn do chleacht 
+leónadh `<span class="quote">that hath been practised in suffering</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1921, 
+75 § 16
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) Folld. by prep. With AR (FOR): a chu chleachtas ar 
+cnamaibh <span class="ediltr">who is wont to be</span> . . . , 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 85 § 84
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 291b19
+        ). 
+? 
+          a mmag forclechtat int ṡlúaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> § 5
+          
+         (conclechtot, 
+<span class="lbl">v.l.</span> see RIA Dict. F col. 322.32) = 
+          for-clechat, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xviii 
+411 § 5
+          
+        . 
+          'san chnoc-sa rochleachtastair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 54.20
+          
+        . 
+
+          an fhoighide . . . / gloineide an chlí i gcleachdainn-se, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+55.3
+          
+        . cuiced Lagen . . . / i[n]ar chlecht cach dagfer dían 
+<span class="ediltr">in which used to dwell</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4177
+        . cleachtmaoid a ccuasaibh 
+carrach `<span class="quote">we frequent</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Atlantis" title="eDIL Bibliography">Atlantis</strong></span> iv 136.32
+        .</p>
+     
+      <p class="result"> 
+With OC: is ingen Chathaīr ro chlecht / . . . coa timthirecht 
+<span class="ediltr">used to be ministering to them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 665
+        . ag síol Cheallaigh 
+'gar chleacht mé <span class="ediltr">with whom I was wont to be</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 77.21
+        . 
+
+          ar Mhuiris gCliach 'gar chleachtas, 
+            67.32
+          
+        .</p>
+     
+      <p class="result"> 
+In impers. construction: mar sin nár clechtadh d'U Cháimh 
+/ cliar ó thosaig d' a tatháir <span class="ediltr">Ó C. was not accustomed to being 
+censured</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 216 § 13
+        . do cleachtadh dháibh fíon d'ibhe 
+/ do láimh ríogh `<span class="quote">they were wont</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 241 § 2
+        . 
+          iar 
+gcaill an tearmainn ┐ an tsochair do cleachtaoi leó d'fhaghbháil ó Ghaedhealaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 84.y
+          
+        . an ré do chleachtadh i 
+dtalamh Éireamhóin <span class="ediltr">that used to be the practice</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> 
+xxxiv 4
+         (`<span class="quote">as a custom</span>'), Gloss.).</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

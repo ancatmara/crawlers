@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="10692">comaithech</h3><span class="citation">Cite this: eDIL s.v. comaithech or <a class="reference" href="10692">dil.ie/10692</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                cuíbhtheacha, comaid-, comaich-, comaig-, coimith-, coimid-, coimich-, coimig-, comaigthech, coimhthigheach, coimhithigheach, coimthech</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">(comaithe) Form v. variable. <span class="lbl">Cf.</span> cuíbhtheacha (<span class="number pl.">pl.</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/TrompanabhF." title="eDIL Bibliography">Trompa na bhF.</strong></span> 718
+      . See 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;igse" title="eDIL Bibliography">Éigse</strong></span> ix 163
+      .Also comaid-, 
+comaich-, comaig-, coimith-, coimid-, coimich-, coimig-. 
+In Mid. Ir. freq. comaigthech (<span class="lbl">cf.</span> comhaithchech, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 
+21.30
+      ) and, in later lang., coimhthigheach (
+        <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> v 12.10
+      ), 
+coimhithigheach (
+        <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> xvii 12
+      ), coimthech ( 
+        <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 482
+      ), <span class="lbl">etc.</span> </p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> <span class="pos Adj." style="color: #ff8000">Adj.</span> <span class="itype o-&#x101;">o ā</span> <span class="trans">
+          <span class="def">belonging</span> to a <span class="def">neighbour</span>; <span class="def">belonging</span> to <span class="def">another</span>, 
+not one's own, not <span class="def">related</span>; <span class="def">unusual</span>; <span class="def">extraneous</span>, <span class="def">foreign</span>, 
+<span class="def">alien</span>
+        </span>: leth aithgin . . . dam dia cethraib fein . . . aithgin 
+ma cethra comaithche `<span class="quote">neighbouring cattle</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 156.10 
+Comm.
+         cat c.<span class="oRef">¤</span> sin, ┐ da madh hé cat na cuile bodein . . . <span class="ediltr">a 
+cat not belonging to the house</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2012
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.90" title="eDIL Bibliography">Eg. 90</strong></span>, 15b
+          
+        ). do 
+eclais bunaidh ┐ da eclais comaithig <span class="ediltr">unconnected</span>, 
+          1583
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/H5.15" title="eDIL Bibliography">H 5.15</strong></span>, 7b
+          
+        ). 
+          da mnai fein . . . do mnai coimithigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+ii 418.1 Comm.
+          
+         
+          a crích comaithig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 8116
+          
+        . na cáin do 
+bhen as comair dhaoine gcomaighthech `<span class="quote">strangers</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+v 128 § 21
+        . 
+          eachtrand nó ciniudha comaighthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5808
+          
+        . 
+
+          do chum an chatha comhaithigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 106.8
+          
+        . bērla 
+comaidheach <span class="ediltr">foreign language</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 383.10
+        . gídh 
+coimhighech sin aniu (of the use of the title `rí' for Ó Dubhda), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 298.16
+        . 
+          tre briatraib . . . mna caime . . . coimithi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 320.13
+          
+        . 
+          a curadaib comithi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1547
+          
+         (comidhthi, 
+<span class="lbl">v.l.</span>). for ferand c.<span class="oRef">¤</span>
+         <span class="ediltr">on land belonging to another</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l.2" title="eDIL Bibliography">Fél.²</strong></span> xxv 
+n. 206
+        . 
+          re cach coiccrich coimigthig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HyMaine" title="eDIL Bibliography">Hy Maine</strong></span> 88.9
+          
+        . ní 
+comhoightheach <span class="ediltr">unhereditary</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Top.Poems2" title="eDIL Bibliography">Top. Poems²</strong></span> 1022
+        . gairdiughadh comhaithach = <span class="frn ">extraneus</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xxix 127.26
+        . connsaine 
+com[haidh]each <span class="ediltr">an extra consonant</span> (not found in <span class="case n">n</span>
+        <span class="number s.">s.</span> rí, fili), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Bard.Synt.Tr." title="eDIL Bibliography">Bard. Synt. Tr.</strong></span> 221.7 (p. 166)
+        . 
+          connsuine comhuidheach 
+ar a dheireadh, mur tá so: rí ┐ mac an ríogh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT Introd.</strong></span> § 132
+          
+        . Crích Muman . . . / tucsat fa cruth comhoigeach `<span class="quote">brought . . . into strange guise</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 222 § 40
+        . 
+an chlann comuighech = <span class="frn ">alienus</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SmaointeB.Chr." title="eDIL Bibliography">Smaointe B. Chr.</strong></span> 4768
+        . 
+
+          mar mnaoi comhaigthigh, 
+            1528
+          
+        . o mogh (= -dh) nua 
+comhuighech = <span class="frn ">inconsuetus</span>, 
+          2927
+        . innus nach beth 
+briathur Dia comhuighthech oruinn <span class="ediltr">foreign to us</span>, 
+          2312
+        . 
+dul san chlaochládh choimhidheach <span class="ediltr">putting on a strange 
+appearance</span> (of a ruined dwelling), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 56.28
+        . 
+bhudh í an chara chomhuightheach `<span class="quote">a queer kind of friend</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 1272
+        . 
+          cenēl comhaigthech do thruailledh fīr-f[h]ola 
+na rīghachta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 224.9
+          
+        . an chuid chomuidheach = `<span class="quote">lo 
+ageno</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 756
+        . a chuid do ní choimhidheach `<span class="quote">share of 
+something belonging to another</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 3459
+        . an 
+peacadh do mhédúghadh 'na nádúir féin gan peacadh 
+coimhitheach do thabhairt chuigi <span class="ediltr">unrelated</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 2948
+        . 
+coinfeasóir coimhitheach do thabhairt . . . do mhnáibh 
+riaghalta . . . seach an ccoinfeasóir ngnáthach <span class="ediltr">unaccustomed</span>, 
+
+          2809
+        . na dée comhaightheacha = <span class="frn ">deos alienos</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7046
+        . 
+gach ladrann caethach `<span class="quote">every foreign churl</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ORah." title="eDIL Bibliography">O'Rah.</strong></span> i 8
+        . </p>
+     
+      <p class="result"> 
+<span class="trans">In religious verse freq. of the <span class="def">body</span>, perh. in sense of 
+<span class="def">hostile</span>:</span> 
+          ná hiarr orum / do riar, a cholann chomhaidheach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 61.5
+          
+        . 
+          corp comhuidheach . . . / olc dobhuidheach 
+doiriartha, 
+            80.29
+          
+        . 
+          a chalann chomhoidheach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxii 
+21
+          
+        . 
+          an chuirp chomhoidhigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 6.30
+          
+        . 
+          is mé ceangailte 
+a cclí choimhthigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/P&#xE1;rl.namB." title="eDIL Bibliography">Párl. na mB.</strong></span> 2010
+          
+         (= 
+          chuímhthig, 
+
+            4039
+          
+        ). <span class="pos Adv." style="color: #ff8000">Adv.</span> 
+          diarr se go coimthigeach bainne ┐ leanna 
+anéineacht air, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xvi 142.z
+          
+         (`<span class="quote">with an ill-timed request for 
+milk</span>').</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> <span class="pos Subst." style="color: #ff8000">Subst.</span> <span class="itype o">o</span>, <span class="gen m.">m.</span> comhuidhech comhuithech coimhidhech 
+coimhithech <span class="gen m.">m.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 23
+        . </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">neighbour</span>; person who 
+is in comaithches and <span class="def">subject</span> to its <span class="def">regulations</span>:</span> dligid cach 
+c.<span class="oRef">¤</span> diarailiu tuididin usci `<span class="quote">each neighbour</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Coibnes" title="eDIL Bibliography">Coibnes</strong></span> 10
+           ( 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iv 212.30
+          ). 
+            hi t(h)ir comaithich bes comoccus doib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iv 192.10
+            
+          . on do econn berar a commainib c.<span class="oRef">¤</span>
+           <span class="ediltr">which is given 
+out of the joint funds of fellow tenants</span>, 
+            v 370.4
+          . frisna 
+cethri comaithchiu ata nesom immidbiat fri da taeb `<span class="quote">to the 
+four neighbours next to him on the two sides</span>', 
+            i 260.10
+           (
+            .i. 
+risna cethra comithigh ad comnesa dó, 
+              274.27 Comm.
+            
+           ). 
+
+            slan fairgse mbrogaid mbruidrechta ingraide tire comdidan 
+coímitheach, 
+              iv 48.13
+            
+          . ardmeas comaitheach <span class="ediltr">the assessment 
+of the neighbours</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2416
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl.B506" title="eDIL Bibliography">Rawl. B 506</strong></span>, 53d
+            
+          ). 
+            diambí 
+aír no lesainm adlia .i. dia foclat comaithigh co lilfi fri ré a 
+í ┐ a iarmui, 
+              976
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 679e
+            
+          ). cath etir do thuaith-siu 
+. . . ┐ a comaithgiu = <span class="frn ">inter tuam gentem et aliam</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 
+86.11
+          . 
+            comaithig immorro do Maelodrān Huī Māil ┐ ba holc 
+immorro a chomaithchess doib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 954
+            
+          . 
+            cocartte (.i. 
+comaithich) sin do Dessib Maige Breg, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 134a1
+            
+          . 
+            Sidon 
+cona chomaidchib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 16287
+            
+          . cech uli glacad . . . d'a 
+ṅdingir ar chomaigthech <span class="ediltr">one who is not related</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7541
+           
+(`<span class="quote">a stranger</span>'). bó cach liss i Mumain ┐ uinge cach comaithig 
+`<span class="quote">house-owner</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 57.11
+          . With implication of inferiority, <span class="ediltr">small-holder</span>(?): 
+            deroile do chineoil . . . uair mac 
+comaithigh thu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 202.10
+            
+          . 
+            an tan lámhuid comhaitigh 
+. . . eirgidh a n-aighidh saorchlann, 
+              236.8
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">stranger</span>, <span class="def">alien</span>, <span class="def">foreigner</span>, <span class="def">outsider</span>
+          </span>: 
+            cethri cinnu c.<span class="oRef">¤</span>
+            , 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 8230
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 787
+          ). 
+            coimighthi no amhuis, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 121.12
+            
+          . 
+comaightech gl. alienigena, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 314
+          . o chomichib (contrasted with o na comarsannaib), 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7574
+          . 
+            fer tigi n-aideag 
+cotchind do cliaraib ┐ do comaigtib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1249.16
+            
+          . 
+
+            caomhthach gach chomhuidhigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 70.21
+            
+           (`<span class="quote">friend of 
+every stranger guest</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span>, 1920, 652
+          ). '
+            com facbail 
+aonur itir comaighechaibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 736
+            
+          . cossin ceth[r]or 
+comothech assin cetharaird `<span class="quote">the four strangers</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Misc.Arch.Soc." title="eDIL Bibliography">Misc. Arch. Soc.</strong></span> 136.4
+          . go dtobhaighthir do thamall / ar chomhaighthibh 
+cumann `<span class="quote">that love may be got for a time (even) from foes</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 4.20
+          . 
+            coimhidhigh chláir groighigh Grég, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT Decl.</strong></span> ex. 832
+            
+          . ar comhaithechaibh = <span class="ediltr">strangers</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RSCl&#xE1;ra" title="eDIL Bibliography">RSClára</strong></span> 
+127a
+            
+          .</p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

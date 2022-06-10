@@ -1,0 +1,1023 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="12067">con-dïeig</h3><span class="citation">Cite this: eDIL s.v. con-dïeig or <a class="reference" href="12067">dil.ie/12067</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                connaigim, -cuintgim, -chunchimm, -cuinngim, chondaigi, connaigi, condnigi, condnaige, -cuinchi, condieig, condaig, connaig, condnaig, connaigh, cunnuid, condegar, chuindegar, cuindegar, connegar, cuinnegar, chuinneghar, connadur, condagar, conadar, conagar, connagar, chondegam, connagam, -cuingem, condagaigh, condegat, condaiget, condagatt, -cuinget, -cuinchetar, conattgi, conaittig, conatig, conaitech, conattech, conaitegar, conaitcid, -contagad, -cuincithea, condaigtis, conatchitís, cuíntís, cuindig, cuinnig, cunnig, condíg, cuinged, cuindced, cuinched, cu[i]nged, condiu(g)sa, -cuindius, -chuinnius, -chunnis, con-dia, -cuintea, -cunte, condes(s)ar, condeisir, -cuintestar, -cuinntestar, -comthastár, -comtastár, -comthastar, conníestar, conniastar, connesum, condesat, connesat, chondesin, condesta, cóndesta, connchesta, connesed, conesta, condestis, conaitecht, -comtacht, condiachtais, condīacht, condiacht, conniacht, conaitecht, conattacht, conattecht, conaittecht, -comtacht, conataig, conataigh, conattig, co ndatig, conaitich, conatuigh, co n-auttaigh, connachtaigh, conrotacht, conaitigir, conaitigair, conaitegair, conatechoir, conaitechair, conatceastoir, -comtacht, conaitchet, -comtachtmar, conaitechtat, conaittechtatar, conoitechtatar, coniachtatadar, conaitchetar, con-aitcheadar, con-aitcetar, conaitchitar, conaitidar, connaigid, cuinnigid, cuin(d)gid, cuin(n)chid, cuinnid, cuindchid, cuintechtai</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (&lt; <span class="frn ">com + degaid</span> or *<span class="frn ">dechaid</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;igse" title="eDIL Bibliography">Éigse</strong></span> xxviii 156-59
+      ; *
+        com-di-saig-, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 607
+        
+      ) <span class="mood Indic.">Indic.</span> <span class="tns pres.">pres.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+
+        connaigim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 77
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 70.18
+      . 
+        -cuintgim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+14c12
+        
+      . 
+        -chunchimm, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 70.19
+        
+      . 
+        -cuinngim, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+ii 89.z
+        
+      . <span class="per 2">2</span> <span class="number s.">s.</span> 
+        chondaigi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 296.5
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 340.46
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5669
+       (TBC). 
+        <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 65
+      . 
+        connaigi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3104
+        
+      . 
+        condnigi, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5993
+        
+       (see <span class="per 3">3</span> <span class="number s.">s.</span> below). 
+        condnaige, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xx 142.21
+        
+       (ACC). 
+
+        connaige, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 4835
+        
+      . 
+        -cuinchi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 307.12
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> condieig 
+(
+        -dïeig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 66
+        
+      ), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 23d5
+      . condaig (with 
+vocalism of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 saigid">1 saigid</a></span>, Thurn.), 
+        8d20
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 30b8
+      . 
+        35c21
+      . 
+        110d10
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 1637
+      . 
+        connaig, 
+          1548
+        
+      . 
+        condnaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 12908
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 
+422.z
+      ) (perh. infl. by atn-aig, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ad-aig">ad-aig</a></span>). 
+        connaigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> 
+iii 4.34
+        
+      . 
+        cunnuid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 58.17 Comm.
+        
+       <span class="voice Pass.">Pass.</span> 
+        condegar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 8d20
+        
+      . 
+        14c11
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 48a7
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 5.1
+      . 
+        chuindegar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 
+1446
+        
+      . 
+        cuindegar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 404
+        
+      . 
+        connegar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 62
+        
+      . 
+
+        cuinnegar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 36491
+        
+      . 
+        chuinneghar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 242.2 Comm.
+        
+       
+connadur (<span class="lbl">leg.</span> condagar, Ed.), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 3.2
+      . 
+        conadar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 746. 1389
+        
+      . 
+        conagar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 30.y
+        
+      . 
+        connagar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+7934
+        
+      . <span class="per 1">1</span> <span class="number p.">p.</span> 
+        chondegam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 107c8
+        
+      . 
+        connagam, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 12681
+        
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3104
+      . 
+        -cuingem, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14d38
+        
+      . <span class="per 2">2</span> <span class="number p.">p.</span> 
+        condagaigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> 
+i 62.z
+        
+      . <span class="per 3">3</span> <span class="number p.">p.</span> 
+        condegat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 126 § 87
+        
+      . 
+        condaiget, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 
+924
+        
+      . 
+        condagatt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3972
+        
+      . 
+        -cuinget, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 107c8
+        
+      . <span class="voice Pass.">Pass.</span> 
+
+        -cuinchetar, 
+          123d4
+        
+      . Forms influenced by ad-teich (see also 
+<span class="tns pret.">pret.</span> and <span class="tns perf.">perf.</span> below): <span class="per 2">2</span> <span class="number s.">s.</span> 
+        conattgi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 1508
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        conaittig, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 77. 78
+        
+      . 
+        conatig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10877
+        
+      . 
+        conaitech, 
+          9820
+        
+      . 
+
+        conattech, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 2109
+        
+      . <span class="voice Pass.">Pass.</span> 
+        conaitegar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 7888
+        
+       (BDD). 
+<span class="per 3">3</span> <span class="number p.">p.</span> 
+        conaitcid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 148.5
+        
+      .</p>
+   
+    <p class="result"> 
+<span class="tns Impf.">Impf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        -contagad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4b2
+        
+      . <span class="voice pass.">pass.</span> 
+        -cuincithea, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+7933
+        
+      . <span class="per 3">3</span> <span class="number p.">p.</span> 
+        condaigtis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 1082
+        
+      . conatchitís (with infl. 
+of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ad-teich">ad-teich</a></span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6032
+      . ? 
+        cuíntís, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 352b11
+        
+       (= 
+        saigtís, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 36.94
+        
+      ).</p>
+   
+    <p class="result"> 
+<span class="mood Impv.">Impv.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+        cuindig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10a20
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 7875
+       (BDD). 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+ii 204 § 22
+      . 
+        cuinnig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2763
+        
+      . 
+        cunnig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 81
+        
+      . 
+        condíg, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> viii 154.25
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        cuinged, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10a15
+        
+      . 
+        11b18
+      . 
+        cuindced, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 312 § 23
+        
+      . 
+        cuinched, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 307 § 21
+        
+      . 
+        cu[i]nged, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xx 124 § 17
+        
+      . </p>
+   
+    <p class="result"> 
+<span class="mood Subj.">Subj.</span>
+      <span class="tns pres.">pres.</span> and <span class="tns fut.">fut.</span> (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 410
+      ) <span class="per 1">1</span> <span class="number s.">s.</span> 
+
+        condiu(g)sa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 70.14
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 81.11
+      ). 
+        -cuindius, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 19.19
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 385
+      ). 
+        -chuinnius, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 1574
+        
+      . 
+<span class="per 2">2</span> <span class="number s.">s.</span> 
+        -chunnis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 1573
+        
+      . <span class="lbl">Cf.</span> -cunghis, 
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 66.12
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+
+        con-dia, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 87 § 52
+        
+      . 
+        -cuintea, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 51a18
+        
+      . 
+        -cunte, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/VitaBr." title="eDIL Bibliography">Vita Br.</strong></span> 16
+        
+      . <span class="voice Pass.">Pass.</span> 
+        condes(s)ar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 133.2
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Fraech" title="eDIL Bibliography">Fraech</strong></span> 
+258
+      . 
+        condeisir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 150.17
+        
+      . 
+        -cuintestar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 
+18.11
+        
+      . 
+        -cuinntestar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2397
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 32b
+        
+      ). 
+        -comthastár, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5710
+        
+       = 
+        -comtastár, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1236
+        
+      . 
+        -comthastar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 
+345.11
+        
+      . <span class="lbl">Cf.</span> conigestar, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 196 n.
+       
+        conníestar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 
+488 § 5
+        
+      . 
+        conniastar, 
+          iii 345.12
+        
+      . <span class="per 1">1</span> <span class="number p.">p.</span> 
+        connesum, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7965
+        
+      . 
+<span class="per 3">3</span> <span class="number p.">p.</span> 
+        condesat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 46c13
+        
+      . 
+        connesat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3506
+        
+      . </p>
+   
+    <p class="result"> 
+<span class="mood Subj.">Subj.</span> <span class="tns impf.">impf.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        chondesin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 19d24
+        
+      . <span class="per 2">2</span> <span class="number s.">s.</span> 
+        condesta, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 1356
+        
+      , 
+        cóndesta, 
+          1335
+        
+       = 
+        connchesta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 38.5
+        
+      . 
+<span class="per 3">3</span> <span class="number s.">s.</span> 
+        connesed, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7978
+        
+      . <span class="lbl">Cf.</span> conaitchedh, 
+        <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 43.9
+      . <span class="voice Pass.">Pass.</span> 
+
+        conesta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 2.6
+        
+      . <span class="per 3">3</span> <span class="number p.">p.</span> 
+        condestis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 31.24
+        
+      .</p>
+   
+    <p class="result"> 
+<span class="tns Pret.">Pret.</span> and <span class="tns perf.">perf.</span> (with -ad-; exceptionally with -uss- 
+(?), -ro-): <span class="per 1">1</span> <span class="number s.">s.</span> 
+        conaitecht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 132d5
+        
+      . <span class="per 2">2</span> <span class="number s.">s.</span> 
+        -comtacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+60b20
+        
+      . 
+        condiachtais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5836
+        
+       ( 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1366
+      ). <span class="per 3">3</span> <span class="number s.">s.</span> 
+        condīacht, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 329.25
+        
+      . 
+        condiacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 118 § 53
+        
+      . 
+        conniacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 
+6143. 6153
+        
+      . 
+        conaitecht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 36b5
+        
+      . 
+        59c3
+      . 
+        98b6
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Immrama" title="eDIL Bibliography">Immrama</strong></span> 
+64 § 101
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 175.25
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 104.30
+      . 
+        conattacht, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 235
+        
+      . 
+        conattecht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 698
+        
+      . 
+        conaittecht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 
+2110
+        
+      . 
+        -comtacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 59c3
+        
+      . 
+        54b30
+      . Follg. influenced by 
+pret. of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ad-teich">ad-teich</a></span> (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> vii 42-4
+      ): 
+        conataig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 
+70.15
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 99
+      . 
+        conataigh, 
+          69
+        
+      . 
+        conattig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+440.21
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 30975
+       (TTr.). 
+        conattaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 161
+        
+      . co ndatig 
+(<span class="lbl">sic</span>), 
+        12
+      . 
+        conaitich, 
+          78
+        
+      . 
+        conatuigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 834
+        
+      . 
+        co 
+n-auttaigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 3
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 290
+      ). 
+        connachtaigh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 
+335
+        
+       n. 
+        conrotacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 68.31
+        
+      . With depon. inflexion: 
+
+        conaitigir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2700
+        
+      . 
+        conaitigair, 
+          2731
+        
+      . 
+        conaitegair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+xvi 66.86
+        
+      . 
+        conatechoir, 
+          xii 146.6
+        
+      . 
+        conaitechair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 46
+        
+      . 
+
+        conatceastoir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 30.2
+        
+      . <span class="voice Pass.">Pass.</span> 
+        -comtacht, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 35c26
+        
+      . 
+
+        123c3
+      . ? 
+        conaitchet, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 356
+        
+       <span class="lbl">marg. sup.</span> <span class="per 1">1</span> <span class="number p.">p.</span> 
+        -comtachtmar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 24b20
+        
+      . <span class="per 3">3</span> <span class="number p.">p.</span> conaitechtat (<span class="lbl">sic</span> MS), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 44d27
+      . 
+        conaittechtatar, 
+          90b16
+        
+      . 
+        conoitechtatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 8a14
+        
+       (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 344
+      ). 
+        coniachtatadar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 778
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 365a
+        
+      ). 
+
+        conaitchetar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 390.65
+        
+      . 
+        440.13
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 161
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 488a46
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 252.18
+      . 
+        con-aitcheadar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Dinds." title="eDIL Bibliography">Dinds.</strong></span> 141
+        
+      . 
+
+        con-aitcetar, 
+          78
+        
+      . 
+        conaitchitar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 194
+        
+      . 
+        conaitidar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 30a51
+        
+       (
+        conaithchedar, 
+          55
+        
+      ).</p>
+   
+    <p class="result"> 
+Later as simple <span class="pos vb." style="color: #ff8000">vb.</span> connaigid, cuinnigid, cuin(d)gid, 
+cuin(n)chid, cuinnid with both <span class="tns &#x113;-fut.">ē-fut.</span> and <span class="tns f-fut.">f-fut.</span> </p>
+   
+    <p class="result"> 
+<span class="pos Vn." style="color: #ff8000">Vn.</span> cuindchid.</p>
+   
+    <p class="result"> 
+<span class="pos Vbl.-of-necess." style="color: #ff8000">Vbl. of necess.</span> cuintechtai.</p>
+   
+    <p class="result"> 
+<span class="trans">
+        <span class="def">Asks</span>, <span class="def">seeks</span>, <span class="def">demands</span>
+      </span> (with accus. of object sought): 
+ní comtachtmar ni `<span class="quote">we have asked for nothing</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 24b20
+      . 
+
+        conaitecht C. dig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 7881
+        
+       (BDD). 
+        cuinchis F. . . ./. . ./ cath, 
+
+          3202
+        
+      . ? 
+        connigset indromuin Scāthach dōib diblīnaibh, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2683
+        
+      . 
+        ni tri haiscedha conaigiub a Temraig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> 
+iii 194.7
+        
+      . 
+        ni chunnecha . . . amal ro chunnig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 13945
+        
+      . 
+
+        bale i cúinnebar bás, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6167
+        
+      . 
+        cuingidh bean nach cleasach 
+cuing, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 3433
+        
+      . 
+        cecip ní chuinghifett, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 
+130.3
+        
+      .</p>
+  
+  
+    <p class="result"> 
+With prep. introd. person of whom someth. requested. 
+In O. Ir. usu. co: 
+        denum neich condegar cuccu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 48a7
+        
+      . 
+
+        intan con-diacht fer cerdda bratt co M., 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 409.22
+        
+      . 
+
+        conaitchidar gusin sai .i. co Fenius, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 247.16
+        
+      . 
+        ro-cuinnig foigde . . . / cosin siair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 196 § 19
+        
+      . 
+        cuinchim-si itchi co Dīa, 
+          xix 77 § 2
+        
+      . 
+        condaig cert n-imbi coa c[h]arait, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 883
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iv 76.15
+      ).</p>
+  
+  
+    <p class="result"> 
+With DI (DO): is and condegar do manchaib má beth 
+dibh nech bes maith <span class="ediltr">is enquired</span> (<span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 80b47
+       cited below), 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 554
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 437
+      ). ? 
+        cuinnegar do (dia, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 404
+        
+      ) 
+
+        gruaide grís, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 31.4
+        
+      .</p>
+  
+  
+    <p class="result"> 
+With FOR (see 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> vii 44
+      ): 
+        amal chondegamni fordia 
+arnícc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 107c8
+        
+      . 
+        's ed sin conattecht-sa foraib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 1033
+        
+      . 
+cuingis Luigdeach fair arríga Muman do gabáil `<span class="quote">enjoined 
+[on] him</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xvi 66.76
+      . 
+        fort ní chunnig comairge, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+12934
+        
+      . 
+        do chuind[i]getar cend Eoin fair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 150.1
+        
+      . 
+
+        grás ar Chríosd do chuingis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xii 19
+        
+      . <span class="lbl">Cf.</span> is andsin 
+cunnis C.C. bar na sluagaib `<span class="quote">sought for</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 51
+      . 
+        ro 
+cuimnidh (<span class="lbl">sic</span>) air co tartad, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 1941
+        
+      . With Ó: 
+        ní ho doinib condaig aithesc sunt, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 35c21
+        
+      . 
+        isī an éraic con-aitecht uaidib, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 244.10
+        
+      . 
+        no chuinchitis . . . na Saxain ó Germain 
+fortacta doib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 287
+        
+      . In: conattecht C. in caratrad . . . friss 
+<span class="ediltr">adjured him by their friendship</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 1895
+       the sense and 
+usage are that of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ad-teich">ad-teich</a></span> (
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> vii 43
+      ).</p>
+  
+  
+    <p class="result"> 
+? In sense <span class="trans">
+        <span class="def">enquires</span>:</span> 
+        da conaiget aiṅgil nime cid in 
+deilb sin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 80c47
+        
+      , <span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 554
+       cited above.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

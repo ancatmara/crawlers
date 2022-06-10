@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="17242">do-boing</h3><span class="citation">Cite this: eDIL s.v. do-boing or <a class="reference" href="17242">dil.ie/17242</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                do-boing, tobuing, -toibget, torbongat, toboing, forna turbais, torbais, dobo, dobosat, tochmat, dobibus-sa, dombibsat, topaig, tóerbaig, dochumbaig, tochumbaig, tópacht, do-bongar, tobongar, dobongatar, dobosar, dobostar, tochmastar, dobibustar, topacht, docombachta, tobach, toibgid, tobaigid</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> (*to-bong-, *
+        -beg-, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 460
+        
+      , 
+        477
+      ). <span class="mood Indic.">Indic.</span> <span class="tns pres.">pres.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+do-boing, 
+        ni tobuing
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 86 n.
+        
+       <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        -toibget, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 254.2
+        
+      . 
+(with perfective -ro-) 
+        na torbongat
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 29.31
+        
+      . <span class="mood Ipv.">Ipv.</span> <span class="per 2">2</span> <span class="number s.">s.</span> 
+
+        toboing, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 907
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns pres.">pres.</span> <span class="per 2">2</span> <span class="number s.">s.</span> (with -ro-) 
+        forna 
+turbais, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 86 n.
+        
+       
+        na torbais
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 21.28
+        
+      . <span class="per 3">3</span> <span class="number s.">s.</span> 
+        dobo, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 687
+        
+      . 
+        co toib (MS toip), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> lvii 156
+        
+      . (with -ro-) 
+        dia toirb, 
+          xx 166.58
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        dobosat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+686
+        
+      . (with perf. -com-) 
+        cona tochmat
+        , 
+          378
+        
+      . <span class="tns Fut.">Fut.</span> <span class="per 1">1</span> <span class="number s.">s.</span> 
+        dobibus-sa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 52
+        
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> 
+        dombibsat, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 779
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span> 365b
+        
+      ). 
+ <span class="tns Pret.">Pret.</span> and <span class="tns perf.">perf.</span> <span class="per 3">3</span> <span class="number s.">s.</span> 
+        topaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1018
+        
+      . 
+        co tóerbaig
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 86
+        
+      
+(torbaig, Eg.). (with perfective -com-) dochumbaig: 
+        tochumbaig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 352.5
+        
+      . In sense (a) below the form tópacht 
+(really a <span class="voice pass.">pass.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 378
+      , 
+        477
+      ) is commonly used (-ó- usually 
+marked long in MSS.). <span class="voice Pass">Pass</span> <span class="tns pres.">pres.</span> <span class="number s.">s.</span> 
+        do-bongar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 
+60
+        
+      . 
+        ni tobongar
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 272. 3 Comm.
+        
+       <span class="number pl.">pl.</span> 
+        dobongatar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 
+122.17
+        
+      . <span class="mood Subj.">Subj.</span> <span class="tns pres.">pres.</span> 
+        dobosar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 88.6
+        
+      . 
+        dobostar, 
+          v 464.21
+        
+      . 
+With perf. -com-, 
+        tochmastar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1550
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 13.27
+      ). 
+ <span class="tns Fut.">Fut.</span> 
+        
+          dobibustar .i. toibhghistar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1476
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span> 653
+      ). 
+ <span class="tns Pret.">Pret.</span> and <span class="tns perf.">perf.</span> <span class="number s.">s.</span> topacht (see above), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 200b26
+      . <span class="number pl.">pl.</span> 
+        docombachta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 30
+        
+      . <span class="pos Vn." style="color: #ff8000">Vn.</span> tobach.</p>
+   
+    <p class="result"> 
+Later as simple <span class="pos vb." style="color: #ff8000">vb.</span> toibgid, tobaigid. 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs § 52
+      . </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">plucks</span>, <span class="def">wrests</span>, <span class="def">tears</span> (<i>away</i>); <span class="def">breaks</span>, <span class="def">strikes</span> (<i>off, away</i>):</span> 
+tobuing dlai dam <span class="ediltr">cut (pluck?) me a wisp</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 72.17
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/Fing.R." title="eDIL Bibliography">Fing. R.</strong></span> 907
+        ). rorigi a láim corrici ina cróes co tóerbaig a 
+cride este <span class="ediltr">tore out its heart</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 86
+        . 
+          tópacht in claideb assa 
+intig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 2870
+          
+        . con-tópacht in corthe clochi a talmain <span class="ediltr">tore 
+the stone pillar from the ground</span>, 
+          1984
+        . 
+          ó thópacht aicce in 
+chaill chain | cona fremaib as talmain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 200b26
+          
+        . topacht in 
+grainne ass <span class="ediltr">the grain was cut (taken?) out</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ii 135 § 10
+        . co 
+topacht a chend de <span class="ediltr">struck off his head</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> § 77
+        . 
+          ragat-sa . . . 
+co topachtur a chend de, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6008
+          
+         (TBC). 
+          co topacht bil 
+a scéith féin a chend de Sualtam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 4747
+          
+        . topach (doben, 
+St.) 
+          a fholt o chúl có étan de, 
+            1890
+          
+        . 
+          tópacht cétbunni darach 
+d'oenbéim, 
+            563
+          
+        . 
+          topacht a thul dia thargu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 130
+          
+        . 
+is lé topacht in lathe ṁbuana <span class="ediltr">by her the reaping was done</span>, 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> p. 56
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">breaks</span>:</span> dibibsigter (= dobibsatar?) tige <span class="ediltr">houses will be 
+destroyed</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 551
+        = 
+          dobrisfiter, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 206
+          
+        . is e in 
+clethe-sin dobibuir hit étan iar do chlaidbiud do Allmarchaib 
+ <span class="ediltr">which will be broken on thy brow</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 260b31
+        , <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 
+136a31
+        . Intrans. (?): 
+          dochombuich mo chorc-sa thall (.i. 
+dobris mo craide-si astigh), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 487
+          
+         (B. na f.).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">exacts</span>, <span class="def">wrests</span> (someth. fr. someone), usually with notion 
+of force; and esp. <span class="def">exacts</span>, <span class="def">levies</span>, <span class="def">recovers</span> (a fine or tribute);</span> with 
+accus. of thing and DE (occasionally FOR or FRI) of pers.: do 
+thabhuigh <span class="ediltr">exacted</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 588
+        . doboing bretha dín `<span class="quote">deprives 
+us of justice</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvii 143.19
+         (Tig.). 
+          teid an fiach-so do neuch 
+dib dodboing, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 22
+          
+        . 
+          trían as don ardríg dondboing, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 214
+          
+        . 
+          nach logait nach ni dia fiachaib acht toibgit iat o 
+bicc co mor, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4333
+          
+        . 
+          biathad cach óin tobó fiachu in[n]a 
+cānae . . . intan dombongatar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xE1;inAd." title="eDIL Bibliography">Cáin Ad.</strong></span> § 48
+          
+        . 
+          dobibus-sa (.i. 
+toibegait) mo thindscra dhít, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 52
+          
+        . 
+          gach aón . . . 
+thoibhéobhus mo chíoscháin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 100
+          
+        . in ticfa nech to ibechus mo chuarta? <span class="ediltr">who will levy my tributes?</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 170
+        . 
+          cet 
+ngiall as cach oen coicedh | rothobaigh Niall ní, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 763
+          
+        
+(poem). 
+          rotobhaigh cís cecha cinidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 126
+          
+        . 
+          isi seo in 
+eraic do thabaid Tuathal 'na ingenaib .i. boroma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 593b40
+          
+        . 
+
+          rathobgiset in mBoroma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 94 § 121
+          
+        . 
+          secht nairlenga . . . 
+na tochmastar dliged tairsib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 655
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span> 502
+        ) `<span class="quote">so 
+that law cannot be exacted in their despite</span>', Plummer MS. notes. 
+tocombaig a ṡlán ara ḟornert `<span class="quote">he is able to enforce his compensation</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 414 and n. 
+          cach dichmairc . . . is cona dire 
+dobongar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 352
+          
+        . mad a cirt dobostar de <span class="ediltr">if it is by right 
+claimed from him</span>, 
+          v 464 Comm.
+         ni tobungaur dia comhurbuib 
+iar n-ecuibh <span class="ediltr">it is not recoverable from his heirs</span>, 
+          ii 274
+        . 
+          fa ma 
+dalbach di na tobngar díre n-ainech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 294 § 7
+          
+        . nír 
+taibged a hēntīr riam [ar] tinólset `<span class="quote">never had there been levied 
+from one country</span>' (<span class="ediltr">carried off</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 174
+        . 
+          ase fiach rotoibhgheadh ann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1142 (1161)
+          
+        . is cumai fiach neich doci ┐ nad 
+aidbri ┐ nad thobaing (dobuing, <span class="lbl">v.l.</span>) fri neuch cullius soiri an 
+domnaig <span class="ediltr">does not exact (the penalty</span> ?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 22
+        . 
+          acht cidh 
+tochmastar fri ferba filed .i. acht a[n]ni toibges an fili asa 
+briathraib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1550
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 13.27
+        ). ní tobuing nech for 
+na tobungar <span class="ediltr">no person can levy who is not subject to levy</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 
+86 n. 
+          in tí dia tidnaic in Coimdiu imarccraid a móine . . . 
+toibéchar fair co serb . . . o Día, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4112
+          
+        . 
+          do thabaigh se a 
+tigerntus aran imperi dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 289
+          
+        . With preposition ó 
+obj.: 
+          doberthar dígal fhola Crist fort ┐ taibeochthar co serb 
+uait hí, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 222b22
+          
+        . In wider sense: 
+          muna thuga duit a inghen 
+ar ais, tobaigh ar eigin hi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 1681
+          
+        . dūss in ruirmemis a 
+lín | int sluaigh doboing bretha dín <span class="ediltr">the host that deprives us of 
+judgements</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvii 143
+        . rothoibge a coibsena <span class="ediltr">thou shalt exact 
+their confessions</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 316 § 41
+        . 
+          orait d'Aodh Ruadh do 
+tobaigh co foregnac an leabar so ar Chonnachtaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2775
+          
+        
+(scribal note). 
+          Hui Choirpri . . . ni rucsat orbe conid torbaing 
+Dau Iarlathe ar écin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 62
+          
+        . taibhghedh om chat mo 
+dreollán <span class="ediltr">let him recover my wren from my cat</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 118
+        . 
+tochombaig Ciannacht cianbruige <span class="ediltr">C. took possession of distant 
+farms</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 8
+         (
+          .i. rotoibgestar, 
+            28 Comm.
+          
+        ). 
+          is luath toibgit 
+na sofir a ferann tresin techtugad so, 
+            2.6 Comm.
+          
+         (gl. on: 
+tocombachtnaib sealb saerteallaigh, <span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 303
+        ). In fig. 
+sense: días do thobhoigh grádh dá ngaois <span class="ediltr">two who inspired 
+love</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1920, 262 § 3
+        . do thabhaigh clú d'Íbh Carrthoigh <span class="ediltr">who won fame for</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/3C12" title="eDIL Bibliography">3 C 12</strong></span>, 425.6
+        . do thabhaig deóir óm 
+dheirc <span class="ediltr">wrung tears from</span>, 
+          393.10
+        . For further exx. see 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gadelica" title="eDIL Bibliography">Gadelica</strong></span> 72
+        .</p>
+    
+  
+  
+    <p class="result"> 
+Note also: rem riagail is beacht do boing <span class="trans">
+        <span class="ediltr">with my rule</span> (<span class="lbl">i.e.</span> 
+ <span class="ediltr">computation</span>) <i>it</i> <span class="def">tallies</span> (?) <span class="ediltr">exactly</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 363b18
+       (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 do-ben">2 do-ben</a></span>).</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

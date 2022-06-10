@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="28137">imthecht</h3><span class="citation">Cite this: eDIL s.v. imthecht or <a class="reference" href="28137">dil.ie/28137</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                imdheacht</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=imm-t&#xE9;t">imm-tét</a></span>. (imtheacht imdheacht <span class="gen m.">m.</span> 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 24
+      ).</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) in intrans. sense <span class="trans">the act of <span class="def">going about</span>, 
+<span class="def">journeying</span>, <span class="def">proceeding</span>, <span class="def">going</span>:</span> do i.<span class="oRef">¤</span> foirib, a doirsea 
+`<span class="quote">to pass over you, ye doors</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 46a14
+        . 
+          snimach saethrach, 
+bec a nert | a oenur ic sírimthecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3748.
+          
+         
+          fecht do 
+Patraic oc i.<span class="oRef">¤</span> i mmaigib Maicc Ercae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 1404
+          
+        . ri gaibis 
+cu oc i.<span class="oRef">¤</span> aenar `<span class="quote">setting off alone</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 172.18
+        . ro-batar 
+oc imdecht i n-Ierusalem `<span class="quote">going about in J.</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3675.
+         
+oc imdecht imalle re chommilethaib `<span class="quote">marching with his 
+comrades</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> ii 388.7
+        . ag i.<span class="oRef">¤</span> LE <span class="trans">
+          <span class="def">going away with</span>, <span class="def">making 
+off</span> with:</span> ag imdhecht leis na crechuibh <span class="ediltr">making off with 
+the spoils</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 196.23
+        . ag i.<span class="oRef">¤</span> FOR (AR) <span class="trans">
+          <span class="def">happening to</span>:</span> 
+cred ba ciall dona hairghenaibh sin do condcatar fen oc 
+imtecht air `<span class="quote">happening to him</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 404.8
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) In trans. sense, <span class="trans">
+          <span class="def">traversing</span>:</span>
+        
+           fofúair ann fer ... | ic 
+i.<span class="oRef">¤</span> a chonaire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3092.
+          
+         
+          atconnarc gillu glána | oc i.<span class="oRef">¤</span> ind 
+ḟiddromma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3768.
+          
+         
+          fecht do Moling ic i.<span class="oRef">¤</span> Luachra Degad, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 150 § 17.
+          
+         do condaic dreimire o talmain co nemh ┐ 
+é ga imtecht `<span class="quote">and he departing thereby</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 418.27
+        . 
+          da 
+luing bhíos ag imtheacht an mhara, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 103.
+          
+         fer do grís 
+an t-áth gá i.<span class="oRef">¤</span>
+         `<span class="quote">a man who has heated the ford by his passage</span>,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1920, 418.71
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">evading</span>, <span class="def">transgressing</span>:</span> oc mīdēnam .i. ic i.<span class="oRef">¤</span> cāna 
+domnaig `<span class="quote">bei der Umgehung des Sonntagsgesetzes</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 
+327 § 19.
+         ōenfiadu indraic at-chí diis no triar ic imtecht 
+cāna domnaig, <span class="lbl">ib.</span> </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">a <span class="def">wandering</span>, a <span class="def">course</span>, <span class="def">journey</span>, <span class="def">departure</span>:</span> bad sochrud ar n-i.<span class="oRef">¤</span>
+         `<span class="quote">let our going be decent</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6a30
+        . fri imthect 
+`<span class="quote">for marching</span>,' 
+          12c46
+        . i.<span class="oRef">¤</span> slebe `<span class="quote">wandering on the mountain</span>,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 293.7
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SP" title="eDIL Bibliography">SP</strong></span> i
+        ). is i.<span class="oRef">¤</span> doib ┐ a coibche leo `<span class="quote">they go 
+away</span> (<span class="lbl">i.e.</span> <span class="ediltr">leave their husbands</span>),' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 202.z Comm.
+         ra 
+iarfacht ... cid dobretha i.<span class="oRef">¤</span> fair ┐ cid ma tanic `<span class="quote">what had 
+caused his journey</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 101.
+         imtheacht samuisci tre 
+cheo `<span class="quote">the wandering of a heifer</span> ...,' 
+          4478
+        . aes n-imthechta 
+no tastil sliged <span class="trans">
+          <span class="def">travellers</span>
+        </span>, 
+          148
+        . gebid ... a ḟiallgud ...n-imthechta immi <span class="ediltr">he puts on his travelling clothes</span>, 
+          967
+        . 
+          t'i.<span class="oRef">¤</span> 
+seochainni co se | ní acend acht sídaige, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3991.
+          
+         imdecht 
+do neoch tar crích a tíre sechtar `<span class="quote">journeying by anyone</span>,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 202.2
+        . sé hernaile saorus fer n-imtechta ar tighradus na n-innile <span class="trans">
+          <span class="def">passer-by</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 888
+         (&lt;
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, col. 637
+        ). 
+
+          na tairmiscid ... mo shet ┐ m'imtecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1897.
+          
+         
+          do gabh 
+Eōgan lāmh ar imt[h]echt assin innsi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 454.
+          
+         teccaim 
+gaeth rothren anaghaidh a himtechta <span class="ediltr">against its course</span> 
+(of a ship), 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4614.
+         
+          an úair thug Día ormsa imtheacht 
+romham ó thigh m'athar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> xx 13.
+          
+         
+          is é modh ar a bhféadfaim-ne ... imtheacht san slighidh chóir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 10555.
+          
+         comharrtha ... ag nach bhfuil imeacht ona naduir fein <span class="ediltr">departure</span> (i.e. <span class="ediltr">deviation) from its own nature</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 239.5
+        . 
+luidh reimhe ina uidhedhaibh imtheachta `<span class="quote">he proceeded by 
+regular marches</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1740.12
+        . Imteact diall isin ceapaigh 
+(name of a metre), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 100 § 178.
+         Imtheacht na Tromdhaimhe (name of a tale), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tromd.Guaire" title="eDIL Bibliography">Tromd. Guaire</strong></span> vii 23.
+        
+      </p>
+     
+      <p class="result"> 
+Used as obj. of certain vbs. gaibid i.<span class="oRef">¤</span>
+         <span class="trans">
+          <span class="def">departs</span>:</span> rogab 
+hi.<span class="oRef">¤</span>
+         <span class="ediltr">she departed</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1898.
+         do-gní i.<span class="oRef">¤</span>
+        : dena immdecht 
+`<span class="trans">
+          <span class="def">be off</span>
+        </span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 423.
+         
+          dénaidhsi i.<span class="oRef">¤</span> ... do dhénamh bhar bhfoghluma ar fedh an domhain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Comp.CC" title="eDIL Bibliography">Comp. CC</strong></span> 72.25
+          
+        . léicid i.<span class="oRef">¤</span> do 
+<span class="trans">
+          <span class="def">frees</span>, <span class="def">dismisses</span>:</span> do leicc imthecht do Gallaib Laigen `<span class="quote">he dismissed the Leinster Galls</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1225 § 16.
+         léig imtheacht don fhuaráinsin `<span class="trans">
+          <span class="def">set free</span>
+        </span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1919, 611 § 1
+        . 
+
+          téit i.<span class="oRef">¤</span>: tiagait ass iaram imdechtai imciana coriachtutar 
+in dithreb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 119b51
+          
+        . tríallaid i.<span class="oRef">¤</span>
+        : triallais imdiucht 
+isin gaimred <span class="ediltr">he attempted to set out</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 197.19
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">(esp. in <span class="number pl.">pl.</span>) <span class="def">adventures</span>, <span class="def">exploits</span>, <span class="def">doings</span>, <span class="def">experience</span>; 
+<span class="def">news</span>, <span class="def">tidings</span>:</span> ni fetar-sa mo imthechta `<span class="quote">I know not my 
+goings</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28c10
+        . 
+          nintha do i.<span class="oRef">¤</span> liumm, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 222.20
+          
+        . 
+
+          ro innis a imthechta do Béoan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2968.
+          
+         
+          adfíadat iarom 
+a n-imtechta ┐ a scéla do Choncobur, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8937.
+          
+         
+          acht co 
+marat m'airscéla ┐ m'imthechta dimm esi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1113.
+          
+         
+
+          indistir dūn nī do imtheachtaib ┐ do airscēlaib in c[h]eneúil, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 329.
+          
+         ni fulngat ... tódernuma na piana na imtechta fo 
+bith ar ni bit cinaid foraib (of the transmigration of souls), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 842.
+         
+          adfet dóib imthechta in rig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 72.24 Comm.
+          
+         
+ara n-indissed di diúiti a imthechta `<span class="quote">that he should tell her 
+the simple truth of his adventures</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> 56.8
+        . 
+          ro-íarfaig Finnén de imthechta Hérenn .i. aní forcoemnacair 
+inti ó amsir Partholóin, 
+            ii 286.6
+          
+        . 
+          an sgéal léaghthar i n-imtheachtaibh Shéarlais Mhóir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5205.
+          
+         ro gab a herrad 
+imtechtæ ┐ ammaitechta impi (of magic feats), 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+4116.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) <span class="trans">
+          <span class="def">departure</span> <span class="def">by death</span>, <span class="def">decease</span>:</span> intan rocloither imtecht 
+daini `<span class="quote">when thou hearest of a man's decease</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 
+136.15
+        . 
+          tug an imtheacht tinnteach is tóirneach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 144.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">g</span>) <span class="trans">
+          <span class="def">pace</span>, <span class="def">walk</span>, <span class="def">going</span> <span class="def">on foot</span>, power of <span class="def">walking</span>:</span> 
+          bá miniu 
+┐ bá lúathiu a n-imtecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8255.
+          
+         
+          roluath laissin caillig 
+a i.<span class="oRef">¤</span> sum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 150 § 17.
+          
+         nir ḟet marcachus na himdecht do 
+dénam <span class="ediltr">she could neither ride nor walk</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> vi 40.11
+        . 
+
+          do-rat Isu ... imtecht do na baccachaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4533.
+          
+         
+          cos 
+cín ímteacht iar fuined, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 278.12
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">h</span>) <span class="trans">
+          <span class="def">extent</span>, <span class="def">scope</span>:</span> 
+          do réir imtheachta nó réime aitheantadh 
+Dé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 320.18
+          
+        .</p>
+    
+  
+  
+    <p class="result"> 
+(<span class="edilb">i</span>) Folld. by prep. AR <span class="trans">
+        <span class="def">imitation</span> ?:</span> do ní Eoin imtheacht 
+mar sain | ar inntleacht an Eoin iodhain `<span class="quote">Eoin doth strive to 
+imitate the character</span>,' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> i 91 § xix
+      . </p>
+  
+  
+    <p class="result">(<span class="edilb">j</span>) <span class="trans">of sexual <span class="def">intercourse</span>:</span> rē mnaoi ar a raibhe imthecht aige '<span class="quote">a woman with whom he had intercourse</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> i 216.246
+      . 
+        imtheacht ar mhnaoi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lat.-Ir." title="eDIL Bibliography">Plunkett</strong></span> s.v. coitus
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> i 235
+      . 
+        go raibhe deamhan do ghnáth ag imtheachd ar mháthair Lúitéir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 3805
+        
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

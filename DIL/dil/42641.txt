@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="42641">2 úain</h3><span class="citation">Cite this: eDIL s.v. 2 úain or <a class="reference" href="42641">dil.ie/42641</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                úaine</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="gen f.">f.</span> (<span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        úaine, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. § 14
+        
+      ).</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">time</span>, <span class="def">leisure</span>, <span class="def">opportunity</span>
+        </span>: is (ní) hú.<span class="oRef">¤</span> do <span class="trans">
+          <span class="ediltr">has (has not) time, <span class="lbl">etc.</span> for:</span>
+        </span> 
+lasse bas nuáin do `<span class="quote">when he shall have leisure</span>' (gl. cum ei 
+uacuum fuerit), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14a25
+        . roboí a saindodcad for cach 
+connarbú huaín dóib coiniud a n-óg `<span class="quote">so that they had no 
+leisure to bewail their virgins</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 100a3
+        . nochan-uain 
+dam <span class="trans">
+          <span class="ediltr">I haven't time</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1561
+        . co ro huain doib 
+ernaigthe do denum fri ré in chorgais chesta `<span class="quote">that they 
+may have leisure to pray</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4997
+        . With cop. and inf. 
+pron.: nimhuain fri acallaim neich <span class="trans">
+          <span class="ediltr">I have no time</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1185
+        . 
+(= 
+          ni huain dam a., 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 52
+          
+        ). 
+          falti indiu ní dam 
+úain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 79.19
+          
+        . 
+          nidam uain-siu do thuidhecht libh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1815
+          
+        . <span class="lbl">Cf.</span> 
+          diamsa úain no innisfind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 198b60
+          
+        . 
+nidat uain dia n-airlegunn <span class="trans">
+          <span class="ediltr">thou hast not time to read them</span>
+        </span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> v 2.8
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 827
+        ) = 
+          nocondombuain-siu dun urlegend, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 498a3
+          
+        .</p>
+     
+      <p class="result"> 
+Later: tá u.<span class="oRef">¤</span> agam ar: 
+          a nuáir bhiás úain agumsa air, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Acts</strong></span> xxiv 25
+          
+        . <span class="lbl">cf.</span> 
+          tigidh líom, ... go m-biadh u.<span class="oRef">¤</span> aguin air 
+lámha do dearga, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CF" title="eDIL Bibliography">CF</strong></span> p. 62. 141
+          
+        . <span class="lbl">Cf.</span> (Mod.): 
+          go bhfuaireadar uain le teacht air dtír, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> p. 132z
+          
+        .</p>
+     
+      <p class="result"> 
+is (ní) hú.<span class="oRef">¤</span>
+         with prep. or gen. <span class="trans">
+          <span class="ediltr">it is (is not) a fitting time for:</span>
+        </span> 
+
+          ni hu.<span class="oRef">¤</span> do theicheadh 'nar dtír, | do chuaidh dhínn ar 
+bhfeitheamh féin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 79.103
+          
+        . 
+          as u.<span class="oRef">¤</span> dom 
+dhula, ... | do thruaill an chumha mo chorp, 
+            79.81
+          
+        .</p>
+     
+      <p class="result"> 
+With gaibid: 
+          gá fios damh, ... | an mbiam an uair oile 
+ann? | an uain bhus goire gabham, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1829
+          
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> v 5
+        . </p>
+     
+      <p class="result"> 
+<span class="lbl">Cf.</span> 
+          iarraid mar uain ar an oide faoisidneach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 9065
+          
+        . 
+Defined by follg. gen.: tabhraidh dhúinn uain agallmha
+`<span class="quote">an opportunity of pleading</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxviii 1
+        . 
+          nach 
+faghaim u.<span class="oRef">¤</span> th'agallmha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 22a10
+          
+        . 
+          trés an ndóchas bhíos 
+aca ré hu.<span class="oRef">¤</span> aithrighe d'fhagháil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7390
+          
+        . 
+          cosmhail ... 
+| nach fuair tú ... | ... | u.<span class="oRef">¤</span> cadail ar do chearchuill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> 
+xxiv 21
+          
+        . <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 125.32
+        . 
+          dochóidh u.<span class="oRef">¤</span> calaidh 
+ar chách, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 26.7
+          
+        . 
+          u.<span class="oRef">¤</span> deabhtha ní dó dobheire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 222.77
+          
+        . 
+          dá n-aghum u.<span class="oRef">¤</span> saothraighthe, 
+            218.18
+          
+        . 
+
+          u.<span class="oRef">¤</span> sgíosa ní lamhthair liom, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1933, 140.13
+          
+        . 
+          ní hu.<span class="oRef">¤</span> 
+adhmholta ar éan-chor | m'anlochta an uair ḟoillséachar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xlvii 3
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">a <span class="def">turn</span>, a <span class="def">spell</span>, an <span class="def">opportunity</span>
+        </span>: uain, seal, am, <span class="trans">
+          <span class="ediltr">a 
+turn, a course</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Kirk" title="eDIL Bibliography">Kirk</strong></span>
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 614
+        ). noca tucustar u.<span class="oRef">¤</span> neich 
+do neoch sech a ceili dib (of the turns of the customers at 
+the mill), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 200.12 Comm.
+         críoch O Felme fuair an 
+fear, | ar u.<span class="oRef">¤</span> seilbhe na sinsear `<span class="quote">in his turn of ancestral 
+possession</span>' (<span class="lbl">i.e.</span> he got the territory by hereditary succession), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Top.Poems" title="eDIL Bibliography">Top. Poems</strong></span> 90.16
+        . 
+          do gabh Eire a hu.<span class="oRef">¤</span> cumadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 
+86
+          
+         (`<span class="quote">turn of trouble</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 338.25
+        ). 
+          ní fhúair ealta 
+ú.<span class="oRef">¤</span> ar loch, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 81.145
+          
+        . 
+          tabhair an ú.<span class="oRef">¤</span> d'fhéin 
+Line | 's don Mhidhe féin uair oile, 
+            74.115
+          
+        . u.<span class="oRef">¤</span> na hathardha d'ḟagháil `<span class="quote">a spell of the patrimony</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 32.71
+        . 
+          fer 
+astegh d'ḟagháil na húaine | fear ag gabháil dúaine duit, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. ex. 683
+          
+         (
+          <span class="lbl">v.l.</span> niorbh iongnadh bean d'ḟaghail 
+t'uaine). 
+          cinn ṡluaigh is iad ar h'aghaidh | ni ḟaghaidh 
+siad uain oraibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 10.30
+          
+        . 
+          ní bhí acht u.<span class="oRef">¤</span> an tí nach 
+tig | don uaigh ag an tí tháinig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1922, 419.36
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> p. 172
+        ). 
+          cuimhnigh ... | nach fuighe ... | u.<span class="oRef">¤</span> ar 
+an rígh uair eile | bídh uair ag an impidhe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 14.38
+          
+        .</p>
+     
+      <p class="result"> 
+Possibly uain <span class="trans">
+          <span class="def">loan</span>
+        </span> is the same word in this usage; <span class="lbl">cf.</span> 
+
+          cach úain co toiseach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 227.24
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xvii 51
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) = <span class="trans">
+          <span class="def">advantage</span> (over someone)</span>: munbadh an uain frith 
+ar Cenel CConaill don chur sin `<span class="quote">were it not for the advantage 
+taken of the C.C.</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1576.8
+        . 
+          go ro frith an u.<span class="oRef">¤</span> sin ar 
+Ua Neill, 
+            vi 2022.4
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">of <span class="def">time</span>; point of time; <span class="def">season</span>
+        </span>: 
+          is í sin uain agus 
+aímsir adubert ... teacht a ttír, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CF" title="eDIL Bibliography">CF</strong></span> p. 63.146
+          
+        . 
+          do rugais 
+é a cinn na huaine sin a mainnser ... an esail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> 
+i 83.21
+          
+        . <span class="trans">
+          <span class="ediltr">time (of year), season</span>
+        </span>: 
+          i n-aroile lō ūain ḟogamair 
+robī F. ... i Caisil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 500
+          
+         (`<span class="quote">in the season of autumn</span>,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/MannersandCustoms" title="eDIL Bibliography">Manners and Customs</strong></span> iii 262
+        ). guidh orm i n-uain an chreidimh 
+`<span class="quote">in the hour of</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxxv 2
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">time (on earth), <span class="def">lifetime</span>
+        </span>: 
+          ní gan adhbhar uair gach 
+geall; mh'amhgar, a uain dob aithghearr, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 
+143.140
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">f</span>) <span class="trans">
+          <i>time</i>, <span class="def">reign</span> (of a king, <span class="lbl">etc.</span>)</span>: 
+          do bhrígh go n-áirimhthear libh | uimhir trír ar uain éin-ḟir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> v 126
+          
+        . 
+
+          fiche bliadhain fuair an fear | d'u.<span class="oRef">¤</span> ar giallaibh na nGaoidheal, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 32.29
+          
+        . 
+          níor chaith d'u.<span class="oRef">¤</span> acht éanlá ann, | téarná 
+suil fuair an fearann, 
+            32.43
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">g</span>) ar úainibh <span class="trans">
+          <span class="def">in turn</span>
+        </span>: 
+          cuiris I. ┐ a muinnter a n-anála 
+ar uainibh fon súdraill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 5 § 11
+          
+        . uch, a Coimdhe, 
+créd do-bheir | na roigne d'ég ar úainibh (—imh MS.), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Decl. ex. 256
+        . 
+          seal damh i dtigh a theghlaigh | seal 
+oile 'gon ingheanraidh; | adhbhar smuainidh a Dhé dhamh 
+| mé ar uainibh san dá ionadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 68.100
+          
+        . 
+
+          roinn ar uainibh uair an lá (: uairibh), 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> ix 27
+          
+        . 
+
+          sealuidheacht flaithis, eadhon, gach re mbliadhan ag gach 
+aon díobh ar uainibh (<span class="lbl">v.l.</span> ar uairibh), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 222.45
+          
+        . 
+          bás 
+d'fhulang diaidh i ndiaidh ar uainibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 115
+          
+        . 
+          do ghabh 
+... agá malairt idir a lámhaibh, ┐ ar uainibh ag iniúchadh 
+na gceann, 
+            7708
+          
+        . 
+          biadhadh bocht is nocht ar uainibh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 1411
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">h</span>) d'úain nó d'anbhúain = <span class="trans">in <span class="def">season</span> or out of season</span>: 
+          gan 
+mo liaigh do léigin uaim | re headh laoi d'uain nó d'anbhuain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1929, 661.5
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> p. 16
+        ). 
+          naisgim 
+ort d'úain nó d'anbhúain a breith libh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 
+65.2
+          
+        . ná sgaraid ris d'uain nó d'anbhuain `<span class="quote">come weal come 
+woe</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 16.51
+        . ni háil leis, d'u.<span class="oRef">¤</span> nó d'a. | a beith aonaidhche ar aidhlinn `<span class="quote">be there peace or disturbance</span>,' 
+          19.8
+         
+(of a sword).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">i</span>) With co: am eól co húain in cech airm (<span class="lbl">v.l.</span> huaim)
+`<span class="quote">completely</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 266.3
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 155a12
+        ). rolen co 
+húain in gairm glan | de sin Ath Lúain na lestar `<span class="quote">perpetually</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 372.81
+        
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 158a41
+        ). 
+          atbér frib co húain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 378.1
+          
+        
+        . 
+
+          ogam fail sin gabuil glúair, | findat na druíde co húain 
+(<span class="lbl">v.l.</span> co naeb; co mbuaid; ar nuair), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 78.14
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 398a17
+        ). co hopunn, co hūain | tuc dam topur dér
+`<span class="quote">opportunely</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vi 113
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 232
+        ). 
+          guith an chluig 
+do chluinim-se | dom rad-sa go huain (: Cluain), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> 
+x 133.29
+          
+         (= <span class="trans">
+          <span class="ediltr">in season</span> <span class="lbl">i.e.</span> <span class="ediltr">at the time for prayer</span>
+        </span> ?). do 
+airmius daibhsi co huain `<span class="quote">leisurely</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 62.5
+        . is as ro 
+baistead co huain `<span class="quote">happily</span>,' 
+          <span class="lbl">ib.</span> 242.11
+        . ár laeich ár 
+ngadhair co huain | ac faghail um an caemchluain, `<span class="quote">at 
+their own discretion</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 105.10
+        . (
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 502
+        , `<span class="quote">leisurely</span>').</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">j</span>) = <span class="trans">
+          <span class="def">respite</span>, <span class="def">grace</span>
+        </span>: 
+          do chuinghi[d] úaine enbliadna 
+for C., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> i 78 § 54
+          
+        . 
+          nir deonaigh acht uain bliadhna, 
+
+            106.16
+          
+         (glossed: ... cairde bliadna). uain an ualaigh-sin 
+ní fhuil | 'gá ghruaidh nua-luisnigh náraigh, `<span class="quote">ceases not to 
+bear that burden</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1927, 593.23
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> p. 405
+        ).</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

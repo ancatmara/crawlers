@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="29667">1 lebar</h3><span class="citation">Cite this: eDIL s.v. 1 lebar or <a class="reference" href="29667">dil.ie/29667</a></span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype o,-&#x101;">o, ā</span>also lebair i <span class="trans">
+        <span class="def">long</span>, <span class="def">tall</span>, <span class="def">extensive</span>; <span class="def">supple</span>, <span class="def">pliant</span>, 
+<span class="def">flowing</span>
+      </span>.</p>
+   
+    <p class="result"> 
+Of persons: 
+        Lugaid lodan l.<span class="oRef">¤</span> longleimendach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 71 § 
+27
+        
+      . 
+        is mé comh leabhair, comh modhamhail, comh breágh 
+seo, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 210
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Midn.Court" title="eDIL Bibliography">Midnight court</strong></span> 228
+      ). In pejorative sense, 
+<span class="trans">
+        <span class="def">lanky</span>:</span> 
+        is imdha abhus laech leabhair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 284.7
+        
+      .</p>
+  
+  
+    <p class="result"> 
+Of parts of the body: 
+        iadhais a lamha leabra . . . tairis, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3921
+        
+       (Stowe). 
+        in mong l.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 22.3
+        
+      . 
+        a Chaitir 
+fhíona an fhuilt leabhair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 18.36
+        
+      . 
+        's dá dhá gealghlaic leabhra lúith, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> xxxii 19
+        
+      . 
+        muinéal leabhar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 885
+        
+      . 
+        a basa taise laga leabhaire, 
+          91
+        
+      . 
+        féach mo 
+chomm! nach leabhair mo chnámha?, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 211
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Midn.Court" title="eDIL Bibliography">Midnight court</strong></span> 237
+      ).</p>
+  
+  
+    <p class="result"> 
+Of objects: 
+        lenti lebra, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 160.x
+        
+      . 
+        i lluing lebair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 
+265.4
+        
+      . 
+        ar lanna léapra, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> ii 14 § 46
+        
+      . 
+        gach tunna 
+leabar lantrom / lomlan do linn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 2 § 10
+        
+      . a 
+mhionn leabhar solas saor (to the Cross), 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 2.7
+      . longbhárca leabhra `<span class="quote">graceful long ships</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/SGS" title="eDIL Bibliography">SGS</strong></span> iv 64 § 21.
+       
+bróg lebhar <span class="trans">
+        <span class="def">pliant</span>, <span class="def">soft</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 172.
+      
+    </p>
+  
+  
+    <p class="result"> 
+Of verse: roinn leabhra `<span class="quote">smooth quatrains</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 164 
+§ 18
+      . 
+        im láid lebuir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 70.7
+        
+      . Of places and 
+geographical features: 
+        Ua Bricc Bregain ōn licc leabair, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 73 § 32
+        
+      . 
+        do rí Lacha Léin lebhair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 256.y
+        
+      . 
+        do 
+shiublus-sa in cruinne / ó tháeb leabhar gach thuinne, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 34 § 74
+        
+      . 
+        i ccríochuibh leabhra Lochlann, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> v 
+166.18
+        
+      . 
+        do ní tráigh do thuinn leabhair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxviii 39
+        
+      .</p>
+  
+  
+    <p class="result"> 
+Of periods of time: 
+        gairid le fer an lá leabhar / an fedh 
+atá ag treabhadh túair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 240.111
+        
+      . 
+        is an ló 
+leabhair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 98.25
+        
+      .</p>
+  
+  
+    <p class="result"> 
+<span style="color: #ff8000">Equative</span>: 
+        librithir gabla a lamha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iv p. xiv 25
+        
+       
+(
+        <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> s.v. Prull
+       &lt; 23 N 10 ). <span style="color: #ff8000">Compar.</span> 
+        secht ṅgerrchochaill . . . 
+imbi, girri cech n-úachtarach, libru cach n-íchtarach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 
+627.
+        
+       <span class="lbl">Cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 43.24
+      . teagh budh leabhra gile lámh 
+`<span class="quote">where white hands were longer</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 244 § 22
+      .</p>
+  
+  
+    <p class="result"> 
+Frequent as the second element of a compound, see 
+<span class="lbl">s.vv.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=folt">folt</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 slat">1 slat</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=taeb">taeb</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 t&#xE9;t">1 tét</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=l&#xE1;n">lán</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=sith">sith</a></span>.</p>
+   
+    <p class="result"> 
+COMPDS. Usually merely for alliteration and adding little if 
+anything to the meaning.</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) With nouns. 
+          <span class="oRef">¤</span>arm: 
+          dona leabhar-armaibh lámhthómhais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 136.7
+          
+        . 
+          <span class="oRef">¤</span>barcc: eter línib leburbarcc `<span class="quote">long-keeled</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 96 § 17
+        . 
+          a long ┐ a leburbarc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 
+246
+          
+        . 
+          <span class="oRef">¤</span>bas: 
+          cuilg leonta a leabharbhas, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 226.10
+          
+        . 
+
+          <span class="oRef">¤</span>buiden: 
+          do gabhadh longphort . . . ag na leabharbhuidhnibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 74.13
+          
+        . 
+          <span class="oRef">¤</span>chúaille <span class="ediltr">long stake</span>: 
+          do léigedh grithgháir 
+adhbhalmhór aca ag faicsin na laochchenn arna leabarchuaillibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Comp.CC" title="eDIL Bibliography">Comp. CC</strong></span> 133.4
+          
+        . 
+          <span class="oRef">¤</span>geimel: 
+          Laigin ina 
+lebargemlib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> i 17 § 32
+          
+        . 
+          <span class="oRef">¤</span>long: 
+          gu Luimneach 
+na leaburlong, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 31b32
+          
+        . 
+          <span class="oRef">¤</span>mong: 
+          Labraid l., 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3669
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 33
+        ). <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 202.28
+        . 
+          <span class="oRef">¤</span>pentol see <span class="lbl">s.v.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=pentol">pentol</a></span>. 
+
+          <span class="oRef">¤</span>thét: 
+          um na lebar-t[h]ēduib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 684
+          
+        . 
+          <span class="oRef">¤</span>thír: 
+          riarugud 
+íarthuir tuaisceirt in domain [.i.] . . . lebartíre lethanḟoda 
+Lochlann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 119
+          
+        . 
+          <span class="oRef">¤</span>thúath: 
+          no thallad dáil chét for 
+mael cech cnama. is de dogarar in cúan / Port Láirge na 
+leborthuáth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 22399.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) With adjj. 
+          <span class="oRef">¤</span>búan: 
+          go ró Lochluinn leabharbhua[i]n, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Caithr.CC" title="eDIL Bibliography">Caithr. CC</strong></span> § 45 (27.9)
+          
+        . 
+          <span class="oRef">¤</span>chas: is . . . leabhar-chas laomdha 
+. . . / a carn-fholt <span class="ediltr">long and curly</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 67
+        . 
+          <span class="oRef">¤</span>daingen: 
+
+          a mbārca luatha leabar-dhaingne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 650
+          
+        . 
+          <span class="oRef">¤</span>fhairsing: long 
+. . . leabhar-fhairrsing `<span class="quote">broad-spread</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> i 50.x
+        . 
+          <span class="oRef">¤</span>gasta 
+<span class="ediltr">long and dexterous, long and easily manoeuvred</span>(?): 
+          tuc in 
+ingen a laim leabargasta amach assa cóim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5941
+          
+         
+(leabairgil, <span class="lbl">v.l.</span>). 
+          a laoidhenga leabargasda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Chl.S." title="eDIL Bibliography">L. Chl. S.</strong></span> 
+19
+          
+        . 
+          <span class="oRef">¤</span>gel: in gach láimh leabhairghil `<span class="quote">fair graceful hand</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 165 § 24
+        . 
+          <span class="oRef">¤</span>thécht: 
+          d'ass rothécht, d'ass nāt ro-thecht, d'ass lebarthecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 101.9
+          
+         (`<span class="quote">long and clotted, 
+viscous</span>', Gloss.). 
+          <span class="oRef">¤</span>thromm: 
+          trí monga liathghlasa leabharthroma . . . forra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 120.1
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) With adjj. derived from nouns. 
+          <span class="oRef">¤</span>chlannach: re 
+h-anaicentacht leis na lend-brat . . . lebar-clannach `<span class="quote">wide-folded</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 180.13
+        . 
+          <span class="oRef">¤</span>choimsech <span class="trans">
+          <span class="def">long</span> and <span class="def">powerful</span>
+        </span>: 
+          sretha . . . 
+do rāmhuib lān-mīne leb[ar]-choimseacha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 655
+          
+        . 
+          <span class="oRef">¤</span>chulpatach: léne leburchulpatach <span class="ediltr">long-hooded</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 8
+        . 
+          <span class="oRef">¤</span>laidsech: 
+
+          lúirech leburlaidsech nā cotūn comdluta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 98.2
+          
+        . 
+          <span class="oRef">¤</span>léintech. As <span class="pos subst." style="color: #ff8000">subst.</span> <span class="trans">one <span class="def">clothed</span> in a <span class="def">long</span> <span class="def">tunic</span>
+        </span>: 
+          in lebur-lenteac[h] 
+Lauan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 237a20
+          
+        . 
+          <span class="oRef">¤</span>mailgech: ba lebormailgech anúas (of 
+eyes), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 33.8
+        . 
+          <span class="oRef">¤</span>mongach: 
+          do leomannaibh leburmongacha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 166 § 22
+          
+        . 
+          ech . . . lebormongach . . . 
+scúaplebor, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8668
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 50
+        ). 
+          <span class="oRef">¤</span>rennach: leabhairreannach 
+`<span class="quote">limbertipped</span>' (of pens), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1923, 597 § 3
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

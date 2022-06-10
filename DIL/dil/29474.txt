@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="29474">laithe</h3><span class="citation">Cite this: eDIL s.v. laithe or <a class="reference" href="29474">dil.ie/29474</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/></div><div class="col-sm-9 result_content">
+   
+
+
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype io">io</span>, <span class="gen n">n</span>
+    </p>
+  
+  
+    <p class="result">Cf. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=l&#xE1;">lá</a></span>. 
+        laithe m., 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 2. See also Introd. § 147
+        
+      . Early occurrences: <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        a laithe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 21c3
+        
+      . <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        fri laithe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 8d22
+        
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        laithi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 26b7
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        laithiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25d20
+        
+      . <span class="case n">n</span>
+      <span class="number pl.">pl.</span> 
+        laithi lithacha .i. laithi senamla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1282, (<span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span> 534)
+      . <span class="case g">g</span>
+      <span class="number pl.">pl.</span> 
+        inna laithe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 17d6
+        
+      . <span class="case d">d</span>
+      <span class="number pl.">pl.</span> 
+        hi lathib litaib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 62a18
+        
+      . Note also <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        laithen, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xxix 168.1 123.6 (?)
+      , <span class="case g">g</span>
+      <span class="number pl.">pl.</span> 
+        11
+      .</p>
+  
+  
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">day</span>, <span class="def">daylight</span>
+        </span> (as distinguished from night: see 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iii 256-7
+        ): 
+          samaltir in molad dóinde fri laithe ar a gairti ṁbis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 8d22
+          
+        . 
+          intan tét a laithe di chiunn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 21c3
+          
+        . 
+          amal as toisegiu grián indáas laithe ┐ is laithe foilsigedar cech rét, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 85b11
+          
+        . 
+          adaig tar aesi laíthi, 
+            21c3
+          
+        . 
+          hi cech oina laithe gl. in dies singulos, 
+            58d3
+          
+        . 
+          tairciud cech lathi i ndigaid alaili, 
+            111a5
+          
+        . 
+          ni fil isin bliadain | . . . laithe . . . | nach at-rised munter, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 283
+          
+        . 
+          laithe na mís, 
+            301
+          
+        . 
+          is ī rē laithe nobitis isin cess, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 835
+          
+        . 
+          ba hiat sin na sē laithi |. . . lūan, mairt, cēdāin, is dardāin | āine [┐] satharn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 143.6
+          
+        . 
+          oir is amlaid so fodhailtear in aimsear ... a cadar i llaithi, a llaithi i sechtmain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 108.4
+          
+        .</p>
+    
+    
+      <p class="result">With adaig: 
+          trī laithe ┐ teora haidche, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xxxv 20 § 112
+          
+        . 
+          fed do laithe ┐ t'oidhchi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SmaointeB.Chr." title="eDIL Bibliography">Smaointe B. Chr.</strong></span> 3952
+          
+        .</p>
+    
+    
+      <p class="result">Of particular times of day (in gen. or with DI): 
+          medon lathi gl. hic meridies, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 66b21
+          
+        . 
+          a mucha lai ┐ laithe ambarach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 329a24
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/TMom&#xE9;ra" title="eDIL Bibliography">TMoméra</strong></span> 154.3
+        ). 
+          co ti leth lathi in domnaig <span class="ediltr">mid-day</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8036
+          
+        . 
+          o leuth lathi . . . co trath nona, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8041
+          
+        .</p>
+    
+    
+      <p class="result">Of <span class="trans">
+          <span class="def">yesterday</span>, <span class="def">today</span>, <span class="def">next</span> <span class="def">day</span>, etc.</span>: 
+          isind lathi luid <span class="ediltr">yesterday</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3605
+          
+        . 
+          isind laithiusa indiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> iii 179.10
+          
+        . See also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=b&#xE1;rach">bárach</a></span>.</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">b</span>) With adj. or qual. gen. Most frequently of <span class="trans">
+          <span class="def">Day</span> of <span class="def">Judgement</span>
+        </span>: 
+          di llaithiu bratho, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25d20
+          
+        . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=br&#xE1;th">bráth</a></span>. 
+          a laithe an chriarta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 208.31
+          
+        . 
+          laithi in Luain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1621
+          
+        . 
+          Duligēn deilb latha luain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 307.y
+          
+        .</p>
+    
+    
+      <p class="result">Of feast-days and festivals: 
+          lathe na samna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3223
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 1
+        ). Of sabbath: 
+          di laithiu sabbait rocét, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 57d13
+          
+        .</p>
+    
+    
+      <p class="result">Various: i laithibh teannta <span class="ediltr">on days of oppression</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 237.13
+          
+        . 
+          laithe a tréighte, 
+            224.118
+          
+        . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=aicenta">aicenta</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 saerda">2 saerda</a></span>.</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">c</span>) In <span class="pos adverbial" style="color: #ff8000">adverbial</span> phrases. <span class="trans">Denoting <span class="def">point</span> of <span class="def">time</span>
+        </span>: 
+          scorais ala laithiu fichet mís Augaist `<span class="quote">encamped on the 22nd of August</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 434.8
+          
+        . 
+          [a]raile laithiu tra bói Colmán isin Carraig-sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 52.y
+          
+        .</p>
+    
+    
+      <p class="result">With cech `<span class="trans">
+          <span class="def">daily</span>
+        </span>', freq. in <span class="case g">g</span>
+        <span class="number s.">s.</span>: 
+          drong sacart...dom chobair cech laithe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 271
+          
+        . 
+          gacha laithe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 24.4
+          
+        . 
+          fuair nead lán gach re laithe <span class="ediltr">every other day</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 133
+          
+        .</p>
+    
+    
+      <p class="result">Also in phrase cor an chaem-laithe: 
+          flaith Fáil car an chaomhlaithi | ag car áir na hénlaithe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 132
+          
+        . 
+          car an caemh laithe `<span class="quote">while daylight remained</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2198.1
+          
+        . See also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 sam">1 sam</a></span> compds.</p>
+    
+    
+      <p class="result">With prepp. CO: 
+          go laithib a mbais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 119.6
+          
+        . I N-: 
+          i laithibh sealga, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 28.26
+          
+        .</p>
+    
+    
+      <p class="result">In phr. ro boí l.<span class="oRef">¤</span>
+        
+         <span class="trans">once upon a time</span>: 
+          rombói lathe rordu rind | de thuaith Chorpri des Boind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 331c20
+          
+        . Later l.<span class="oRef">¤</span> n-óen: 
+          luid C. laithi n-aen ann do forom ar enlaithib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> vi 184.16
+          
+        . 
+          laithe n-aon, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 129
+          
+        . 
+          aon do laeithibh do chuadhus-[s]a, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FeisTigheChon&#xE1;in" title="eDIL Bibliography">Feis Tighe Chonáin</strong></span> 292
+          
+        . 
+          aon do na laithibh <span class="ediltr">one day</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 5386
+          
+        .</p>
+    
+  
+  
+    <p class="result">Miscellaneous wider applications: 
+        co nderrnaid teora laithiu fri ré n-athgairid '<span class="quote">a three days' journey</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 1981
+        
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

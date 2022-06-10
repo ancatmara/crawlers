@@ -1,0 +1,2799 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="38192">2 so, su</h3><span class="citation">Cite this: eDIL s.v. 2 so, su or <a class="reference" href="38192">dil.ie/38192</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                su-, so-, su-, sonairt, soibheart, soifer, soicheneol, sogh-, soth-, soghthengaid, soighidirdhealbhtha, sothbiadach, sothchroidheach, suacubuir, sochenēuil, sochoisc, soacallaim, soāig, Sodelbi</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos prefix" style="color: #ff8000">prefix</span> leniting the follg. initial. In hiatus usually 
+su-; in other positions so- and su- alternate without regard to 
+the quality of the vowel in the next syll., 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 
+§ 365
+      . In old compds. with follg. neutral consonance: sonairt 
+(nert), solus (lés), <span class="lbl">ib.</span> 
+        § 166
+      . Later felt as an autonomous element of the compd. and adopts the quality of the vowel of 
+follg. syll., <span class="lbl">e.g.</span> 
+        soibheart, 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 41.27
+        
+      . 
+        soifer, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 
+156 n. 4
+        
+      . 
+        soicheneol, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 96.6
+        
+      . Occasionally spelt sogh-, 
+soth-: 
+        soghthengaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 444
+        
+      . 
+        soighidirdhealbhtha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 
+375.1
+        
+      . 
+        sothbiadach, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 42.4. Comm
+        
+      . 
+        sothchroidheach, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 62.24
+        
+      . Used in composition with nouns, adjectives, 
+participles, verbals of necessity, and rarely with verbs. When 
+prefixed to nouns to form adjj. the resulting formations, 
+when from o- and ā- stems, generally assume i-inflexion: 
+
+        suacubuir, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 67c8
+        
+       (accobor). 
+        sochenēuil, 
+          101d12
+        
+       (cenél). 
+
+        sochoisc, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 30b28
+        
+       (cosc). (Note, however, 
+        sásad sognass, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 60 § 84
+        
+      . 
+        a slesaib saerclann socineol, 
+          <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 894
+        
+      ). 
+The usage in the case of u- stems varies: 
+        bad sochrud, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+6a30
+        
+      . 
+        fer sochraid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5751
+        
+      . 
+        mad . . . socomais (socomas, <span class="lbl">v.l.</span>), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 369 § 30
+        
+       (commus). On the model of compds. of o- 
+and ā- stems compds. are freely formed in the later language 
+by prefixing so- to the gs. of any noun, the resulting formations being treated as attrib. genitives and left uninflected 
+(see Bergin, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 229
+      ): 
+        ben . . . soacallma, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 97.3
+        
+      . 
+
+        lind . . . soóla, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3025
+        
+      . 
+        saerṡloinnti soicheneoil, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 96.9
+        
+      . 
+Nouns formed by prefixing so to o- and ā- stems usually retain the declension of the simplex. Note, however, soacallaim 
+(soacallma, soacallmacht, <span class="lbl">v.ll.</span>) `<span class="quote">affability</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 1.5
+      . 
+soāig (ág), 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 118 § 8
+      . </p>
+   
+    <p class="result"> 
+Freq. used to form artificial compds. in etymological 
+glosses: so-abb gl. 
+        sab, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 26
+        
+      . so-acomol gl. 
+        socomul, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+ii 362.4 Comm
+        
+      . so-ána gl. 
+        sona, 
+          i 42.7 Comm
+        
+      . 
+        soth-cedach .i. 
+socothach .i. sothbiadach, 
+          42.4 Comm
+        
+      . so-raidid gl. 
+        saeraid, 
+
+          92.z Comm
+        
+      . Note also: 
+        fer . . . sofer a saerughudh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 
+1797
+        
+      . </p>
+  
+  
+    <p class="result"> 
+The follg. list is illustrative only. Words no longer felt as 
+compds. of so-, <span class="lbl">e.g.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=solus">solus</a></span> (so+lés), <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=sonairt">sonairt</a></span> (so+nert), <span class="lbl">etc.</span>, are 
+given as separate articles.</p>
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) With nouns to form nouns in meaning <span class="trans">
+          <span class="def">good</span> . . ., <span class="def">excellent</span>
+        </span> 
+. . . (sometimes with merely intensive force, or for alliteration). 
+With verbal nouns in certain constructions the force is <span class="pos adverbial" style="color: #ff8000">adverbial</span> (<span class="trans">
+          <span class="def">well</span>
+        </span>). 
+          <span class="oRef">¤</span>aicsinae <span class="trans">
+          <span class="def">comeliness</span>
+        </span>: cia an ghein ba samalta ris 
+. . . ar shofhaicsina `<span class="quote">in good looks</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 98 n. 8
+        . 
+          <span class="oRef">¤</span>acallaim <span class="trans">
+          <span class="def">affability</span>, <span class="def">ease</span> of <span class="def">address</span>
+        </span>: s. (soacallma, soacallmacht, 
+<span class="lbl">v.ll.</span>) cen mórdataid `<span class="quote">affability without haughtiness</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> 
+§ 1.5
+        . 
+          <span class="oRef">¤</span>aice <span class="trans">a good <span class="def">fosterage</span>, <span class="def">upbringing</span>
+        </span>: aurail coimperta i 
+soaici sochraiti is cor cach techta `<span class="quote">das Anbefehlen von `Zeugung' 
+(Kindern) in eine wohlbefreundete (?) gute Erziehung ist ein 
+Vertrag nach aller Gebühr</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Stud.inE.Ir.Law" title="eDIL Bibliography">Stud. in E. Ir. Law</strong></span> 26.4
+         (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 
+360.28
+        ). 
+          <span class="oRef">¤</span>áig: nī soāig nā soairle coimērgi frit mac `<span class="quote">it is not 
+fair fight nor wise to rise up against thy own son</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 118 § 8
+        . 
+
+          <span class="oRef">¤</span>áilgis <span class="trans">a good <span class="def">request</span>, <span class="def">suit</span>, <span class="def">claim</span>
+        </span>: 
+          bes no soailgis, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+1432
+          
+        . 
+          <span class="oRef">¤</span>aimser <span class="ediltr">a prosperous time</span>: nō go tāinic s. ann (as 
+oppd. to a period of famine), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 112
+        . go rug sí ar an soaimsir 
+`<span class="quote">so that she survived to the period of prosperity</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 15.34
+        . 
+
+          <span class="oRef">¤</span>airlabra <span class="trans">
+          <span class="def">eloquence</span>
+        </span>: 
+          .uii. so-urlabra súadh in gach tengaidh 
+díb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 381.11
+          
+        . 
+          <span class="oRef">¤</span>airlabraid <span class="trans">an <span class="def">eloquent</span> <span class="def">man</span>, an <span class="def">orator</span>
+        </span>: 
+
+          Sencha mac Ailella . . . soirlabraid (saerlabhraidh, erlabraid 
+<span class="lbl">v.ll.</span>) Ulad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5233
+          
+        . 
+          <span class="oRef">¤</span>airle <span class="trans">
+          <span class="def">good</span> <span class="def">counsel</span>
+        </span>: 
+          fri sorecht, fri s., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 22.9
+          
+        . 
+          <span class="oRef">¤</span>airm <span class="trans">a <span class="def">noble</span> <span class="def">place</span>
+        </span>: 
+          túargaib tar cach s. 
+sair | tomaidm locha Léin lindmair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 262.43
+          
+        . 
+
+          <span class="oRef">¤</span>aithesc <span class="trans">a <span class="def">favourable</span> <span class="def">reply</span>
+        </span>: 
+          adfet nach fuair Antenor s. 
+uaidibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 423a32
+          
+        . 
+          <span class="oRef">¤</span>altar <span class="trans">
+          <span class="def">good</span> <span class="def">fosterage</span>
+        </span>: 
+          s., mialtar, . . . 
+ro-altar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 168.1
+          
+        . 
+          <span class="oRef">¤</span>balad <span class="trans">
+          <span class="def">good</span> <span class="def">smell</span>, <span class="def">fragrance</span>
+        </span>: 
+          boltanugud ┐ s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laud610" title="eDIL Bibliography">Laud 610</strong></span>, fo. 25b
+            
+          
+         (Plummer MS. notes). 
+          <span class="oRef">¤</span>ball 
+<span class="trans">a <span class="def">healthy</span> <span class="def">limb</span>
+        </span>: 
+          ac Diancécht na s. slán, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 438.3
+          
+        . 
+
+          <span class="oRef">¤</span>bard: 
+          memur fri cach s. sen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1996
+          
+        . 
+          <span class="oRef">¤</span>ben: tosach 
+sodcha s. <span class="ediltr">the beginning of fortune is a good wife</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 
+16.20
+        . 
+          <span class="oRef">¤</span>bert <span class="trans">a <span class="def">good</span> <span class="def">action</span>, a <span class="def">noble</span> <span class="def">deed</span>
+        </span>: 
+          le brath soibheart 
+cuaine Cuinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 41.27
+          
+        . 
+          táinic leo a los a soibheart | 
+cosnam clú do . . ., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Miscell.Celt.Soc." title="eDIL Bibliography">Miscell. Celt. Soc.</strong></span> 370.26
+          
+        . 
+          <span class="oRef">¤</span>bérla: is Sencha 
+. . . ar síd ┐ ar ṡo-berla <span class="ediltr">he is a Sencha for peace and good speech</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 27
+        . 
+          <span class="oRef">¤</span>bérlaid <span class="trans">a <span class="def">good</span> or <span class="def">skilful</span> <span class="def">speaker</span>
+        </span>: 
+          Sencha . . . s. 
+fher in talman ┐ fer sídaigthi slúaig Ulad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 757
+          
+        . 
+          Sencha 
+s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10285
+          
+        . 
+          <span class="oRef">¤</span>bérlaige <span class="trans">
+          <span class="def">pleasantness</span> of <span class="def">speech</span>
+        </span>: 
+          do solabarthai 
+┐ do soberlaigi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 86a53
+          
+        . 
+          <span class="oRef">¤</span>blad <span class="trans">
+          <span class="def">good</span> <span class="def">fame</span>
+        </span>: 
+          cona slóg co 
+s. sain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 268.27
+          
+        . 
+          <span class="oRef">¤</span>brón <span class="trans">
+          <span class="def">cheerfulness</span>
+        </span>: 
+          ge dha 
+bhi subha ┐ sobron ┐ somenma ar Ulltaibh desin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 
+539.19
+          
+        . 
+          <span class="oRef">¤</span>brostugud <span class="trans">the act of <span class="def">stirring</span> <span class="def">up</span> <span class="def">effectively</span>
+        </span>: 
+          flesc 
+arggit . . . i lláim ind arad ic s. na hechraide, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 189b39
+          
+        . 
+
+          <span class="oRef">¤</span>charthainne: do bí síth ┐ sáime ┐ s. rena linn `<span class="quote">amity and 
+peace and quiet</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 2.22
+        . 
+          <span class="oRef">¤</span>charthannaige 
+<span class="trans">
+          <span class="def">charity</span>
+        </span>: 
+          do bfollus búidhe ┐ socharthanaighe in epscop 
+naemhtha Déclan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xvi 34.7
+          
+        . 
+          <span class="oRef">¤</span>chéimm <span class="trans">
+          <span class="def">joyful</span> <span class="def">step</span>
+        </span>: 
+
+          mithigh soicheim go síol gCárthaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> iii 200.1
+          
+        . 
+          <span class="oRef">¤</span>
+chinded <span class="trans">good <span class="def">determination</span> or <span class="def">settlement</span>?:</span> cach socindiud dib 
+sin d'eachaib ┐ srianaib (gloss on saescuir), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 22.31
+Comm
+        . 
+          <span class="oRef">¤</span>chlann: dobert doib la sidhe (<span class="lbl">leg.</span> sídh, Ed.) is 
+sochlainn righe Raithlinn `<span class="quote">with peace and goodly children</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2143
+        . 
+          <span class="oRef">¤</span>chocad <span class="trans">
+          <span class="def">easy</span> or <span class="def">successful</span> <span class="def">warfare</span>
+        </span>: 
+          ferr sīdh 
+s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 19.5
+          
+        . 
+          <span class="oRef">¤</span>chomairle <span class="trans">
+          <span class="def">good</span> <span class="def">counsel</span>
+        </span>: 
+          ar fogebadh 
+slainti ┐ sochomairle tria senmam (<span class="lbl">leg.</span> senmaim) a buinne 
+degabail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DIV2" title="eDIL Bibliography">D IV 2</strong></span>, 53va29
+          
+        . 
+          <span class="oRef">¤</span>chomét: 
+          sochomet .i. daghcometas seanchas ┐ a cuimniud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2022
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H4.22" title="eDIL Bibliography">H 4.22</strong></span>, p. 49
+        ). 
+
+          <span class="oRef">¤</span>chonách <span class="trans">good <span class="def">success</span>, good <span class="def">fortune</span>
+        </span>: 
+          mét soinmigi ┐ so-conaigh Poimp, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5023
+          
+        . 
+          <span class="oRef">¤</span>choisce <span class="trans">
+          <span class="def">docility</span>
+        </span>: 
+          tréde immi-foilnge gáis do baeth, ecna, fosta, s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 194
+          
+        . 
+          treidhe glanus 
+cride duine .i. sochoisci ┐ miscais in cendtair ┐ serc ind alltair, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 992
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, col. 855
+        ). 
+          <span class="oRef">¤</span>choiscithe: re bhreith-cheirt 
+a breitheamhan, re s. a soithchern `<span class="quote">regularity</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 102.16
+        . 
+
+          <span class="oRef">¤</span>chostud: a sobés a s. `<span class="quote">her good custom, her good manners</span>' 
+(of Ireland), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 148.3
+        . 
+          <span class="oRef">¤</span>chumtach: 
+          neoch mar imḟuaíg 
+snathat d'ór iarna írbrunniud, no d'argut arna ṡ., 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 189a50
+          
+        . 
+
+          <span class="oRef">¤</span>dáil: in buidi, in derg, derb dána | nisgaib fergg fri sodála 
+(of the winds), 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 60
+        .  D. fri gach sodhail soin `<span class="quote">D. born to 
+every happiness</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mart.Don." title="eDIL Bibliography">Mart. Don.</strong></span> 290.23
+        . 
+          <span class="oRef">¤</span>dám <span class="trans">a good or <span class="def">proper</span> 
+<span class="def">retinue</span>
+        </span>: 
+          caite ceathar sodam gacha gráidh?, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 981
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 
+col. 779
+        ). 
+          <span class="oRef">¤</span>damna <span class="trans">
+          <span class="def">good</span> <span class="def">material</span>
+        </span>: 
+          dotrua comarda uaim | bid 
+sodamna (bidsodomna, <span class="lbl">MS.</span>) frit banbúaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6118
+          
+        . 
+          cach 
+sodomna ríg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 147a46
+          
+        . 
+          <span class="oRef">¤</span>dath: 
+          go s. firinne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2599
+          
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, fo. 51a
+          
+        ). 
+          <span class="oRef">¤</span>deibech <span class="trans">
+          <span class="def">successful</span> <span class="def">strife</span>
+        </span>: 
+          itir sith is tṡodeibech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> i 61 § 51
+          
+        . 
+          <span class="oRef">¤</span>delb: trí héitich docelat 
+cáin . . . s. cen tothucht `<span class="quote">three ugly things that hide fairness . . . 
+a fine person without substance</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 85
+        . a sos, a s., a sulbairi 
+(of Ireland) 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 146.10
+        . As <span class="pos npr." style="color: #ff8000">npr.</span> 
+          eiter G. ┐ Sodeilb ingein 
+Chormaic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 375.16
+          
+        . <span class="case g">g</span>
+        <span class="number s.">s.</span> Sodelbi, <span class="lbl">ib.</span> 
+          1
+        . 
+          Sodealb is Cummain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iii 67 § 174
+          
+        . 
+          <span class="oRef">¤</span>dindgna <span class="trans">a strong <span class="def">fortress</span>
+        </span>: 
+
+          Temair . . . forsmbít sosta sodindgna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> i 10.66
+          
+        . 
+
+          <span class="oRef">¤</span>duine <span class="trans">
+          <span class="def">inhabitant</span> of a sid
+        </span>: 
+          conbuiretar i caomthach na s., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 104.19
+          
+        . 
+          <span class="oRef">¤</span>fhégad <span class="trans">act of <span class="def">seeing</span> <span class="def">well</span>, of <span class="def">observing</span> <span class="def">carefully</span>
+        </span>: 
+          dena ar s. riasiu dogné feirg rind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 17 n. 3
+          
+        . 
+
+          <span class="oRef">¤</span>fheithem <span class="trans">
+          <span class="def">great</span> <span class="def">attention</span>
+        </span>: 
+          ba hadbar galair disi an soi-feithemh do roinne ar Lugaidh ┐ é gan édach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 272 
+n. 5
+          
+        . 
+          <span class="oRef">¤</span>fhíadu <span class="trans">a good <span class="def">witness</span>
+        </span>: 
+          co sorathaib ┐ sofiadnaib, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 820
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 586
+        ). 
+          <span class="oRef">¤</span>fhilltiugud <span class="trans">act of <span class="def">making</span> <span class="def">flexible</span>
+        </span>: 
+
+          do sofilltiugud a adbair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5218
+          
+        . 
+          <span class="oRef">¤</span>fhis see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=sous">sous</a></span>. 
+
+          <span class="oRef">¤</span>fhostad <span class="trans">act of <span class="def">holding</span> <span class="def">well</span>, <span class="def">firmly</span>
+        </span>: 
+          each . . . cona srian . . . 
+ima ceand da sofosdad do reir cora, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 62.22 Comm
+          
+        . 
+
+          <span class="oRef">¤</span>fhrecra: múchadh feirge soifhreagra `<span class="quote">a soft answer turneth 
+away wrath</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Prov." title="eDIL Bibliography">Ir. Prov.</strong></span> 84
+        . 
+          <span class="oRef">¤</span>gaes <span class="trans">great <span class="def">wisdom</span>
+        </span>: 
+          im sogáes 
+mac Sen-Garmna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 244.36
+          
+        . 
+          maith treoir a so-ghaoise so, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxv 12
+          
+        . 
+          <span class="oRef">¤</span>gairm <span class="trans">act of <span class="def">praising</span>; a 
+<span class="def">pleasant</span> <span class="def">name</span>:</span> eól dam fri s. snaitte | comainm Crúachna 
+comnairte `<span class="quote">known to me by smooth-spoken eulogy</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iii 348.17
+        . 
+          s. sóer sléibe sen-Míss, 
+            240.20
+          
+        . 
+          <span class="oRef">¤</span>gein: soighein 
+bha ré san ríoghacht <span class="ediltr">a noble person</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 257.160
+        . 
+Of animals: 
+          sogein .i. daggin .i. bo maith, <span class="frn ">ut est</span> cona seasga 
+sogin sét, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1441
+          
+        . 
+          <span class="oRef">¤</span>gemm: 
+          Saran s. .i. gemm maith, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> Sept. 21
+          
+        . <span class="lbl"> Cf.</span> 
+          soigheam .i. geam maith .i. cloch uasal 
+mhaith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         ? 
+          <span class="oRef">¤</span>gen(n)acht <span class="trans">
+          <span class="def">pride</span>, <span class="def">spiritedness</span>
+        </span>: 
+          do hotlacht 
+┐ do hoghenacht su, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 549.16
+          
+        . 
+          <span class="oRef">¤</span>gnás <span class="trans">good <span class="def">manners</span>, <span class="def">custom</span>, <span class="def">usage</span>
+        </span>: trí seithir sotcaid: 
+          sognas, sochell, súarcus, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 210
+          
+        . trí seithir sognáise: 
+          feidle, soithnges, cuinnmíne, 
+
+            208
+          
+        . móithfe sognáiss cach síde `<span class="quote">he will delight the company of 
+every fairy knoll</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> 52
+        . 
+          <span class="oRef">¤</span>gním: sógnim maithiusa 
+<span class="ediltr">virtuous act</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 156a13
+        . 
+          bheith seadhmhar ré saothrughadh 
+na subháilceadh ┐ na soighníomh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1811
+          
+        . toirmeascc do 
+chor ar shoighniomhaibh muinntire an bharúin . . . isin 
+ffearonn sin `<span class="quote">to prevent the Baron's people from working on 
+those lands</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2040.z
+        . 
+          <span class="oRef">¤</span>gnímrad <span class="trans">
+          <span class="def">good</span> <span class="def">works</span>, <span class="def">virtuous</span> 
+<span class="def">acts</span>
+        </span>: 
+          suidfither gach aon duine . . . ar miadh ┐ ar dligedh ┐ ar 
+a sognim[r]adh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxviii 322.11
+          
+        . 
+          <span class="oRef">¤</span>goídelg (lit. <span class="ediltr">good Irish</span>) 
+<span class="trans">
+          <span class="def">eloquence</span>
+        </span>: áilgine, saidbres, sogóidelg (among the requirements of a noblewoman), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 54.20
+        . 
+          <span class="oRef">¤</span>grád <span class="trans">
+          <span class="def">great</span> 
+<span class="def">love</span>
+        </span>: Secundin co s. <span class="ediltr">very affectionate S.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> Feb. 21
+        . 
+          rob 
+tuar soghráidh a silleadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1921, 74 § 6
+          
+        . <span class="trans">
+          <span class="def">good</span> <span class="def">degree</span> or 
+<span class="def">rank</span>
+        </span>: 
+          fri srethblaid ┐ s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 146a9
+          
+        . 
+          <span class="oRef">¤</span>imól <span class="trans">good <span class="def">drinking-round</span>
+        </span>: Fig. 
+          maidith . . . in sluag forna doirsi[u] co-rralsat 
+soïmōl for lár ind liss, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> 18
+          
+        . 
+          <span class="oRef">¤</span>insce, inscne <span class="trans">good <span class="def">speech</span>, 
+<span class="def">eloquence</span>
+        </span>: 
+          cach soinnsce solam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 22.16
+          
+        . a senchas, a soinscni (of Ireland), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 162.7
+        . 
+          <span class="oRef">¤</span>istad <span class="trans">good 
+<span class="def">habitation</span>
+        </span>: 
+          oga ndecsain dar a soistud, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 176.z Comm
+          
+        . 
+
+          <span class="oRef">¤</span>labairt <span class="trans">good <span class="def">speech</span>, <span class="def">eloquence</span>
+        </span>: 
+          da mbeitís secht tengtha im 
+cind ┐ secht solabarta súadh cecha tengad dib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7551
+          
+        . 
+
+          <span class="oRef">¤</span>labarthae <span class="trans">
+          <span class="def">eloquence</span>
+        </span>: 
+          do solabarthai ┐ do soberlaigi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 
+86a53
+          
+        . 
+          <span class="oRef">¤</span>labarthaige: da ṡolabartaigi da labradaís `<span class="quote">however 
+eloquently they might speak</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 383.8
+        . 
+          <span class="oRef">¤</span>laech <span class="trans">a good 
+<span class="def">warrior</span>
+        </span>: 
+          ba buaid solaích, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 32
+          
+         <span class="lbl">marg. inf.</span> 
+          <span class="oRef">¤</span>lorg <span class="trans">a <span class="def">brave</span> <span class="def">troop</span>
+        </span>: 
+
+          robái Echaid . . . | for srethaib saidbre a ṡoluirg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iii 352.66
+          
+        . 
+          <span class="oRef">¤</span>maise <span class="trans">
+          <span class="def">beauty</span>
+        </span>: 
+          rogabastar int ara . . . a chathbar 
+. . . ba somassi dosom sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1878
+          
+        . 
+          re somaisi na mergedh ┐ 
+na minn rigda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4987
+          
+        . 
+          somhaise ┐ sláinte a chuirp, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+7963
+          
+        . 
+          <span class="oRef">¤</span>marbthacht <span class="trans">
+          <span class="def">mortality</span>
+        </span>: 
+          ag bioth-chuimhniughadh an 
+bháis ┐ shomharbhthachta an duine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 135
+          
+        . 
+          <span class="oRef">¤</span>méin <span class="trans">a good 
+<span class="def">disposition</span>
+        </span>: 
+          Suuithun co soimein, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> July 2
+          
+        . 
+          <span class="oRef">¤</span>menma: 
+rodhúisigh fó somhenmain `<span class="quote">he awoke refreshed</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 158 
+§ 10
+        . 
+          dorad seitrichi ┐ somenmain don tshlogh . . ., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 2088
+          
+        . 
+
+          an trath leicces a leabra | do cach as cúis tsoimenma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 52.18
+          
+        . 
+          <span class="oRef">¤</span>míad <span class="trans">great <span class="def">honour</span>, <span class="def">respect</span>, <span class="def">glory</span>
+        </span>: 
+          gairmebtair . . . co s. . . . na naím, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2460
+          
+        . 
+          dligid athair s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 
+261.23
+          
+        . ni ḟuair do ṡomíadh acht cuirp Ua Cendselaig (of the 
+results of a battle), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 268.4
+        . 
+          Nodlaig do bhádhas ag 
+Brían | gum shochar is gum shoimhíadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1649
+          
+        . 
+
+          <span class="oRef">¤</span>mind <span class="ediltr">a goodly diadem</span>; 
+          Senan s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> Sept. 30
+          
+        . 
+          <span class="oRef">¤</span>oígidecht <span class="trans">good <span class="def">entertainment</span>, <span class="def">hospitality</span>
+        </span>: 
+          rodfia suaighidheacht 
+aidchi sunn anocht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xv 206.1
+          
+        . 
+          <span class="oRef">¤</span>ráith <span class="trans">good <span class="def">surety</span>
+        </span>: 
+          arach 
+for soraith nad elai .i. for dagraith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 118.6
+          
+        , 
+          21 Comm
+        . 
+
+          fal fir fosaither dagnadmann co sorathaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 820
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 
+p. 586
+        ). 
+          <span class="oRef">¤</span>recht <span class="trans">
+          <span class="def">good</span> <span class="def">law</span>
+        </span>: 
+          fri s., fri soairle, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 22.9
+          
+        . 
+
+          <span class="oRef">¤</span>réidiugad <span class="trans">act of <span class="def">smoothing</span> out, <span class="def">making</span> <span class="def">easy</span>
+        </span>: 
+          rogab for guidi 
+an Choimded ina croisfigill ma soreidachadh dó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DIV2" title="eDIL Bibliography">D IV 2</strong></span>, 57va34
+          
+        . 
+
+          <span class="oRef">¤</span>shén <span class="trans">
+          <span class="def">good</span> or <span class="def">lucky</span> <span class="def">sign</span>
+        </span>: 
+          cia s. ┐ solud búi for in ló i mbátar, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1072
+          
+        . 
+          <span class="oRef">¤</span>shíd <span class="trans">
+          <span class="def">good</span> <span class="def">peace</span> (?):</span> 
+          cen sosid fri toirsi atraig | 
+tarmairt Dauid a haidid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6443
+          
+        . 
+          <span class="oRef">¤</span>shín <span class="trans">fine <span class="def">weather</span>
+        </span>: 
+          co 
+haimsir tsamraid ┐ sosini, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1361
+          
+        . 
+          <span class="oRef">¤</span>shlúag <span class="trans">a <span class="def">good</span> or 
+<span class="def">brave</span> <span class="def">host</span>
+        </span>: 
+          d'fhir imdích s. sadha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 5333
+          
+        . 
+          <span class="oRef">¤</span>spirut: 
+amal a s. gl. a Domini Spiritu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 15b7
+        . 
+          <span class="oRef">¤</span>thecosc <span class="trans">
+          <span class="def">good</span> 
+<span class="def">instruction</span>
+        </span>: 
+          ferrdi sluag sothecusc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 158.13
+          
+        . 
+          <span class="oRef">¤</span>thengthaid 
+<span class="trans">a <span class="def">good</span> <span class="def">speaker</span>, an <span class="def">advocate</span>
+        </span>: 
+          airecht fodesin . . . suitengtaidh 
+nodofethaigthear, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 360.11
+          
+        . 
+          <span class="oRef">¤</span>thinmige <span class="trans">
+          <span class="def">sharpness</span>
+        </span>: 
+
+          geraither cloidem senta sothinmiche cach serra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5602
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) With nouns to form <span class="pos adjectives" style="color: #ff8000">adjectives</span> (on inflexion see above). 
+Here, with nouns other than verbal nouns, the force of so- is 
+as in (a) (
+          <span class="oRef">¤</span>chenéil lit. <span class="ediltr">of, having a good family</span>). With verbal 
+nouns and other nouns implying action the meaning <span class="trans">
+          <span class="def">good</span>, <span class="def">fit</span> 
+for, <span class="def">worth</span>
+        </span> is often present (
+          <span class="oRef">¤</span>óil <span class="ediltr">good to drink</span>), but most freq. 
+so- here conveys the idea of <span class="trans">
+          <span class="def">ease</span>, <span class="def">facility</span>, <span class="def">possibility</span>
+        </span>, <span class="lbl">etc.</span>
+      </p>
+      
+      <p class="result"> 
+
+          <span class="oRef">¤</span>accallma <span class="trans">
+          <span class="def">affable</span>, <span class="def">sociable</span>
+        </span>: 
+          atcondarc and in suid sulbair 
+s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 116a33
+          
+        . 
+          <span class="oRef">¤</span>aithne <span class="trans">
+          <span class="def">easily</span> <span class="def">known</span>, <span class="def">intelligible</span>, <span class="def">recognizable</span>
+        </span>: 
+
+          adeir Aristotul nach s. an íle ach do leith na hanalogia, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 254.18
+          
+        . 
+          <span class="oRef">¤</span>aitrib <span class="trans">
+          <span class="def">easily</span> <span class="def">inhabited</span>
+        </span>: 
+          in dara crich s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 138.24
+          
+        . 
+          <span class="oRef">¤</span>béoil: Sencha sobeóil <span class="ediltr">eloquent</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 123b5
+        . 
+re foiléim t'eich ṡing ṡoibhéil <span class="ediltr">sensitive</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 15.15
+        . 
+
+          <span class="oRef">¤</span>blegoin <span class="trans">in good <span class="def">milk</span> (of a cow):</span> 
+          soilbech .i. s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1439
+          
+        . 
+
+          <span class="oRef">¤</span>búair <span class="trans">
+          <span class="def">rich</span> in <span class="def">cattle</span>
+        </span>: 
+          Araba saidbir s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/DIV2" title="eDIL Bibliography">D IV 2</strong></span>, 53vb16
+          
+        . 
+
+          <span class="oRef">¤</span>chaithme: 
+          ubhla s. sirmhillsi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 239 § 170
+          
+        . ní sgéal 
+sochaithmhe sin `<span class="quote">imperishable story</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 23.39
+        . géag úr 
+nach so-chaithmhe sibh `<span class="quote">fresh ever-green branch</span>' (of the 
+Blessed Virgin), 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxvi 10
+        . 
+          <span class="oRef">¤</span>charthana <span class="trans">
+          <span class="def">worthy</span> 
+of <span class="def">love</span>, <span class="def">lovable</span>
+        </span>: 
+          gradhaigis in rí Mochuda oir bá s. hé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+292 § 8
+          
+        . 
+          <span class="oRef">¤</span>chlainn <span class="trans">
+          <span class="def">well-born</span>?:</span> 
+          ba soalt sochlaind ní súail, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 28.43
+          
+        . 
+          <span class="oRef">¤</span>choisc <span class="trans">
+          <span class="def">docile</span>, <span class="def">easily</span> <span class="def">instructed</span> or 
+<span class="def">governed</span>
+        </span>: s. gl. docebilem, patientem, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 30b28
+        . s. cach so-thengtha[id] `<span class="quote">every well-spoken person is tractable</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Triads" title="eDIL Bibliography">Triads</strong></span> 251
+        . 
+
+          acht bidis soc[h]oisce, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 451.28
+          
+        . As <span class="pos subst." style="color: #ff8000">subst.</span> sái cech s. 
+`<span class="quote">every docile person is sage</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 15.36
+        . 
+          <span class="oRef">¤</span>chomais 
+<span class="trans">
+          <span class="def">capable</span>, <span class="def">effective</span>
+        </span>: im-dich cach corp a meamra ma[d] socorp 
+. . . sofoltach s. (socumas, <span class="lbl">v.l.</span>) `<span class="quote">mit richtiger Macht</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 
+369 § 30
+         (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 278.20
+        ). 
+          <span class="oRef">¤</span>chomráid <span class="trans">
+          <span class="def">conversable</span>, <span class="def">sociable</span>
+        </span>: 
+
+          roba s. Iubdán, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 239.1
+          
+        . 
+          <span class="oRef">¤</span>chonáich <span class="trans">
+          <span class="def">prosperous</span>, <span class="def">successful</span>
+        </span>: 
+
+          ua saidbir sochonaig d'erraib ┐ d'armaib . . . int olen sin, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1927
+          
+        . fear síothchanta sochonaigh `<span class="quote">a peaceable affluent 
+man</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 858.4
+        . 
+          <span class="oRef">¤</span>chorp <span class="ediltr">of good body</span>: 
+          mad s. sognimuch, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 369 § 30
+          
+        . 
+          ag loige . . . slan s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 246.1
+          
+        . 
+          <span class="oRef">¤</span>chu- <span class="trans">
+          <span class="def">handsome</span>
+        </span>: 
+          más masla bheith sorcha sochumaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> iii 218 § 6
+          
+        . 
+          <span class="oRef">¤</span>chumainn <span class="trans">
+          <span class="def">lovable</span>
+        </span>: 
+          mor ngiolla saor 
+sochomainn | dom lucht chumainn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 36.1
+          
+        . 
+          soercland suairc 
+. . . sochomaind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 178.13
+          
+        . — dath <span class="ediltr">finely coloured</span>
+        
+          : la slúag 
+slán sóer s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Aug. 10
+          
+        . 
+          <span class="oRef">¤</span>dedla: foghnamh . . . ris nach 
+soidheaghla <span class="ediltr">which is difficult to relinquish</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1932, 140 
+§ 1
+        . 
+          <span class="oRef">¤</span>delba <span class="trans">
+          <span class="def">comely</span>, <span class="def">handsome</span>
+        </span>: 
+          a bhall sliombog soidhealbha, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 21.6
+          
+        . 
+          <span class="oRef">¤</span>déinme: laoich ren soidhéinmhe síodh ban 
+`<span class="quote">warriors with whom women readily make peace</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 9.30
+        . 
+laoich na ngreagh soidhéinmhe seang `<span class="quote">warriors with sleek 
+shapely steeds</span>', 
+          2.25
+        . 
+          <span class="oRef">¤</span>deraid: gnúis chorcra ón soidhearaidh 
+síodh `<span class="quote">ruddy cheek by whom peace is readily rejected</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 13.46
+        . 
+
+          <span class="oRef">¤</span>derc <span class="trans">
+          <span class="def">visible</span>:</span> <span style="color: #ff8000">compar.</span> 
+          airm bes . . . soderci . . . nó bes 
+forréil ann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1276
+          
+        . 
+          <span class="oRef">¤</span>dígail <span class="trans">
+          <span class="def">easily</span> <span class="def">avenged</span> (?):</span> lathris 
+solchend sodigail soisilgeneth (rhetoric), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 307.4
+        . 
+
+          <span class="oRef">¤</span>díla <span class="trans">
+          <span class="def">easily</span> <span class="def">satisfied</span>, <span class="def">requited</span>
+        </span>: 
+          soidhíola do Mhac, a Mhuire, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> x 26
+          
+        . 
+          <span class="oRef">¤</span>dula: ro líon an mhuir isin ffersait tarsa 
+ttangattar . . . co nár bhó sodhula tairsi idir <span class="ediltr">so that one could 
+not traverse it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1614.22
+        . 
+          an sruth do bhí sodhola dá 
+shluagaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 10.2
+          
+        . 
+          <span class="oRef">¤</span>eólais <span class="trans">easy to <span class="def">know</span> or <span class="def">follow</span>
+        </span>: 
+          glacfaid 
+an slighidh shaobh shoieóluis ┐ casán claon na colla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 403.5
+          
+        . 
+          <span class="oRef">¤</span>fhaicse <span class="trans">easily <span class="def">seen</span>, <span class="def">visible</span>
+        </span>: 
+          don eagluis shofhaigse, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 268.z
+          
+        . 
+          <span class="oRef">¤</span>fhaicsina, 
+          <span class="oRef">¤</span>fhaircsina <span class="trans">
+          <span class="def">visible</span>:</span> 
+an Papa a cenn sofhaicsiona ar talmhuin (of the Church), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 98.1
+        . 
+          gér bhó soilléir sofhairccsiona luisne ┐ 
+lasracha an bhaile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1956.17
+          
+        . 
+          <span class="oRef">¤</span>fhéchain <span class="trans">
+          <span class="def">easy</span> to <span class="def">see</span>
+        </span>: 
+          co 
+mba sofechain do Nestoir inni sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 434a38
+          
+        . 
+          <span class="oRef">¤</span>fhorcetail 
+<span class="trans">of good <span class="def">teaching</span>
+        </span>: in morbriughaidh sona sofhoircetuil (of St. 
+Senán), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2469
+        . 
+          <span class="oRef">¤</span>fhulaing: cēin bói int aingel forsin 
+cloich ba rothē dó, intan téged for imaire ūad bā s. do <span class="ediltr">tolerable</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 31.15
+        . 
+          ba brigh bhecc (sofuluing, sofulaincc, <span class="lbl">v.ll.</span>) le 
+muintir Césair sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1875
+          
+        . 
+          suilig .i. sofulaing, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1298
+          
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 539a
+          
+        ). ráod sofuluing <span class="ediltr">susceptible</span> (of milk), 
+          <span><strong class="pop" style="color:blue" href="bibliography/RosaAngl." title="eDIL Bibliography">Rosa Angl.</strong></span> 
+112.9
+        . 
+          <span class="oRef">¤</span>gabála: 
+          ó a mbeith an teanga saidhbhir so-ghabhála 
+ar na neithibh maithi atá sna teangthaibh eile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 32
+          
+         (see 
+Gloss.). o thicc ailghes an choblighe ni soghabala fris `<span class="quote">it is not 
+easy to hold out against it</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 30.8
+        . 
+          <span class="oRef">¤</span>garma <span class="trans">
+          <span class="def">ready</span> at 
+<span class="def">call</span>, <span class="def">easy</span> of <span class="def">access</span>
+        </span>: 
+          ní maor so nach sagharma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> 
+xxxi 1
+          
+        . 
+          <span class="oRef">¤</span>geis <span class="ediltr">having good</span> `gessa' (?): 
+          rop sogeis [in flaith], 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 6.3
+          
+        . 
+          <span class="oRef">¤</span>gnáis, 
+          <span class="oRef">¤</span>gnás <span class="trans">
+          <span class="def">well-bred</span>, <span class="def">sociable</span>
+        </span>: 
+          rop 
+sognais [in flaith], 
+            <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 6.17
+          
+        . for a slóg sochraid sognáis (: mbáis) `<span class="quote">among the seemly orderly host</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 
+452.42
+        . See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=sognas">sognas</a></span>. 
+          <span class="oRef">¤</span>gráda <span class="trans">of good <span class="def">degree</span> or <span class="def">rank</span>
+        </span>: 
+          niba 
+ceim soer sograda | tecait druing duba demna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8283
+          
+        . 
+          <span class="oRef">¤</span>
+gráid <span class="trans">
+          <span class="def">lovely</span>
+        </span>: manbad ruirig nimi nair | conic cach suilig s. 
+<span class="ediltr">noble</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4182
+        . 
+          an thaobh s. slis-gheal slim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1928, 676 
+§ 19
+          
+        . 
+          <span class="oRef">¤</span>gráid <span class="trans">of good <span class="def">degree</span> or <span class="def">rank</span>
+        </span>: for topur s. Segsa `<span class="quote">upon 
+the honoured well of S.</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 288.35
+        . 
+          <span class="oRef">¤</span>guide <span class="trans">
+          <span class="def">attentive</span> to <span class="def">prayer</span>
+        </span>: 
+          soghuidhe an rí tres an ríoghain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 30.27
+          
+        . 
+
+          <span class="oRef">¤</span>id <span class="trans">easily <span class="def">yoked</span>, <span class="def">submissive</span>
+        </span>: feil inghen séim soid (disyll.), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> Oct. 26
+        . 
+          <span class="oRef">¤</span>imberta <span class="trans">easily <span class="def">wielded</span>:</span> <span style="color: #ff8000">compar.</span> 
+          bendachais 
+P. na íarnda comdar soimmbertu . . . de, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2594
+          
+        . 
+          <span class="oRef">¤</span>impóid <span class="trans">easily <span class="def">changed</span> or <span class="def">turned</span>
+        </span>: 
+          losa grennuidhes in fual ┐ in 
+tallus, curob soimpoigh a linn ruadh e, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RosaAngl." title="eDIL Bibliography">Rosa Angl.</strong></span> 88.11
+          
+        . 
+
+          <span class="oRef">¤</span>imrim, 
+          <span class="oRef">¤</span>imrime: cach rudh so-imrim <span class="ediltr">penetrable</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 734
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, p. 351
+        ). ech . . . soimrime <span class="ediltr">manageable</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1864
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/23P3" title="eDIL Bibliography">23 P 3</strong></span>, 20a
+          
+        ). 
+          <span class="oRef">¤</span>imthechta <span class="trans">easily <span class="def">traversable</span>
+        </span>: 
+          claonus an 
+choill do gach leith go ndearnadh bealach socar s. thrithe, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 159.9
+          
+        . 
+          <span class="oRef">¤</span>lámachtaige <span class="trans">
+          <span class="def">palpable</span>
+        </span>: 
+          dorogart in draí 
+demnu co tuc dorchai sholamachtaige darsin mag, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ThreeHom." title="eDIL Bibliography">Three Hom.</strong></span> 
+26.7
+          
+        . 
+          <span class="oRef">¤</span>lámaig <span class="trans">
+          <span class="def">dexterous</span>
+        </span>: 
+          tucc sidhe sanntach solamhaigh 
+dia shaighidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2114.22
+          
+        . 
+          <span class="oRef">¤</span>leptha: fir lén clúmh cuilte 
+sneachta | gasradh ṡuirgheach ṡoileaptha `<span class="quote">amorous ardent 
+youths</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 21.7
+        . fa neamh do bhrú a bhanaltra | do budh tú 
+a theagh soileabhtha `<span class="quote">thou wert His (Christ's) comfortable 
+dwelling</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 19.14
+        . (?) 
+          <span class="oRef">¤</span>lomraid <span class="trans">good <span class="def">shearing</span>, <span class="def">yielding</span> 
+much <span class="def">wool</span>
+        </span>: 
+          cairaich . . . sochraid solomra[i]d, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 251
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 
+145b
+          
+        ). 
+          <span class="oRef">¤</span>marthain <span class="trans">
+          <span class="def">abiding</span>, <span class="def">permanent</span>
+        </span>: an seanoir s.,  
+
+          <span><strong class="pop" style="color:blue" href="bibliography/SkeneChroniclesofthePictsandScots" title="eDIL Bibliography">Skene, Chronicles of the Picts and Scots</strong></span> 101.8
+        . 
+          <span class="oRef">¤</span>mesc, 
+          <span class="oRef">¤</span>mesca 
+<span class="trans">
+          <span class="def">intoxicating</span>
+        </span>: 
+          ra dáled lind soóla socháin somesc fair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3025
+          
+        . 
+
+          midh . . . somesca, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 4961
+          
+        . 
+          leanna somesca, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 
+xxxvii 31
+          
+        . 
+          <span class="oRef">¤</span>naisc <span class="trans">well <span class="def">bound</span>
+        </span>: 
+          coir n-athcomairc do-eclannar 
+im cach solam s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> 22 § 18
+          
+        . 
+          <span class="oRef">¤</span>óil, 
+          <span class="oRef">¤</span>óla <span class="trans">
+          <span class="def">good</span> 
+to <span class="def">drink</span>
+        </span>: 
+          do choirm ṡomlasda ṡo-óil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 85.37
+          
+        . 
+          ra dáled 
+lind soóla . . . fair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3025
+          
+        . 
+          fleadha somhilsi soóla, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MaguiresofF." title="eDIL Bibliography">Maguires of F.</strong></span> 35
+          
+        . 
+          <span class="oRef">¤</span>pháirte: luit báis Dé nach dochaointe | ón pháis 
+is sé s. `<span class="quote">twas His Passion that made Him so easy to love</span> (?)', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 19.3
+        . 
+          <span class="oRef">¤</span>radairc <span class="trans">
+          <span class="def">fair</span> to <span class="def">see</span>
+        </span>: 
+          fona minnaib sliptha so-radhaircc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> i 366.3
+          
+        . 
+          <span class="oRef">¤</span>ronna <span class="trans">
+          <span class="def">kindly</span>, <span class="def">affable</span>
+        </span>: 
+          go mbí 
+sochroidheach s. ris gach n-aon, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 8085
+          
+        . 
+          <span class="oRef">¤</span>shnadma 
+<span class="trans">easily <span class="def">bound</span>:</span> 
+          fir ris nach soshnadhma síoth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 106.18
+          
+        . 
+
+          <span class="oRef">¤</span>thacmaing, <span class="oRef">¤</span>thacmaig <span class="trans">
+          <span class="def">enveloping</span>
+        </span>: 
+          inar sroill sothachmaing, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5808
+          
+         <span class="lbl">v.l.</span> 
+          gabsaid rigi siar co sir | na caim fa 
+sothacmaig saer, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 204ra25
+          
+         (= 
+          cia sochomtaic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 45a1
+          
+        ). 
+
+          <span class="oRef">¤</span>thecoisc, 
+          <span class="oRef">¤</span>thecuisc <span class="trans">
+          <span class="def">docile</span>, <span class="def">teachable</span>
+        </span>: 
+          bidh sotheguiscc 
+amailled re comairled duine oile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 134 § 79
+          
+        . 
+          atá sí glan 
+. . . sotheaguisg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">James</strong></span> iii 17
+          
+        . 
+          <span class="oRef">¤</span>thaíb <span class="trans">
+          <span class="def">fair-sided</span>:</span> 
+          do frithóil 
+sgor seang sothaíbh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs ex. 610
+          
+        . 
+          <span class="oRef">¤</span>thinchoisc <span class="ediltr">amenable to instruction</span>. As <span class="pos subst." style="color: #ff8000">subst.</span>: 
+          is súi cech sothinchoisc slán, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 48 § 23
+          
+        . 
+          <span class="oRef">¤</span>thuicse <span class="trans">
+          <span class="def">intelligible</span>:</span> <span style="color: #ff8000">compar.</span> 
+          mínigh dhamh 
+ni as sothuigsi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 3138
+          
+        . 
+          <span class="oRef">¤</span>thuicsena <span class="trans">
+          <span class="def">intelligible</span>
+        </span>: 
+          atá aní 
+ann féin sothuigseana, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2900
+          
+        . 
+          <span class="oRef">¤</span>thuitme: ata sé s. urusa 
+chum cach uilc = <span class="frn ">proclivis</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xxix 150.35
+        . 
+          <span class="oRef">¤</span>urfhuigill 
+<span class="trans">easily <span class="def">persuaded</span>, <span class="def">gullible</span>
+        </span>: 
+          is s. hi docum a h-aimlesa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DeContemptu" title="eDIL Bibliography">De Contemptu</strong></span> 673
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) With adjectives to form adjectives. In a few cases only 
+(
+          <span class="oRef">¤</span>bocc, 
+          <span class="oRef">¤</span>breg, 
+          <span class="oRef">¤</span>chaín, 
+          <span class="oRef">¤</span>lethan, 
+          <span class="oRef">¤</span>thig, 
+          <span class="oRef">¤</span>thoirsech, 
+
+          <span class="oRef">¤</span>ullam) merely intensive. Freq. in adjectives derived from 
+nouns, a formation based on (a) above. Also in compds. where 
+the second element has the form of a participle or verbal of 
+necessity. Here so- has the same meanings as with verbal 
+nouns in (b) above, and possibly this formation, which is on 
+the whole late, may have originated in cases where the participle had the same form as the gs. of the verbal noun. 
+          <span class="oRef">¤</span>ac(c)allmach <span class="trans">
+          <span class="def">fair-spoken</span>, <span class="def">affable</span>
+        </span>: 
+          rop soacallmach [in flaith], 
+            <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 6.7
+          
+        . 
+          <span class="oRef">¤</span>accobrach: 
+          ūair ba sánntach s. mbánbíd in 
+scolaige, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 9.15
+          
+        . rop s. [in flaith] `<span class="quote">let him have good 
+desires</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 6.6
+        . 
+          <span class="oRef">¤</span>accobraiti <span class="trans">
+          <span class="def">desirable</span>
+        </span>: ni ba so-accobraite on `<span class="quote">she will not be desirable then</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 209.25
+        . 
+
+          <span class="oRef">¤</span>acmaingech <span class="trans">of <span class="def">good</span> <span class="def">means</span>, <span class="def">affluent</span>, <span class="def">liberal</span>:</span> 
+          ba soacmuingech tuarusduil . . . doib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> i 276.4
+          
+        . 
+          <span class="oRef">¤</span>áirmide <span class="trans">
+          <span class="def">easily</span> 
+<span class="def">reckoned</span>
+        </span>: 
+          do marb ní nach soairmidhi díbh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fier." title="eDIL Bibliography">Fier.</strong></span> 233
+          
+        . 
+          <span class="oRef">¤</span>airmitnech <span class="trans">very <span class="def">honorable</span>
+        </span>: 
+          bá sruith s. in saerphopul, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 460
+          
+        . 
+
+          <span class="oRef">¤</span>aithenta: i do bheith soghaitheanta (of the church), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 375.1
+        . 
+          <span class="oRef">¤</span>aitrebtha <span class="trans">
+          <span class="def">habitable</span>
+        </span>: 
+          dona . . . crichaib soaitrebta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 6.1
+          
+        . 
+          <span class="oRef">¤</span>aitribthide <span class="trans">
+          <span class="def">habitable</span>:</span> suaitribthidi 
+gl. habitabiles, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 126a12
+        . 
+          <span class="oRef">¤</span>astaide see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=saitside">saitside</a></span>. 
+          <span class="oRef">¤</span>bethuigthe <span class="trans">well <span class="def">nourished</span>, well <span class="def">fed</span>.</span> <span class="pos Adv." style="color: #ff8000">Adv.</span> 
+          do chaithiodar . . . a 
+n-aimsior . . . go subach somheanmnach soibheathuighthe, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PCT" title="eDIL Bibliography">PCT</strong></span> 100
+          
+        . 
+          <span class="oRef">¤</span>básaigthe <span class="trans">
+          <span class="def">subject</span> to <span class="def">death</span>, <span class="def">mortal</span>
+        </span>: créutúir réusunta sobhasaighthe (of man), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 68.2
+        . 
+          <span class="oRef">¤</span>beirthe 
+<span class="trans">easily <span class="def">brought</span>
+        </span>: 
+          dá lár is soibheirthe sionn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 45.3
+          
+        . 
+
+          <span class="oRef">¤</span>bésach <span class="trans">having good <span class="def">manners</span> or <span class="def">morals</span>
+        </span>: imdich cach corp a 
+meamra ma[d] socorp sognimuch sobesuch `<span class="quote">wenn er in gutem 
+Zustand ist inbetreff . . . der Sitten</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 369 § 30
+         (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+ii 278.20
+        ). 
+          a sleasaibh segaindi soibesacha saerclannta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 
+2824
+          
+        . 
+          <span class="oRef">¤</span>bocc <span class="trans">
+          <span class="def">pliant</span>, <span class="def">accommodating</span>, <span class="def">gentle</span>
+        </span>: 
+          sē sām[fh]ind s., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 87.8
+          
+        . 
+          <span class="oRef">¤</span>bogtha <span class="trans">easily <span class="def">moved</span>
+        </span>: 
+          dochum nach bhíadh 
+éunduine . . . sobhogtha 'sna buaidhearthuibh se, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">1 Thessal.</strong></span> 
+iii 3
+          
+        . 
+          <span class="oRef">¤</span>breg <span class="trans">very <span class="def">fine</span>:</span> 
+          a crichaibh seghmura sobreagha Saxan, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 68.30
+          
+        . 
+          <span class="oRef">¤</span>brígach <span class="trans">very <span class="def">strong</span>, <span class="def">mighty</span>
+        </span>: 
+          ba sobrioghach 
+nertmar Fergus don gniomh sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 108 n. 5
+          
+        . 
+          <span class="oRef">¤</span>briste 
+<span class="trans">
+          <span class="def">brittle</span>:</span> 
+          soibhriste snáth ar saoghail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 16.60
+          
+        . 
+          <span class="oRef">¤</span>brónach <span class="trans">
+          <span class="def">cheerful</span>, <span class="def">glad</span>
+        </span>: 
+          nirdar subaig . . . sobbronaig . . . rapsat 
+dubaig dobbrónaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3242
+          
+        . 
+          gur'bhat subaigh sobrónaigh 
+uili iat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2303
+          
+        . <span class="pos Adv." style="color: #ff8000">Adv.</span> 
+          ro chaithedur ind adhaig sin co 
+subach s., 
+            2457
+          
+        . 
+          <span class="oRef">¤</span>brostuigthe <span class="trans">easily <span class="def">stirred</span> up or <span class="def">provoked</span>
+        </span>: 
+
+          ní sobhrosduigh[th]e é chum feirge, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">1 Corinth.</strong></span> xiii 5
+          
+        . 
+          <span class="oRef">¤</span>buidech 
+<span class="trans">very <span class="def">grateful</span>
+        </span>: atá siad . . . sobhuidheacha grádhach (of a 
+people), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corp.Astron." title="eDIL Bibliography">Corp. Astron.</strong></span> 84.11
+        . 
+          <span class="oRef">¤</span>búalta <span class="trans">easily <span class="def">struck</span>
+        </span>: 
+          do land 
+is sí s. | cam dhí doba dodhénta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1282
+          
+        . 
+          <span class="oRef">¤</span>chaín 
+<span class="trans">very <span class="def">good</span>, <span class="def">excellent</span>, <span class="def">choice</span>
+        </span>: 
+          lind soóla sochain somesc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+3025
+          
+        . 
+          coma s. ri sillad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 3742
+          
+        . 
+          <span class="oRef">¤</span>chairdech <span class="trans">very <span class="def">friendly</span>
+        </span>: 
+aurail coimperta i soaici sochraiti glossed 
+          .i. aurail . . . clainde 
+a ndagaice be[s] s. sochur doibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 362.2 Comm
+          
+        . (= 
+          a 
+clann co deghaite deghcairdech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 137
+          
+        ). 
+          <span class="oRef">¤</span>charthanach 
+<span class="trans">
+          <span class="def">lovable</span>, <span class="def">amiable</span>, <span class="def">friendly</span>, <span class="def">kind</span>
+        </span>: 
+          is suairc s. he ┐ is urusa serc 
+do thabairt do, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 456a42
+          
+        . Of inanimate objects: muigi . . . 
+in tíre solusta, suaichnid, sochartanaig `<span class="quote">famous, lovable</span>' (of 
+Tír Tairngiri), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3856
+        . 
+          gurbo . . . seimidhe s. in fairrgi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/CF" title="eDIL Bibliography">CF</strong></span> 55
+          
+        . <span style="color: #ff8000">compar.</span> níis socarthanaigh[i] gl. amabilior, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 
+1125
+        . 
+          <span class="oRef">¤</span>charthe <span class="trans">easily <span class="def">loved</span>, <span class="def">attractive</span>
+        </span>: 
+          is e . . . suairc s., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MackinnonCat." title="eDIL Bibliography">Mackinnon Cat.</strong></span> 199.18
+          
+        . 
+          <span class="oRef">¤</span>chétfadach: ar is soc[h]etfadach 
+cech duil i lleth fria duilem <span class="ediltr">for every separate creature is very 
+sensible of its Creator</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Nenn." title="eDIL Bibliography">Todd Nenn.</strong></span> 51.4
+        . 
+          <span class="oRef">¤</span>chlaechlaigthe, 
+
+          <span class="oRef">¤</span>chlaechlaithe <span class="trans">easily <span class="def">changed</span>
+        </span>: 
+          atā corp in duine ēgsamail 
+sochlaechluigthi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RSl&#xE1;inte" title="eDIL Bibliography">RSláinte</strong></span> 77
+          
+        . [cúig] féilti soclaecloithi `<span class="quote">five 
+moveable feasts</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 309.9
+        . (?) 
+          <span class="oRef">¤</span>chlaíte: 
+          oibrighidh 
+mar leigius fuar oir ata brigh ṡochlaoite innti, 
+            <span><strong class="pop" style="color:blue" href="bibliography/23K42" title="eDIL Bibliography">23 K 42</strong></span>, 436.18
+          
+        . 
+
+          <span class="oRef">¤</span>choimhlíonta <span class="trans">easily <span class="def">fulfilled</span>
+        </span>: 
+          go bhfuilid a aitheanta-som 
+. . . s. maillé re na ghrásaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 52.9
+          
+        . 
+          <span class="oRef">¤</span>chomairlech 
+<span class="trans">
+          <span class="def">giving</span> <span class="def">good</span> <span class="def">counsel</span> (<span class="def">susceptible</span> of <span class="def">advice</span>?):</span> 
+          fer mórmenmnach 
+. . . sídhamail s. é, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 328
+          
+        . 
+          <span class="oRef">¤</span>chorach <span class="trans">
+          <span class="def">capable</span> of <span class="def">making</span> 
+a <span class="def">valid</span> <span class="def">contract</span>
+        </span>: s. cach saer `<span class="quote">every saer-person may make 
+a contract</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 8.14
+        . 
+          <span class="oRef">¤</span>chortha <span class="trans">easily <span class="def">fatigued</span>
+        </span>: 
+          dá dtig 
+an reathaidhe do bheith aillseach s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 10727
+          
+        . 
+          <span class="oRef">¤</span>chreitmech <span class="trans">
+          <span class="def">credulous</span>, <span class="def">believing</span>
+        </span>: 
+          adeir go mbíd Éireannaigh chomh 
+soichreidmheach sin ionnus cibé nídh adéaradh a n-uachtarán . . . go measaid a bheith 'na fhírinne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 62.12
+          
+        . 
+          <span class="oRef">¤</span>
+chreitte <span class="trans">easily <span class="def">believed</span>
+        </span>: 
+          conadh esdibh-sin uile as soichrete 
+iliomad eōlach Ēreann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> i 93.183
+          
+        . 
+          <span class="oRef">¤</span>chridech <span class="trans">
+          <span class="def">good-hearted</span>, <span class="def">kind</span>
+        </span>: mar do díochuir Conaire ár gcáirdeas le briathraibh sochraoidheacha `<span class="quote">good-natured conversation</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 
+118.12
+        . go mbí sochroidheach soronna ris gach n-aon = 
+<span class="frn ">caritas . . . benigna est</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 8082
+        . <span class="pos Adv." style="color: #ff8000">Adv.</span> 
+          taisbén dúinn, a 
+thigherna, go sochroidhech do thrócaire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 304.1
+          
+        . 
+
+          <span class="oRef">¤</span>chumscaigthech <span class="trans">
+          <span class="def">mobile</span>, <span class="def">agile</span>
+        </span>: 
+          ind uili nanmand mbeothach 
+┐ socumscaightheach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 15b26
+          
+        . 
+          <span class="oRef">¤</span>delbach <span class="trans">well <span class="def">shaped</span>, 
+<span class="def">beautiful</span>
+        </span>: 
+          ri sochraidh sodhelbach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aisl.Tund." title="eDIL Bibliography">Aisl. Tond.</strong></span> 137.21
+          
+        . 
+          cleirech 
+seghdha soidhealbach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 317.22
+          
+        . As <span class="pos subst." style="color: #ff8000">subst.</span>: déana 
+eidirdhealughadh . . . idir an soidhealbhach ┐ an doidhealbhach 
+= <span class="frn ">discerne . . . pulcrum a deformi</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7734
+        . 
+          <span class="oRef">¤</span>delbda 
+<span class="trans">
+          <span class="def">shapely</span>, <span class="def">comely</span>
+        </span>: 
+          ocon buidin ṡ. ṡaerchenélaig sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 62.4
+          
+        . 
+As <span class="pos subst." style="color: #ff8000">subst.</span>: 
+          an tsoidhealbhdha ág áluinn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 112.7
+          
+        . 
+
+          <span class="oRef">¤</span>dénta <span class="trans">easily <span class="def">done</span>, <span class="def">practicable</span>
+        </span>: 
+          ata soidhéanta ag Dia, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+12 n. 11
+          
+        . 
+          go ndeuna taithíghe líonmhar an deighghníomha sa 
+soilléir soidheunta é, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 472.1
+          
+        . 
+          <span class="oRef">¤</span>derctha <span class="trans">easily <span class="def">seen</span>
+        </span>: 
+          co . . . 
+narbo soidercctai oenball dia curp, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4699
+          
+        . 
+          <span class="oRef">¤</span>dergtha: 
+gnúis shoidheargtha ag an óigh aingligh `<span class="quote">the blushing face of 
+the angelic maiden</span>' (of Mary), 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 4.25
+        . 
+          <span class="oRef">¤</span>dílegtha <span class="trans">easily 
+<span class="def">digested</span>
+        </span>: 
+          co ndliginn oileamain na sean-daineadh beith s., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RSl&#xE1;inte" title="eDIL Bibliography">RSláinte</strong></span> 845
+          
+        . 
+          <span class="oRef">¤</span>diubraicthe <span class="trans">easily <span class="def">thrown</span>, <span class="def">suitable</span> for <span class="def">hurling</span>
+        </span>: 
+          roghabh a dhá ṡleagh . . . gona semanuibh soidhiubhruc[th]e, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxix 128 § 38
+          
+        . 
+          <span class="oRef">¤</span>dolbtha: 
+          focheird . . | airchur 
+. . . | segda sodalbtha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6155
+          
+        . 
+          <span class="oRef">¤</span>érmach <span class="trans">very <span class="def">lively</span>, <span class="def">spirited</span>
+        </span>: 
+
+          robai a ech socair soermach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1384
+          
+        . 
+          <span class="oRef">¤</span>erráidech <span class="trans">
+          <span class="def">prone</span> 
+to <span class="def">error</span>, easily <span class="def">mistaken</span>
+        </span>: 
+          soimheallta, sothuitimeach, soighearraideach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 334.1
+          
+        . 
+          <span class="oRef">¤</span>eterdelbtha <span class="trans">easily <span class="def">distinguished</span>
+        </span>: 
+soighidirdhealbhtha o uile sheict ┐ coimhthinol earraideach 
+(of the church), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 375.1
+        . 
+          <span class="oRef">¤</span>fhaicsenach <span class="trans">
+          <span class="def">fit</span> to <span class="def">look</span> at, 
+<span class="def">pleasing</span>
+        </span>: 
+          dena tú fein so-fhaicsianach do Dhia, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xxix 
+198.10
+          
+        . 
+          <span class="oRef">¤</span>fhaicsigthe <span class="trans">easily <span class="def">seen</span>, <span class="def">visible</span>
+        </span>: 
+          is re haghaidh an 
+duine do cruthuigheadh an saoghul s.-se go léir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 476.22
+          
+        . 
+
+          <span class="oRef">¤</span>fhégtha: s. air nach fuil ainm = <span class="frn ">visibilia innominata</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/MackinnonCat." title="eDIL Bibliography">Mackinnon Cat.</strong></span> 40.14
+        . 
+          <span class="oRef">¤</span>fhillte <span class="trans">easily <span class="def">bent</span>, <span class="def">pliable</span>
+        </span>: 
+          an uair 
+bhíos (<span class="lbl">sc.</span> slat) cruaidh . . . ┐ nách bí soifhillte, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 2175
+          
+        . 
+
+          <span class="oRef">¤</span>fhilltech <span class="trans">
+          <span class="def">pliable</span>, easily <span class="def">folded</span>
+        </span>: 
+          ro gab inar suairc suata s., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4674
+          
+        . 
+          claidem . . . sithrigin sohfillteach, 
+            4688
+          
+        . 
+          <span class="oRef">¤</span>fholmuigthe <span class="trans">easily <span class="def">emptied</span>
+        </span>: an tan as ail an corp do phurgoidiugadh as eigin . . . a dhenamh sofholmhuighthe = <span class="frn ">fluidus</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/23K42" title="eDIL Bibliography">23 K 42</strong></span>, 15.1
+        . 
+          <span class="oRef">¤</span>fholtach <span class="ediltr">of good qualifications or deeds.</span> 
+Used of a `flaith' and `céle' who rightly observe their reciprocal 
+duties: im-dich cach corp a meamra, ma[d] socorp . . . slan s. 
+`<span class="quote">wenn er ist von gutem Gehaben</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 369 § 30
+         (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 
+278.20
+        ). 
+          nach cele s. ┐ mad anfoltach in flaith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span>
+             xiv 391 § 58
+          
+        
+(= 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 332.10
+        ). 
+          tobert doib taisiuc na flatha ┐ ni bo s. 
+friu disin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 70 § 40
+          
+        ; '<span class="quote">he was not able to discharge his obligations to them</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Peritia" title="eDIL Bibliography">Peritia</strong></span> v 149
+        . As <span class="pos subst." style="color: #ff8000">subst.</span>: is a reir in sofoltaig as-renar `<span class="quote">nach der Bestimmung des Wohl-Qualifizierten</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 
+391 § 58
+        . 
+          <span class="oRef">¤</span>fhorfáilid <span class="trans">very <span class="def">glad</span>, <span class="def">cheerful</span>
+        </span>: 
+          rodailedh lind ┐ 
+biadh doib . . . co mbadar subhaigh soforbailig (soforfailig, 
+<span class="lbl">v.l.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 197.20
+          
+        . 
+          <span class="oRef">¤</span>fhulachta <span class="trans">
+          <span class="def">endurable</span>
+        </span>: 
+          ba soolachta dam 
+iartain fulang a brotha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlvi 230.10
+          
+        . 
+          <span class="oRef">¤</span>gabálta <span class="trans">easily 
+<span class="def">handled</span>, <span class="def">managed</span>
+        </span>: corrc[h]athbarr círach . . . sronach so-gabaltae do iarann `<span class="quote">capacious</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5262
+        . Freq. as an 
+epithet of horses: 
+          for dá n-echaib . . . sogabalta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1974
+          
+        , 
+`<span class="quote">well-yoked</span>' Faraday. tri cóecait gabur . . . itt é beólaide, 
+s[o]aitside, sogabáldai `<span class="quote">easily yoked</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 51
+        . 
+          <span class="oRef">¤</span>gabáltach: 
+
+          for dib echaib . . . denmecha suntrigsigh sogabaltaich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 
+2333
+          
+        . leth don cholaind sogubbhaltaigh `<span class="quote">well-conditioned</span>' (of 
+a fattened pig), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 414.2
+        . 
+          <span class="oRef">¤</span>gabtha <span class="trans">easily <span class="def">accepted</span> (?):</span> 
+          in 
+dub . . . | in temen . . . | ind odar, doirchi datha | nidat soirchi 
+s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 64
+          
+        . 
+          <span class="oRef">¤</span>gelta <span class="trans">well <span class="def">grazed</span>
+        </span>: sochorp subaid s. `<span class="quote">gut im 
+Futter</span>' (of a bullock), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 351 § 9
+         (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 246.1
+        ). 
+
+          <span class="oRef">¤</span>genda (gein) <span class="trans">well <span class="def">born</span>; <span class="def">spirited</span>, <span class="def">proud</span>
+        </span>: 
+          oglach sotal so-ghenna eisin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 301 n. 2
+          
+        . <span class="pos Adv." style="color: #ff8000">Adv.</span> 
+          dochōdai-siu co soindim 
+sogenda remond isin teach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 2498
+          
+        . 
+          <span class="oRef">¤</span>gerrtha: sinech 
+shármór s. | loch Rugraide rithestar (rhetoric) <span class="trans">
+          <span class="def">vulnerable</span> (?)</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 251.24
+        . 
+          <span class="oRef">¤</span>gessi: bid saidbir, bid sogeisse (sogessi, sogheis, 
+<span class="lbl">v.ll.</span>) `<span class="quote">leicht zu erbitten</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 87 § 52
+        . 
+          <span class="oRef">¤</span>glactha <span class="ediltr">that may 
+be felt</span>: áit 'na bhfuil . . . dorchadas s. = <span class="frn ">palpabiles</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6596
+        . 
+
+          <span class="oRef">¤</span>glúaiste <span class="trans">easily <span class="def">moved</span>, <span class="def">movable</span>
+        </span>: 
+          
+            <span class="frn ">inmobilis</span> (<span class="lbl">leg.</span> <span class="frn ">mobilis</span>) a 
+Laitin, sogluaisti a Gaidilg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1284
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, 535
+        ). 
+          dá madh 
+ní soghluaiste an Eire sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 44.4
+          
+        . 
+          bíd soghluaiste chum 
+feirge fo bheag-adhbhar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corp.Astron." title="eDIL Bibliography">Corp. Astron.</strong></span> 70.19
+          
+        . 
+          a huile shealbha 
+sogluaiste, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2148.4
+          
+        . doréidhidh íad go socair sóghlúaisde 
+`<span class="quote">he broke them in until (they were) quiet and easily-ridden</span>' (of 
+horses), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 190.483
+        . mul socair sogluasta `<span class="quote">a comfortable, 
+easy-riding mule</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 283.21
+        . ataid a slíghthe soghlúaiste 
+`<span class="quote">her ways are moveable</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> v 6
+        . i maitheas shoghluaisde an 
+tsaoghail se <span class="ediltr">transient</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 343
+        . 
+          <span class="oRef">¤</span>gnásach, 
+          <span class="oRef">¤</span>gnásaich 
+<span class="trans">having <span class="def">good</span> <span class="def">manners</span> (?), <span class="def">sociable</span> (?):</span> 
+          robo ṡoghnasach ┐ ba 
+hailghin ac a haltrum, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> vi 174.9
+          
+        . 
+          bud sognasaig soacallma, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 253.31
+          
+        . 
+          <span class="oRef">¤</span>glan <span class="trans">very <span class="def">pure</span>
+        </span>: a c[h]omrād ba s. sēim (of 
+Colum Cille), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 303 § 4
+        . 
+          <span class="oRef">¤</span>gnímach <span class="trans">of good <span class="def">deeds</span>, <span class="def">beneficent</span>, <span class="def">virtuous</span>
+        </span>: im-dich cach corp a meamra ma[d] socorp 
+sognimuch sobesuch `<span class="quote">wenn er in gute Zustand ist inbetreff . . . 
+der Handlungen</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 369 § 30
+         (= 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 278.20
+        ). 
+          do 
+Shinell shoigniomhach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Misc.Hag.Hib." title="eDIL Bibliography">Misc. Hag. Hib.</strong></span> 111 § 33
+          
+        . <span class="pos Adv." style="color: #ff8000">Adv.</span> 
+          luid 
+roime . . in rí . . co subach s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 236a18
+          
+        . 
+          <span class="oRef">¤</span>gonta <span class="trans">easily 
+<span class="def">wounded</span>, <span class="def">vulnerable</span>
+        </span>: 
+          co narbo s. . . . oenball dia curp, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+4699
+          
+        . 
+          <span class="oRef">¤</span>grádach <span class="trans">very <span class="def">loving</span>; <span class="def">lovable</span>, <span class="def">pleasing</span>
+        </span>: 
+          rosc socraidh 
+sogradach lais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 427a45
+          
+        . 
+          go raibhe 'na Rígh .. . ro-shoghrádhach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 6879
+          
+        . 
+          mac Domhnuill ṡaoir ṡoghrádhaigh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 32.53
+          
+        . <span class="pos Adv." style="color: #ff8000">Adv.</span>: 
+          tiagaid co subach sogradach dia tir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 
+238b31
+          
+        . 
+          <span class="oRef">¤</span>guiti <span class="trans">easily <span class="def">entreated</span>
+        </span>: 
+          Fiacha Súigthi .i. soghuithe, 
+ar bá hurusa a etarghuide, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 168
+          
+        . 
+          <span class="oRef">¤</span>impóithech: is 
+i so dani na plained co soimpaidtec ┐ an talam co dogluasta 
+<span class="ediltr">easily revolvable</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 120.9
+        . gurub soimpoitheach a 
+leann ruadh e <span class="ediltr">easily convertible</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/23P10" title="eDIL Bibliography">23 P 10</strong></span>, 15a9
+        . 
+          <span class="oRef">¤</span>lámhachtach 
+<span class="trans">easily <span class="def">handled</span>, <span class="def">palpable</span>:</span> <span style="color: #ff8000">compar.</span> 
+          ba solamachtaige [cuirp na 
+hesergi] iar fhirinde in aicnid chorpda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6747
+          
+        . 
+          <span class="oRef">¤</span>lámaigthe 
+<span class="trans">easily <span class="def">handled</span>
+        </span> (?): 
+          do éirgidar ceithre hollchúigidh Érenn a 
+crislaighibh . . . a lúireach saidhbhir solámaigthi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Comp.CC" title="eDIL Bibliography">Comp. CC</strong></span> 102.1
+          
+        . 
+          <span class="oRef">¤</span>lámda, <span class="oRef">¤</span>lámaide <span class="trans">easily <span class="def">handled</span>, <span class="def">manageable</span>
+        </span>: 
+
+          arm solámhdha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 510.26
+          
+        . sitheadh . . . solāmaidhe 
+<span class="ediltr">dexterous</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/FeisTigheChon&#xE1;in" title="eDIL Bibliography">Feis Tighe Chonáin</strong></span> 389
+        . As <span class="pos subst." style="color: #ff8000">subst.</span> <span class="trans">excellent <span class="def">handiwork</span>, <span class="def">dexterity</span>
+        </span> (?): 
+          érlam scolárda do scríb | dérgadh rígh solámhda 
+súadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 184
+          
+        . 
+          <span class="oRef">¤</span>lecctha <span class="trans">
+          <span class="def">easily</span> <span class="def">brought</span> <span class="def">down</span>
+        </span>: ní 
+soileagtha thú tairsibh `<span class="quote">thou art not likely to be overthrown in 
+despite of them</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 2.18
+        . 
+          <span class="oRef">¤</span>légtha <span class="trans">
+          <span class="def">legible</span>:</span> <span style="color: #ff8000">compar.</span> nías 
+soleghta gl. legibilior, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 1126
+        . 
+          <span class="oRef">¤</span>leónta <span class="trans">easily <span class="def">wounded</span>
+        </span>: 
+
+          tuig gurab éadaingean soileónta do bhí an cholann daonna i 
+nÁdhamh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2547
+          
+        . 
+          <span class="oRef">¤</span>lepthach <span class="trans">
+          <span class="def">luxurious</span>, <span class="def">wanton</span>
+        </span> (?): s. 
+cech suirgech `<span class="quote">every lover likes a dainty bed</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 13.29
+        . 
+As <span class="pos subst." style="color: #ff8000">subst.</span> 
+          finechur gach solebach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 374.23
+          
+        = 
+          finichair 
+gach solepaid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1007
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H2.15A" title="eDIL Bibliography">H 2.15A</strong></span>, p. 15a
+          
+        ). 
+          <span class="oRef">¤</span>lethan <span class="trans">very 
+<span class="def">wide</span>, <span class="def">spacious</span>
+        </span>: 
+          go himlibh Locha soileathain Ríbh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 
+118.5
+          
+        . 
+          <span class="oRef">¤</span>lesaigthe <span class="trans">well <span class="def">prepared</span>
+        </span>: 
+          fled . . . solum s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 238.7
+          
+        . 
+
+          <span class="oRef">¤</span>límtha <span class="trans">well <span class="def">polished</span> or <span class="def">whetted</span>
+        </span>: 
+          de fhaobharaibh colg . . . 
+solíomhtha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 128.19
+          
+        . 
+          <span class="oRef">¤</span>logtha <span class="trans">easily <span class="def">forgiven</span>, <span class="def">venial</span>
+        </span>: 
+
+          tréna bpeacadhaibh sologhtha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 4366
+          
+        . 
+          <span class="oRef">¤</span>logthach <span class="trans">easily 
+<span class="def">forgiven</span>
+        </span>: 
+          peacadh marbhthach ┐ peacadh sologhthach, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 73.29
+          
+        . 
+          <span class="oRef">¤</span>maisech <span class="trans">very <span class="def">beautiful</span>
+        </span>: 
+          inar sroill s., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 7267
+          
+         <span class="lbl">v.l.</span> 
+          na subháilce somhaiseacha chailleas a los an 
+pheacaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1456
+          
+        . gurb ardmaigistir isna secht n-eladhnaibh somaisecha saera `<span class="quote">seven elegant liberal arts</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 
+970
+        . 
+          <span class="oRef">¤</span>marbtha <span class="trans">
+          <span class="def">mortal</span>
+        </span>: 
+          ní fhuil ionainne acht daoine so-mharbhtha mar sibhse, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 150
+          
+        . 
+          corp somharbtha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Romans</strong></span> 
+vi 12
+          
+        . 
+          <span class="oRef">¤</span>mellta <span class="trans">easily <span class="def">deceived</span>, <span class="def">beguiled</span>, <span class="def">enticed</span>
+        </span>: 
+          daoine iad 
+uile soimheallta, learab eidir breaga do radh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 267.12
+          
+        . 
+
+          <span class="oRef">¤</span>menmnach <span class="trans">in good <span class="def">spirits</span>, <span class="def">cheerful</span>, <span class="def">courageous</span>
+        </span>: 
+          iarum 
+rancatar dia taig | soera, slana, somenmnaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3518
+          
+        . 
+          nirdar 
+subaig sámaig . . . somenmnaig lucht puible Fir diad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+3242
+          
+        . 
+          <span class="oRef">¤</span>mescda <span class="trans">
+          <span class="def">intoxicating</span>
+        </span>: 
+          cach lind s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 869
+          
+        . 
+          <span class="oRef">¤</span>míadach <span class="trans">very <span class="def">honourable</span>
+        </span>: 
+          caecca sruth go soimhiadhach | or 
+bhen sé iascc a linne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 80 § 158
+          
+        . 
+          <span class="oRef">¤</span>míanuighthe <span class="trans">
+          <span class="def">desirable</span>:</span> 
+          lán d'ór ┐ d'airgead ┐ dá gach maoin shoimhianuighthe 
+oile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2724
+          
+        . 
+          <span class="oRef">¤</span>molta <span class="trans">easy to <span class="def">praise</span>; <span class="def">laudable</span>, <span class="def">praiseworthy</span>
+        </span>: 
+          erlam uasal adamra s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 17.1
+          
+        . <span class="pos Adv." style="color: #ff8000">Adv.</span> 
+          cionnus do 
+fhéadfadh a bheatha do thabhairt as go subháilceach s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+651
+          
+        . <span style="color: #ff8000">compar.</span> níis s. gl. laudabilior, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 1127
+        . 
+          <span class="oRef">¤</span>morgtha, 
+<span class="oRef">¤</span>morgaigthe <span class="trans">easily <span class="def">corrupted</span>
+        </span>: 
+          an oileamain do-gabur ō na 
+torthaib geinid sī fuil shomorguigthi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RSl&#xE1;inte" title="eDIL Bibliography">RSláinte</strong></span> 5016
+          
+        . 
+          doni 
+gach uile thoradh fuil uisgemail somorgtha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Reg.San." title="eDIL Bibliography">Reg. San.</strong></span> 25.21
+          
+        . 
+
+          <span class="oRef">¤</span>mothaigthe <span class="trans">
+          <span class="def">palpable</span>, <span class="def">tangible</span>
+        </span>: 
+          comharrtha somhothaighthe 
+do chedfadhaibh corparrdha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 189.14
+          
+        . 
+          an 
+eaglais . . . sofhaicse, somhothuidhthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 356.12
+          
+        . 
+
+          <span class="oRef">¤</span>mudaigthe <span class="trans">
+          <span class="def">perishable</span>, <span class="def">mortal</span>
+        </span>: 
+          duine 'na Dhia ┐ uilechumhachtach ┐ Mac Dé 'na dhuine ┐ somhudhaighthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 
+6218
+          
+        . 
+          <span class="oRef">¤</span>múinte <span class="trans">
+          <span class="def">teachable</span> (?):</span> atait inntleachtach somuinti 
+`<span class="quote">refined</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 138.26
+        . 
+          <span class="oRef">¤</span>óentadach <span class="trans">
+          <span class="def">accommodating</span>, 
+<span class="def">agreeable</span>
+        </span>: 
+          s. é co sír ┐ bá suilbir dogrés, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;irAnm." title="eDIL Bibliography">Cóir Anm.</strong></span> 168
+          
+        . 
+
+          <span class="oRef">¤</span>oscailte <span class="trans">
+          <span class="def">dissoluble</span>
+        </span>: gach ni as s. ┐ is laigi dageibh is in 
+talmain beirid se . . . isna srotaib (of rain), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 34.15
+        . 
+
+          <span class="oRef">¤</span>oibrigthe <span class="trans">
+          <span class="def">excitable</span> (?):</span> 
+          in dechmad la fithed . . . is sooibrithe 
+in ti geinter and, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CIV2" title="eDIL Bibliography">C IV 2</strong></span>, 10va1
+          
+        . 
+          <span class="oRef">¤</span>ráthaigthe: in iondsma na 
+sleagh semnech sithfoda so-ráthaighthe `<span class="quote">wohlbemerkten</span> (?)', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 5600
+         (St.). 
+          <span class="oRef">¤</span>shásaigthe <span class="trans">easily <span class="def">satisfied</span>, <span class="def">moderate</span>, <span class="def">reasonable</span>
+        </span>: 
+          léaghthóir comhthrom s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 94.15
+          
+        . 
+          <span class="oRef">¤</span>shercach 
+<span class="trans">very <span class="def">loving</span>
+        </span>: 
+          condacomarthar fria feli na sar-rigna sosercaide, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 177b35
+          
+        . 
+          <span class="oRef">¤</span>shiublach <span class="trans">easily <span class="def">travelled</span>
+        </span>: 
+          an bóthar réidh 
+só-shiúbhlach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> i 4.17
+          
+        . 
+          <span class="oRef">¤</span>thaithmigthe <span class="trans">easily <span class="def">dissolved</span> or 
+<span class="def">annulled</span>
+        </span>: 
+          cor sotaithmithe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 787
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 565
+        ). 
+          <span class="oRef">¤</span>thecoscda <span class="trans">
+          <span class="def">docile</span>, <span class="def">teachable</span>
+        </span>: 
+          bid sogradhach soteccuscda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DIV2" title="eDIL Bibliography">D IV 2</strong></span>, 
+54ra18
+          
+        . 
+          <span class="oRef">¤</span>thillte <span class="trans">easily <span class="def">turned</span>
+        </span>: 
+          run nach soithillte go síor, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1933, 139 § 6
+          
+        . 
+          <span class="oRef">¤</span>thoglaide <span class="trans">easily <span class="def">assailable</span>
+        </span>: 
+          ua senta 
+sothoglaidi muir a cathrach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TTebe" title="eDIL Bibliography">TTebe</strong></span> 1597
+          
+        . 
+          <span class="oRef">¤</span>thogtha: duine 
+sográdhach s. `<span class="quote">sensible</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> xli 20
+        . 
+          <span class="oRef">¤</span>thoirsech <span class="trans">very <span class="def">lamentable</span>
+        </span>: srotha . . . sotoirsech (of hell), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3660
+        . 
+          <span class="oRef">¤</span>thorchuitbide: sē sām[fh]ind sobucc sotorchutbide `<span class="quote">easily moved 
+to laughter</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 87.8
+        . 
+          <span class="oRef">¤</span>thregta <span class="trans">easily <span class="def">pierced</span> or <span class="def">penetrated</span>
+        </span>: biaidh ruithenda, lúthmhar, sothreghdtha (of bodies at 
+the Resurrection), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 117.19
+        . 
+          <span class="oRef">¤</span>thrúaillithe <span class="trans">
+          <span class="def">corruptible</span>:</span> 
+          ag soláthar na séad sothruaillithe saoghalta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+10613
+          
+        . 
+          <span class="oRef">¤</span>thuicsech, 
+          <span class="oRef">¤</span>thuicsenach <span class="trans">easily <span class="def">understood</span>, <span class="def">intelligible</span>
+        </span>: 
+          flichidheacht ro shéimh nach sotuicsinech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 
+249.7
+          
+        . <span style="color: #ff8000">superl.</span> 
+          is i an ghaoidheilg is sothuigsighthe . . . do 
+cuireadh síos ann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> xxii 14
+          
+        . <span class="pos -Adv." style="color: #ff8000">Adv.</span> 
+          muna mínighthear 
+dhóibh go sothuigsionach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> viii 28
+          
+        . 
+          <span class="oRef">¤</span>thuisledach <span class="trans">causing to <span class="def">stumble</span>, <span class="def">slippery</span>
+        </span>: 
+          drochet . . . nī thalla nemdīrgi dó air 
+nā ba sothuissledhach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 434
+          
+        . 
+          <span class="oRef">¤</span>thuitmech <span class="trans">
+          <span class="def">inducing</span> 
+a <span class="def">fall</span>, <span class="def">leading</span> into <span class="def">error</span>
+        </span>: 
+          ata bhar ngluais . . . soimheallta, 
+sothuitimeach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 334.1
+          
+        . 
+          <span class="oRef">¤</span>ullam <span class="trans">well <span class="def">prepared</span>, 
+<span class="def">thoroughly</span> <span class="def">ready</span>
+        </span>: 
+          slúag sénta s., 
+            <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> ii 294.6
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">d</span>) With verbs: 
+          <span class="oRef">¤</span>chenélaigidir <span class="trans">
+          <span class="def">ennobles</span>
+        </span>: 
+          co sochenelaigidir, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 138c4
+          
+        . 
+          <span class="oRef">¤</span>dheisigid <span class="trans">
+          <span class="def">arranges</span> <span class="def">dexterously</span>, <span class="def">adjusts</span>
+        </span>: 
+          gur 
+shodesigestar [lainn a chlaidim] . . . ina haltaib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 300.23
+          
+        . 
+
+          
+            <span class="oRef">¤</span>legaid: ní fód súd nach soileaghtar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 27.1
+          
+        . 
+          <span class="oRef">¤</span>ráidid: 
+freq. in Laws Comm. as a gloss on saeraid: 
+          ro saeradh la Feine 
+.i. ro soraidedh do reir in feinechais cen ni d'ic ann sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>
+             i 92.z
+          
+        . 
+
+          saerta la fine a forcomol .i. soraidter a fir accomol a ferand na 
+fine amlaid sin, 
+            iv 16.23
+          
+        , 
+          18.11
+        . soerthair .i. soraiter no soradh, 
+<span class="frn ">ut est</span> mac cor mbel berar i seilb soertha uccu .i. soraiter in 
+ferann ro soraidhedh do iarna togha .i. in ferann donti toghthar ann iar bfir `<span class="quote">exempted is the land which has been exempted 
+by him according to his option</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1470
+        . 
+          do gobainn no 
+cerda no umaidi saertar la tuaith .i. soraiter eneclann doib 
+isin tuaith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 114.x Comm
+          
+        . 
+          <span class="oRef">¤</span>réidigid <span class="trans">
+          <span class="def">smoothes</span>:</span> 
+          as 
+laidir do soiredighedh . . . a coill de, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 102 n. 3
+          
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

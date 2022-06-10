@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="28233">inbaid</h3><span class="citation">Cite this: eDIL s.v. inbaid or <a class="reference" href="28233">dil.ie/28233</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                inbaidh, ionmhuidh, ionbhuidhe, hionbhuidh, hinmaighi, hionbhuidhe, inbaid, inbuid, inbaidhi, hinbadad, inboda, inbuidib, inbuithib</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="gen f.">f.</span> (? in
+      +both, buith, <span class="pos vn." style="color: #ff8000">vn.</span> of subst. vb.) <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        inbaidh, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 186.12
+        
+      . 
+        
+          ionmhuidh fhuar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 106 § 13.
+        
+       
+        ionbhuidhe, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 573.
+        
+       <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        co hionbhuidh
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 73 § 17.
+        
+       
+<span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        hinmaighi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 90.8
+        
+      . 
+        a hionbhuidhe
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Luke</strong></span> ii 6.
+        
+       <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+
+        inbaid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 326.2
+        
+      . 
+        iarna inbuid
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 398.12
+        
+      . 
+        inbaidhi, 
+          iv 10.z Comm.
+        
+       <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        teora hinbadad
+        , 
+          i 50.14 Comm.
+        
+       
+
+        inboda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1389
+        
+       (&lt; 
+        <span><strong class="pop" style="color:blue" href="bibliography/H3.18" title="eDIL Bibliography">H 3.18</strong></span>, p. 630b
+        
+      ). <span class="case d">d</span>
+      <span class="number p.">p.</span> 
+        inbuidib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+i 152.1
+        
+      . 
+        i n-inbuithib
+        , 
+          iv 190.13
+        
+       (<span class="lbl">sic</span> SM Facs.).</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">time</span>, <span class="def">period</span>, <span class="def">proper time</span>:</span> ionbhaidh .i. aimsior no 
+uair, O'Cl. teora hinbadad gl. 
+          teora aimsera, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 50.14 
+Comm.
+          
+         nam-coimēd in cech inbuidh `<span class="quote">protect me at all 
+times</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 31 § 23.
+         a inbuidib breithe `<span class="quote">by the proper 
+periods of the judgment</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 152.1
+        . iar n-inbaidib dligthecha `<span class="quote">after the lawful periods</span>,' 
+          v 398.26
+        . Dronn ard 
+Fāichnig ... rombīa i.<span class="oRef">¤</span> bess lān d'aingclib `<span class="quote">a time will be</span> ...,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 82.24
+        . 
+          dodeochaid Dauid ... isind i.<span class="oRef">¤</span> sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5803.
+          
+         
+
+          marbad a athar a n-i.<span class="oRef">¤</span> a geine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 303.30
+          
+        . 
+          go hionbhuidh sgaoilte don sgail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 73 § 17.
+          
+         
+          as e dob áois 
+do Chriosd a n-inbhe (<span class="lbl">leg.</span> inbhaidh) a bháis sion .i. mile 
+bliadhain ..., 
+            <span><strong class="pop" style="color:blue" href="bibliography/23E26" title="eDIL Bibliography">23 E 26</strong></span>, p. 288.4
+          
+        .</p>
+     
+      <p class="result"> 
+<span class="trans">
+          <span class="def">season</span>, <span class="def">due time</span>:</span> 
+          co tānic inbuid samraid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> 
+ii 70 § 7
+          
+         (: lindmuir). 
+          samradh amail gemread, | aigred 
+rēna i.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 241 § 11.
+          
+         
+          luidis ... inbaid lommartha 
+cairech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 2932.
+          
+         
+          ní basgadh ar iorghail t'fhian | asdar 
+cian ná ionmhuidh fhuar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 106 § 13.
+          
+        
+      </p>
+     
+      <p class="result"> 
+As <span class="pos conj." style="color: #ff8000">conj.</span> with or without article, <span class="trans">
+          <span class="def">when</span>, <span class="def">whenever</span>:</span> in 
+inbaidh is mac urradh `<span class="quote">when he is the son of a native</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+i 274.18 Comm.
+         
+          an i.<span class="oRef">¤</span> bis a comgradh ... ag[a] agra, 
+            294.28
+          
+         
+Comm. inbuid conócbat a rosc `<span class="quote">whenever</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 880.
+         
+
+          i.<span class="oRef">¤</span> fogníth ind oclaig faeborchless di, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6433.
+          
+         
+          ba ferda 
+a gníma in meic sin i.<span class="oRef">¤</span> ba só andás in i.<span class="oRef">¤</span> inan fail, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 847
+          
+         = 
+an tráth ba hoighe é ina anois, Stowe.</p>
+     
+      <p class="result"> 
+In <span class="pos adverbial" style="color: #ff8000">adverbial</span> phrase : bé sóir cech i.<span class="oRef">¤</span>
+         `<span class="quote">I shall be safe always</span>,' 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 326.2
+        . da-recmaing immalle fri C. ind inbuisde <span class="trans">
+          <span class="def">now</span>
+        </span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 972.
+         
+          Patraic tra ind i.<span class="oRef">¤</span> sin i ndaíre oc Miliuc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 266.
+          
+         
+boi dia oite in inbuid—da [bliadain] déc ba slan do-som 
+in tan ro-gab rigi phospuil Israel <span class="trans">
+          <span class="def">at the time</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3964.
+        
+      </p>
+     
+      <p class="result"> 
+? To this, <span class="trans">
+          <span class="def">on one occasion</span>, <span class="def">once upon a time</span>:</span> 
+          se rig do 
+chlaind Cholmain Chain la hoen for hErind n-inbaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 
+137b1
+          
+         = 
+          inbaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 81a42
+          
+        . 
+          aided Fothaig iar fingail | i 
+cath Ollorba inbaig (inmain, <span class="lbl">v.l.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> iii 208.6
+          
+        .</p>
+     
+      <p class="result"> 
+? Used <span class="pos adjectival" style="color: #ff8000">adjectival</span>ly, <span class="trans">
+          <span class="def">right</span>, <span class="def">timely</span>:</span> is inbaig (inbaid, <span class="lbl">v.l.</span>) 
+na hēchta sa `<span class="trans">
+          <span class="def">opportune</span>
+        </span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCellaig" title="eDIL Bibliography">CCellaig</strong></span> 848.
+         ? ro marbsat 
+D. ... in techt inbaig `<span class="quote">the ripe culprit</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 102.13
+         (possibly : 
+in t-ēcht i.<span class="oRef">¤</span>
+         <span class="ediltr">the timely slaying</span>, but the passage may be corrupt).</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">time</span> of <span class="def">delivery</span> (<i>of a woman</i>), <span class="def">travail</span>:</span> ionbhuidhe 
+equated with tuismidhe, luidhe, breith chloinne, `<span class="quote">travelling</span> 
+[<span class="lbl">leg.</span> <span class="ediltr">travailing] Delivery</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 573.
+         
+          fúair a bhean taebh 
+trom torrach ┐ rug mac an tan táinic a hinbhaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> 61.3
+          
+        . 
+          ba scíth in Óg ... ar ba facus a hinbuid di in 
+tan sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> vi 40.12
+          
+        . mar bhreith ... gan ionbhuidh 
+`<span class="quote">an untimely birth</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Job</strong></span> iii 16.
+         doruc si mac a cinn a hinmaighi `<span class="quote">at the end of her pregnancy</span>,' 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 90.8
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

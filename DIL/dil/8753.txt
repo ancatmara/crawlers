@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="8753">1 cerd</h3><span class="citation">Cite this: eDIL s.v. 1 cerd or <a class="reference" href="8753">dil.ie/8753</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                ceard, cearda, cerd, ceirde, ceird, ceirde, cearda, cearda, cearda, cherda, cerda, cerda(e), cearda, cerdda, cerdai, cerda, cherdu, d'órcheardai, cerdada, cert</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> See O'Rahilly, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 159
+       <span class="gen f.">f.</span> In sense (<span class="edilb">a</span>) ceard 
+(ón duine), <span class="gen m.">m.</span> <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        cearda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 95
+        
+      . In sense (<span class="edilb">b</span>) cerd 
+(ón cheird) <span class="gen f.">f.</span> <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        ceirde, 
+          § 39
+        
+      ; ceird <span class="gen f.">f.</span> <span class="case g">g</span>
+      <span class="number s.">s.</span> ceirde, 
+        cearda, 
+
+          § 43
+        
+      . <span class="lbl">Cf.</span> also <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        na cearda
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 104.19 Comm.
+        
+       
+        in cearda
+        , 
+
+          106.1 Comm.
+        
+      . 
+        iii 192.8 Comm.
+       
+        in cherda
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 60 § 120
+        
+       (na 
+cerda
+      , <span class="lbl">v.l.</span>). Also cerda(e): <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        cearda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 219.37
+        
+       
+(cerd, <span class="lbl">v.l.</span>). 
+        cerdda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cymmr." title="eDIL Bibliography">Cymmr.</strong></span> xiv 130.9
+        
+      . 
+        in cerdai
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 
+222.10
+        
+       (cerd, <span class="lbl">v.l.</span>). <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        cerda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 114.18
+        
+      . 
+        do cherdu
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+25486
+        
+       (: dú). ? 
+        d'órcheardai, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert.2" title="eDIL Bibliography">Leb. Cert.²</strong></span> 2187
+        
+      . <span class="lbl">Cf.</span> <span class="case n">n</span>
+      <span class="number pl.">pl.</span> 
+        cerdada, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Bodl.Dinds." title="eDIL Bibliography">Bodl. Dinds.</strong></span> 3
+        
+      . </p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">craftsman</span>, <span class="def">artisan</span> (most freq. of a gold- and silver-<span class="def">smith</span>):</span> 
+          cert <span class="frn ">qui idula aere faciebat</span>
+         gl. Alaxander (aerrarius), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 30d21
+        . inna cerdae `<span class="quote">of the potter</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 18a12
+        . 
+          roth cruind 
+forsa ndenat na cerda in lestrai,  
+              b4
+          
+        . 
+          in sét arggait nád 
+chombaig / in ch.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 346.4
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 77
+        ). lasin cerddai 
+(ceirdai, <span class="lbl">v.l.</span>) gl. 
+          lasin ceird, 
+            33
+          
+         (79 Comm.). 
+          aided con na 
+cerda inso la Coin Culaind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4971
+          
+        . 
+          Cauland cerdd, 
+            4975
+          
+         
+(TBC). 
+          ó Choin cherda Conchobair (<span class="lbl">i.e.</span> Cú Chulaind), 
+
+            3573
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 29
+        ). 
+          do Choin na Cerdda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 20187
+          
+        . 
+          cerdda ┐ círmaire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2217
+          
+        . 
+          cuislennach, c.<span class="oRef">¤</span>, gobha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 23.2
+          
+        . 
+          cerda 
+. . . ┐ aes caca dana olcena, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 90.20
+          
+         (
+          cerda .i. imrid 
+in t-or, 
+            25 Comm.
+          
+         ). 
+          is diles in tor ┐ in tairget ┐ in tuma a 
+cerdcha in goband ┐ noco diles i cerdcha in cerda, uair 
+aithne indeithbir hé i cerdcha in gobann, ┐ nocon edh a 
+cerdcha in cerda, 
+            iii 192.6
+          
+        , 
+          8 Comm.
+         c.<span class="oRef">¤</span>
+         gl. figulus, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 
+508
+        . 
+          D. . . . gaba . . . ┐ ceard ┐ scribnid togaide . . . is he . . . 
+daroine .ccc. clog ┐ .ccc. bacall ┐ .ccc. soscelai, Fél. cxxxi.x. 
+mac na cerdda cosin céir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 18785
+          
+        . 
+          I. ainm na cerda ro 
+berb in n-ór, 
+            2024
+          
+        . 
+          cathbarr B. . . . c.<span class="oRef">¤</span> Ó. . . . dorigne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AirneF." title="eDIL Bibliography">Airne F.</strong></span> 97
+          
+        . 
+          dugnith dno C. c.<span class="oRef">¤</span> na semonn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 94 § 122
+          
+        . do-ratsat in argat-sin for tír cherda <span class="ediltr">potter's field</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3241
+        . 
+
+          mac cerdai nó fir fogní nách aicdi éicin di ór nó argad, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/FDG2" title="eDIL Bibliography">FDG²</strong></span> 867
+          
+        . leag a hoirthior na hInnia, / . . . / niamhthar 
+le ceard gcineolta <span class="ediltr">that is polished by a native craftsman</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 16.47
+        . 
+          céard copair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">2 Timothy</strong></span> iv 14
+          
+        . 
+          ceard na críadh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Romans</strong></span> ix 21
+          
+        . 
+          do chérd an óir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 1139
+          
+        . Fig. P. is 
+ceard don chlúi-sin `<span class="quote">P. who is the artificer of that fame</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 298
+        . lé cérduibh an chlaoinchreidimh (<span class="lbl">sc.</span> the 
+founders of Protestantism), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 4170
+        . </p>
+     
+      <p class="result"> 
+C.<span class="oRef">¤</span> na cruinne (na ndúl, <span class="lbl">etc.</span>) <span class="trans">
+          <span class="def">God</span>
+        </span>: 
+          c.<span class="oRef">¤</span> na cruinne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+196 § 22
+          
+        . 
+          mo chobhair ar Cheird na ndúl!, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 65.19
+          
+        . 
+
+          ceard na n-uile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 27a.16
+          
+        .</p>
+     
+      <p class="result"> 
+Applied to poets: 
+          in c.<span class="oRef">¤</span> mac ūi Dulsaine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1059
+          
+         
+(p. 93.25; <span class="lbl">cf.</span> 92.y). 
+          ni c.<span class="oRef">¤</span> gan bunadus tothachta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 
+2208
+          
+         (Nero A vii, 144a). <span class="lbl">Cf.</span> 
+          c.<span class="oRef">¤</span> cen tothacht .i. cin foghluim 
+ndligi[d], 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1568
+          
+        . </p>
+     
+      <p class="result"> 
+In n. pr. <span class="gen m.">m.</span> 
+          Robartach mac Mic na Cerda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CS" title="eDIL Bibliography">CS</strong></span> 164.20
+          
+        . 
+
+          C.<span class="oRef">¤</span> m. Cerdda Bice, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 219.27
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">handicraft</span>, <span class="def">art</span>, <span class="def">skill</span>, <span class="def">accomplishment</span>, <span class="def">feat</span>; hence 
+<span class="def">occupation</span>, <span class="def">office</span>, <span class="def">way of life</span>, <span class="def">practice</span>, <span class="def">characteristic</span> <span class="def">behaviour</span>
+        </span>: 
+
+          mu menma céin im saincheirdd, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 293.15
+          
+        . cōrus a 
+cherdæ (of a poet), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 276
+        . 
+          tarchomlad cach óes dána 
+. . . cor tasfen cách a ch.<span class="oRef">¤</span> fíad Patraic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9773
+          
+        . ar lín a ch.<span class="oRef">¤</span>
+         
+<span class="ediltr">he is so accomplished</span>, 
+          8316
+         (<span class="lbl">rhet.</span>). 
+          asa cheird cumachtaig (.i. 
+a cumachta a chleirchecta dognidsom sein, 
+            740
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 42
+        ). 
+
+          indearbh cach i cceird aroile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 20.16
+          
+        . imdhínsiomh 
+ceirte <span class="ediltr">insult to one's art</span>(?), 
+          25.6
+        . 
+          fornesa ceard neicse donessa 
+cerd niumuis, 
+            56 § 32
+          
+         (<span class="lbl">cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 861
+        ). fristoing cerd cainti 
+`<span class="quote">he renounces the satirist's art</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 872
+        . 
+          869
+        . oca oileamhain hi cerdaibh clothamræ .i. āine, alaidhe ┐ erlabhra, <span class="lbl">etc.</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 219.11
+        . 
+          fó mo ch.<span class="oRef">¤</span> láechdachta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 6169
+          
+         (TBC). 
+
+          ac óenmummib daronsat ceird gnimrada gaile ┐ gascid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+10052
+          
+        . aided Gríse co ceird chrúi `<span class="quote">skilled in bloody arts</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 134.19
+        . 
+          ceird chrúi .i. ceird imdheargtha no 
+ceird bhásaighthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         iarn[a] trascrad trienar c.<span class="oRef">¤</span>-ne `<span class="quote">by 
+our craft</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 90 § 109
+        . 
+          cach dan dognīat lāmhae is c.<span class="oRef">¤</span> 
+dongairther, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 222
+          
+        . rob ingnadh le cāch a ceird `<span class="quote">their 
+skill</span>' (in music and dancing), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 174 § 9
+        . 
+          mairg thréicios 
+cléirchecht ar cheird / do cherdaib in domnáin deirg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 
+51.y
+          
+        . lucht na ceirde cedna (<span class="lbl">sc.</span> building), 
+          <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 1626
+        . 
+
+          gion gur cheárrd mná an nídh sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> iii 136.19
+          
+        . seachnaidh 
+cionta ón cheird do-ní `<span class="quote">avoids faults by her manner of life</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 1516
+        . 
+          nach roibhi . . . aenc.<span class="oRef">¤</span> rob annsa les nā 
+fiadhach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 53.x
+          
+        . 
+          cusin ceird n-inglain n-eillnighthi ro 
+herailedh forro .i. comrucc a lanamhnus fri aroile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 
+3059
+          
+        . an ceard do-roighne Ruaidhrí <span class="ediltr">what R. has done</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 76.4
+        . ní ceard duit déanamh míoghaoil `<span class="quote">it is not for 
+Thee to be false to Thy kin-duty</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 71.31
+        . ceird 
+ríoghna `<span class="quote">a queen's part</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> vii 6
+        . tús cerdi do Ch. 
+<span class="lbl">i.e.</span> C. was entitled to receive a poet's first composition after 
+he had finished his schooling, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 238cb56
+        . Concr.: cathaīr 
+ingnathaig forsa raibi imarcaid sairsi ┐ c.<span class="oRef">¤</span> n-eladnach <span class="ediltr">embellishment</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 1663
+        . Freq. of magical practices: 
+          no gniad 
+druidechta ┐ certa commain, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9007
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 75
+        , H). See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=commann">commann</a></span> 
+        
+          for cerddib 
+suíthe gentliucta, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 1051
+          
+        . 
+          ceird thosaigh .i. ceird dhraoidheachda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=to&#x1E61;&#xFA;gad">toṡúgad</a></span>.</p>
+     
+      <p class="result"> 
+Attrib. <span class="case g">g</span>
+        <span class="number s.">s.</span> fear cerda, ma fithír, ní ba raith feilmic mana 
+biatha `<span class="quote">a man of art, if a professor, cannot be surety for a 
+pupil, unless he has fed him</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 236.15
+        . 
+          fer certa fri 
+molad ┐ air, 
+            i 18.7 Comm.
+          
+         
+          óes cherdd, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 281
+          
+        . 
+          cléir 
+aesa ceirdd, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2382
+          
+         (= <span class="frn ">praecones</span>, 
+          2385
+        ; 
+          dona druthaib, 
+
+            2395
+          
+        ) = 
+          cliar aesa dana, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 55.12
+          
+        . 
+          don luchd céirde, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Acts</strong></span> xix 24
+          
+        . lucht ceirde na cathrach <span class="ediltr">tradesmen</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 
+98.y
+        .</p>
+     
+      <p class="result"> 
+? 
+          rop tānaisi triūin crepscuil / c.<span class="oRef">¤</span> promtha Petair apstail, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 325
+          
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

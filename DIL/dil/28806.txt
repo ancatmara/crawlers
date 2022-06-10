@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="28806">1 inne</h3><span class="citation">Cite this: eDIL s.v. 1 inne or <a class="reference" href="28806">dil.ie/28806</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                t-inne, innedha, indida, innidhe, innighe, innedh, n-indid</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype i&#x101;">iā</span>, <span class="gen f.">f.</span> (but : 
+        in t-inne
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 1013
+        
+      ). (&lt; prep. <span class="frn ">i</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xv 18
+      ) In Mid. and Mod. 
+Ir. <span class="itype d">d</span>- endings also occur : <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        innedha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4142.
+        
+       
+        indida, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RosaAngl." title="eDIL Bibliography">Rosa Angl.</strong></span> 324.15
+        
+      . <span class="case a">a</span>
+      <span class="number p.">p.</span> 
+        a innidhe
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Exodus</strong></span> xxix 17.
+        
+       
+        a innighe
+        , 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">2 Samuel</strong></span> xx 10.
+        
+       <span class="case g">g</span>
+      <span class="number p.">p.</span> 
+        a n-innedh
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aisl.Tund." title="eDIL Bibliography">Aisl. Tond.</strong></span> 104.24
+        
+      . 
+        na 
+n-indid
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iii 49.x
+        
+      . See 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 180.
+       ? Orig. 
+meaning <span class="trans">the <span class="def">inmost</span> <span class="def">part</span> of anything, the <span class="def">middle</span>, the <span class="def">essence</span>, 
+the <span class="def">content</span>:</span>
+    </p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> Figurative sense.</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">quality</span>, <span class="def">real value</span>
+          </span> ; <span class="trans">
+            <span class="def">manner</span>, 
+<span class="def">kind</span>, <span class="def">nature</span>:</span> alind á óiph in forcitil nemnech immurgu a 
+i.<span class="oRef">¤</span>
+           <span class="ediltr">poisonous its quality</span> (of the doctrine of Pelagius), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+7c1
+          . is fo dobertar inna anman fonna inni fordingrat 
+`<span class="quote">it is in accordance with that the names are given (namely</span>) 
+<span class="ediltr">in accordance with the qualities that they signify</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 37a14
+          . 
+is i.<span class="oRef">¤</span> so inna ermiten `<span class="quote">such is the honour</span>' gl. qualem, 
+            67c7
+          . 
+i.<span class="oRef">¤</span> olc `<span class="quote">the evil quality</span>' gl. qualitas, 
+            71b4
+          . eregem ind inni 
+se `<span class="quote">such a complaint</span>,' 
+            90c8
+          . torand folaid ┐ i.<span class="oRef">¤</span>
+           `<span class="quote">a signification of substance and quality</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 26b12
+          . 
+            i.<span class="oRef">¤</span> ind ḟebtad 
+ł ind ḟolaid, 
+              28a1
+            
+          . do lanad ┐ ḟoilsiguth i.<span class="oRef">¤</span> indib gl. ad mani-festandam eorrum qualitatem, 
+            28b18
+          . 
+            <span class="frn ">quantus</span> .i. is heidméit 
+... <span class="frn ">qualis</span> inna i.<span class="oRef">¤</span> so `qualis <span class="quote">of this quality</span>,' 
+            30a14
+          . ní 
+ed a mét foilsigther ind i.<span class="oRef">¤</span> robói hi pyrr <span class="ediltr">not only is the 
+quality which was in Pyrrhus demonstrated</span>, 
+            211a10
+          . 
+            Garb 
+Glinni olc a ḟuáth is a inni, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 422.1
+            
+          . in long d'ór is 
+án i.<span class="oRef">¤</span>
+           <span class="ediltr">whose quality is splendid ?</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 307b41
+          . meid ┐ inni ┐ 
+inchosc `<span class="quote">quantity, quality, and meaning</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 673.
+           
+
+            
+              <span class="frn ">bonus et malus</span> is i in indi : <span class="frn ">magnus et minus</span> is i in meid, 
+
+              674
+            
+          . a hi.<span class="oRef">¤</span> a cuit isin seoit <span class="ediltr">from the true value of his share</span> 
+... ?, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 360.12 Comm.
+           tir ara ningealtar [log] .i. 
+ferand ara r-gelladh log a hinde `<span class="quote">land for which its real 
+price was promised</span>' (<span class="lbl">etym. gl.</span> on ingeltar), 
+            v 430.5
+           and 
+            15 
+Comm.
+           in gell a hindi leth n-uinge `<span class="quote">a pledge of the intrinsic 
+value of half an ounce</span>' (<span class="lbl">etym. gl.</span> on ingille), 
+            416.19 Comm.
+           
+mided .i. meisemnaiged cach a hi.<span class="oRef">¤</span> in ni is coir do gabail isin 
+rath <span class="ediltr">let everyone judge from his own quality</span> ? (or <span class="ediltr">in his own 
+mind</span> ?). 
+            ii 254.28 Comm.
+           
+            tir a mbí i.<span class="oRef">¤</span> doimne, cuirrig ┐ 
+seiscenn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 140.
+            
+           nach saobhthuir i.<span class="oRef">¤</span> an aeeóir `<span class="quote">that the 
+nature of the air be not perverted</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1921, 74 § 4
+          . 
+? fer brón fort íer techta inde (glossed : 
+            .i. <span class="frn ">more</span>) lámnado, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10887
+            
+           (rhetoric, = 
+            ... ier techta in delmnad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xii 
+182 § 12
+            
+          ). a hinne used <span class="pos adverbially" style="color: #ff8000">adverbially</span> <span class="trans">
+            <span class="def">properly</span>, <span class="def">naturally</span>, <span class="def">by 
+reason of</span> or <span class="def">according to</span> its <span class="def">nature</span> or <span class="def">quality</span>:</span> 
+            cell con-a 
+hincrod .i. cell cusin crod bis innte a hi.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 222.14 
+Comm.
+            
+           
+            co na nindteach .i. cusaní is toich no is duthaig 
+bis orro a hinde, 
+              iv 152.13 Comm.
+            
+           ise ní ro meisemnaiged 
+a hinde doib `<span class="quote">the thing that was estimated originally for 
+them</span>,' 
+            34.21 Comm.
+          
+        </p>
+       
+        <p class="result"> 
+Used absolutely as <span class="pos adv." style="color: #ff8000">adv.</span> of manner (see 
+            <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> § 
+876
+          ) : i.<span class="oRef">¤</span> ropridched dúib `<span class="quote">as has been preached to you</span>,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25a40
+          . inni rombatar riam hí tempul <span class="ediltr">such as they were 
+before</span> gl. talia, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 62b2
+          . cia inni soas `<span class="quote">how he turns</span>' gl. 
+qualiter auersatur, 
+            123d8
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">meaning</span>, <span class="def">sense</span>, <span class="def">signification</span>:</span> 
+            ara tucca cách a 
+canas condib réil less ind i.<span class="oRef">¤</span> bess and, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 27b27
+            
+          . ce torbe 
+dúibsi in fogur sin mani fessid inni bess fon fogursin `<span class="quote">the 
+sense which is under that sound</span>,' 
+            12d5
+          . issí i.<span class="oRef">¤</span> fil is indi as 
+fluit, consumitur, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 83b1
+          . 
+            is inunn chiall is indi as <span class="frn ">scit</span> 
+┐ as <span class="frn ">nóuit</span> is in dib desmrechtaibso .i. <span class="frn ">procurat</span> issí i.<span class="oRef">¤</span> fil hi 
+cechtar de, 
+              114b1
+            
+          . ind i.<span class="oRef">¤</span> bís indib riam gl. significatio, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 
+4b4
+          . huare nád forcmat inn inni saindilis inna ndelb <span class="ediltr">the 
+special meaning of the forms</span>, 
+            50a6
+          . 
+            is follus inna n-inni 
+som i.<span class="oRef">¤</span> inna n-anmmann húataat, 
+              59a11
+            
+          . 
+            brath inn[e] 
+cach brethi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 22.5 Comm.
+            
+           bunad ocus inde ocus 
+airbert ... don focul <span class="ediltr">origin, meaning and use</span> ..., 
+            30.y Comm.
+           
+a inde .i. a indaithmech <span class="ediltr">its meaning</span> <span class="lbl">i.e.</span> <span class="ediltr">its analysis</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec.Gl." title="eDIL Bibliography">Lec. Gl.</strong></span> 169.
+           dorrime S. ... inni n-ali nand .i. <span class="frn ">beatus quasi 
+vivatus</span>
+           `<span class="quote">S. gives another sense,'</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 434.
+           tucad in 
+t-ainm iarsin n-inde thoirnes for in sollamain-si <span class="ediltr">according 
+to the meaning it denotes</span> ?, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6934.
+           seachta ... seacht 
+n-ae a hinni `<span class="quote">heptad ... seven sciences is the meaning of it</span>,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 742.
+          
+        </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> Concrete sense.</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">middle</span>, centre, <span class="def">inmost</span> <span class="def">part</span> (very 
+freq. in etym. glosses) :</span> inde a hinde .i. as a lár, O'Don. 
+Suppl. (&lt; H 3. 18 ). 
+            inchind .i. i n-inde cind bīs, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 760.
+            
+           
+
+            inchind .i. indi in chind, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 732.
+            
+           innéoin .i. inne an 
+eana .i. meadhón an uisge, O'Cl. ni diubair indraic inlobra .i. 
+... innraic bis a n-inde labra <span class="ediltr">in the middle of illness</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 
+2469
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, fo. 38 (39)a
+            
+          ). in ni bis a nind (<span class="lbl">leg.</span> ninde) 
+a treibe (gl. on intreb <span class="ediltr">furniture</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 358.10 Comm.
+           
+
+            no lin[a]d indara lestar a hur in tsrotha, araile asa 
+medon, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxv 35.25
+            
+          , to `medon' corresponds 
+            hinde in 
+tsrotha, 
+              30
+            
+          . iad i n-i.<span class="oRef">¤</span> aigianta eisinnill an áruis ... sin 
+<span class="ediltr">in the deep insecure centre</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 6690.
+           cuiridh an teas a 
+teitead a n-i.<span class="oRef">¤</span> na talman astech `<span class="quote">into the interior of the 
+earth</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xiv 38.11
+          . secht n-indsguithe .i. atait secht 
+scuiche a hinde `<span class="quote">there are seven internal departures</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+v 296.21 Comm.
+          
+        </p>
+       
+        <p class="result"> 
+? To this the following exx. : 
+            duine ro gaid set ┐ roe 
+no (<span class="lbl">leg.</span> ro elo) amach-asin crích ... ní légur a hi.<span class="oRef">¤</span> in ferainn 
+é go foircenn na riaghla, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 696
+            
+           (&lt; 
+            <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, c. 509
+          ). 
+ingraide tire .i. ingraid a hindi ... ina thir transltd. `<span class="quote">grazing 
+on a farm</span> <span class="lbl">i.e.</span> <span class="ediltr">they graze the top (of the grass) in the land</span>,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 48.18 Comm.
+           co dílinn do ladh a hindibh aeoir `<span class="quote">from 
+the inside of the air</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> 92 n. 6
+          . 
+            a sil a innibh an 
+aieoir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 110 § 48.
+            
+           
+            failet ann linni lethna | ailli a 
+n-inni a noebtrethna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 494.
+            
+           inngas .i. inde an gai na 
+chuais <span class="ediltr">the inner part of the spear in its socket</span> ?, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 769.
+           
+
+            cāin inbir .i. ... riaghail inneich bis in inde bera na corad, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 212.12 Comm.
+            
+          
+        </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">mind</span>, <span class="def">heart</span>:</span> ni ḟuil th'aídh na th'i.<span class="oRef">¤</span> hi ccradh `<span class="quote">thy 
+care and thy thoughts are not on wealth</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 64.29
+          . 
+            ca rūn 
+atā fat i.<span class="oRef">¤</span> ?, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 170.16
+            
+          . as mairg dobheir taobh re 
+mnáibh ... cidh bed bhes ina n-i.<span class="oRef">¤</span>
+           `<span class="quote">whatever be in their minds</span>,' 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 112.7
+          . 
+            amail aimsiges int aintcrist indi cāich, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 368.18
+            
+          . mar bhíos Críost san ghille ghlan | gan 
+díosc na i.<span class="oRef">¤</span> iodhan <span class="ediltr">in his pure heart</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> i 99 xvii
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">Usually in <span class="number pl.">pl.</span>, <i>the</i> <span class="def">bowels</span>, <span class="def">entrails</span>, <span class="def">intestines:</span>
+          </span> talias 
+gl. na hinneda `<span class="quote">the bowels</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Gild.Lor." title="eDIL Bibliography">Gild. Lor.</strong></span> 93.
+           erga mea viscera 
+gl. 
+            illeth rem indib, 
+              <span class="lbl">ib.</span> 148
+            
+          . cum medullis gl. 
+            cusna hindib, 
+
+              227
+            
+          . isnaib innib `<span class="quote">in the inward parts</span>' gl. in osibus, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+28a7
+          . int i.<span class="oRef">¤</span> iachtarach gl. líén `<span class="quote">the lower gut</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 1013.
+           
+in mil bis i ninde uithir <span class="ediltr">the beast which is in the bowel of the 
+sick man</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 12.22
+          . 
+            ris in ngen inasas a hi.<span class="oRef">¤</span> in athar, 
+in ingean, 
+              346.4 Comm.
+            
+           ina sinib no na indib, transltd. 
+`<span class="quote">in her udder</span>' (of a cow), 
+            iii 228.10 Comm.
+           
+            comba leir a 
+i.<span class="oRef">¤</span> <span class="frn ">et</span> a inathar tar a bhél, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> p. 373 n. 1
+            
+          . 
+            contarlaic a mbúi 
+do innib ina medón corrabi for fortchi in charpait, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+121a2
+            
+          . 
+            coná raibhe acht a cris ... catha ic congbail a i.<span class="oRef">¤</span> 
+ocus a inathair ar n-íchtar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 300.5
+            
+          . 
+            ro-m-piantar tria 
+m'índib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 802.
+            
+           ni testa fuirri innedha na linche <span class="ediltr">the 
+entrails of lynxes</span> (of a witch), 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 4142
+          . nighfe tú a 
+innidhe <span class="ediltr">thou shall wash its entrails</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Exodus</strong></span> xxix 17.
+           
+            indida 
+na n-ainmindti, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RosaAngl." title="eDIL Bibliography">Rosa Angl.</strong></span> 324.15
+            
+          . 
+            sa gaile no isna hindib, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlix 14.11
+            
+          . gur marbh <span class="frn ">flux</span> inneadh drong dibh `<span class="quote">that a 
+flux of the bowels slew some of them</span>,' 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xix 112.23
+          . 
+            eslainti 
+in gaili ... ┐ eslainti na n-indid mar ata gaothmuirecht ┐ 
+colica, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iii 49.x
+            
+          . 
+            an té thiocfus amach as t'innibh 
+féin bhus oighre ort, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> xv 4.
+            
+           m'i.<span class="oRef">¤</span> ro shúig `<span class="quote">my vitals 
+he sucked</span>' (a mother of her child), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ToddLect." title="eDIL Bibliography">Todd Lect.</strong></span> vi 82.11
+          . 
+in tan ro-genair ... on óig cen eroslucad n-i.<span class="oRef">¤</span>
+           <span class="ediltr">without opening 
+of the womb</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6752.
+           
+            i n-innibh ar mbancéile i n-ám 
+tuismedha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 647.
+            
+           Fig.: cuiridh iomuibh ... innighe 
+trocaire <span class="ediltr">the bowels of mercy</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Coloss.</strong></span> iii 12.
+          
+        </p>
+       
+        <p class="result"> 
+<span class="trans">By an extension of meaning, <span class="def">dung</span>:</span> 
+            indebar .i. áilech, 
+<span class="frn ">ut est</span> tech i mbí indebar .i. tech i mbí inde in buair .i. tech 
+salach semdellach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1127
+            
+           = 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 166.18 Comm.
+          
+        </p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

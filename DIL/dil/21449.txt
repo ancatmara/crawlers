@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="21449">fégaid, féc(h)aid</h3><span class="citation">Cite this: eDIL s.v. fégaid, féc(h)aid or <a class="reference" href="21449">dil.ie/21449</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                -g-, f-, féig-, féig, fegar, fegar, fégaid, nofhégha</p></div><div class="col-sm-9 result_content">
+   
+
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span>  also with unlenited -g-, and d- may 
+replace f-, see 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>, Verbs § 93
+      . <span class="per 3">3</span> <span class="number pl.">pl.</span> <span class="tns pret.">pret.</span> 
+        do fiachadar, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lib.Flav." title="eDIL Bibliography">Lib. Flav.</strong></span> i 32va 12
+        
+      . The stem féig- also occurs (<span class="lbl">cf.</span> 
+        féig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 6122
+        
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4123
+      ). The relation of these forms to O. Ir. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=do-&#xE9;ccai">do-éccai</a></span> is 
+obscure. Perhaps there was an O.-Ir. fégaid <span class="ediltr">scrutinizes</span> (<span class="lbl">cf.</span> 
+féig `<span class="ediltr">keen</span>' ?) which became confused with do-écci. <span class="lbl">Cf.</span> 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=comfechinn">comfechinn</a></span> (gl. ut contuerer) 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 113b9
+      . In: nad cuicsedar 
+.i. nad fegar
+       `<span class="quote">that it be not</span> <span class="trans">
+        <span class="def">taxed</span> or <span class="def">examined</span>
+      </span>' (gl. uult ... non 
+... taxari) 
+        0
+      36a38, the form is apparently <span class="voice pass.">pass.</span> <span class="tns pres.">pres.</span> <span class="mood ind.">ind.</span> of a 
+primary verb. One would expect the <span class="mood subj.">subj.</span> <span class="lbl">Cf.</span> 
+        
+          fegar fri 
+ndirie, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 402.12
+        
+      . coic conara fugill fegaiter (<span class="lbl">v.l.</span> 
+aithfegar) and `<span class="quote">die fünf Urteilswege [sind es] die da 
+gemustert (spezifiziert) werden</span>' 
+        <span><strong class="pop" style="color:blue" href="bibliography/C&#xF3;icCon." title="eDIL Bibliography">Cóic Con.</strong></span> § 1
+       (Thurn. <span class="lbl">ib.</span> 
+
+        p. 61
+      , compares the gloss just cited, and continues "<span class="quote">das 
+Verb <span class="frn ">feg-</span> später <span class="frn ">fēg-</span> bedeutet `mustern, genau betracten, 
+nach sein Qualitäten bestimmen, herausheben'. In den 
+Rechtstexten wird meist das Kompositum <span class="frn ">aith-feg-</span>, wohl 
+in Anlehnung an das lat. <span class="frn ">re-censere</span>, gebraucht</span>"). In: co 
+ro fhegur a miad coir for cach (no corresp. clause in the 
+Latin) 
+        <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3962
+       the meaning may be <span class="trans">
+        <span class="def">perceive</span>
+      </span>. See further 
+ 
+        <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 490
+      . </p>
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">I</span> In older lit. generally trans.</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">looks at</span>, <span class="def">observes</span>, 
+<span class="def">scans</span>
+          </span>, generally implying close attention: 
+            fégsu, a L., 
+aní atchiusa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3885
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 39
+          ). 
+            no fegad eat fo innib a 
+n-uilc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span>
+               1004
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/ACC" title="eDIL Bibliography">ACC</strong></span> 95 Comm.
+          ). fegaitsi i ndignet <span class="ediltr">see what 
+they will do</span>
+          
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span>
+             188
+          . 
+            sillis fair ┐ ḟeghaidh a ghnúis, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lat.Lives" title="eDIL Bibliography">Lat. Lives</strong></span> 
+103
+            
+          . roḟegadh gnúis a aidi amail ruithen grene <span class="lbl">ib.</span> = 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 
+3401
+           (perhaps intrans., the corresp. Lat. is: <span class="frn ">facies ... 
+quasi globus solis semper videbatur</span>). fégad cech aen ... ná 
+rob dall ... hé = <span class="frn ">uideat ne sit caecus</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4665
+          . 
+            tincais A. 
+furri .i. nos-fegand, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 780
+            
+          . 
+            tincais fair ... is inund ón 
+┐ n o fégand, 
+              2128
+            
+          . fega latt dam in fuil seo <span class="ediltr">examine this 
+wound for me</span> 
+            4311
+           (fech lat St). 
+            fechais F. in fuil, 
+              4312
+            
+          . 
+
+            fursainter caindeald dūn co fēgum in uisci, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> vi 175.44
+            
+          . 
+
+            fégfaid in coimdid gnúis do gnúis, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4675
+            
+          . 
+            rot-fég (= 
+rod-f.) co fethmech, 
+              1133
+            
+          . na doíne ... nosfégat fen co 
+fuirechair <span class="ediltr">who observe (examine) themselves</span> 
+            6855
+          . dā fēgainn 
+mē as mo medōn (: gēbainn) <span class="ediltr">if I regarded myself from within</span>
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 239z
+          . co rofegdais leo ... | in mór immed a chathrach (of spies) 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 4658
+          . 
+            huair rofegsatar in tír, 
+              4669
+            
+          . 
+            O 
+rofeg Noe ar cach leth | in tir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 76a37
+            
+          . 
+            Dia fein rom-fēgustar, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 214.18
+            
+          . Fég a dó do M. `<span class="quote">Behold two 
+years reigned by M</span>.' 
+            <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 48 § 8
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 181b26
+          ). 
+ <span class="lbl">Cf.</span> 
+            na coíc ḟonna féig (: scéith), 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 148a19
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 
+268 § 36
+          ). <span class="trans">
+            <span class="def">Searches</span> ; <span class="def">examines</span>, <span class="def">studies</span>:</span> feg .i. tuir, <span class="frn ">ut 
+est</span> fegh Bretha Neimed <span class="ediltr">search</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 831
+          . 
+            atá loch usci 
+and, fegtar ┐ claiter, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 177
+            
+          . fegsat filid Fail ... | fenchas 
+co feig <span class="ediltr">examined</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 32.30
+          . fechthur a cana <span class="ediltr">let their 
+laws be examined</span> 
+            i 62.17
+          . o rofhegh in faidh in nemh, 
+ 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 813
+          . 
+            for cubhas caich léghfas leir | ocus fegfas 
+senadh sir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 268.19
+            
+          . féach leat Leabhar na hUidhre 
+ <span class="ediltr">look at</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> vi 8
+          . an nēmhann ... dhá bféchtar 
+dhí an fonn na bhfoil <span class="ediltr">if the soil in which it is be searched</span> 
+ <span class="ediltr">for it</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;H&#xE9;odhusa" title="eDIL Bibliography">Ó Héodhusa</strong></span> 3.12
+          . </p>
+      
+     
+      
+        <p class="result">(<span class="edilb">b</span>) With abstr. obj. <span class="trans">
+            <span class="def">considers</span>, 
+<span class="def">pays</span> <span class="def">heed</span> to, <span class="def">takes into account</span>:</span> a bráthriu, fegaid for 
+ṅglóir (: dēnaid) <span class="ediltr">have regard to your honour</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3113
+          . 
+            feg 
+lat uaisle na glore !, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4102
+            
+          . feich latt cindus is coir ... 
+
+            609
+           (? <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 fethid">1 fethid</a></span>). 
+            in popul gentlide nár fhég fírinne 
+forcetail, 
+              4593
+            
+          . 
+            fégthar tech Finn ... nach mairionn de | 
+ursa no cleith, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> i 25.27
+            
+          . 
+            feib na ree fega latt, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> 
+iii 314 § 23
+            
+          . féagha a bhfuighe ... d'olc `<span class="quote">think of the harm thou 
+shalt suffer</span>' 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxxi 40
+          . 
+            féagh féin créd í an chomhairle as fearr lat ..., 
+              <span><strong class="pop" style="color:blue" href="bibliography/Desid." title="eDIL Bibliography">Desid.</strong></span> 592
+            
+          . fechaidh bur crodhacht 
+gnáith d'fuaslugud bur companach <span class="ediltr">call to mind</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fier." title="eDIL Bibliography">Fier.</strong></span> 69
+          . 
+nír ḟég geiss nó gliaid <span class="ediltr">he heeded not</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 223.4
+          . 
+            níor 
+ḟéach Brian ceart fán ríghe | acht a buain da flaith fíre, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> vi 181
+            
+          . 
+            madia feghthar fírinne, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 237.20
+            
+           = 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 236
+          . 
+            féach ar liath dom folt!, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 953
+            
+          . </p>
+      
+    
+    
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">tries</span>, <span class="def">proves</span>, <span class="def">tests</span>:</span> 
+            an drong as mionca ro fécchadh ┐ 
+rofromhadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1736.17
+            
+          . 
+            go roḟéchsat ... cruas a ccloidhemh ┐ troma a ttuagh ar chloignibh a cceleadh comhlainn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 1646.7
+            
+          . <span class="lbl">cf.</span> 
+            no go bhféachaim oruibh ... mo 
+neart, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> vi 116.15
+            
+           = go fechoinn, <span class="lbl">etc.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> 78
+          . do 
+tugadh an léine chuca ... ┐ d'ḟéach E. uime í <span class="ediltr">tried it on</span>
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Sioghra" title="eDIL Bibliography">Síoghra Dubh</strong></span> § 13
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/GJ" title="eDIL Bibliography">GJ</strong></span> 1909, 160
+          ). f.<span class="oRef">¤</span> é le (nech) 
+ <span class="ediltr">tries conclusions with</span> (late idiom): 
+            feuchfad leat é a 
+nuairsi; dh'fonn na firinne dh'fagháil amach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 
+274.15
+            
+          . 
+            feuchfad fōs leat ē, 
+              278.10
+            
+          . 
+            feuch leam é, 
+              303z
+            
+          ; 
+
+            féuch linn é, 
+              344.13
+            
+          . f.<span class="oRef">¤</span> ... fri <span class="trans">
+            <span class="def">compares</span> ... with:</span> dá bhféachtar an t-áireamhso ris na seacht mbliadhnaibh déag ... 
+is follus ... `<span class="quote">if this number be taken in connexion with</span>' ... 
+(<span class="ediltr">compared with</span> ?) 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 463
+          . </p>
+      
+    
+  
+  
+    <p class="result"> 
+ <span class="edilb">II</span> Intrans.</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) in lit. sense <span class="trans">
+          <span class="def">looks</span>, <span class="def">glances</span>, <span class="def">gazes</span>, <span class="def">keeps</span> 
+a <span class="def">look-out</span>
+        </span>, absol. or with prep. FOR (AR) : fég, a L., dar th'eis 
+ <span class="ediltr">look behind thee</span> ! 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3887
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 39
+        ). fegaid, fomnaid ! 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 143 § 1
+        . féach id dhiaidh <span class="ediltr">look behind thee</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 38.7
+        . 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 475
+        . 
+          fegaid lib conid mor dliges a honoir, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 5593
+          
+        . 
+
+          dercais ┐ fégais C. dar a aiss, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 38
+          
+        . 
+          fegait tria tholl 
+na comla confhacatar in dias, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1975
+          
+        . 
+          nír féghusdair 
+ara ais riamh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 552x
+          
+         = ni ró ḟég, <span class="lbl">etc.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1904
+        . 
+feg latt for iffern `<span class="trans">
+          <span class="def">beware of</span>
+        </span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 798
+        . 
+          fegais C. forru, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 
+46
+          
+        . 
+          mairg ḟéagas ar Inis C., 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 11.1
+          
+        . 
+          go raibe an uiredsa 
+do coimet ag C. ara ōghacht nar ḟech ar mnai ... riam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 
+§ 411
+          
+        . 
+          an tí fhéachfas ar mhnaoi réna sanntughadh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 
+7266
+          
+        . créad nach féachann tu ar an druing do-ní milleadh? 
+(= <span class="frn ">quare non respicis</span>) 
+          9514
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">b</span>) 
+          fégaid do <span class="trans">
+          <span class="def">looks to</span>, <span class="def">heeds</span>, 
+has <span class="def">regard</span> to, <span class="def">takes into account</span>:</span> ba don riaguil nofhégha
+         
+(<span class="per 2">2</span>
+        <span class="number s.">s.</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 228.8
+        . ní fhéachann [an bás] do dhuine ... 
+seach aroile <span class="ediltr">is no respecter of persons</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 766
+        . 
+          étach lennmaisech ... do na fech logh no cendach ar a ingnaithchi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Aisl.Tund." title="eDIL Bibliography">Aisl. Tond.</strong></span> 112 § 2
+          
+         = 
+          narb ētir luach ... do mhes dó, 
+            137
+          
+        . 
+mana fechainn d'onoir dom athair <span class="ediltr">had I not regard for the 
+honour due to my father</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fier." title="eDIL Bibliography">Fier.</strong></span> 120
+        . 
+          do bheanfainn do cheann 
+diot ... muna bfechainn dot ainbfios, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> ii 250
+          
+        . 
+do fhéch sibh don chrích-si `<span class="quote">thou hast cared for</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 
+1921, 75
+        . 
+          nir fech C. don tuili acht docuaidh tríthe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 
+§ 73
+          
+        . 
+          neach ... nar fhéag (: séad) d'antoil na colna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> 
+xxxv 12
+          
+        . ní ḟéachfaid dot ór dána `<span class="quote">will not heed</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> 
+vii 11
+        . F.<span class="oRef">¤</span> RE (LE) : féachfa mé re Mag Uidhir | mo rí G 
+an ngéabhadh lam `<span class="quote">I shall look to M. to see if my king ... 
+will accept me</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 12.3
+        . 
+          ionadh ... da nderna ... dam le 
+neach oile ni feghadh [<span class="lbl">leg.</span> —abh], 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ii 348
+          
+        . <span class="pos Vn." style="color: #ff8000">Vn.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xE9;gad">fégad</a></span> 
+(<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xE9;gain">fégain</a></span>, <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=f&#xE9;chain">féchain</a></span>, <span class="lbl">etc.</span>), <span class="lbl">q.v.</span> </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

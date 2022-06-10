@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="29631">láthar</h3><span class="citation">Cite this: eDIL s.v. láthar or <a class="reference" href="29631">dil.ie/29631</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                láither, láithir, láthair, láithri, laithri, láithrea</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype o">o</span>, <span class="gen n.">n.</span> (<span class="lbl">cf.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> ii 45
+      ). Later láither <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span>, láithir, láthair 
+<span class="itype k">k</span>, <span class="gen f.">f.</span> 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 162
+      , 
+        § 163
+      , 
+        § 185
+      . <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+        láithri, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 
+2033
+        
+      . 
+        laithri, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fen." title="eDIL Bibliography">Fen.</strong></span> 328.16
+        
+       (perh. orig. <span class="case a">a</span>
+      <span class="number p.">p.</span> láithrea). See 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Blathm." title="eDIL Bibliography">Blathm.</strong></span> 23 n
+      .</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> <span class="trans">
+          <span class="def">Arrangement</span>, <span class="def">disposition</span>
+        </span>: a lathar sin gl. dispositio 
+creaturarum, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 42b16
+        . Often of <span class="trans">
+          <span class="def">arrangement</span>, <span class="def">interpretation</span>, 
+etc.</span> of a text: is ferr lesom a lathar-sa gl. vel certe ita (of an 
+alternative explanation), 
+          44b17
+        . follintar assa chanoin fria 
+lathar `<span class="quote">thus it is supplied . . . for its disposition</span>' (of a passage 
+in a text), 
+          123a10
+        . 
+          idilcnigthir ecna ┐ latar na psalmb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hib.Min." title="eDIL Bibliography">Hib. Min.</strong></span> 8.246
+          
+        . 
+          caecdach .i. canas salma solabra secht fichit 
+for a deich iar lathar ┐ ebert, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 920
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 654
+        ). lathar 
+n-aigniusa `<span class="quote">the arrangement of a pleading</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 100.z 
+Comm.
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1147
+        . 
+          lathar .i. indeall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1192.
+          
+         As 
+<span class="pos vn." style="color: #ff8000">vn.</span> oc lathur thestimin `<span class="quote">arranging</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 154a1
+        . is amne as 
+cóir a l.<span class="oRef">¤</span>
+         gl. sic vult accipi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 114a9
+        .</p>
+     
+      <p class="result"> 
+Of mental characteristics: 
+          nochon olc a l.<span class="oRef">¤</span> som / can 
+descin cirt ná dligid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 8.87
+          
+        . Libir ind láthair 
+lond-braiss `<span class="quote">quick and eager of mood</span>', 
+          66.6
+        . Liamuin láthair láin 
+`<span class="quote">perfect of temper</span>', 
+          iii 74.93
+        . Herccad in máthair rosmill / co 
+feib láthair in cech amm <span class="ediltr">of excellent disposition</span>, 
+          84.10
+        . 
+          tiucfa 
+macu dochum domhuin / co feib láthair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 196 § 21.
+          
+         
+
+          ba gilla cair co feib lathair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 51 § 9
+          
+        . dul do dígail a 
+máthar / romídair tri mór-l.<span class="oRef">¤</span>
+         `<span class="quote">in his proud heart</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> 
+iv 32.34
+        .</p>
+     
+      <p class="result"> 
+Of divine providence: is tre lathar Dáe són dano `<span class="quote">appointment</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25c11
+        . dont lathur diasndísiu robói hirúnaib inna 
+deacte oc tuiste dúile hitossuch <span class="ediltr">unutterable design</span>, 
+          5c16
+        . 
+nadrobae remdeicsiu na lathar Dae dia dulib `<span class="quote">dispensation</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 20b2
+        . 
+          lathar nDáe di dóinib, 
+            51c11
+          
+        . it hé inna llathar 
+asbeir inna ndiad gl. dispensationes, 
+          91d7
+        . aní as <span class="frn ">arcanum</span> 
+dund lathar fil la Dia `<span class="quote">purpose</span>', 
+          103d27
+        . <span class="lbl">Cf.</span> l.<span class="oRef">¤</span> .i. gach ciall 
+inchleithe, O'Cl.</p>
+     
+      <p class="result"> 
+Pejoratively <span class="trans">
+          <span class="def">machination</span>, <span class="def">wiles</span>
+        </span>: arna dich cách assa dligud 
+i n-adaltras tri lathar demuin <span class="ediltr">through the plan of the devil</span> 
+(`<span class="quote">influence</span>'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9d24
+        . cocrait 'na mbrāthreib a brath / diallathreib conā ragad <span class="ediltr">though brothers they conspire to betray him 
+that he might not escape their machinations</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3132
+        . 
+          slatra 
+in lathar / indmaiss brāthar / do creic aire, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 72.195
+          
+        . 
+?lathar col combat col cend frit ṁbráth ṁbrichi (rhet.), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 287a20
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> <span class="trans">
+          <span class="def">Vigour</span>, <span class="def">energy</span>, <span class="def">power</span>
+        </span>: tre l.<span class="oRef">¤</span> in spirito gl subministrationem, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 23b26
+        . 
+          ar demni ind aicnid ┐ lúthige ind 
+láthair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9142
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 88
+        ). 
+          dian farslaic Dia tria l.<span class="oRef">¤</span> / do 
+lámaib a derbráthar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7319
+          
+        . fer n-og co luth ┐ co l-lathar 
+`<span class="quote">vigour</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 1087
+        . ucra lathair `<span class="quote">decay of vigour</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> v 203.z
+        . 
+
+          gan uireasbhaidh . . . leime na lathair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 318.23
+          
+        . 
+          ro dibdad 
+a nert . . . narbo tulaing lathir nā luaigilla hé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 1828
+          
+        . 
+          l.<span class="oRef">¤</span> 
+iona laochaibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 48.26
+          
+        . cen nert cen lāthar <span class="ediltr">energy</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Otia" title="eDIL Bibliography">Otia</strong></span> 
+iii 48.5
+        . 
+          ar ttriur brathar . . . / maith ar lathar imon sluagh, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iii 9.21
+          
+        . ag sin daoip bás Caoilte / . . . a ndeireadh 
+a lathoir `<span class="quote">in the last days of his vigour</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> ii 174§4.
+         
+With lúth: 
+          ar luth ┐ lathor, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 177.24
+          
+        . 
+          mo lúth ┐ mo 
+l.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Comp.CC" title="eDIL Bibliography">Comp. CC</strong></span> 82.17
+          
+        . 
+          ind aimsir do bádusa im luth ┐ im 
+lathar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 4416
+          
+        . 
+          caillid a lúth ┐ a l.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 546.
+          
+         In other 
+phrases: 
+          lucht láthair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Nenn." title="eDIL Bibliography">Todd Nenn.</strong></span> 134.54
+          
+        . Colgo, Conall, ba 
+lucht lathair `<span class="quote">men of energy</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xlvii 308.2
+        . <span class="lbl">Cf.</span> ōtconnarc 
+Osgur . . . in láthair lāech ┐ con ┐ fer dothuit lesin muicc 
+`<span class="quote">the number . . . that had fallen</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 64.28
+        . In phr. cen 
+l.<span class="oRef">¤</span> ferdae <span class="ediltr">without male agency</span> (of virgin birth): compert maic 
+Dé i m-broind Muire óige cen l.<span class="oRef">¤</span> ferdai `<span class="quote">without man's presence</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 198.16
+        . 
+          Ísa Crīst do geinemhain ō Muire . . . cen 
+lathar ferrda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 84.9
+          
+        . 
+          cen díth nóige . . . cen lathair 
+fherrda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 251b23
+          
+        . <span class="lbl">Cf.</span> ni fuair bean a dingbala riam acht 
+cuit[r?]ed Medba re met a lathair ferda (of Fergus mac Róig), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/H2.15A" title="eDIL Bibliography">H 2.15A</strong></span>, 228b37
+         (leaf now in YBL but not in facs. See 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/GwynnCat." title="eDIL Bibliography">Abbott-Gwynn</strong></span> p. 100
+        ) <span class="ediltr">sexual vigour</span> (glossed .i. biach in 
+O'Curry's MS. Dict.). See 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 26 § 13.
+         As cheville: 
+
+          láthur ferda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 6425
+          
+         `<span class="quote">in manly actions</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MS.Mat." title="eDIL Bibliography">MS. Mat.</strong></span> 482.
+        
+      </p>
+     
+      <p class="result"> 
+?in dorus ele . . . ┐ lathar leccchloiche fair `<span class="quote">the weight of a 
+flagstone on it</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Mer.Uil." title="eDIL Bibliography">Mer. Uil.</strong></span> 226.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">III</span> <span class="trans">
+          <span class="def">Place</span>, <span class="def">position</span>
+        </span>: slíab Lecga an láthair iarsin, / fri 
+fáthaib is fri fogail `<span class="quote">the next spot</span>' (or in meaning II?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 110.17
+        . 
+          tangattar . . . go lathair a écca, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 
+273.34
+          
+        . 
+          is tú as ríoghan . . . / lér líonadh gach l.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. 
+ex. 2036
+          
+        . etargna indláthair aimserdi <span class="ediltr">point of time</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 176.23
+        . go ndearntaoi láthair logmhór do shoicheadh 
+ós cionn a ghlún dó ┐ cuirthí innte é `<span class="quote">a large pit</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 
+5198
+        . 
+          leath-mharbh ar an láthair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2584
+          
+        . 
+          san lathair 
+so, 
+            <span><strong class="pop" style="color:blue" href="bibliography/C&#xED;nLae&#xD3;Meall." title="eDIL Bibliography">Cín Lae Ó Meall.</strong></span> 45.28
+          
+        . 
+          suidhe a dTulaigh na dTrí 
+bFear / budh í a Lughaidh do láithear, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 2034.
+          
+         
+<span class="lbl">Cf.</span> rodhalbestar for alailiu indlautar (<span class="lbl">leg.</span> l.<span class="oRef">¤</span>) <span class="ediltr">concealed the 
+place from the other by magic</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 104.11
+        .</p>
+     
+      <p class="result"> 
+(<span class="edilb">b</span>) In military sense: 
+          ro comruicsit ar in lathair sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+3896
+          
+        . 
+          trotach [airecht]a, ┐ deabthach laithrech, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 6707.
+          
+         
+
+          daine imda ele do lot arin lathair-sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1256.6
+          
+        . 
+
+          gurro trasccrait ilmhile . . . for in lat[h]air sin leo, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+5837
+          
+        . at laechda bar laích ar lathir <span class="ediltr">in battle</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 239a8
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1642
+        ). go raibh an láthair fúinn féin <span class="ediltr">till we win the 
+fight</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 14.36
+        . do locatar láithir do chongmáil dá 
+cathsluaghaib `<span class="quote">to maintain the field</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Caithr.Thoirdh." title="eDIL Bibliography">Caithr. Thoirdh.</strong></span> 80.3
+        . 
+faire do chur ar láthair (láithreach, <span class="lbl">v.l.</span>) nó ar ionad an 
+ármhaigh `<span class="quote">site</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> i 202.22
+        . do lingeadh an láthair <span class="ediltr">the 
+field was won</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hackett2" title="eDIL Bibliography">Hackett²</strong></span> xliii 150.
+         <span class="trans">
+          <span class="def">Fighting-space</span>:</span> do reidiged 
+laithir fairsing imbualta d'on laechraid (<span class="lbl">i.e.</span> for a duel), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> iv 118.28
+        . 
+          do léicceadh lathair fairsing . . . isin iorghuil 
+sin dhóib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> v 186.22
+          
+        .</p>
+     
+      
+        <p class="result"> 
+Freq. with attrib. <span class="case gen.">gen.</span>: 
+            for láthir na debtha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 1030.
+            
+           
+
+            co lathair an morcatha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3399
+            
+          . 
+            ar láthair comluind, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 222 § 39
+            
+          . 
+            libh lāthair catha, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 3614
+            
+          . 
+            leac 
+láithreach na troda thú, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 2032
+            
+          . 
+            buaidh láithreach gaiscidh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 3070
+            
+          . más libh láthair an iomairg 
+`<span class="quote">field of battle</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xii 8
+          . ro suidh gach lāech ina 
+láthair licthi `<span class="quote">shooting-site</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 64.7
+          . as a láithrechaib 
+léicthe `<span class="quote">slipping stations</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 264.33
+          . beirnd curad, ┐ latair 
+miled (of slaughter wrought by warrior), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 188.23
+          . 
+            lathir 
+miled, 
+              194.20
+            
+          . <span class="lbl">Cf.</span> is agi ro bai lathair ┐ coscur in catha 
+`<span class="quote">victory</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1311.9
+          .</p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">IV</span> Very freq. in chevilles: 
+          lathar n-amra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4984
+          
+        . l.<span class="oRef">¤</span> n-án 
+`<span class="quote">noble design</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 8.3
+        . 
+          lathar ndein, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5861.
+          
+         
+
+          lathar ṅdil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 205a21
+          
+        . 
+          láthair ṅdoiṅg, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 108.77
+          
+        . 
+
+          lathar féile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 4938
+          
+        . 
+          láthur ferda, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 6425
+          
+        . 
+          lāthur ngell, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 245 § 14
+          
+        . scela Bresail Bregamain / do Lagnib lathar 
+foníal `<span class="quote">a cloudy region</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xxiv 142 § 46
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 6336
+        ). 
+          ní 
+lathar lesc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 17732
+          
+        . nói mbliadna dond ingin-sin / i mBrí 
+Léith, l.<span class="oRef">¤</span> nena `<span class="quote">with the spirit of a handmaid</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 
+2.12
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">V</span> In <span class="pos adv." style="color: #ff8000">adv.</span> and quasi-<span class="pos adj." style="color: #ff8000">adj.</span> phrases. for (ar) l.<span class="oRef">¤</span>
+         Of place: 
+do'n tí na fil er lathair <span class="ediltr">present</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7688
+        . 
+          is ann sin tháinig 
+Leabharcham aran l.<span class="oRef">¤</span> mara raibh Cú Chulainn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Comp.CC" title="eDIL Bibliography">Comp. CC</strong></span> 78.3
+          
+        . Of time <span class="trans">
+          <span class="def">immediately</span>
+        </span>: 
+          co m-bái marb ar in lathir, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> vii 302 § 192
+          
+        . 
+          co raibh dall ar in láthar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 27.2
+          
+        . 
+          adrochair M. fen ar in lathair sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvii 138.19
+          
+         (Tig. = <span class="frn ">statim</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 548
+         = 
+          fo chédo[i]r, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 538
+          
+        ). 
+          gur thuit a neál air an 
+láthair iair ttréigion iomaid fola do, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Death-talesoftheUlsterheroes" title="eDIL Bibliography">Death-tales of the Ulster heroes</strong></span> 40.24
+          
+        . ar in 
+lathair sin `<span class="quote">on that same time</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert." title="eDIL Bibliography">Leb. Cert.</strong></span> 204.z
+        . 
+          ar an lathair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> 
+xxix 198.22
+          
+        . Note also: ar lathair in laithe sin `<span class="quote">on that very 
+day</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 120.27
+        . ar óenláthair <span class="ediltr">together</span>: 
+          ar aon lathair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 
+206.12
+          
+        . fir Éireann ar aon láthair `<span class="quote">assembled</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 987.
+         
+do-icc co l.<span class="oRef">¤</span>
+        : tángatar cúic mic Uirgrend go lāthair `<span class="quote">came upon 
+the scene</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 98.6
+        . ó thanic Osgur co lāthair `<span class="quote">to the 
+spot</span>', 
+          66.2
+        . 
+          tanic dano ín leoghan co lathair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Études Celt.</strong></span> 
+i 91.12
+          
+        . 
+          gach feindidh da ttigeadh a lathair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> ii 
+370 § 3
+          
+        . 
+          iar tiacht a muindtiri co haenlathair risin impir, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 40.26
+          
+        . 
+          urmhór an tsluaigh ar dteacht ar aon-láthair 
+ris, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1071
+          
+        . do láthair <span class="ediltr">at once</span>: 
+          do láthair iar ngabháil 
+creidimh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 51.5
+          
+        . 
+          luathaid cach lib do lathair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 61 § 38
+          
+        . 
+          do cuaid doraith leis a marbad (.i. doraid 
+do lathair a marbad), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 14.23
+          
+        . 
+          do éirigh Lugaid co 
+láechdána leómanda don l.<span class="oRef">¤</span> sin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Comp.CC" title="eDIL Bibliography">Comp. CC</strong></span> 110.1
+          
+        . Also 
+<span class="trans">at <span class="def">hand</span>, <span class="def">present</span>
+        </span>: 
+          comhtha séd isíad do láthair / locaidh tú 
+go techt ar áth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 223.97
+          
+        . 
+          do neoch nach 
+raibhe do lathair díbh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 273 § 246
+          
+        . <span class="lbl">Cf.</span> 
+          gan bhréig ná 
+locht do láthair, / gnáthaigh a dtéid ort [d'fhiachaibh], 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 3.38
+          
+         (`<span class="quote">failing of vigour</span>'). <span class="lbl">Cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 l&#xE1;ithrech">1 láithrech</a></span>.</p>
+     
+      <p class="result"> 
+In <span class="pos prep." style="color: #ff8000">prep.</span> phrases with <span class="case gen.">gen.</span>: do chuiredar fios ar A. . . . go 
+láthair na comhuirle `<span class="quote">A. was invited before the council</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 180.33
+        . In <span class="number pl.">pl.</span>: dá leana go láithribh Cuinn <span class="ediltr">back to 
+C.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span>, 63.117
+        . do l.<span class="oRef">¤</span> l. <span class="ediltr">in</span>(<span class="ediltr">to</span>) <span class="trans">the <span class="def">presence</span> of</span>: 
+d'eagla . . . go mbeartaoi do láthair an dlíghe é `<span class="quote">should be 
+brought to justice</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iv 398.27
+        . 
+          iar ndul . . . do lathair 
+Aodha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 228.1
+          
+        . 
+          ná cuir do chomaoin bréige / do 
+láthair mo leithéide, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> x 5
+          
+        . 
+          doní caoi da láthair, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5944.
+          
+         Folld. by vn. phrase <span class="trans">
+          <span class="def">present</span> at</span>: 
+          bí si . . . im 
+fhochair i n-aimsir m'eitseachta . . . ┐ do lathair m'adhnaicthi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 267. 19
+          
+        . gach aon . . . bīss do lāthair a 
+ttaispēnta <span class="ediltr">present when they are displayed</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 216.8
+        . 
+
+          bheith do láthair thorraimh na marbh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 5556
+          
+        . do 
+láthair an trátha sin <span class="ediltr">at that time</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MaguiresofF." title="eDIL Bibliography">Maguires of F.</strong></span> 12
+        . i l.<span class="oRef">¤</span>
+         
+<span class="trans">in(to) the <span class="def">presence</span> of:</span> 
+          ní fhúicfidhear do leachtsa ionár lathairne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 112.31
+          
+        . 
+          do-chúadar a lathair éga, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> ii 
+380.41
+          
+        . 
+          táinig . . . i láthair Sholaimh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 2.177
+          
+        . 
+          im 
+láthair-se, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 6354
+          
+        . 
+          'na láthair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 10335
+          
+        . 
+          a lathair 
+dhaóine móra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> xviii 16.
+          
+         Note also: bheith ar láthair 
+na dtrí dtairngeadh <span class="ediltr">to witness the three nails</span> (of the Crucifixion), 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 4.45
+        .</p>
+     
+      <p class="result"> 
+In <span class="pos nn.-loc." style="color: #ff8000">nn. loc.</span>, see Hog. Onom.</p>
+     
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

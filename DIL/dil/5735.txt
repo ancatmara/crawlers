@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="5735">1 bert</h3><span class="citation">Cite this: eDIL s.v. 1 bert or <a class="reference" href="5735">dil.ie/5735</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                beirt, beart, beirt</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span>, also <span class="itype o">o</span>, <span class="gen m.">m.</span> Also beirt <span class="gen f.">f.</span> (beirid). See 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;igse" title="eDIL Bibliography">Éigse</strong></span> viii 
+101
+      -
+        103
+      , 
+        xii 68
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Language" title="eDIL Bibliography">Language</strong></span> xxix 325
+      . b.<span class="oRef">¤</span>
+       (lúachra) <span class="gen m.">m.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> 
+Decl. 
+§ 15.
+       beart (chluichi) <span class="gen f.">f.</span> (ó bheirt an chluithe ┐ an éduigh, 
+<span class="lbl">v.l.</span>), 
+        § 39
+      . beirt [éadaigh ?] <span class="gen f.">f.</span>, 
+        § 14
+      .</p>
+   
+    <p class="result"> 
+Occas. appar. = breth: 
+        b.<span class="oRef">¤</span> .i. breth . . . ar ate .ix. mberta 
+maicne insin la Féine .i. .ix. mbretha mac annso anuas, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 280.
+        
+       ropat móra do berta (`<span class="quote">Rechtssprüche</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 
+281
+      ), 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 33690.
+       co brāth na mb.<span class="oRef">¤</span>
+       <span class="trans">
+        <span class="def">for ever</span>
+      </span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 228 § 18.
+      
+    </p>
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">I</span> <span class="trans">
+          <span class="def">Burden</span>, <span class="def">load</span>; <span class="def">bundle</span>:</span> 
+          b.<span class="oRef">¤</span> quasi port, a uerbo porto .i. 
+imarc[h]uirim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 163.
+          
+         
+          etarport quasi etar-bert .i. itir 
+dā beirt, 
+            529
+          
+        . 
+          b.<span class="oRef">¤</span> (beart, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 89 § 115
+          
+        ) fleda for lomgabail 
+(<span class="ediltr">one who carries) a package (of food) for a feast on a bare fork</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Bruchst." title="eDIL Bibliography">Bruchst.</strong></span> i 34 § 80.
+         loman carr ┐ beart `<span class="quote">the rope for (tying) 
+carts and loads</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 140.3 Comm.
+         long cona be[i]rt 
+(: ceilt) <span class="ediltr">cargo</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Prolegomena" title="eDIL Bibliography">Prolegomena</strong></span> 43 § 29
+         . 
+          gan bheirt ar bhoin, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 114.34
+          
+        . birt troma i dtéadánaibh `<span class="quote">heavy corded 
+bundles</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 16.59
+        . gille ag gabháil a mbeirteadh / fir ag 
+fregra chaismeirteadh <span class="ediltr">bundles</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1127
+         
+meirge Suibhne, beart buidhe <span class="ediltr">a yellow burden</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 230.1
+        . 
+<span class="lbl">Cf.</span> 
+          blaith .i. buidhe . . . eich fo berti blaithi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 322.
+          
+         
+<span class="pos pn" style="color: #ff8000">pn</span> In sobriquet: la ríg Eoganachta B.<span class="oRef">¤</span> Crechi `<span class="quote">Load of Plunder</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xvii 381.24
+         (Tig.). <span class="trans">
+          <span class="def">bundle</span>, <span class="def">sheaf</span> of <span class="def">thatch</span>, <span class="def">rushes</span>, <span class="def">straw</span>, 
+<span class="lbl">etc.</span>:</span> 
+          colpdach i n-airbir, samaisc i llethbeirt, bó i mbeirt 
+(mbert, <span class="lbl">v.l.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 213.
+          
+         
+          cen co benta acht b.<span class="oRef">¤</span> de, manar 
+facaib air ní dá tic dín, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 1695
+          
+         (H. 5.15, 31b). <span class="lbl">Cf.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 
+642
+         (H. 3.18, 309). 
+          beart don tuighe dá fīghe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LBranach" title="eDIL Bibliography">LBranach</strong></span> 1450
+          
+         . 
+
+          ithig b.<span class="oRef">¤</span> crema, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 48 § 9.
+          
+         
+          is tegar boichti mo beart / 
+seagal is coirci is cruithneacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1064.
+          
+         fuaim 
+na n-each gan beart chum lige `<span class="quote">straw for litter</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> ii 
+192.6
+        . do-níd aoin bheart amháin da n-armaibh `<span class="quote">piled . . . 
+into one heap</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 2827.
+        
+      </p>
+     
+      <p class="result"> 
+Fig. <span class="trans">
+          <span class="def">burden</span>, <span class="def">weight</span> (of <span class="def">grief</span>, <span class="lbl">etc.</span>):</span> 
+          b.<span class="oRef">¤</span> ghoimhe, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> ii 
+268.33
+          
+        . nocha nfuil[n]ghim thúas don beirt / o rochuala tásg 
+mh'éinmhic `<span class="quote">I cannot bear up against the blow</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 56.23
+        . 
+do bhrígh na beirte <span class="ediltr">because of the burden (of oppression</span>), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 74.27
+        . <span class="lbl">Cf.</span> 
+          gár mheisde . . . / a sgaradh (<span class="lbl">sic leg.</span>) re a 
+mbeirtibh bróin, 
+            79.19
+          
+        . In cheville: 
+          beirt pían, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7171.
+          
+         
+Other applications: dā uigh chirce ar mbúain dā beart `<span class="quote">taken 
+from her clutch</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 364.16
+        . a carnn-fhoilt léi 'n a 
+m-beartaibh `<span class="quote">tresses</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hard." title="eDIL Bibliography">Hard.</strong></span> ii 24.y
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> <span class="trans">
+          <span class="def">Clothing</span>, <span class="def">covering</span>, <span class="def">clothes</span>, <span class="def">attire</span>, <span class="def">apparel</span>; <span class="def">accoutrement</span>:</span> 
+
+          beirt .i. cumhdach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+          
+         
+          tugadh beart (eadach, <span class="lbl">v.l.</span>) nua do 
+gach aon díobh, idir shlabhradh ┐ léine ┐ bhrat, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 95.1
+          
+        . 
+
+          beart do croicend ōglaogh allaidh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FeisTigheChon&#xE1;in" title="eDIL Bibliography">Feis Tighe Chonáin</strong></span> 160.
+          
+         beart allmhurdha `<span class="quote">strange garment</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 1438.
+         
+          beirt righ 
+Laighen . . . a léine sroil ┐ a áon ghae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 257 § 216
+          
+        . co 
+mbeirt glégil <span class="ediltr">in white raiment</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 23
+        . armghaiscedh . . . 
+etir ghai ┐ sciath ┐ claideb, cona bheirt foithibh <span class="ediltr">casing</span> (?), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 1610.
+         tuc beirt ridiri (arm gaiscidh, <span class="lbl">v.l.</span>) dhoibh 
+`<span class="trans">
+          <span class="def">equipment</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xix 28.12
+        . seacht mbeirte décc éideadh 
+`<span class="quote">suits of armour</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iv 1244.16
+        . 
+          a bheirt ghliadh '<span class="quote">his battle armour</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xxvi 101 § 28
+          
+        . buiden do rāpēroip ┐ do 
+daigēroib . . . go mbeirtibh cloch uaissle cumdaigh ar n-a 
+gcomhōradh `<span class="quote">with hilts (scabbards ?) of ornamented precious 
+stones</span>' (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 100.33
+        . 
+          ocht .xx. claidimh beirte 
+cumdhaigh le hor, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Chl.S." title="eDIL Bibliography">L. Chl. S.</strong></span> 27.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">III</span> </p>
+      
+      
+        <p class="result">
+          <span class="edilb">(a)</span> <span class="trans">
+            <span class="def">deed</span>, <span class="def">exploit</span>; <span class="def">feat</span>, <span class="def">trick</span>; <span class="def">effort</span>, <span class="def">task</span>; <span class="def">action</span>, 
+<span class="def">behaviour</span>:</span> na trī berta buadhnaise . . . sin <span class="ediltr">those three exultant 
+deeds</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1122.
+           <span class="lbl">Cf.</span> phr. b.<span class="oRef">¤</span> búada below. Macha, co mbert-
+aib na mbergg `<span class="quote">with feats of heroes</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 182 § 5
+          . 
+tria beirt n-iṅglicc fria n-athair (
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> xix 30
+          -
+            35
+          ) <span class="ediltr">wanton 
+trick</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 72a36
+          . in b.<span class="oRef">¤</span> baísi `<span class="quote">foolish thing</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL2" title="eDIL Bibliography">TBC-LL²</strong></span> 1064
+          . 
+
+            atbath tre beirt láechda lúaith, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 20.23
+            
+          . 
+            do 
+rigni berta fir baíth, 
+              iv 146.6
+            
+          . ag déanamh beart mbaodhluch 
+`<span class="quote">venturesome deeds</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 1390.
+           
+            Lugaid [luth] la beirt 
+(: seirc), 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 209.20
+            
+          . beart ullamh hí on aingeal (of the 
+Incarnation), 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 48.17
+          . beart do bheartaibh an tṡaoghail 
+`<span class="quote">one of the tricks of the world</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 350.24
+          . amail 
+dogéntais in mbeirt (: ardneirt) `<span class="quote">as they should achieve the 
+task</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 110.2
+          . In phr. b.<span class="oRef">¤</span> búada: co fagba lícc bas b.<span class="oRef">¤</span> 
+búada for lecht n-Aeda `<span class="quote">stone that shall be a trophy</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 102.12
+          . bearta a buadh ar ghléire gall (of Ireland), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xlii 68
+          . <span class="lbl">Cf.</span> 
+            <span><strong class="pop" style="color:blue" href="bibliography/ML2" title="eDIL Bibliography">ML²</strong></span> 1122.
+           b.<span class="oRef">¤</span> cháis: 
+            Muire ógh ar 
+t'fheart / a brón 's a beart cháis, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 5.54
+            
+          . In phrr. 
+(attá, do-icc) ar b.<span class="oRef">¤</span>
+          : a imscar ┐ Meic Con asin chath ro boí ar b.<span class="oRef">¤</span> 
+oco <span class="ediltr">the battle that was about to take place between them</span> (?), 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9828
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> xix 532.7
+          ). tathum domna bróin ar beirt 
+<span class="ediltr">matter for grief has fallen to me</span> (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 284.3
+          . 
+cia beith olc na crí / connāch tí for beirt `<span class="quote">though they meditate 
+evil, it may not come to pass</span>' (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 268.14
+          . 
+            da 
+ceirtbliadain dó for beirt / i tig Loairnd dó ag Eirc, 
+              <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 
+317b7
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/AidedM." title="eDIL Bibliography">Aided M.</strong></span> 800
+          ). Note also: 
+            mar adberaid buidni ar 
+beirt / maraid im' cuimni comneirt, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 410 § 6
+            
+          . 
+(In cheville) 
+            caoine (<span class="lbl">leg.</span> cáiniu) bertaibh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 198.7
+            
+          .</p>
+      
+     
+      <p class="result"> 
+<span class="edilb">(b)</span> <span class="trans">
+          <span class="def">move</span> in a game, <span class="def">play</span> in a game, <span class="def">game</span>:</span> ro tincoisc 
+beirt diarbo cluchi for Murchadh `<span class="quote">a move by which a game 
+went against M.</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 144.3
+        . 
+          an bheart (bheirt, <span class="lbl">v.l.</span>) eile, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xvii 12.30
+          
+        . b.<span class="oRef">¤</span> indarba agad, a meic `<span class="quote">a move of banishment</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 154 § 8.
+         [tré]na beirt ndírig ndílis `<span class="quote">for his 
+straight and honourable play</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 124.18
+        . 
+          gairid ar mbúain 
+resin mbeirt / gur smúain an aibhid d'imeirt, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. 
+ex. 625.
+          
+         ? 
+          dál féirleabtha d'inghin é / imridh sé éinbhearta 
+is í, 
+            ex. 1113
+          
+        .</p>
+    
+  
+  
+    <p class="result"> 
+Compds. 
+        brig ar bertblaidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 64 § 131.26
+        
+      . 
+        a n-anmann 
+cen bertbrón (mertbron, <span class="lbl">v.l.</span>: Mercōn), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 377.7
+        
+      .</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

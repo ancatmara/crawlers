@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="36263">scaíled</h3><span class="citation">Cite this: eDIL s.v. scaíled or <a class="reference" href="36263">dil.ie/36263</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                scailid</p></div><div class="col-sm-9 result_content">
+    
+    <p class="result">
+      <span class="itype u">u</span> and <span class="itype o">o</span>, <span class="gen m.">m.</span> <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=sca&#xED;lid">scaílid</a></span>. <span class="lbl">Cf.</span> 
+        scailid, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 433b39
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 42.z
+       (perh. for scaíliud). 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs § 71 (224.22)
+      . </p>
+   
+    
+      <p class="result"> 
+<span class="edilb">I</span> <span class="trans">Act of <span class="def">scattering</span>, <span class="def">dispersing</span>
+        </span>: 
+          spréigheadh, scaoiledh, 
+sreathnugha[dh], 
+            <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 531
+          
+        . </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) of persons: 
+            is i scoíliud ┐ i 
+n-esréidiud no bíad a chenel, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2657
+            
+          . batar i nEmain 
+corbo amm scáilti dóib. Luid cách díb da thig a athar <span class="ediltr">till it 
+was time for them to disperse</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1013
+          . fassughudh Laigen 
+. . . ┐ a scailedh fo Erinn `<span class="quote">a scattering of its people</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 
+37.26
+          . 
+            dogéntar scáiled na n-apstal for cech leth, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3006
+            
+          . 
+
+            [ar] scaoiledh na scoile fon doman uile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 20.10 Comm
+            
+          . 
+dul do Themraig ┐ scailed do denam ina degaid <span class="ediltr">disband</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5249
+          . 
+            go hionbhuidh sgaoilte don sgail, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 73.17
+            
+          . 
+
+            fatha sgaoilidh na sgoile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ir.Review" title="eDIL Bibliography">Ir. Review</strong></span> 1913, 595 § 12
+            
+          . ni ro 
+leiccit sccaoileadh doibh co rangattar Eas Dara `<span class="quote">made no 
+delay</span>' (= <span class="ediltr">did not disband</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 82.13
+          . 
+            ro léiccsiot scaoíleadh 
+dá n-amhsaibh ar n-íc a ttuilmhe, 
+              v 1660.x
+            
+          . <span class="lbl">Cf.</span> leagur scailed 
+dhoib `<span class="quote">let them alone</span>' (of marauders), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3177
+           (or in 
+meaning II (b)?). In sense of <span class="trans">
+            <span class="def">routing</span>, <span class="def">scattering</span> in <span class="def">battle</span>
+          </span> 
+(usually with <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=scaindred">scaindred</a></span>, <span class="lbl">q.v.</span>): 
+            is hé darat scaindred ┐ scáiliud 
+forsin ṁbantrocht . . . na cíchloiscthe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 431
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) other applications: in tinid atchonnaircaisthi (<span class="lbl">sic</span>) do 
+todail (.i. do sgailed) damh-sa = <span class="frn ">ex me exeuntem</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 224
+          . 
+inni fir-bis aice do beo-dilib . . . do comscailed uad .i. . . . 
+scaile[d] a set <span class="ediltr">dissipating</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 438.12 Comm
+          . sgaíled néll 
+<span class="ediltr">dispersing clouds</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 1237
+          . 
+            tearc do chommór . . . | 
+ar sgaoileadh each nó áirgheadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 74.64
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">act of <span class="def">destroying</span>
+          </span>: 
+            cen templu na n-idal do scailiud acht 
+a coisecrad do Dia, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 70.17
+            
+          . is comairt ar cnamaib ┐ 
+is scailedh ar sciathaib (of weapons), 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 24.1
+          . ni do 
+scáiled rechta tanac-sa . . . acht is dia chomailliud <span class="ediltr">to annul</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4767
+          . 
+            flaithes cen scailedh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3860
+            
+          . sgaoileadh 
+gan sgur `<span class="quote">utter ruin</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Magauran" title="eDIL Bibliography">Magauran</strong></span> 3118
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+            <span class="def">dissipating</span> (feelings, <span class="lbl">etc.</span>):</span> ní cás duid sgaoileadh dom 
+sgíos `<span class="quote">to ease my distress</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxi 9
+          . 
+            sgaoileadh 
+eolchuire, 
+              <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 147.40
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) <span class="trans">act of <span class="def">disseminating</span> (stories, <span class="lbl">etc.</span>):</span> 
+            a fhir scailid na scél 
+tall, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 56 § 48
+            
+          . ni fhuil litir da laghad | nar scoiletar 
+na scola (of the reverence paid to Colum Cille's writings), 
+
+            87 § 4
+          . mithidh dhamh sgaoileadh dom sgéal ` '<span class="quote">tis time to tell 
+my tale</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 11A.8
+          . ag sgaoileadh an sgrioptúir <span class="ediltr">spreading 
+the gospel</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 59.21
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">f</span>) various: debaid . . . no scaile[d] <span class="trans">
+            <span class="def">fight</span>, <span class="def">contention</span>
+          </span> (?), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+i 176.10 Comm
+          . , <span class="lbl">cf.</span> 
+            mannar .i. sgailed, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1255
+            
+          . 
+            mannar 
+.i. sgáoileadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OCl." title="eDIL Bibliography">O'Cl.</strong></span>
+            
+           cerbo tri haicmeda re scailed iadsen, rob 
+en aicme iar mbunudas iad `<span class="quote">though they were three tribes 
+through division</span>' (<span class="lbl">i.e.</span> by divergence from root-stock), 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 
+180.21
+          . a amus . . . d'urchor pilér i scaoileadh a éidedh plata 
+`<span class="quote">in the opening of his plate armour</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2026.15
+          . sgaoileadh 
+beoil = <span class="frn ">fissura labiorum</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/23K42" title="eDIL Bibliography">23 K 42</strong></span>, 297.3
+          . an fual . . . aga mbíd 
+sgaoilte cruinne = <span class="frn ">urina . . . habens resolutiones rotundas</span>, 
+
+            127.18
+          . fá scaoiltibh ród nEórpa <span class="ediltr">the divergent roads of E.</span>, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Hackett" title="eDIL Bibliography">Hackett</strong></span> xxi 14
+          . as i naduir an aeir . . . dul a scailedh ┐ a letni 
+`<span class="quote">to spread</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 54.7
+          . </p>
+      
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span>
+      </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">act of <span class="def">opening</span>, <span class="def">undoing</span>
+          </span>: 
+            scailiud murgabla srotha 
+Lygir, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 373a30
+            
+           = 
+            tuaslucud in murgabail, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 159b30
+            
+           = 
+scáiled in mur-gabuil . . . | cos'tathig Ligir `<span class="quote">to release the . . . 
+inlet</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 194.9
+          . 
+            imrulae Críst . . . asin chengul . . . 
+cin scáiliud glais nó gemli, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 200.10
+            
+          . scailedh `<span class="quote">loosening</span>' 
+(of stakes), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 236.6 Comm
+          . 
+            oc scailed a fuilt, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1354
+            
+          . 
+
+            trillsi liatha . . . for scáiliudh ┐ for esrethiudh ima cenn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+408
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">act of <span class="def">releasing</span>, <span class="def">loosing</span>
+          </span>: 
+            ic scailiud dér, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TFerbe" title="eDIL Bibliography">TFerbe</strong></span> 608
+            
+          . 
+sgaoileadh cáigh san cheangail-sin (the Crucifixion), 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+54.19
+          . 
+            go dtiubhradh P. airgead dó dho chionn a sgaoilte, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Acts</strong></span> xxiv 26
+            
+          . 
+            sanntaigim scailedh on corp, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SmaointeB.Chr." title="eDIL Bibliography">Smaointe B. Chr.</strong></span> 
+6019
+            
+          . atá mian oram sgaoileadh dhíom, nó bheith arnam 
+sgaoileadh = <span class="frn ">cupio dissolvi</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 2706
+          . fuil do scaoileadh 
+<span class="ediltr">blood-letting</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corp.Astron." title="eDIL Bibliography">Corp. Astron.</strong></span> 54.28
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">act of <span class="def">unfolding</span>, <span class="def">spreading</span> out</span> (a covering, <span class="lbl">etc.</span>): 
+            brat do 
+sgailedh ara cind, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 186.8 Comm
+            
+          . iar sgaoileadh a 
+mbratach <span class="ediltr">unfurling</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mart.Don." title="eDIL Bibliography">Mart. Don.</strong></span> xxix 17
+          . 
+            scailed sroill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> ii 64 § 6
+            
+          . </p>
+      
+     
+      <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">act of <span class="def">elucidating</span>, <span class="def">solving</span>
+        </span>: 
+          ag sgaoileadh ceasd, 
+            <span><strong class="pop" style="color:blue" href="bibliography/L.Cl.A.B." title="eDIL Bibliography">L. Cl. A. B.</strong></span> 125.43
+          
+        . an cheist seo chuirim is urasa scaoileadh <span class="ediltr">to 
+solve it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat.Poems" title="eDIL Bibliography">Keat. Poems</strong></span> 1577
+        . craobh coibhneasa Clann Eachach 
+| . . . | dá sgaoileadh um laoidh <span class="ediltr">elucidating them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IrishTexts" title="eDIL Bibliography">Irish Texts</strong></span> iv 
+49 § 2
+        . lucht sgaoilte gég ngeinealaigh `<span class="quote">those who unravel 
+genealogical branches</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1920, 567 § 15
+        . Note also: fá 
+réir na scol do scaoiled <span class="ediltr">supplying the wants of the poets</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 508.16
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

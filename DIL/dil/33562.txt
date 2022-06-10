@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="33562">óg</h3><span class="citation">Cite this: eDIL s.v. óg or <a class="reference" href="33562">dil.ie/33562</a></span><br/><span class="revision">Last Revised:
+                2013</span><br/><p style="margin-top: 4px" class="small">Forms:
+                úag, ógae, óge, óige, ógh, ógán, ógbán, ógdiles, ógfind, ógslán</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> 
+      <span class="itype o,&#x101;">o,ā</span> (or <span class="itype u">u</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xxiv 172
+      ) also úag, a form common in Mid.Ir. but not found in
+
+Glosses. The stem-consonant appears to be non-palatal in
+
+all cases in O.Ir.: <span class="case g">g</span>
+      <span class="number s">s</span>
+      <span class="gen f.">f.</span> 
+        ógae, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 144c7
+        
+      . 
+        óge, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 6b28
+        
+      ; later
+
+generally óige.</p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">whole</span>, <span class="def">entire</span>, <span class="def">integral</span>
+        </span>: 
+          ogh .i. comlan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1315
+          
+        , <span class="lbl">cf.</span>
+
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 65.
+         
+          ogh .i. imṡlan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec.Gl." title="eDIL Bibliography">Lec. Gl.</strong></span> 102 M
+          
+        . 
+          uli (nō uile nō
+
+ogh), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm." title="eDIL Bibliography">Corm.</strong></span> p. 2
+          
+         (amnas). rann óg <span class="ediltr">complete part (of speech</span>),
+
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 6b28
+        . <span class="case n">n</span>
+        <span class="number du.">du.</span> da n-óg (gl. cuiusquam, <span class="lbl">i.e.</span> a compd. contain-
+
+ing two integral words), 
+          157b6
+        , <span class="lbl">cf.</span> 
+          75b3
+         , 
+          98a2
+        . comsuidigthe
+
+o dib n-ógaib (gl. altera utera), 
+          98a1
+        , <span class="lbl">cf.</span> 
+          75a5
+        . loiscis in garmain
+
+. . . matan ba óg in garman <span class="ediltr">was whole (again</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> v 76.
+         mo
+
+chorp úag i n-úaig <span class="ediltr">entire</span> (? <span class="ediltr">uncorrupted) in the grave</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9945
+        
+
+= 
+          <span><strong class="pop" style="color:blue" href="bibliography/PRIA" title="eDIL Bibliography">PRIA</strong></span> iii 536 § 29.
+         a n-ol n-úag . . . na ruirech . . . triche
+
+dálem nos dáled <span class="ediltr">the entire amount of drink</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 28b32
+        . etir
+
+imrad uag | nar bo luad don Flaith <span class="ediltr">all converse wherein there
+
+was no word of the Lord</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 222 x
+        . donrimmart gorta
+
+. . . a críchaib Cannáin fri ar n-adlaic uaig <span class="ediltr">to supply all our
+
+need</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3487.
+         dilegfat claind Ádaim huaig <span class="ediltr">the entire race
+
+of A.</span>, 
+          2429
+        . lethat Tuadmuman . . . is ē a dāil fri hErinn hōig
+
+`<span class="quote">compared with the whole of Ireland</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 50 § 3.
+         féich ogha
+
+<span class="ediltr">full fines</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 286.36 Comm.
+        
+      </p>
+    
+		
+      <p class="result">Passing into sense of <span class="trans">
+          <span class="def">complete</span>, <span class="def">perfect</span>(ed):</span> ro frestuil . . .
+
+gumbut oga a n-ocobair <span class="ediltr">till their desires were satisfied</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span>
+          iii 3.12
+        . manibat óga a frithḟolaid `<span class="quote">unless the reciprocal
+
+obligations be fully discharged</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 219 § 9.
+         This is prob.
+
+the sense in chevilles: 
+          erim n-úag, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 258b36
+          
+        . óg in t-anfad,
+
+
+          183b11
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 61 § 32
+         (`<span class="quote">a tempest outright</span>').</p>
+    
+		
+      <p class="result">
+        <span style="color: #ff8000">compar.</span> with DE: 
+          ogthach .i. oigh-thech .i. oguide a tech dia
+
+buith fair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1016
+          
+         (see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ochtach">ochtach</a></span>). <span style="color: #ff8000">superl.</span> céim as úagu
+
+`<span class="quote">step most perfect</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Nov. 30.
+         <span class="pos Adv." style="color: #ff8000">Adv.</span> don c[h]reitmech
+
+c[h]reitfes co hogh <span class="ediltr">entirely, absolutely</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxxvii 346 § 22.
+         ro
+
+forruimedh co hogh ann hé la righ C. <span class="ediltr">he was lodged with all his
+
+retinue</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 102.4
+         (B. na f.).</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">b</span>) used as <span class="pos subst." style="color: #ff8000">subst.</span> in <span class="gen neut.">neut.</span> <span class="number sing.">sing.</span> folld. by part. gen., <span class="trans">the
+
+<span class="def">whole</span>
+        </span>: a ṅ-óg no ráidiu `<span class="quote">all that I say</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 358
+         (a n-uag,
+
+ind óc <span class="lbl">v.l.</span>). ogh n-airbid `<span class="quote">full food</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 432.19
+        . 
+          og n-
+
+arathair, 
+            iv 310.14
+          
+         (`<span class="quote">full ownership of a plough</span>', MacNeill,
+
+<span><strong class="pop" style="color:blue" href="bibliography/MacNeill" title="eDIL Bibliography">MacNeill, Law of status</strong></span> 291
+        ). tuc Patraic óg ndilguda dóib <span class="ediltr">plenary
+
+forgiveness</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9764
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> vi 164.26
+        . ronbiat . . . huag córe
+
+<span class="ediltr">complete peace</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 137.1
+        . faicebthai leis óg far cend <span class="ediltr">all
+
+your heads</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 291.
+         óg bar carat <span class="ediltr">all your friends</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 239a19
+        
+
+= 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1650.
+         óg n-ell `<span class="quote">all the kine</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 62.11
+        . 
+          go
+
+ffargaibhsett ogh a long . . . ag Ua M., 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 936.9
+          
+        , <span class="lbl">cf.</span> 
+          1050.14
+        .
+
+
+          ratha i n-ogh na saire seo, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 42.16
+          
+         = `<span class="quote">the inviolability
+
+of this freedom</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 43 z
+        . uile n-óg `<span class="quote">all entire</span>', `<span class="quote">all told</span>',
+
+used as <span class="pos adv." style="color: #ff8000">adv.</span>: doratsat sin uile n-óg `<span class="quote">gave all these completely</span>',
+
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 10.117
+        . 
+          ro ort uile n-óg in énlaith, 
+            258.33
+          
+        .
+
+dosfangator cenél C. uile n-ógh <span class="ediltr">came in all their strength</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 300.4 (f. 78b)
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">untouched</span>, <span class="def">intact</span>, <span class="def">inviolate</span>
+        </span>: 
+          in talam dia ṅdernad Adam,
+
+óg e-side, ar ní ro helned ó iarnd nách o fhuil, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2024.
+          
+        
+
+sméra áille uagha `<span class="quote">fresh</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 110.7
+        .</p>
+    
+		
+      <p class="result">Often of places (prob. the orig. meaning of the epithet as
+
+applied to Ireland, though later the country came to be
+
+personified as a virgin): 
+          o ruirig nimi noeb-uáig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 5878.
+          
+        
+
+a íath n-énach n-indsech n-úag `<span class="quote">virgin mead of birds and
+
+islands</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> ii 10.8
+        . a tig righ na hindsi uaighi,
+
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Snedg.u.MacR" title="eDIL Bibliography">Snedg. u. Mac R</strong></span> 11 z
+        . 
+          Eri ogh inis na naemh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span>
+408 § 1
+          
+        . apstal Hérenn óge `<span class="quote">virginal</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Mar. 17
+         (of S.
+
+Patrick, possibly = <span class="ediltr">of all Ireland</span>). 
+          cein bes Ere uagh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span>
+ii 71.11
+          
+        .</p>
+    
+		
+      <p class="result">Of abstracts: 
+          fofuair . . . mor n-ecnai uaigh co n-ógrath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span>
+3810
+          
+         (= <span class="ediltr">pure? complete?</span>). 
+          sruaim ecna uaigh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 220.15
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">d</span>) <span class="trans">of persons, the primary meaning may be <span class="def">complete</span>, <span class="def">lack-
+
+ing</span> in <span class="def">nothing</span>, or <span class="def">unsullied</span>, <span class="def">pure</span>:</span> 
+          duine óg iar fírinne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 450.
+          
+        
+
+
+          nem n-aṅgel n-uag, 
+            635
+          
+        . 
+          a Míchíl archaingil uaig!, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 389.
+19
+          
+        . 
+          rucad Helíí uag | ina charput don bith buan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span>
+            150.45
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 247b13
+        ); `<span class="quote">the chaste Elijah</span>', but possibly <span class="ediltr">intact</span>, <span class="lbl">i.e.</span>
+
+in the body.</p>
+    
+		
+      <p class="result">In Mid.Ir. and later lit. (esp. relig.) generally in restricted
+
+sense <span class="trans">
+          <span class="def">celibate</span>, <span class="def">chaste</span>
+        </span>: óg eter ógaib (of John the Baptist), 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span>
+880
+        . 
+          as eissen . . . cet martir ┐ cet sagart ┐ cet og do bai do
+
+sil Adaim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 286 (a)
+          
+        . 
+          nís aitrebat acht nóemóig nó
+
+ailitrig dútrachtacha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 12.
+          
+         forcetul do na lánómnaib ┐ do
+
+na hógaib <span class="ediltr">to married and single</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1670.
+         
+          ba húag ba hidan
+
+a maicc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 370b51
+          
+        .</p>
+    
+		
+      <p class="result">Common epithet of the Virgin Mary: 
+          Maire óg ingen, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 6.
+          
+        
+
+
+          féil Maire húage, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> May 3.
+          
+         In late lang. <span class="itype indecl.">indecl.</span> in this con-
+
+nexion: 
+          Muire Ógh, do Mh. Ógh, mac M. Ógh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec.
+
+§ 126
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result">Hence (<span class="edilb">e</span>) as <span class="pos subst." style="color: #ff8000">subst.</span> <span class="itype &#x101;">ā</span>, <span class="gen f.">f.</span> <span class="trans">a <span class="def">virgin</span>
+        </span>: 
+          ógh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Dec. § 39.16
+          
+        .
+
+
+          
+            <span class="frn ">uirgo</span> . . . .i. og, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 178.
+          
+         tar bruinniu ógae <span class="ediltr">over a
+
+maiden's breasts</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 144c7
+        , <span class="lbl">cf.</span> 
+          100a3
+        . 
+          berid og mac, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2262.
+          
+        
+
+
+          mac na hóige .i. Crist, 
+            2022
+          
+        . 
+          dond óig Iulianae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Feb. 16
+          
+        
+
+(uaig, oigh <span class="lbl">v.l.</span>). 
+          ar cech noebuaig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 7817.
+          
+         
+          dī óig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 15
+          
+        
+
+(<span class="case n">n</span>
+        <span class="number du.">du.</span>). 
+          muinter nime eter nóemu ocus nóemóga, ┐. nóeb [<span class="lbl">leg.</span>
+
+noíb] is nuíbhuaga, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 441.
+          
+         
+          ticdis a ndruíde ┐ a n-óga
+
+coisecartha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 335.
+          
+         for érlam Brigti co n-ogaib Érenn impe,
+
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy.</strong></span> i 51.
+        
+      </p>
+    
+		
+      <p class="result">Occas. of a man: do coimeit se n-a oigh ro-naemtha <span class="ediltr">kept
+
+himself a virgin</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 353.
+         
+          an dream nár salchadh ré mnáibh
+
+óir as ógha iad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Revel.</strong></span> xiv 4.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">f</span>) exceptionally as <span class="pos subst." style="color: #ff8000">subst.</span> <span class="gen f.">f.</span> in abstract sense, <span class="trans">
+          <span class="def">chastity</span>,
+
+<span class="def">purity</span>
+        </span>: easpog go n-óigh n-intinne `<span class="quote">virginal in mind</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> i 98 § ii
+        . So also in <span class="number pl.">pl.</span>: crí co n-uagaibh `<span class="quote">body of purity</span>',
+
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 582.13
+         (poem). 
+          fer co n-occaibh, 
+            ii 600.7
+          
+         (poem).</p>
+    
+  
+  
+    
+      <p class="result">Common in compds.,</p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) with subst.</p>
+       
+        
+          <p class="result">(<span class="edilb">1</span>) in sense <span class="trans">
+              <span class="def">entire</span>,
+
+<span class="def">complete</span>
+            </span>, often in legal and techn. terms: ógh-aisecc cruidh
+
+<span class="ediltr">full restitution</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1114.19
+            . 
+              la taob og-aisic dá creith
+
+(= creich), 
+                <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 76.1
+              
+            . rucus og-altram do mathair a
+
+oenur <span class="ediltr">entire upbringing</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 113a22
+             (<span class="quote">das ganze Aufziehen
+
+fällt der Mutter zu</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 320 § 13
+            ). 
+              dodeochatar na noib i
+
+n-ógbrāthirsi [<span class="lbl">sic leg.</span>] etir na cenela, 
+                <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 315.19
+              
+             (<span class="lbl">cf.</span>
+
+óg-síd). lethcaichach a tairsce ocaichach ma caichach naiche '<span class="quote">full penalty</span>' 
+              <span><strong class="pop" style="color:blue" href="bibliography/CIH" title="eDIL Bibliography">CIH</strong></span> i 72.4
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/EIF" title="eDIL Bibliography">EIF</strong></span> 136
+            . dorat dó a uagcommus <span class="ediltr">full authority</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3172.
+             co
+
+ndernad a ogdilcenn <span class="ediltr">it was completely destroyed</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 2590
+            ;
+
+<span class="lbl">cf.</span> 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 652.5
+             (óghdilgeann). dorat a ogdilsi fein cona uile
+
+maithius dó `<span class="quote">absolute ownership</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 332.6
+            , <span class="lbl">cf.</span> 
+              348.13
+            .
+
+oghdiriu (= 
+              <span class="oRef">¤</span>díre) do cech eclais <span class="ediltr">full due</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/C&#xE1;inAd." title="eDIL Bibliography">Cáin Ad.</strong></span> 36.
+             ogflaithem .i. fer tri seincleithe cona comorbaib '<span class="quote">the <span class="frn ">ógflaithem</span> ('full lordly-one'), i.e. a man of 3 hereditary tenants with their proper successors</span>' 
+              <span><strong class="pop" style="color:blue" href="bibliography/CIH" title="eDIL Bibliography">CIH</strong></span> ii 584.21 (Míadṡlechta)
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xlii 76
+            . incomalltar ogime (leg. ógimbe) dia mis '<span class="quote">full hedging is completed in a month</span>' 
+              <span><strong class="pop" style="color:blue" href="bibliography/CIH" title="eDIL Bibliography">CIH</strong></span> i 65.5 (Bretha Comaithchesa)
+            ,  <span><strong class="pop" style="color:blue" href="bibliography/KingshipandLandscapeofTara" title="eDIL Bibliography">The Kingship and Landscape of Tara</strong></span> 105 § 4
+            . don
+
+oghlaithi aigeanta <span class="ediltr">the full natural day</span> (i.e. 24 hours), 
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span>
+              106.11
+            . 
+              raithi . . . a n-oghlesaigte Emine, 
+                <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 42.13
+              
+            
+
+(`<span class="quote">guarantors . . . for the full satisfaction of E</span>.', 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 43
+            ). is
+
+ogleith in sin, ni certleath `<span class="quote">a virtual half, not an exact half</span>',
+
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 1728.
+             
+              ógleth, 
+                <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 66.23
+              
+            . oglinath ind firinnigthe
+
+<span class="ediltr">full accomplishment</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 3d22
+            . 
+              oghlosgadh, 
+                <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> iii 554.7
+              
+            . ier
+
+n-oghroinn Insi hErenn <span class="ediltr">dividing the whole island of Ireland</span>,
+
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.(i)</strong></span> i 274 z
+            . ógríar (see below). dogniat ógsíd .i.
+
+Diarmait ┐ Guaire <span class="ediltr">are fully reconciled</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 218.11
+            . 
+              co
+
+ndearnsat oghsídh fo bachaill Iosa, 
+                <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii 1086.14
+              
+            . 
+              co
+
+ndearnsat óighsidh fri aroile, 
+                iv 930.5
+              
+            . co ndernsad ógṡith
+
+na hErenn <span class="ediltr">a general peace</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 164 z
+            . ógthatchur, see
+
+below. ní ógthindnacal . . . óre ro tectsat ní de riam <span class="ediltr">not alto-
+
+gether a gift</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 1a9
+            .</p>
+        
+      
+		
+        
+          <p class="result">(<span class="edilb">2</span>) in relig. and later lit. generally in sense <span class="trans">
+              <span class="def">perfect</span> or <span class="def">pure</span>,
+
+<span class="def">chaste</span>:</span> co n-úagbail `<span class="quote">perfect goodness</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Dec. 3. ogben,
+
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> Nov. 15.
+             
+              ó ghenair Crist dind oghbhreith, 
+                <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> ii
+
+648.5
+              
+            . oghbriathra ána `<span class="quote">pure, noble words</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 160.7
+            . ógcéssad
+
+(= <span class="ediltr">martyrdom</span>), 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> June 5
+            . ar aithne . . . in ógh-espuicc
+
+`<span class="quote">virgin bishop</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 265 § 229.
+             ógfer (of a saint), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> May
+
+2
+            , <span class="lbl">cf.</span> 
+              June 23
+            . 
+              oiginis Erenn, 
+                <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 436 § 5.
+              
+             cen óg-
+
+naith `<span class="quote">without perfect song</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 150.52
+            . ógrath,
+
+
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 3810
+            , <span class="lbl">cf.</span> 
+              7499
+            . 
+              ógrí, 
+                <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 92.
+              
+            
+          </p>
+        
+      
+    
+		
+      
+        <p class="result">(<span class="edilb">b</span>) with adj., either in sense <span class="trans">
+            <span class="def">entirely</span>, <span class="def">perfectly</span>
+          </span>, or forming
+
+dwanda-compds. ógán `<span class="trans">
+            <span class="def">virginal</span>, <span class="def">splendid</span>
+          </span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span> Aug. 3.
+          
+
+mind ṅ-úagbailc `<span class="quote">virginal, strong</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Aug.16.
+           
+            ógbán, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Gorm." title="eDIL Bibliography">Gorm.</strong></span>
+Mar. 8.
+            
+           caega n-urla n-ogbuidhe <span class="ediltr">pure yellow</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 539.1
+          .
+
+ógdérg a fonnaid <span class="ediltr">all red</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/FB" title="eDIL Bibliography">FB</strong></span> 24
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8345
+          ). ógdiles <span class="ediltr">belonging
+
+in fee simple (to)</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 239.16
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Ardm." title="eDIL Bibliography">Ardm.</strong></span> 17b1
+          ). 
+            ógfind, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv
+32.12
+            
+          . a chruth cith uagfind <span class="ediltr">though wholly fair his form</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span>
+vi 267 § 1
+          . beich óghlána `<span class="quote">laden bees</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 18.24
+          . ógslán
+
+<span class="trans">
+            <span class="def">entire</span>, <span class="def">intact</span>, perfectly <span class="def">sound</span>
+          </span>: 
+            co roichet o. tarsin nglend
+
+tentide, 
+              <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 22.
+            
+           
+            ní dígbad ní día ubull . . . acht ba ógṡlan
+
+beus, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 10022.
+            
+           
+            iss é úagṡlán cen on cen anim., 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 250b43
+            
+          
+
+(
+            <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 268
+          ). 
+            ba hoghshlan he o churp ┐ o anmain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 468.
+            
+          
+        </p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

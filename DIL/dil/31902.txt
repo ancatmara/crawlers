@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="31902">mellaid</h3><span class="citation">Cite this: eDIL s.v. mellaid or <a class="reference" href="31902">dil.ie/31902</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                melta, comella, mellad</p></div><div class="col-sm-9 result_content">
+   
+
+
+    <p class="result">
+      <span class="pos v" style="color: #ff8000">v</span> 
+      <span class="itype &#x101;">ā</span>. (&lt;<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=3 mell">3 mell</a></span>?) <span class="trans">
+        <span class="def">beguiles</span>, <span class="def">seduces</span>, <span class="def">deceives</span> (by <span class="def">flattery</span>, 
+<span class="def">fair promises</span>, <span class="lbl">etc.</span>)</span>: 
+        a Eua, rot-mellustar inti rot-mell i Partus, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 66.17
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 112b38
+      ). 
+        no melltais na dee bréce na 
+doine, uair mellaid demuin tria eladain in drém, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1949.
+        
+       
+
+        déntar airechus nach mella in ceól sídi sinn, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 58.8
+        
+      . 
+
+        mellfaid Zacharias sind, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 144a42
+        
+      . mellaid in tsraid gel 
+griananach fer frimeolach (<span class="lbl">leg.</span> prím-) <span class="ediltr">a bright road with sunny 
+bowers beguiles (even) a man of great experience</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 234 
+§ 12
+      . is e Manchin melltais [de] | don chochlín <span class="ediltr">they wheedled 
+M. out of the little cloak</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 109.26
+      . 
+        rot-mellad-su 
+deside, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 110 § 152
+        
+       = 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 307b9
+       (`<span class="quote">thou art cozened in the 
+bargain</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> ii 423
+      ). ní mealloim mná <span class="ediltr">I wile no women</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> i 80.31
+      . an dream mheallas lé cluanaireacht (= <span class="frn ">quos 
+blanditiis decipit</span>), 
+        <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 7784.
+       meall é <span class="ediltr">entice him</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Judges</strong></span> xvi 5.
+       
+With transference of obj.: dá mealltáoi . . . na háith . . . 
+oramsa `<span class="quote">if the fords were forced against me</span>' (<span class="lbl">i.e.</span> if I were beguiled), 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 4.25
+      . <span class="pos Part." style="color: #ff8000">Part.</span> is melta Nede dont ṡuide i ndessid 
+<span class="ediltr">N. is deceived by the chair in which he has seated himself</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 
+186b16
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 15 n. 6
+      ). misi féin as meallta dhe sin muna 
+ḟédur <span class="ediltr">if I do not deceive myself I can do it</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 982.
+       <span class="trans">
+        <span class="def">Fails</span>, 
+<span class="def">disappoints</span>:</span> 
+        nim-reilge an Rí, . . . ní nom-mella, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 497.14
+        
+      . 
+in glún geal | nachar meall lúgh d'a lingfeadh <span class="ediltr">which never 
+failed (him in) any athletic feat</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 218 § 23.
+       ? 
+        nir cian 
+disi co melladh a maigistir i ngach elathain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 24.10
+        
+       = 
+
+        comella, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 187.19
+        
+       (`<span class="quote">she surpassed her master</span>', ZCP, taking 
+vb. as from <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=millid">millid</a></span>).</p>
+  
+  
+    <p class="result"> 
+<span class="pos vn." style="color: #ff8000">vn.</span> mellad <span class="itype u">u</span>, <span class="gen m.">m.</span> <span class="trans">
+        <span class="def">enticing</span>, <span class="def">wheedling</span>, <span class="def">seducing</span>, <span class="def">deceiving</span>:</span> 
+
+        mín alaind tic diabul do m.<span class="oRef">¤</span> chaich, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7247.
+        
+       da coimedair-se 
+do genmnaidect . . . gan melludh do breith ort <span class="ediltr">without being 
+overtaken by any beguilement</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> § 64.
+       
+        do mhealladh a 
+chomharsan, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 10342.
+        
+       ar daigin meallta <span class="ediltr">with intent to 
+deceive</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 132.18 Comm.
+       laoithe meallta `<span class="quote">songs of 
+flattery</span>', 
+        <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> v 2
+      . 
+        obair mheallta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Proverbs</strong></span> xi 18.
+        
+       iomdha 
+ainnir . . . ag iarraidh mo mheallta uait <span class="ediltr">seeking to lure me from 
+thee</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> xv 7
+      . <span class="trans">In <span class="def">astronomical</span> <span class="def">computation</span> 
+<i>a</i> <span class="def">deception</span>, <span class="lbl">i.e.</span> `<span class="def">leap</span>' of the <span class="def">moon</span>
+      </span> = Lat. <span class="frn ">saltus:</span> 
+        dá melladh 
+dég .i. dá tsaltus dég, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 301.7.
+        
+       na sé cét meallta 
+<span class="ediltr">the first six deceptions</span>, <span class="lbl">ib.</span> 
+        13
+      . <span class="trans">
+        <span class="def">Disappointing</span>, <span class="def">failing</span>:</span> is m.<span class="oRef">¤</span> 
+dún a héc co facbad tir occund <span class="ediltr">it is a disappointment to us 
+that he should die before leaving us land</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 24.9
+      . na dena 
+snim don m.<span class="oRef">¤</span> tugad fort <span class="ediltr">the disappointment you have experienced</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 1189.
+       
+        robadh mealladh mór dó muna dearnadh 
+sídh friu-sumh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> v 2334.10
+        
+      . gan meallad <span class="ediltr">without fail</span> (of 
+the stars), 
+        <span><strong class="pop" style="color:blue" href="bibliography/ITS" title="eDIL Bibliography">ITS</strong></span> xiv 6.20
+      . <span class="trans">
+        <span class="def">Betraying</span>, <span class="def">being false to</span>:</span> 
+        espuig . . . 
+ag meallad a ngráidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 209 § 49.
+        
+      
+    </p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

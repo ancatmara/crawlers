@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="22221">1 fis, fius</h3><span class="citation">Cite this: eDIL s.v. 1 fis, fius or <a class="reference" href="22221">dil.ie/22221</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                fius(s), fis, fius, fiss, fius(s), dús, fis(s), fesso, fessa, feasa, ḟiss, fessa, fess, fessa, fhios, fess, fess</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span>  <span class="itype u">u</span> and <span class="itype o">o</span>, <span class="gen n.">n.</span> later <span class="gen m.">m.</span> (used as <span class="pos vn." style="color: #ff8000">vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ro-finnadar">ro-finnadar</a></span>, 
+<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ro-fitir">ro-fitir</a></span>). O.Ir. forms : <span class="case n">n</span>
+      <span class="number s.">s.</span> 
+        fius(s), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10b27
+        
+      . 
+        10c1
+      . 
+        30a8
+      .
+        
+          b16
+       . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 209b26
+      . 
+        fis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 46c24
+        
+       (usual Mid. Ir. spelling). <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        cen 
+fius
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25c4
+        
+      . 
+        fiss, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy</strong></span> vii 55
+        
+      . <span class="case d">d</span>
+      <span class="number s.">s.</span> 
+        fius(s), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 16d12
+        
+      . 
+        28b23
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 209a6
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 36.28
+       (also in petrified phr. duús, dús 
+&lt; do ḟius. See Strachan, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Phil.Soc.Trans." title="eDIL Bibliography">Phil. Soc. Trans.</strong></span> 259 § 33
+      ). 
+        fis(s), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 61a13
+        
+      . 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 19.33
+      . <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        fesso, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14d30
+        
+      . 
+        fessa, 
+          26d15
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 72b5
+      . 
+
+        feasa, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 310
+        
+      . 
+        ind ḟiss
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5c16
+        
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 33a27
+      . Mid. Ir. 
+generally fessa, but forms fluctuate : 
+        mac Roḟis, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 
+30 § 132
+        
+      . 
+        mac Roḟessa, 
+          § 135
+        
+      . <span class="case n">n</span>
+      <span class="case a">a</span>
+      <span class="number p.">p.</span> fess (neut. form) 
+        <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+73b7
+      . 
+         128d10
+      . 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 27.34
+      . Mid. Ir. fessa.</p>
+   
+    <p class="result"> 
+ <span class="edilb">I</span>
+    </p>
+   
+     
+
+      <p class="result">
+        <span class="edilb">(a)</span> <span class="trans">the act of <span class="def">finding out</span> or <span class="def">ascertaining</span> ; <span class="def">knowledge</span>, 
+<span class="def">information</span>
+        </span>, with obj. gen. : 
+          f.<span class="oRef">¤</span> timnae nDae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 46c24
+          
+        . 
+fiuss do a muntire <span class="ediltr">knowledge to him of his household</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+30b16
+        . ba coir do fiuss inna n-ídol <span class="ediltr">it were right for him to 
+have knowledge of the idols</span> 
+          10c1
+        . f.<span class="oRef">¤</span> cech neich ┐ cech belra 
+occa <span class="ediltr">he has knowledge of all things</span>, etc. 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 1975
+        . i n-ecmais 
+a ḟessa ┐ a eolusa <span class="ediltr">in absence of knowledge of the matter</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 
+1561
+        . 
+          ar ffaghbhail a ḟesa co mbaoi Ua C. dia bhrath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> 
+vi 2248.11
+          
+        . 
+          d'fhagháil fheasa ┐ eólais ar an somharbhthacht, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 310
+          
+        . ni mō inā ic Dia itā a f.<span class="oRef">¤</span>
+         `<span class="quote">God alone knows</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 
+184.34
+        . 
+          do chúalaidh éighmhe ... ┐ adubert a fhis cia do 
+denadh an éigheam, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 59.7
+          
+         (= 
+          a fhios do thabairt 
+cuige, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xvii 349
+          
+        ). do-bhéaram dhuit ... fios t'uaisle 
+<span class="ediltr">I shall tell thee of</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 30.22
+        . 
+          crann feasa maitheasa ┐ uilc, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> ii 9
+          
+        . Rarely folld. by prep. : <span class="lbl">cf.</span> do lou brāthai cech f.<span class="oRef">¤</span> 
+fīrtait <span class="ediltr">all tidings of the Day of Judgment</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 303.26
+        . 
+guid-si in Coimdhi ma f.<span class="oRef">¤</span> im ar comarlecad <span class="ediltr">to find out whether 
+we shall be allowed</span> 
+          225.7
+        . F.<span class="oRef">¤</span> SCÉL <span class="trans">
+          <span class="def">tidings</span>, <span class="def">information</span>:</span> ar 
+lainni fesso scél on techtairiu <span class="ediltr">because of the eagerness for 
+tidings</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14d30
+        . táncamár dot ḟ.<span class="oRef">¤</span> scél <span class="ediltr">to get tidings of thee</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2334
+        . foidid C. Loeg dia ḟ.<span class="oRef">¤</span> (do f.<span class="oRef">¤</span>
+         LU) 
+          scēl dūs cia cruth 
+mbotha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 1572
+          
+        . fios a sgéal <span class="ediltr">tiding about him</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 
+20.13
+        . Common with proleptic poss. pron. and folld. by 
+subst. or dependent clause : a fiss mad āil duit | dechair 
+maith ┐ mōrhuilcc <span class="ediltr">if thou wishest to learn the difference</span> 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1329
+        . is mó a fius deitsiu a ndorigeni di maith 
+(gl. melius tu nosti) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 30a8
+        . 
+          bíd a fhis lib cor cretset 
+na gennti, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2302
+          
+        . 
+          rob ail liumsa a ḟ.<span class="oRef">¤</span> d'ḟagbail 
+uaitsiu cia icá raibe in dúnad, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2632
+          
+        . 
+          beag a 
+fhios agad ... cia misi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 243
+          
+        . 
+          fagh a f.<span class="oRef">¤</span> 
+damh in beó nó in marb C., 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCC" title="eDIL Bibliography">CCC</strong></span> 113.3
+          
+        . CEN Ḟ. : 
+cen fius dúib <span class="ediltr">without your knowing</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25c4
+        . In loose constr., 
+where proleptic pron. might be expected : cen fis do 
+neoch a beith aice <span class="ediltr">none knowing that he had it</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 56
+        . cen 
+f.<span class="oRef">¤</span> accu beos he buden ina cristaige <span class="lbl">ib.</span> (Absol. ) <span class="trans">
+          <span class="def">secretly</span>, 
+<span class="def">unnoticed</span>:</span> ni berend in gadaige leis acht a mbeir cen fh.<span class="oRef">¤</span>
+         
+
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7574
+        . 
+          ac foraire co nach bereadh Conall orra gan f.<span class="oRef">¤</span>
+          , 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/CCC" title="eDIL Bibliography">CCC</strong></span> 118x
+          
+        . ? 
+          ná briss ḟorm lugi gan ḟess, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3507
+          
+        
+(<span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 feis">2 feis</a></span>). CO F.<span class="oRef">¤</span>
+         : cin co fiss <span class="ediltr">guilt incurred wittingly</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> 
+iii 222y
+        . CO F.<span class="oRef">¤</span> DOM <span class="trans">with my <span class="def">knowledge</span> ; <span class="def">so far as</span> <span class="def">I know</span>:</span> 
+co f.<span class="oRef">¤</span> dō nacha dligenn <span class="ediltr">knowing that he is not entitled to do so</span>
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 58.10 Comm.
+         
+          go bhfios damh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 3.38
+          
+        . 
+          go bfios 
+dhuit féin, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 144.11
+          
+        .</p>
+     
+      
+        <p class="result">
+          DO F.<span class="oRef">¤</span>
+           (fius)</p>
+       
+        
+          <p class="result">(<span class="edilb">1</span>
+            ) <span class="trans">
+              <i>to</i> <span class="def">find out</span>, 
+ <i>to</i> <span class="def">investigate</span> (see also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 d&#xFA;s">dús</a></span>) :</span> 
+              doregat ... do fis ind adamri-sin, 
+                <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 61a13
+              
+            . 
+              táet L. lat ... d'f.<span class="oRef">¤</span> in tiri, 
+                <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3348
+              
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 13
+            ). 
+
+              ticed ... d'is cech réta, 
+                <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span>
+                 3654
+              
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 32
+            ). 
+              liaig ... d'ḟ.<span class="oRef">¤</span> galair cach 
+aen uile, 
+                <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 223
+              
+            . 
+              téid ... d'ḟios na habhann, 
+                <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 
+2590
+              
+            .</p>
+        
+       
+        
+          <p class="result">(<span class="edilb">2</span>
+            ) folld. by depend. interrog. clause : 
+              do fius cid lae 
+sechtmaine forsombi, 
+                <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 36.28
+              
+            . 
+              C. do lecud uadib 
+da ḟiss cid bái sind áth, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 706
+              
+            . 
+              techt do saigidh a mban 
+dia fiss in iat a cuirp dobatar [ann], 
+                <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> iii 224.27
+              
+            . 
+              gur 
+scrīp ... go rīgh F. ... dia fhioss crēd badh indēnta riu, 
+
+                <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 22.12
+              
+            . Folld. by dús : 
+              ised tancamar da f.<span class="oRef">¤</span> 
+dús in rosgab ..., 
+                <span><strong class="pop" style="color:blue" href="bibliography/LB" title="eDIL Bibliography">LB</strong></span> 63a33
+              
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 40
+            ). 
+              dia ḟ.<span class="oRef">¤</span> dús in 
+díriuch m'urchor, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1185
+              
+            . <span class="lbl">Cf.</span> 
+              is ē roduc for fis Cathair, 
+
+                <span><strong class="pop" style="color:blue" href="bibliography/Rawl." title="eDIL Bibliography">Rawl.</strong></span> 116c6
+              
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC4;lt.Ir.Dicht." title="eDIL Bibliography">Ält. Ir. Dicht.</strong></span> 15n
+            .).</p>
+        
+       
+        
+          <p class="result">(<span class="edilb">3</span>
+            ) <span class="trans">to <span class="def">seek</span>, <span class="def">visit</span>:</span> 
+              dochuaid E. 
+d'ḟiss a brathar, 
+                <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> i 121.19
+              
+             (<span class="lbl">cf.</span> 
+              ar f.<span class="oRef">¤</span> Labrada, 
+                <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3624
+              
+            , 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 31
+            ). ni thancubar dom fhiss (= <span class="frn ">non visitastis me</span>) 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 
+6160
+            . adhaigh dhamhsa do fhios Bhria[i]n <span class="ediltr">one night I 
+visited B.</span> 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 96.28
+            . 
+              tic ... d'fís a mic, 
+                <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> v 198z
+              
+            . 
+              go 
+bhfuil d'ḟiachaibh orruinn an t-aifrionn d'ḟios ┐ d'eisteacht, 
+
+                <span><strong class="pop" style="color:blue" href="bibliography/Eochairsg." title="eDIL Bibliography">Eochairsg.</strong></span> 106.26
+              
+            . 
+              nach déin an bás moill gan teacht 
+d'fhios gach aoin, 
+                <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 87
+              
+            . ar ngealladh d'fhios a uaighe 
+<span class="ediltr">to visit his tomb</span> 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> iv 27
+            . Somet. simply = <span class="trans">
+              <span class="def">towards</span>:</span> 
+
+              d'fhios an dhorais, 
+                <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;H&#xE9;odhusa" title="eDIL Bibliography">Ó Héodhusa</strong></span> 9.6
+              
+            . </p>
+        
+       
+        
+          <p class="result">(<span class="edilb">4</span>
+            ) rarely folld. by 
+depend. affirm. clause with co = <span class="trans">that it <span class="def">may be known</span>:</span> gabar 
+in pater i sanais ... dia fh.<span class="oRef">¤</span> conid comfhocus in comdiu ... 
+ <span class="ediltr">to show that the Lord is nigh</span> 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 8001
+            . 
+              is aire atberad ... 
+comtar lána ón spirut noeb, dia fhis co na talla spirut aile 
+accu, 
+                5479
+              
+            . <span class="lbl">Cf.</span> ricob ... d'ḟ.<span class="oRef">¤</span> mo genais <span class="ediltr">to prove my chastity</span> 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 229.9
+            . d'fios a lámhaigh <span class="ediltr">to test their shooting</span> 
+              <span><strong class="pop" style="color:blue" href="bibliography/SGS" title="eDIL Bibliography">SGS</strong></span> iv 64 § 23
+            . </p>
+        
+      
+     
+      <p class="result">
+        FO F.<span class="oRef">¤</span>
+         <span class="trans">
+          <span class="def">to</span>, <span class="def">towards</span>:</span> 
+          gluaisid ... fa 
+fhios caithleomhain Cláir S., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 1926, 472
+          
+        . 
+IAR F.<span class="oRef">¤</span>
+         <span class="trans">when <span class="def">revealed</span>, <span class="def">made known</span>:</span> fiachach cach folludh 
+iar f.<span class="oRef">¤</span>
+         <span class="ediltr">every neglect is liable after it has been found out</span> 
+ 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 264.16
+        . fuisitiu cach ra[i]th iar f.<span class="oRef">¤</span>
+         <span class="ediltr">after due 
+cognizance</span> (of notice in case of contracts due to persons 
+whose interests are affected) 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 252 § 9
+        . as iarna 
+ḟios do chluinim (= <span class="ediltr">I hear on good authority</span>) 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> i 
+62 § 45
+         .  CÁ F.<span class="oRef">¤</span>
+         (folld. by dep. neg. or interr. clause) 
+ <span class="trans">
+          <span class="def">who knows</span> but ? <span class="def">perhaps</span>:</span> 
+          ca f.<span class="oRef">¤</span> nach dinghnad mo 
+comurle ?, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 92.23
+          
+        . 
+          cá fios nach tiucfadh ad 
+theagh ?, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 1924, 243
+          
+        . 
+          gá fios nach faicfe... ?, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xxv 30
+          
+        . 
+          ga fios nach aimeosainn ib , 
+            <span><strong class="pop" style="color:blue" href="bibliography/23F16" title="eDIL Bibliography">23 F 16</strong></span>, 8
+          
+        ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/23L17" title="eDIL Bibliography">23 L 17</strong></span>, 95b
+          
+         
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 456 reads `fhios'). gá fios damh ... an mbiam 
+an uair oile ann ? <span class="ediltr">how know I if I shall live another hour</span> ? 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 1826
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> v 5
+        . gá fios an tnúth cáir `<span class="quote">who knows 
+whether it be fitting envy ?</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/SGS" title="eDIL Bibliography">SGS</strong></span> iv 60 § 7
+        . As 
+alleg. <span class="pos npr." style="color: #ff8000">npr.</span> <span class="gen m.">m.</span> : Fis mac Aithfis (a druid) 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xliii 24 § 23
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) absol. or with subj. gen. <span class="trans">that which is <span class="def">known</span> ; <span class="def">knowledge</span>
+        </span> 
+(as an intellectual acquisition) : one of the gifts of the 
+Spirit, dist. fr. <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 ecna(e)">1 ecna(e)</a></span> `<span class="quote">wisdom</span>' and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=int(&#x1E61;)liucht">int(ṡ)liucht</a></span> `<span class="quote">understanding</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 499 § 4
+        . 
+          f.<span class="oRef">¤</span> ... .i. etargna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 545
+          
+        . ɔrop 
+éula i fiuss et æcnu (gl. doctorem) 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 28b23
+        . ind ḟiss asberar 
+<span class="frn ">michanicé</span>
+         <span class="ediltr">of the science called `<span class="frn ">mêchanicê</span>
+        </span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 33a27
+        . fri 
+fegi f.<span class="oRef">¤</span>
+         `<span class="quote">against the keenness of science</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 293.23
+        . 
+          fri 
+cech fiss arachuiliu corp ┐ anmain, 
+            357.9
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Hy." title="eDIL Bibliography">Hy</strong></span> vii 55
+        ). 
+          [<span class="frn ">multitudo scientiae</span>] .i. immad fessa ┐ ecna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6237
+          
+        . ba laind [<span class="lbl">sic 
+leg.</span>] lais a scela ┐ a f.<span class="oRef">¤</span> do cloistecht <span class="ediltr">his lore</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 20.19
+        . 
+
+          uisge ┐ fios fuair an dall, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PBocht" title="eDIL Bibliography">PBocht</strong></span> 10.33
+          
+         (ref. to the blind man 
+who received sight and the power to read, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 60
+        ). 
+fios an dá Ríoghsa <span class="ediltr">the true account of these two kings</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Studies" title="eDIL Bibliography">Studies</strong></span> 
+1932, 140
+        . níp riágol cen ḟiss <span class="ediltr">rule without knowledge</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> 
+iii 104.1
+        . in tres fis is mó rofaillsiged dó riam <span class="ediltr">one of the 
+three greatest revelations</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 2663
+        . eochair fessa foglaim 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 270 § 10
+        . ranna do ḟromhadh bhar bhfis <span class="ediltr">to prove 
+your story</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> v 156
+        . dét fis <span class="trans">
+          <span class="def">tooth of knowledge</span>
+        </span> (`the 
+tooth under which Finn placed his thumb to obtain revelations ; <span class="lbl">cf.</span> Fr. <span class="frn ">dent de sagesse</span>, Eng. <span class="frn ">wisdom-tooth</span>', Stokes, 
+<span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> Gloss. <span class="lbl">s.v.</span> dét
+        ) : 
+          tuc a ordain fó a dét fis, ┐ do faillsiged fírinne dhó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 203
+          
+        .
+          1835
+        . 
+          beich fesa ┐ beich aerda ┐beich cundtabartacha ┐ anfesa '<span class="quote">bees of known origin and bees in the air and bees of doubtful origin and [bees] of unknown origin</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bechbretha" title="eDIL Bibliography">Bechbretha</strong></span> 182 (a)
+          
+        ​. The meaning <span class="trans">
+          <span class="def">occult</span> 
+<span class="def">knowledge</span>, <span class="def">revelation</span>
+        </span>, is probably the one in such exx. as 
+the follg. : lucht fessa ┐ eolais (<span class="lbl">i.e.</span> soothsayers) 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 921
+        . 
+popul na druidecda, popal iatsén da fognaitis fesa ┐ faistine 
+
+          725
+        . 
+          rofoghluinnset na hingina fessa ┐ duile ┐ amaidecht, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Thurn.ZuIr.Hdschr.u.Lit." title="eDIL Bibliography">Thurn. Zu Ir. Hss.</strong></span> ii 15.15
+          
+        . fir co morḟiss ┐ go mórḟastine ┐ druidect 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1453
+        . <span class="lbl">Cf.</span> 
+          fuba co fessaib ... .i. ... pisoga do [denum 
+dó], 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 930
+          
+        . fis ogh (conventional etymological gloss on fásach 'legal precedent'), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xxxii 88
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">c</span>) <span class="trans">a <span class="def">message</span>, <span class="def">notice</span>, <span class="def">summons</span>:</span> in uaitsiu 
+rosiacht f.<span class="oRef">¤</span> dó <span class="ediltr">whether the message came from thee</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3660
+        
+(
+          <span><strong class="pop" style="color:blue" href="bibliography/SCC" title="eDIL Bibliography">SCC</strong></span> 32
+        ). 
+          berair in f.<span class="oRef">¤</span> sin chuci, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span>
+             5848
+          
+        . dobir fiss don chill 
+ <span class="ediltr">brings the news</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 96.20
+        . CUIRID F.<span class="oRef">¤</span> (AR, CO) <span class="trans">
+          <span class="def">sends</span> word 
+to, <span class="def">sends for</span>, <span class="def">summons</span>:</span> cuiris C. fios go hAlbain i gcoinne 
+saoir <span class="ediltr">C. sent to Scotland for a wright</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5236
+        . do cuir 
+fis ar ceann Manannain ... do caitheamh na fleidhi `<span class="quote">sent 
+for M. to partake of</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xi 188 x
+        . 
+          cuiris A. fios ar chloinn 
+R. ... dia radh riú ... teacht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> xxviii. 15
+          
+        . do chuir 
+M. fios oile ar chend Eirc <span class="ediltr">also sent to E.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCC" title="eDIL Bibliography">CCC</strong></span> 75.12
+        . 
+cuiris fios go Fionn ... Magnus ... do theacht `<span class="quote">sent word 
+to F. that M. had come</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/Duan.F." title="eDIL Bibliography">Duan. F.</strong></span> ii 320
+        . With ellipse of 
+vb. : fiss uait co Fiac[h]a <span class="ediltr">send word to F.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 297b15
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 
+365.15
+        ). f.<span class="oRef">¤</span> a ndeadhaigh mo secht mac <span class="ediltr">send for</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 44.5
+        . 
+fios ar a c[h]end co cloinn Neill 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 221 § 42
+        . <span class="trans">In <span class="number pl.">pl.</span> 
+<span class="def">tidings</span>, <span class="def">summons</span> (somet. apparently <span class="def">messengers</span>) :</span> 
+          fáitti 
+fessa ┐ tec[h]ta uait-siu cot chairdib, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CRR" title="eDIL Bibliography">CRR</strong></span> 7
+          
+        . 
+          ra fáittea 
+fessa ┐ techtaireda ar cend Ḟ., 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3012
+          
+        . 
+          do riachtadur 
+fessa ó rig M. ar cend naemPátraic co mbeth ara tṡoiscela, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 5384
+          
+         (`<span class="quote">messengers ... to fetch P. and to tell him that 
+the king would adhere to his gospel</span>' 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> ii 232
+        ). 
+          eirghit 
+fesa uaibh dia saigid, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 2975
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">d</span>) <span class="trans">
+          <span class="def">description</span>, <span class="def">appellation</span>
+        </span>, an extension of <span class="edilb">(a)</span> : 
+          Ser Gyi o Berbuic m'ainm ┐ m'ḟ.<span class="oRef">¤</span> 
+┐ m'eolus ... ag sluaghaibh Saxan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vi 30.16
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">e</span>) in B. 
+na filed <span class="trans">
+          <span class="def">honour</span>, <span class="def">generosity</span>:</span> 
+          ar fios (.i. gart .i. einech), 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+v 285 § 4
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result">(<span class="edilb">f</span>) transf. <span class="trans">a <span class="def">learned</span> <span class="def">man</span>, a <span class="def">sage</span> ?</span> ceithri fis isna 
+cathrachaib, sin .i. Morfeasa ... is iat na .iii. filid ... (of 
+the sages of the Tuatha D.D.) 
+          <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 32a25
+         (= cetri druid 
+isna cetri cathrachaib <span class="lbl">etc.</span> 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 58 § 7
+        ).</p>
+    
+  
+  
+    
+      <p class="result"> 
+ <span class="edilb">II</span> In <span class="case n">n</span>
+        <span class="case a">a</span>
+        <span class="number p.">p.</span> 
+          inna fess
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 128d10
+          
+        ; 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 27.34
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/BCr." title="eDIL Bibliography">BCr.</strong></span>
+ 39b1
+        ) ; 
+          isna fess
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 73b7 
+         (gl. scita in all cases) f.<span class="oRef">¤</span> seems to 
+be used as a <span class="trans">
+          <span class="pos participle" style="color: #ff8000">participle</span> <span class="def">known</span>
+        </span> ; See <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 fes(s)">1 fes(s)</a></span>, and 
+          <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> Translators' Note no. 68
+        . <span class="lbl">cf.</span> also phr. : is f.<span class="oRef">¤</span> dom <span class="trans">I 
+<span class="def">know</span>:</span> 
+          is f.<span class="oRef">¤</span> dún conid mór in bert, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1222
+          
+        . See also 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 
+10c2 where Thes. editors read : is [an]d [is] fius do dia 
+<span class="ediltr">he is known to God</span>.</p>
+    
+  
+  
+    <p class="result"> 
+Compd. fis-ecna <span class="trans">
+        <span class="def">knowledge</span> and <span class="def">wisdom</span>:</span> 
+        fisegna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> x 
+44.29
+        
+      . See also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fiscomarc">fiscomarc</a></span>.</p>
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

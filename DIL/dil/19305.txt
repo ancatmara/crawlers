@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="19305">dúthaig</h3><span class="citation">Cite this: eDIL s.v. dúthaig or <a class="reference" href="19305">dil.ie/19305</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                dúthaige, dúithche</p></div><div class="col-sm-9 result_content">
+   
+
+    
+      <p class="result"> <span class="edilb">I</span> As <span class="pos adj." style="color: #ff8000">adj.</span> <span class="itype i">i</span>
+      </p>
+     
+      
+        <p class="result">(<span class="edilb">a</span>) As pred. with DO <span class="trans">
+            <span class="def">belonging</span> to by <span class="def">virtue</span> 
+of <span class="def">descent</span> or <span class="def">heredity</span>
+          </span>, usually of land or other hereditary 
+possession or privilege: 
+            dian (= dianid) duthoig Liphe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> 
+ii 295
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SP" title="eDIL Bibliography">SP</strong></span> v 8
+          ). 
+            in ti dana duchaid in flaithemhnus, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+440 Comm.
+            
+           comduthaigh doib Temair <span class="ediltr">they have equal right to 
+T.</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 122
+          . 
+            dāibh as d.<span class="oRef">¤</span> an ríghe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 116
+            
+          . <span style="color: #ff8000">Compar.</span> ní 
+dúcha (= dúthcha) duid Mag Muaidi | ná fonn Temra taebuaine <span class="ediltr">Mag M. is not more thine by ancestral right than the 
+territory of T.</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 292
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) Hence as attrib. <span class="trans">belonging to by heredity, <span class="def">hereditary</span>, 
+<span class="def">native</span>:</span> 
+            cia nech do rigaib . . . tanic co a chathraig nd.<span class="oRef">¤</span> fodéin, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4477
+            
+          . 
+            rochumduigsem cill don Coimdid ar ar bferunn 
+duthaig
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 40
+            
+          . 
+            ac ár n-inud duthaig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Moling" title="eDIL Bibliography">Moling</strong></span> § 2
+            
+          . 
+
+            d'ionnsuidhi a thíre dúthaighe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 176
+            
+          . 
+            ac fegad a tiri ┐ 
+a n-atharda duichi iarna n-indarba uathi, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 61
+            
+          . 
+            a ríg 
+duthaich féin do marbad, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 132
+            
+          . dá rígdamna da rígaib 
+duitchib fein, <span class="lbl">ib.</span> 
+            ic tairgnam da thigernu d.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 135
+            
+          . 
+            cách 
+dia eclais duthaig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 40
+            
+          . 
+            mairg dána[d] fót dúthaigh 
+in feronn-so, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 501
+            
+          . 
+            dagrī Dublindi dēne dūthaige 
+(tuathaigi, <span class="lbl">v.l.</span>), 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 15
+            
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">proper</span> or <span class="def">natural to</span> (esp. of <span class="def">hereditary</span> as opposed to 
+acquired traits, <span class="lbl">etc.</span>):</span> 
+            ba duthaig dō éc ┐ ba d.<span class="oRef">¤</span> do Dalcais uli, 
+uair marb a n-athri ┐ a senathri, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 68
+            
+          . aní is toich no is 
+duthaig bis orro (of shoots on stakes or boles), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 152
+Comm.
+           mic aen-athar ┐ aen-mathar ind, . . . duthaig dūind 
+cosmailius inund <span class="ediltr">it is natural for us to be like each other</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 
+236b20
+          . druideacht la Mantan . . . | rigdacht fa duthaid do 
+Dond | slicht oll ┐ breitheamnocht <span class="ediltr">kingcraft was D.'s province, forte</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 540a18
+          = 
+            duthaigh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 19b31
+            
+          . 
+            bheith 
+uathad ní dúthaid duid, a hI Dubda, 
+              <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 290
+            
+          . ba 
+duthaich cia nobeth <span class="ediltr">it were fitting it should be so</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 4
+          . 
+
+            do-n-angatar sidhe fo ghairm Uí Domhnaill . . . ┐ ba dúthaigh 
+dhoibh cia nothiestais, 
+              <span><strong class="pop" style="color:blue" href="bibliography/HughRoe" title="eDIL Bibliography">Hugh Roe</strong></span> 110
+            
+          . <span style="color: #ff8000">Compar.</span> ba dúcha dó 
+tachar giall <span class="ediltr">it would have been more natural for him to send 
+hostages</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cog." title="eDIL Bibliography">Cog.</strong></span> 100
+          . 
+            taít lim-sa dom dísiurt . . . is dudchu 
+(duthchu, <span class="lbl">v.l.</span>) dúib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> ii 285
+            
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 1216
+          ). ni ducha 
+damsa techt do dichur in chisa . . . inā duid-seo <span class="ediltr">it is as much 
+your place as mine</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 599a7
+          = 
+            ni duthchu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 44 § 24
+            
+          
+(where sentence is imperfect). rochuala ni tobair (<span class="lbl">sic leg.</span>) . . . 
+dober indi is duthaig dō, bo <span class="ediltr">he gives what is natural to him, 
+a cow</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCarthy" title="eDIL Bibliography">MacCarthy</strong></span> 120
+          . </p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+            <span class="def">due</span>, <span class="def">owing to</span>:</span> dála na Caillighi duibhe, dorad Fiachna 
+a duthaig di .i. seacht caisléna <span class="ediltr">gave her her due</span> (in compensation for a loss), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> i 61
+          . </p>
+      
+    
+  
+  
+    <p class="result"> 
+ <span class="edilb">II</span> As <span class="pos subst." style="color: #ff8000">subst.</span> <span class="gen f.">f.</span> <span class="case g">g</span>
+      <span class="number s.">s.</span> dúthaige, dúithche. 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 150
+      . </p>
+   
+    
+      <p class="result">(<span class="edilb">a</span>) <span class="trans">
+          <span class="def">hereditary</span> <span class="def">land</span>, <span class="def">patrimony</span>:</span> triuchad céad dúthaigh an ḟir 
+is lugha dúthaigh dhíobh sin <span class="ediltr">a cantred is the patrimony of the 
+man who has least patrimony among them</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 85
+        . duthaig 
+na fine <span class="ediltr">hereditary family land</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 330 Comm.
+         rogab 
+Cathal . . . in rígi, duthaich nár dúail <span class="ediltr">an inheritance not his by 
+right</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ix 464
+        . 
+          geallais Diarmuid Loch Garman mar 
+dhúthaigh dhílis go bráth do Roibeard Mac Stiabhna, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> 
+iii 5043
+          
+        . annsin chomraicess . . . ferann in rig ┐ duthaigh diúc 
+de L. re aroile <span class="ediltr">the king's territory and that of the duke</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 74
+        . ní baoí fer a duithche do sliocht Corbmaic `<span class="quote">a man 
+of the same extent of territory</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 1892
+        . 
+          aisecc . . . a dhuithche da gach aon, 
+            2336
+          
+        . ar shaoirsi ┐ ar shochar dúthaighe 
+do fein <span class="ediltr">in consideration of receiving the freedom and profits of 
+an estate</span>, 
+          2170
+        . ré buain a dhúithche amach dhó <span class="ediltr">to recover his 
+patrimony</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 5176
+        . 
+          go bhfuil gach prionnsa 'n-a chenn 
+ar eagluis a dhuithche fein, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 58
+          
+        . ó Brí Ele, duthaig 
+tor, | cu Sliab Mairg <span class="ediltr">patrimony of princes</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Fianaig." title="eDIL Bibliography">Fianaig.</strong></span> 46
+        . 
+duthadh an Chaeille dno Baile na L. <span class="ediltr">hereditary land</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/HyFiach." title="eDIL Bibliography">Hy Fiach.</strong></span> 166
+        . 
+          duthaich hí Leargusa .i. Baile C., 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 168a3
+          
+        . 
+Hence <span class="trans">
+          <span class="def">possession</span> in <span class="def">perpetuity</span>:</span> conid laiss a lán-dúthaig (of 
+a place), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iii 230
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">native</span> <span class="def">district</span>, native <span class="def">land</span>:</span> 
+          do iompaig naom Ciarán 
+daoine iomdha dá dh.<span class="oRef">¤</span> do Osraighib chum an chreidim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 4
+          
+        . 
+do léigedh saor dá dh.<span class="oRef">¤</span> é, 6. is í Éire dúthaigh dhíleas na Scot 
+(= <span class="frn ">propria Scotorum patria</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> ii 5843
+        . 
+          rofācsum-ne in 
+Roim ┐ dúthaigh ar n-athar ┐ ar senathar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 546
+          
+        . assí 
+an áit as mó ina fédfainn serbís do denamh do Día is duthaigh 
+damh <span class="ediltr">that place is my country where I can best serve God</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/BCC" title="eDIL Bibliography">BCC</strong></span> 
+§ 250
+        . 
+          gidh bé neach do thréig . . . clann no dúthuidh ar son 
+mh'anma-sa, 
+            <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Matthew</strong></span> xix 29
+          
+        . </p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+          <span class="def">region</span>, <span class="def">land</span> in general (rare):</span> do chonnairc sé and dúthaigh gur taithneamach é (<span class="lbl">sic</span>), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Gen.</strong></span> xlix 15
+        . go ngabha tú 
+oighreacht na dúthaigh (<span class="lbl">sic</span>) ann a bhfuil tú choimhigtheach 
+ <span class="ediltr">the land wherein thou art a stranger</span>, 
+          xxviii 4
+        . biaidh oidhreacht 
+na dúithche ag a chloinn <span class="ediltr">his seed shall inherit the earth</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Psalms</strong></span> 
+xxv 13
+        . 
+          ó aonach chinn na dútha, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Gadelica" title="eDIL Bibliography">Gadelica</strong></span> 154
+          
+        . </p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

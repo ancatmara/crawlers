@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="11901">comthrom</h3><span class="citation">Cite this: eDIL s.v. comthrom or <a class="reference" href="11901">dil.ie/11901</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos adj" style="color: #ff8000">adj</span> (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=3 trom">3 trom</a></span>)</p>
+   
+    
+      <p class="result">
+        <span class="edilb">I</span>
+      </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">of the <span class="def">same</span> <span class="def">weight</span>, <span class="def">equal</span>, <span class="def">even</span>, 
+<span class="def">equivalent</span>
+          </span>: <span class="ediltr">par</span> 
+            comtrom, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ir.Gl." title="eDIL Bibliography">Ir. Gl.</strong></span> 960
+            
+          . 
+            c.<span class="oRef">¤</span> a coss ┐ a cend, 
+
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 274
+            
+          . dianid c.<span class="oRef">¤</span> a maith ┐ a n-olc <span class="ediltr">whose virtues and 
+vices are evenly balanced</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2168
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 24
+          ). rotgab a t[h]rostán comthromm `<span class="quote">his even-poised . . . staff</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 
+11.1
+          . dian aír[ṡ]eang comtrom (a metre), 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 70 § 18
+          . 
+dá roinn chomhthroma `<span class="quote">two equal halves</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 16.1
+          . 
+is meadh chomhthrom dá chéile `<span class="quote">equally balanced</span>', 
+            18.19
+          . 
+trí nuimir comtruim `<span class="quote">by an even number</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 289.28
+          . 
+comtrom mar samail liathroidi cruindi `<span class="quote">spherical</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 88.3
+          . a ccaoirmheall (<span class="case g">g</span>
+          <span class="number p.">p.</span>) ccomhthrom `<span class="quote">heavy cannon-balls</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/HughRoe2" title="eDIL Bibliography">Hugh Roe²</strong></span> 152.13
+          . 
+            comhthionól na mban ccothrom d'órdúghadh, 
+              <span><strong class="pop" style="color:blue" href="bibliography/P&#xE1;rl.namB." title="eDIL Bibliography">Párl. na mB.</strong></span> 2570
+            
+           <span class="ediltr">ordinary women</span> (oppd. to 
+
+            baintighearnáoi, 
+              2560
+            
+          ; <span class="lbl">cf.</span> 
+            don chineadh chodruma, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PCT" title="eDIL Bibliography">PCT</strong></span> 198
+            
+           
+`<span class="quote">rustic</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/ORah." title="eDIL Bibliography">O'Rah.</strong></span> 274.17
+          ).</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+            <span class="def">evenly-matched</span> (of battles):</span> 
+            níor bho comh-throm a 
+g-cómhrac, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 126.32
+            
+          . nior chomhthrom an comhar 
+`<span class="quote">uneven match</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> xii 21
+          . 
+            i cath c.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 217.24
+            
+           
+(
+            <span><strong class="pop" style="color:blue" href="bibliography/Corp.Gen." title="eDIL Bibliography">Corp. Gen.</strong></span> 283.8
+          ).</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">just</span>, <span class="def">equitable</span>
+          </span>: 
+            re breith chomhthruim Críosd, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+26.28
+            
+          . 
+            an ceart do chongbhadh comhthrom, 
+              <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> 
+lii 22
+            
+          . 
+            in orlaimh dhaoíne ccomhthrom, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2302.22
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+            <span class="def">level</span>, <span class="def">smooth</span>
+          </span>: 
+            ar ferann ch.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 96.4
+            
+          . da mbeth 
+an talam na clar comhtrom `<span class="quote">if the earth were a level plane</span>', 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 32.22
+          . 
+            talam comtrom, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Lism.L." title="eDIL Bibliography">Lism. L.</strong></span> 3605
+            
+          . </p>
+      
+    
+
+      
+        <p class="result">(<span class="edilb">e</span>) <span class="trans">Of consonants in verse, correctly <span class="def">rhyming</span>
+          </span>: 
+            riaghail consaineadh gcomhthrom: beithe teann, duir theann, gort glan, | triar ón comhthrom comhardadh '<span class="quote">a rule of matching consonants: unlenited b, unlenited d, clear g are three owing to which rhyme is balanced</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xxvii 59 § 4
+            
+          . ? 
+            trí feadha nach fríoth go sé | gan bheith comhthrom re [a] chéile '<span class="quote">three letters which have not as yet not been found to correspond to one another</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> xxvii 59 § 6
+            
+          .</p>
+      
+    
+ 
+      <p class="result"> 
+<span style="color: #ff8000">Superl.</span> 
+          an talamh is comthroime, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 26.31
+          
+        .</p>
+     
+      <p class="result"> 
+<span class="pos Adv." style="color: #ff8000">Adv.</span> maith an t-urchar tarla ó Fhlann / go m=bí comhthrom tré Chonall `<span class="quote">passed clearly through and through Conall</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ML" title="eDIL Bibliography">ML</strong></span> 22.8
+        . 
+          romgon an cruadhmhucaidhe corr / go ndeachaidh 
+trem chorp comhtrom, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 154.2
+          
+        . Usu. with co: 
+          co 
+ndeachaid [in gai] tria na chridhi gu comtrom, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Aen." title="eDIL Bibliography">Aen.</strong></span> 2133
+          
+        . 
+ro gabad co comtrom do gach aird dib `<span class="quote">equally then from 
+every point were they smitten</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 3149
+        . ras gab co c.<span class="oRef">¤</span>
+         
+<span class="ediltr">fairly and squarely</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 31777
+         (TTr.). coill na leithinnsi as 
+coill chrom / do chleithfhillsi go comhthrom `<span class="quote">the wood of the 
+half-island is a twisted wood, thou hast made it symmetrical</span>(?)', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Bard.Synt.Tr." title="eDIL Bibliography">Bard. Synt. Tr.</strong></span> 29.24
+        , see n. co cert comtrom `<span class="quote">exactly</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Astr.Tr." title="eDIL Bibliography">Ir. Astr. Tr.</strong></span> 132.7
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">II</span> As <span class="pos subst." style="color: #ff8000">subst.</span> <span class="itype o">o</span>
+      </p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) <span class="trans">
+            <span class="def">equal</span> <span class="def">weight</span> or <span class="def">amount</span>, <span class="def">equivalent</span>
+          </span>: 
+co ruc a ch.<span class="oRef">¤</span> de argut <span class="ediltr">its weight in silver</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 14646
+          . 
+
+            comthromm inn ubaill dia inchind triana chuladaib, 
+              9383
+            
+           
+(TBC). 
+            c.<span class="oRef">¤</span> do riged clí do fhinddruini, 
+              7591
+            
+           (TBC). 
+            a 
+gcomhthrom do chur i meidh / d'ór dhearg, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ir.Syll.Poetry" title="eDIL Bibliography">Ir. Syll. Poetry</strong></span> 
+63 § 7
+            
+          . 
+            comtrom .ui. fiched uinge d'iarund, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 16.z 
+Comm.
+            
+           comtrom daoined re `<span class="quote">as many men as</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/ALC" title="eDIL Bibliography">ALC</strong></span> ii 236.29
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">Of <span class="def">weights</span>, <span class="def">balance</span>:</span> 
+            aon chloch amāin dīb do chor 
+a meidh thomuis dobeir c.<span class="oRef">¤</span> don dī cloich oile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 164.27
+            
+          . 
+
+            lé comhthrom nó lé miosúr fallsa, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MacAingil" title="eDIL Bibliography">Mac Aingil</strong></span> 3333
+            
+          . 
+comhthrum égsamhla . . . comhthrom mór ┐ c.<span class="oRef">¤</span> beag = 
+<span class="ediltr">weights</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Deuteronomy</strong></span> xxv 13
+          . ní fhuil i gcomhthrom rem chion / 
+foghnamh m'anma ó aois naoidhion <span class="ediltr">evenly balanced</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+21a.25
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">c</span>) <span class="trans">
+            <span class="def">equality</span>, <span class="def">equivalence</span>
+          </span>: trí cuid go gcomhthrom ronna 
+`<span class="quote">equality of division</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> iv 52
+          . fada ar gcothrom 
+ó chéile <span class="ediltr">things are badly matched between us</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;ntaGr." title="eDIL Bibliography">Dánta Gr.</strong></span> 58.1
+          . 
+c.<span class="oRef">¤</span> comluinn <span class="ediltr">fair fight</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Caithr.CC" title="eDIL Bibliography">Caithr. CC</strong></span> 58
+          . 
+            fear na ndeoch 
+bhfarsing bhfada / a ccomhthrom níl ionntroda, 
+              <span><strong class="pop" style="color:blue" href="bibliography/P&#xE1;rl.namB." title="eDIL Bibliography">Párl. na mB.</strong></span> 3240
+            
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">d</span>) <span class="trans">
+            <span class="def">justice</span>, <span class="def">equity</span>, <span class="def">fair</span> <span class="def">treatment</span>
+          </span>: 
+            madh dia ffagbad O. 
+comht[h]rom, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sitzungsb.Pr.Akad." title="eDIL Bibliography">Sitzungsb. Pr. Akad.</strong></span> v (1919) 93 § 28
+            
+          . 
+            dá ndearna . . . / 
+comhthrom, 
+              <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> ix 11
+            
+          . 
+            ní fhuil . . . / leathtrom 
+nach cuir i gcomhthrom, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 82.6
+            
+          . 
+            do chinn in 
+comhtruim sin do genam, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 150.13
+            
+          . 
+            cothram is 
+ceart, 
+              <span><strong class="pop" style="color:blue" href="bibliography/P&#xE1;rl.namB." title="eDIL Bibliography">Párl. na mB.</strong></span> 399
+            
+          . rannsa i gcomhthrom do chomhrádh 
+`<span class="quote">give me a fair share of your attention</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Content." title="eDIL Bibliography">Content.</strong></span> ix 1
+          . romhor 
+do chuaidh da ccothram `<span class="quote">of their rightful share</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> 
+ii 268.1
+          .</p>
+      
+     
+      
+        <p class="result"> 
+(<span class="edilb">e</span>) In prep., adv. and conj. phrases: 
+            ro lingestair do 
+chomhthrom talmhan, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 326.16
+            
+          . tri ch.<span class="oRef">¤</span> a chride 
+<span class="ediltr">right through his heart</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 32831
+           (TTr). gur ro scoilt mo 
+chroidhe a ccomhthrom `<span class="quote">so that it split my heart in the 
+middle</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 366.29
+          . 'n-a comhthrom ní budh cuirthe / 
+conách <span class="ediltr">cannot be compared with it</span> (poverty), 
+            <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 52.5
+          . 
+i gcomhthrom na huaighe <span class="ediltr">in the grave</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xliii 
+5
+          . comhthrom na haimsire-sin <span class="ediltr">at that very time</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Parrth.Anma" title="eDIL Bibliography">Parrth. Anma</strong></span> 926
+          . </p>
+      
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

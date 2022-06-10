@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="5654">benn</h3><span class="citation">Cite this: eDIL s.v. benn or <a class="reference" href="5654">dil.ie/5654</a></span><br/><span class="revision">Last Revised:
+                2019</span><br/><p style="margin-top: 4px" class="small">Forms:
+                b(e)inn, beinde, Binde, Beinne, Binne, benna, benna, benn, bennaib, bend, bend, bend, beinn</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="case a">a</span>
+      <span class="case d">d</span>
+      <span class="number s.">s.</span> and <span class="case n">n</span>
+      <span class="number du.">du.</span> b(e)inn. <span class="case g">g</span>
+      <span class="number s.">s.</span> 
+        beinde, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1021
+        
+       cited <span class="lbl">infra</span>, 
+
+        Binde, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> x 135.7
+        
+      . Beinne, Binne, Hog. Onom. <span class="case n">n</span>
+      <span class="number p.">p.</span> 
+
+        benna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 450.
+        
+       <span class="case n">n</span>
+      <span class="case a">a</span>
+      <span class="number p.">p.</span> benna, <span class="case g">g</span>
+      <span class="number p.">p.</span> benn, <span class="case d">d</span>
+      <span class="number p.">p.</span> bennaib, 
+<span class="gen f.">f.</span>, 
+        <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+       Gloss. Note also <span class="case a">a</span>
+      <span class="number s.">s.</span> 
+        bend, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2792
+        
+      , 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl.
+ex. 643.
+       <span class="case d">d</span>
+      <span class="number s.">s.</span> bend (: lenn), 
+        <span><strong class="pop" style="color:blue" href="bibliography/K.andH." title="eDIL Bibliography">K. and H.</strong></span> 10.
+       <span class="case n">n</span>
+      <span class="number du.">du.</span> 
+        b.<span class="oRef">¤</span>
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 
+1337.
+        
+       `<span class="gen n.">n.</span> (? later <span class="gen f.">f.</span>),' 
+        <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span>
+       Vocab.</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">(a)</span> <span class="trans">
+          <span class="def">mountain</span>, <span class="def">crag</span>, <span class="def">peak</span>, <span class="def">point</span>; <span class="def">crest</span>, <span class="def">summit</span>:</span> o Shliab 
+Belgadain don B. / ard in b.<span class="oRef">¤</span> imarbaigem `<span class="quote">lofty is the mountain</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 26.7
+        , 
+          8
+        . 
+          ar binn ós Loch Feabail aird, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> 
+viii 223.26
+          
+        . 
+          Liath na trí mb.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 936.
+          
+         ar bennaibh is ar 
+barrgail <span class="ediltr">on hill- and tree-tops</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 23.23
+        . 
+          beinnini ar 
+gach mb.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/BS" title="eDIL Bibliography">BS</strong></span> 80.4
+          
+        . 
+          as súd soir go beinn Bóthair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> 
+iv 20.25
+          
+        . [in] ceín bess bend ar in bith `<span class="quote">for as long as the 
+hills shall stand</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> vii 229 § 77.
+         ó bheannaibh Béirre 
+`<span class="quote">from the hills of B.</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 11.7
+        . 
+          ar beinn Chliachmhuighi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Introd. 23.25
+          
+        . (of the edge (?) of an Alpine 
+crevasse) 
+          tuitiss sīoss re beinn an ailt, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 86.z
+          
+        . i 
+mbeannaibh sliabh <span class="ediltr">on the mountain tops</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TSh." title="eDIL Bibliography">TSh.</strong></span> 3491.
+         as ris 
+shamhlaim th'aiscin-si / is ra bend i nnimh <span class="ediltr">star</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> 
+ii 25.11
+        . Fig. of a <span class="trans">
+          <span class="def">pre-eminent</span> <span class="def">person</span>:</span> 
+          Gobán sáor . . . / b.<span class="oRef">¤</span> ar 
+shaoraibh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 241 § 179
+          
+        .</p>
+     
+      <p class="result"> 
+<span class="trans">Transf. of <span class="def">outline</span> of land:</span> da b.<span class="oRef">¤</span> cumga do thír `<span class="quote">two 
+narrow horns of land</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 1337.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(b)</span> <span class="trans">
+          <span class="def">pinnacle</span>, <span class="def">spire</span>; <span class="def">gable</span>; <span class="def">corner</span>, etc. of <span class="def">building</span>, <span class="def">structure</span>, 
+<span class="lbl">etc.</span> ;</span> ette nó b.<span class="oRef">¤</span> múir gl. pinna, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 67a7
+        . 
+          
+            bend <span class="frn ">a pinna muri</span>
+          , 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 136.
+          
+         for béind aird in tempuil . . . = <span class="frn ">super pinnaculum templi</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/NT" title="eDIL Bibliography">Matthew</strong></span> iv 5
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 4712.
+         
+          Caisel . . . / b.<span class="oRef">¤</span> im a 
+téigenn teine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 206.9
+          
+        . 
+          ar beinn inna scríne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> 86.10
+          
+        . 
+ar bind mhór chluigtighe Chluana <span class="ediltr">pinnacle of the round tower</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> x 143.16
+        . 
+          ar chomhairle clog na seacht mbeann, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Oss." title="eDIL Bibliography">Oss.</strong></span> iv 42.16
+          
+        . . . . na múrrtha mbeann <span class="ediltr">of the battlemented walls</span> 
+(?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 50.23
+        . 
+          ar beind chloche, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 273.24
+          
+        . in mac 
+. . . co farcbad for beind chroisse i ndorus chille (an abandoned 
+child), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 36996
+         = 
+          <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 242.7
+        . 
+          fer coirthe .i. in fer curthur 
+for beinn croise gan feronn, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 462
+          
+         (H. 3.17, 357). 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 
+134.17 Comm.
+         
+          mac toc[h]air .i. do binn croisi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 399
+          
+         
+(H. 3.18, 222b). 
+          ingen do cuirthear do cill, i mbulg no for 
+beinn croisse, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 529
+          
+         (H. 3.17, 428). fágbhais ar beinn 
+croise . . . an mála `<span class="quote">on one of the arms of a cross</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 
+2122
+        . caithir chuanna ceithre mbeann (of a castle), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 
+119.16
+         . gur thúirrlind Léithin (an eagle) ar bind don lomán 
+`<span class="quote">a corner of the rampike</span>' (p. 124), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celt.Rev." title="eDIL Bibliography">Celt. Rev.</strong></span> x 135.21
+        . 
+beann do bhúain da thalamh `<span class="quote">to take a piece of his land</span>' 
+(Gloss.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/OR.Poems" title="eDIL Bibliography">O'R. Poems</strong></span> 1627.
+         beinn `<span class="trans">a <span class="def">high</span> <span class="def">top</span>, <span class="def">pinnacle</span>
+        </span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 104.
+         do bhennuibh bhárc `<span class="quote">poops of ships</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Rel.Celt." title="eDIL Bibliography">Rel. Celt.</strong></span> 
+ii 228.9
+        . <span class="trans">Hence in <span class="def">plant-name</span>:</span> beand múir (lit. <span class="ediltr">projection 
+on a wall</span>) `<span class="quote">houseleek</span>?' (Index), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ACL" title="eDIL Bibliography">ACL</strong></span> i 335.71
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(c)</span> <span class="trans">
+          <span class="def">wing</span> of an <span class="def">army</span>, <span class="def">fleet</span>:</span> i mbeind cli in catha `<span class="quote">in the 
+left wing of the battle</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span> 5781.
+         
+          do bennaib cath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 
+1335.
+          
+         tig féin is beann don chabhlach i dtír `<span class="quote">a wing of the 
+fleet</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Keat." title="eDIL Bibliography">Keat.</strong></span> iii 4828.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(d)</span> <span class="trans">
+          <span class="def">horn</span> of animal:</span> inna benna duacarbat gl. corn[u]a, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 87b12
+        . b.<span class="oRef">¤</span>
+         gl. cornu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 63a6
+        . 
+          
+            <span class="frn ">cornua</span> .i. b.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 46.31
+          
+        . 
+co mbert a inathar as fora beandaib (a bull), 
+          <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 880.
+         
+
+          for bennuib na mbó, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AirneF." title="eDIL Bibliography">Airne F.</strong></span> 353.
+          
+         dá beind for trí fichtib 
+rend <span class="ediltr">sixty-two points</span> (?) (of stag's antlers), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Imr.Brain" title="eDIL Bibliography">Imr. Brain</strong></span> ii 288.18
+        . 
+
+          benna na n-aigi, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 1342.
+          
+         tucsat didiu a mbenda ┐ a 
+n-dedu docum na scor <span class="ediltr">their (<span class="lbl">sc.</span> elephants') tusks</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xxx 
+136.6
+         (Alex.). <span class="trans">(of a <span class="def">whale</span> ?)</span> 
+          na blaith ┐ na benna sin, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;igse" title="eDIL Bibliography">Éigse</strong></span> vi 119 § 16.
+          
+         gell tar benna <span class="lbl">i.e.</span> <span class="trans">a <span class="def">pledge</span> given in respect 
+of <span class="def">impounded</span> <span class="def">cattle</span>:</span> 
+          ata, dono, gell tar benna . . . di athgabail iar ndithim, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 128.29 Comm.
+          
+         
+          ni dlig feichem 
+acht apad cuicti . . . acht geall tar benda . . . dar benda na 
+bó uair is fri logh enech teid(h), 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 519
+          
+         (H. 3.18, 261b).</p>
+     
+      <p class="result"> 
+b.<span class="oRef">¤</span> (búabaill) <span class="trans">
+          <i>a</i> (<span class="def">buffalo</span>) <span class="def">horn</span>; hence <span class="def">drinking</span> horn, <span class="def">goblet</span>:</span> 
+atraacht Conchobor ra beind breccṡolais buabaill <span class="ediltr">a speckled 
+and shining buffalo horn</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 34745.
+         crúaidi . . . / immar bít 
+benna búabaill `<span class="quote">hard . . . as a buffalo's horns</span>' (of a hag's 
+teeth), 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iv 102 § 45.
+         
+          etrocht bass fo beind buabaill, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 47 § 76.
+          
+         ar ól mb.<span class="oRef">¤</span>
+         `<span class="quote">quaffing goblets</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 479.13.
+         
+See also <span class="lbl">s.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=b&#xFA;aball">búaball</a></span>.</p>
+     
+      <p class="result"> 
+<span class="trans">Of <span class="def">musical</span> <span class="def">instruments</span>
+        </span> b.<span class="oRef">¤</span> (búabaill): ro bidhgsat . . . lasin 
+fuaim . . . do ben Ercuil asan mbeinn mbuabuillsidhe 
+`<span class="quote">which H. made on that trumpet</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/StairErc." title="eDIL Bibliography">Stair Erc.</strong></span> 177.
+         
+          ro hir dom 
+.x. ngrib ingne .x. mbenda (.i. .x. cuirn buabhaill) bonnadharc buabaill blaith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 4.3
+          
+        . searbhghlaodhach a 
+mbeann mbuabhall `<span class="quote">ivory horns</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/TD" title="eDIL Bibliography">TD</strong></span> 4.32
+        . píp trí mbeann 
+`<span class="quote">the three-droned pipe</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xD3;Bruad." title="eDIL Bibliography">Ó Bruad.</strong></span> iii 130.12
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(e)</span> <span class="trans">
+          <span class="def">prong</span>, <span class="def">point</span> (of various <span class="def">forked</span> and pointed objects):</span> 
+gabul ina laim ┐ da beind eisti <span class="ediltr">a two-pointed fork</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 72.20
+        . 
+
+          aél co mbennaib braine, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 38335.
+          
+         
+          for cetheora benna na 
+gabla (in c[h]raind, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 308
+          
+        ), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4799.
+         trí chét unga óir 
+isin chainde[l]bru, secht mbenna fair forsa mbítis secht 
+sutrulla `<span class="quote">seven branches upon which were seven lamps</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 32.18
+        . beanda . . . slegh <span class="ediltr">spearpoints</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiv 230.2
+        . 
+seacht cumala go leith lenta locht mara bennaib Baisgne, 
+glossed: 
+          .uii. cumala . . . i cinaidh do beinde it armaib a ua 
+Baiscne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1021
+          
+         (H. 3.18, 431a-b). 
+          beann bhrasbhaoghlach 
+thréan nách trom, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 14.12
+          
+        . b.<span class="oRef">¤</span> gher do beith agud, 
+┐ fend lesin mbeinn `<span class="quote">have a sharp point and lance (?) it with 
+the point</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> ii 46.3
+        . cen slegha, cen bera cen benna 
+`<span class="quote">points</span>' (of a fence), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 114.9 Comm.
+         ? 
+          carbat bo 
+bricci for beind (benn, <span class="lbl">v.l.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 81 § 57.
+          
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(f)</span> <span class="trans">
+          <span class="def">crest</span>, <span class="def">diadem</span>, etc. (of a <span class="def">helmet</span>, <span class="def">head-dress</span>, <span class="lbl">etc.</span>):</span> buidne 
+bend `<span class="quote">crested bands</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/HailBrigit" title="eDIL Bibliography">Hail Brigit</strong></span> 20
+        . 
+          beann oir . . . as gach 
+cathbarr, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 77 § 3.
+          
+         <span class="pos pn" style="color: #ff8000">pn</span> In epithet: 
+          Findchad Fer Bend 
+Uma, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 36.
+          
+         donn a cuach ballghlas a beann `<span class="quote">her coif</span> (?)', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 1.34
+        . beann eich uaibhrigh `<span class="quote">frontlet</span>' (
+          <span><strong class="pop" style="color:blue" href="bibliography/Ir.Monthly" title="eDIL Bibliography">Ir. Monthly</strong></span> 
+1929, 333.20
+        ), 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 111.20
+        . <span class="trans">By metonymy (?) of a <span class="def">horse</span>:</span> 
+          an 
+bheann (<span class="lbl">perh.</span> = bean) is fearr cluas is cos, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MeasgraD." title="eDIL Bibliography">Measgra D.</strong></span> 15.1.4
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(g)</span> Various applications: bratgal na mbrat siúil risna 
+bennaib <span class="trans">
+          <span class="def">yards</span>
+        </span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr." title="eDIL Bibliography">TTr.</strong></span> 1420
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 32231
+        ). uagais brigais beand 
+siuil, `<span class="trans">
+          <span class="def">sail-tops</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xxiv 14 § 13.
+         <span class="trans">Of a <span class="def">shield</span>:</span> 
+          cetheora 
+benna óir fair, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-I1" title="eDIL Bibliography">TBC-I¹</strong></span> 3580.
+          
+         <span class="trans">Of a <span class="def">garment</span>
+        </span> (see 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xvi 201
+        ): 
+a dá beind imo brágait <span class="ediltr">the two corners (of the cloak) about his 
+neck</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/MacCongl." title="eDIL Bibliography">MacCongl.</strong></span> 65.2
+        . 
+          ocht mbruit co mbennaibh (mbuindibh, 
+<span class="lbl">v.l.</span>), 
+            <span><strong class="pop" style="color:blue" href="bibliography/Leb.Cert.2" title="eDIL Bibliography">Leb. Cert.²</strong></span> 1314.
+          
+         co r-gabus bend etaig Isu `<span class="quote">hem</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2792.
+         
+ar beinn a bruit <span class="ediltr">on the skirt of her mantle</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> v 76.37
+        .</p>
+     
+      <p class="result"> 
+In phr. rí b.<span class="oRef">¤</span>
+         <span class="trans">
+          <span class="def">king of peaks</span> (?), one of three classes of kings</span> 
+enumerated in 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> (see p. 104
+        ): 
+          ríi b.<span class="oRef">¤</span> . . . Is hé rí 
+túaithe insin las mbiat .vii. ngrá(i)d Ḟéne cona foḟodlaib i 
+céilsini, ar it hé benna flatha doruirmisem, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 
+448
+          
+        -
+          450
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1335.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(h)</span> In <span class="pos adverbial" style="color: #ff8000">adverbial</span> phrases: immo rēir a b.<span class="oRef">¤</span> i mb.<span class="oRef">¤</span>
+         `<span class="quote">from 
+height to height</span>' (Thurn.), <span class="ediltr">for ever</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 57 § 10.
+         
+co bráth b.<span class="oRef">¤</span>
+         <span class="trans">
+          <span class="def">for ever</span> (<i>and ever</i>):</span> 
+          ni theit co brath 
+buidneach beann / neach it relcib in ifernd, 
+            <span><strong class="pop" style="color:blue" href="bibliography/YBL" title="eDIL Bibliography">YBL</strong></span> 318a58
+          
+        . 
+
+          o sin amach co brath mbend, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 40.7
+          
+        . 
+          re mbrath 
+mbend, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 17b32
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(i)</span> <span class="trans">Freq. in <span class="pos nn.-loc." style="color: #ff8000">nn. loc.</span>, usu. in senses <span class="def">point</span>, <span class="def">peak</span>, <span class="def">hill</span>
+        </span>, see 
+Hog. Onom. B. Étair, <span class="lbl">ibid.</span>, also 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 195.
+        
+      </p>
+     
+      <p class="result"> 
+<span class="trans">In late use <span class="def">heed</span>, <span class="def">attention</span>, <span class="def">regard</span>:</span> gan beinn air bith 
+air na haitheanta do choimheud `<span class="quote">without any care to keep 
+the commandments</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Donl." title="eDIL Bibliography">Donlevy</strong></span> 176.24
+        . ní bhí beann agad orum 
+= <span class="ediltr">thou regardest me not</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Bedel" title="eDIL Bibliography">Job</strong></span> xxx 20
+        . 
+          nách fuil . . . beann 
+aco air, 
+            <span><strong class="pop" style="color:blue" href="bibliography/P&#xE1;rl.namB." title="eDIL Bibliography">Párl. na mB.</strong></span> 625
+          
+        . 
+          gan beann do chur ar raidhtibh 
+na heagluisi coitchinne, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Luc.Fid." title="eDIL Bibliography">Luc. Fid.</strong></span> 3993.
+          
+         na cuir beann, 
+suim, spéis, seadh, ann `<span class="quote">regard</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.Gl." title="eDIL Bibliography">Eg. Gl.</strong></span> 71.
+        
+      </p>
+    
+  
+  
+    <p class="result"> 
+Compds.</p>
+   
+    
+      <p class="result">
+        <span class="edilb">(a)</span> With nouns: don bheannabrog bhuadhach 
+bhán <span class="ediltr">gabled mansion</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/23G24" title="eDIL Bibliography">23 G 24</strong></span> , 388
+         . 
+          dá cromsciath ┐ da 
+bendchlaidiub mara occo, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 7671
+          
+         (BDD). ōs Bregmaig 
+na mbendchros `<span class="trans">
+          <span class="def">peaked</span> crosses</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Arch.Hib." title="eDIL Bibliography">Arch. Hib.</strong></span> ii 94 § 25.
+         
+          re 
+fogur thet mbeandchrot, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Lec." title="eDIL Bibliography">Lec.</strong></span> 174rb3
+          
+         (for mennch. ?). 
+
+          sreatha . . . téad mbeannchrot, 
+            <span><strong class="pop" style="color:blue" href="bibliography/MaguiresofF." title="eDIL Bibliography">Maguires of F.</strong></span> 86.
+          
+         
+          cloidme 
+m[ora] benndorncair <span class="ediltr">horn-hilted</span>, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBCSt." title="eDIL Bibliography">TBC St.</strong></span> 4524
+          
+        , 
+Gloss. cuirn mc Donnchadha / dleghait buideachus / buidhe 
+bendgealla <span class="ediltr">securities of horn</span> (?), 
+          <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> iii 91 § 128.
+         do bheannmhoighe `<span class="quote">thy lofty plains</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Gadelica" title="eDIL Bibliography">Gadelica</strong></span> 11 § 3
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(b)</span> With adjj.: faoidh a stoc mbennbuidhe `<span class="trans">
+          <span class="def">yellow-tubed</span>
+        </span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/OGr.Cat." title="eDIL Bibliography">O'Gr. Cat.</strong></span> 474.20.
+         táin láoghach bhenncor bhó <span class="ediltr">with pointed 
+horns</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/KMMisc." title="eDIL Bibliography">KMMisc.</strong></span> 174 § 33.
+         do dhromchladh na Bóirne bennghairbhe `<span class="trans">
+          <span class="def">rugged-topped</span>
+        </span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2102.11
+        . laogh Droma 
+bheinnghil Bhó `<span class="quote">white-peaked D.B.</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Aithd.D." title="eDIL Bibliography">Aithd. D.</strong></span> 25.12
+        . 
+
+          rosaich co Cua cendmar cain / comét bend-glan in buair sain, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Metr. Dinds.</strong></span> iv 338.26
+          
+        .</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">(c)</span> With adjj. formed from nouns: múr na sgiath mbeannbhladhach 
+mbláith <span class="ediltr">with fair-famed and gabled buttresses</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 119.1
+        . tar beilgibh bennchairrgidhe `<span class="quote">rocky passes</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> vi 2198.8
+        . brocc bendchoprach (<span class="lbl">sc.</span> Cell Dara), 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiii 
+114 § 160
+         
+          
+        (see 
+          <span class="oRef">¤</span>chopor <span class="lbl">supra</span>). 
+          cloidme benndornachae '<span class="quote">swords with hilts of horn</span>', 
+            <span><strong class="pop" style="color:blue" href="bibliography/BDC" title="eDIL Bibliography">BDC</strong></span> 106.37
+          
+        .</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

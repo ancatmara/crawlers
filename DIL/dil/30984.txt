@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="30984">1 luige</h3><span class="citation">Cite this: eDIL s.v. 1 luige or <a class="reference" href="30984">dil.ie/30984</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                lugae, luigu, lighi, lige, luig, lui, luidh, lugh, lugh, luigeda, lughedha, luidhedha, lugha, luighi</p></div><div class="col-sm-9 result_content">
+   
+    <p class="result">
+      <span class="pos n" style="color: #ff8000">n</span> 
+      <span class="itype io">io</span>, <span class="gen n.">n.</span> In O. Ir. usually lugae (for the phonetic development see 
+        <span><strong class="pop" style="color:blue" href="bibliography/GOI" title="eDIL Bibliography">GOI</strong></span> 103
+      -
+        4
+      ). luigu (<span class="lbl">sic leg.</span> ?), 
+        <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 
+192.9
+      . 
+        lighi, 
+          <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2409
+        
+       (
+        <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 32(33)b
+        
+      ). 
+        lige, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 174.23 
+Comm
+        
+      ., 
+        luig, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 100.23 Comm
+        
+      ., 
+        352.6
+       and 
+        lui, 
+          ii 18.4
+        
+      , 
+        17
+       
+Comm. are perh. scribal errors. 
+        luidh, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 66.59
+        
+      . 
+lugh (: athchur), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs ex. 666
+       is given as `cóir' in one 
+MS., as `lochdach' in a second (both added in later hand), 
+<span class="lbl">cf.</span> lugh (ón luighe), 
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">Decl.</strong></span> § 95 (127.9)
+      . <span class="number Pl.">Pl.</span> attested only in 
+later lang.: 
+        luigeda, 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7604.
+        
+       
+        lughedha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span> 1309.3
+        
+      . 
+
+        luidhedha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xi 190.21
+        
+      . lugha luighi (in leabhuir) <span class="gen m.">m.</span>, 
+
+        <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 2 (39.13)
+      .</p>
+   
+    
+      <p class="result"> 
+(<span class="edilb">a</span>) <span class="pos Vn." style="color: #ff8000">Vn.</span> of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=tongaid">tongaid</a></span> (see also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 luigid">1 luigid</a></span>). <span class="lbl">Cf.</span> lugha <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 luige">luighe</a></span> (in 
+leabhair) with tuingfed a .d. neith added by later hand, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span>
+Verbs § 74
+        . <span class="trans">Act of <span class="def">swearing</span>
+        </span>: imchim . . . fir lais [m]bi cuma 
+fir ┐ go di luga <span class="ediltr">who swears equally to truth and falsehood</span>, 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/SMFacs." title="eDIL Bibliography">SM Facs.</strong></span> 53b
+          
+         = 
+          do luga, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 178.5
+          
+        . 
+          etheach do lugha nó 
+do luighe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SMFacs." title="eDIL Bibliography">SM Facs.</strong></span> 53a
+            
+          
+         = 
+          eithe do lige, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v 174.23 Comm
+          
+        . 
+? 
+          geall feich do luga, 
+            308.18
+          
+        . cethri haitir do chur crainn, 
+dias dib dia lugha <span class="ediltr">to swear it</span>(?), 
+          iii 134.10 Comm
+        . gradh bes 
+comais dia ludhadh in tan adginidhther in colund `<span class="quote">when a 
+person of competent rank has proved the delivery of the carcass</span>', 
+
+          i 300.3 Comm
+        . 
+          dodechatar día lugu i n-eithiuch do P., 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 2119
+          
+         `<span class="quote">to perjure themselves</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip." title="eDIL Bibliography">Trip.</strong></span> i 181
+        . ro-gab Petar 
+. . . for a l.<span class="oRef">¤</span>
+         (the Denial), 
+          <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 3193
+        . fuil in Rígh do lugha libh 
+<span class="ediltr">if you swear by the king's blood</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Verbs ex. 667
+        . 
+          meic 
+ríogh ag luidhe fad láimh, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OHara" title="eDIL Bibliography">O'Hara</strong></span> 2349
+          
+         (see Notes).</p>
+     
+      <p class="result"> 
+As cogn. <span class="case accus.">accus.</span> 
+          ni toing luidhe fo brechtruib gach fer 
+sacarbuic, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 2190
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/NeroA.vii" title="eDIL Bibliography">Nero A vii</strong></span>, 132b
+          
+        ). 
+          luighi néithigh ní 
+thoingeann, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Hard." title="eDIL Bibliography">Hard.</strong></span> ii 296.11
+          
+        . <span class="lbl">Cf.</span> ispert Medbh o bes lugai: 
+—Tonga, <span class="lbl">etc.</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 226.184
+        , and 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 36a20
+         cited below.</p>
+    
+  
+  
+    
+      <p class="result"> 
+(<span class="edilb">b</span>) <span class="trans">
+          <span class="def">oath</span>:</span> arnate nech tria lugae gl. imperat periurii 
+cauitionem `<span class="quote">that a man break not his oath</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 36a23
+        . corricci 
+lugae son gl. usque ad testationem, 
+          126c5
+        . 
+          fo chénele lugi, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14c24
+          
+        . luge gl. iurare, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Enchir.Aug." title="eDIL Bibliography">Enchir. Aug.</strong></span> 77a
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> vii 
+482.33
+        ). With LA: l.<span class="oRef">¤</span> limsa inso gl. ego autem testem Deum 
+invoco, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14c39
+        . ba lugae leu insin gl. per erumniarum 
+mearum exempla iurabant, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 118c5
+        . With pref. fír glossing 
+iusiurandum: 
+          áfirlugae nothongad cach frialaile hirecht, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Ml." title="eDIL Bibliography">Ml.</strong></span> 
+36a20
+          
+        . 
+          hua fírlugu, 
+            115a18
+          
+        . 
+          afírl.<span class="oRef">¤</span>
+          , 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 34a1
+          
+        . 
+          hí fírlugu, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 217b1
+          
+        . 
+          iust .i. <span class="frn ">iusiurandum, unde</span> foruirmed iust fa[i]r 
+.i. luge, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OMulc." title="eDIL Bibliography">O'Mulc.</strong></span> 767
+          
+        . foirdath loith lun luighe ban (glossed 
+ar duibhe ┐ ar ethech), 
+          <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> v 490 § 17
+         = 
+          fordath luin luath 
+l.<span class="oRef">¤</span> ban, 
+            <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ix 46 § 14
+          
+        . ind eithchich linib luga <span class="ediltr">with store 
+of oaths</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 8344
+        . connach ain lepaid na luge <span class="ediltr">so that neither 
+protection nor oath will preserve it</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxvi 40 § 206
+        . 
+          luge 
+ria mbreith, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Tec.Corm." title="eDIL Bibliography">Tec. Corm.</strong></span> § 14.4
+          
+         (= 
+          ria mbreath, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 63b12
+          
+        ). 
+
+          lugha mherlig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/BB" title="eDIL Bibliography">BB</strong></span> 274b30
+          
+        . 
+          atbertsom o l.<span class="oRef">¤</span> lan, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 99
+          
+        . 
+          na 
+bris ḟorm lugi gan ḟess, 
+            <span><strong class="pop" style="color:blue" href="bibliography/TBC-LL1" title="eDIL Bibliography">TBC-LL¹</strong></span> 3507
+          
+        . luighe na leabhar `<span class="quote">perjury</span>', 
+
+          <span><strong class="pop" style="color:blue" href="bibliography/A.&#xD3;D&#xE1;laigh" title="eDIL Bibliography">A. Ó Dálaigh</strong></span> xxxix 10
+        . 
+          lōr . . . an lāmh mar luighe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ButlerPoems" title="eDIL Bibliography">Butler Poems</strong></span> 139
+          
+         (see Notes). 
+          ní thicfa is ní tháinic / bhud ḟerr 
+lám na luighe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Acall." title="eDIL Bibliography">Acall.</strong></span> 1040
+          
+        . lugha (luighe) .i. mionna, O'Cl.</p>
+     
+      <p class="result"> 
+With do-beir: doratt cach dibh fo leith a luga nar bo he 
+<span class="ediltr">each swore it was not he</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> ii 16.15
+        . 
+          cen l.<span class="oRef">¤</span> do tabhairt, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 2684
+          
+        . 
+          an brég . . . / créd fa dtabhair lugha lé, 
+            <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> 
+Decl. ex. 47
+          
+        . luighe néithigh dorad . . . fo láimh C. <span class="ediltr">swore a 
+false oath</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/AFM" title="eDIL Bibliography">AFM</strong></span> i 182.3
+        . <span class="lbl">Cf.</span> chum a thabartha mar luighe 
+<span class="ediltr">as something to be sworn by</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/SG" title="eDIL Bibliography">SG</strong></span> 3.5
+        . With other verbs: 
+beanam luidh dhe um [rūn] do dhēanamh ar gach nī <span class="ediltr">let us 
+swear him to secrecy</span>, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Celtica" title="eDIL Bibliography">Celtica</strong></span> iv 66.59
+        . 
+          cuires l.<span class="oRef">¤</span> mar shéla 
+forri, 
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 7621
+          
+        . 
+          cech oen dogní luga n-eithig, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Trip.2" title="eDIL Bibliography">Trip.²</strong></span> 86.
+          
+         
+? 
+          saithe cacha lestair, nach laimethar nech luigu bed lais, 
+motat saithe doeit hi thīr [<span class="lbl">sic</span>] comaithich, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 192.9
+          
+         
+          .i. 
+a luighi gonad leis ín saithi, 
+            22 Comm
+          
+         . targad ar luighi fa 
+seach `<span class="quote">our oath was offered</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/MR" title="eDIL Bibliography">MR</strong></span> 132.23
+        . 
+          ro thestaig o luga, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 6622.
+          
+        
+      </p>
+     
+      <p class="result"> 
+Other legal uses (see 
+          <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> p. 99
+        ): 
+          secht cenela luigi 
+. . . dithech, ┐ naille, ┐ condacht, ┐ fortach, sena, ┐ forgell, 
+┐ diunach, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 1744
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/23Q6" title="eDIL Bibliography">23 Q 6</strong></span>, 31
+        ). 
+          im[m]ustoing i 
+ndiaid nach aili aridfe(i)t i llugu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thG." title="eDIL Bibliography">Críth G.</strong></span> 42
+          
+        . ní íca a 
+luga[e] acht a llugu ḟir midboth(a) <span class="ediltr">he is not liable for anything 
+he swears to the extent of the oath of a f.m.</span>(?), 
+          68
+        . maith a 
+luga[e], a naidm, <span class="lbl">etc.</span>, 
+          200
+        . 
+          elod iar luighe fo aoth, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iii 
+394.12
+          
+        . 
+          ni tatmei si tath cunnartha iar ngrene go lighi .i. 
+nocha cuimgech é taithmech in cunnartha iar luighi gua don 
+grein .i. uair is go luighi di cia atbertar, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2409
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>  
+f. 32 (33)a
+          
+        ). 
+          luga seancha innrice, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 142.3 Comm
+          
+        . 
+
+          luighe in erluma no in righ fo soscela, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OCurry" title="eDIL Bibliography">O'Curry</strong></span> 2147
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/Eg.88" title="eDIL Bibliography">Eg. 88</strong></span>, 3a
+          
+        ). 
+
+          luighe cundtabartach . . . luighe éithe, 
+            <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 914
+          
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/H3.17" title="eDIL Bibliography">H 3.17</strong></span>, 
+col. 652
+        ). In phr. l.<span class="oRef">¤</span> cána (Laws Comm.): smacht i ndul a 
+luigi cana `<span class="quote">for violating the oath of law</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>
+           i 172.20
+        . a comairlegadh anurraid na tic fo luighi cana `<span class="quote">who does not come 
+under the oath of</span> cain-<span class="ediltr">law</span>', 
+          iii 388.3
+        . 
+          na (<span class="lbl">sic. leg.</span>) tiaguit 
+fo luigi cana, 
+            v 162.11
+          
+         gl. 
+          tech i mbiat elothaig cana, 
+            160.4
+          
+        . 
+
+          duine teit al-l.<span class="oRef">¤</span> cana, 
+            236.20
+          
+         gl. 
+          cro fir coillis cain, 
+            13
+          
+        . <span class="lbl">Cf.</span> 
+iar luga chána `<span class="quote">after the swearing of the law</span>', 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 204.18
+        . 
+
+          insci .i. luighi . . . luighi an baile, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 1112
+          
+         (see Letter I 
+
+          283.42
+        ).</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>

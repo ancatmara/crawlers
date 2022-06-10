@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://dil.ie/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+		<script src="http://dil.ie/js/vendor/bootstrap-toggle.min.js"></script>
+		<script src="http://dil.ie/js/vendor/js.cookie.min.js"></script>
+
+    </head>
+    <body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="31158">M</h3><span class="citation">Cite this: eDIL s.v. M or <a class="reference" href="31158">dil.ie/31158</a></span><br/><p style="margin-top: 4px" class="small">Forms:
+                m, sm, -mm, mb, m, mb</p></div><div class="col-sm-9 result_content">
+  
+  
+    <p class="result">the tenth letter of the Irish alphabet, was in the Ogham 
+alphabet called by the name muin `<span class="trans">
+        <span class="def">vine</span>
+      </span>' and was the first 
+letter of the third aicme or letter-group, 
+        <span><strong class="pop" style="color:blue" href="bibliography/Auraic." title="eDIL Bibliography">Auraic.</strong></span> 993
+      , 
+        1186
+      .</p>
+   
+    <p class="result"> 
+<span class="edilb">1</span> in early Irish orthography the letter m represents two 
+sounds:</p>
+   
+    
+      <p class="result"> 
+<span class="edilb">i</span> In the following cases it was a voiced nasal labial:</p>
+      
+      
+        <p class="result">(<span class="edilb">a</span>) 
+initial, folld. by a vowel, <i>l</i> or <i>r</i>;</p>
+        
+      
+        <p class="result">(<span class="edilb">b</span>) in the initial combination 
+sm;</p>
+        
+      
+        <p class="result">(<span class="edilb">c</span>) before <i>b</i> and <i>p</i>;</p>
+        
+      
+        <p class="result">(<span class="edilb">d</span>) medial and final after a vowel 
+where it represents early -mm (&lt; <i>mb</i>, <i>mp</i>, <i>sm</i>, <i>dm</i>): in these 
+cases it was by O.Ir. scribes generally doubled in order to 
+distinguish it from lenited <i>m</i>, a practice which continued to 
+be common during the entire Mid.Ir. period. <span class="lbl">E.g.</span> am(m) 
+&lt; Indog. *<span class="frn ">esmi</span>, <span class="lbl">cf.</span> Lat. <span class="frn ">sum</span>; cam(m) &lt; *<span class="frn ">camb</span>; ammus 
+&lt;<span class="frn ">ad-mess</span>.</p>
+      
+     
+      
+        <p class="result">(<span class="edilb">e</span>) after <i>l</i>, <i>n</i>, and <i>r</i>, where no intermediate vowel 
+has fallen out, <span class="lbl">e.g.</span> calma, ainm, cuirm.</p>
+      
+     
+      
+        <p class="result">(<span class="edilb">f</span>) in eclipsis of <i>b</i>, 
+<i>b</i> &gt; <i>m</i> (written mb). In dán díreach unlenited m was classed 
+for purposes of rhyme with <i>ll</i>, <i>nn</i>, <i>ng</i>, and <i>rr</i>, see Meyer, 
+
+            <span><strong class="pop" style="color:blue" href="bibliography/MeyerPrim." title="eDIL Bibliography">Meyer Prim.</strong></span>, p. 7
+          .</p>
+       
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">ii</span> In other cases medial or final <i>m</i> represents lenited <i>m</i> 
+(voiced spirant); in late Mid. and Mod.Ir. denoted by <span class="frn ">mh</span> 
+or <span class="frn ">ṁ</span>.</p>
+      
+      <p class="result"> 
+<span class="lbl">E.g.</span> sam (<span class="lbl">cf.</span> Mod.Ir. <span class="frn ">samhradh</span>, W. <span class="frn ">haf</span>), clam (W. <span class="frn ">claf</span>), dam 
+`<span class="quote">ox</span>' (W. <span class="frn ">dafad</span> `<span class="ediltr">sheep</span>'), amles (W. <span class="frn ">afles</span>), damnae (W. <span class="frn ">defnydd</span>).</p>
+     
+      <p class="result"> 
+In dán díreach lenited m was classed for rhyming purposes 
+with <i>bh</i>, <i>dh</i>, <i>gh</i>, <i>l</i>, <i>n</i>, <i>r</i>, see Meyer, <span class="lbl">loc. cit.</span>
+      </p>
+     
+  
+    
+      <p class="result"> 
+<span class="edilb">2</span> in Lat. loan-words initial m remains: midach (&lt;<span class="frn ">medicus</span>); 
+mocol (&lt;<span class="frn ">macula</span>). In early loan-words medial m between 
+vowels is lenited: sciam (&lt;<span class="frn ">schēma</span>); domnach (&lt;<span class="frn ">dominic</span>-); 
+sechtmain (&lt;<span class="frn ">septimana</span>); but <i>mm</i> in damnaim (&lt;<span class="frn ">damn-are</span>), 
+arm (&lt;<span class="frn ">arm-a</span>), comman (&lt;<span class="frn ">commun-ire</span>), <span class="lbl">etc.</span>
+      </p>
+     
+      <p class="result"> 
+Occas. Irish lenited <i>m</i> represents Lat. medial <span class="frn ">b</span>: promaim 
+(mod. <span class="frn ">fromhaim</span>) &lt;<span class="frn ">probare</span>; conversely mebair (mebuir, 
+memair) &lt;<span class="frn ">memoria</span>.</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">3</span> the initial combinations ml, mr which occur in Old and 
+early Mid.Ir. give way in the Mid.Ir. period to <span class="frn ">bl</span>, <span class="frn ">br</span>; mlith 
+(&lt;mel- `<span class="ediltr">grind</span>'), mrath (<span class="lbl">cf.</span> mairnid) &gt; blith, brath. See 
+words given under <i>ml</i>, <i>mr</i>.</p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">4</span> O.Ir. medial and final mb&gt;<span class="frn ">mm</span> in the Mid.Ir. period. 
+<span class="lbl">E.g.</span> gsm. 
+          caimb, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 657
+          
+         (camm `<span class="ediltr">crooked</span>'). 
+          cumbae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 829
+          
+         
+(vn. of <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=con-ben">com-ben-</a></span>), later cumma. 
+          imbairecc, 
+            <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 700
+          
+        , 
+          immbairecc, 
+            709
+          
+         (&lt;imb-air-icc-), beside 
+          immarecc, 
+            696
+          
+        . O.Ir. 
+imbi (<span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 imb">imb</a></span> + 3 s. m. pron.), 
+          <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> 903
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 8074
+        , 
+          8098
+        , <span class="lbl">etc.</span>, later 
+immi, imme.</p>
+     
+      <p class="result"> 
+This change had already begun in O.Ir., esp. in forms of 
+the copula: ar mad (= armbad), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 26b31
+        , commad (= combad), 
+          17a23
+         (past subj.), and in the prep. imb folld. by another 
+proclitic word; see 
+          <span><strong class="pop" style="color:blue" href="bibliography/PedersenVgl.Gr." title="eDIL Bibliography">Pedersen Vgl. Gr.</strong></span> i 118.
+        
+      </p>
+    
+  
+  
+    
+      <p class="result"> 
+<span class="edilb">5</span> medial lenited m and b are occasionally interchanged by 
+scribes; see for exx. mebair and mimasc given below; Muir 
+Robur (&lt;<span class="frn ">mare rubrum</span>), beside Muir Romair; cumrech 
+(&lt;com-rig-), beside cuibrech; 
+          rot-marmais, 
+            <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 1680
+          
+         (= rot-marbais), beside robarbthar (= ro marbthar), 
+          <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 7121
+         (
+          <span><strong class="pop" style="color:blue" href="bibliography/BDD" title="eDIL Bibliography">BDD</strong></span> 
+80
+        ).</p>
+    
+  
+</div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+<script>
+
+	  $(document).ready( function() {
+
+	  	$('#content').on('click', '.pop', function() {
+	  		$.ajax({
+	            context: this,  // set the context of the callbacks
+	            type: "GET",
+	            url:  $(this).attr('href'),
+	            success: function(data) {
+	            	$(this).popover({
+	            		placement: function (context, source) {
+					        var position = $(source).position();
+					        if (position.left > 515) {
+					            return "left";
+					        }
+					        if (position.left < 515) {
+					            return "right";
+					        }
+					        if (position.top < 110){
+					            return "bottom";
+					        }
+					        return "top";
+						},
+				        content: data,
+				        title: 'Bibliography',
+				        html: true,
+	            	}).popover('show');
+	            }
+        	});
+	  	});
+
+		$('body').on('click', function (e) {
+            $('.pop').each(function () {
+                //the 'is' for buttons that trigger popups
+                //the 'has' for icons within a button that triggers a popup
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    $(this).popover('destroy');
+                }
+            });
+        });
+	  })
+</script>
+<style>
+	.popover {
+		max-width: 350px;
+	}
+</style>
+    	</div>
+
+
+        		<footer class="footer <!--navbar-fixed-bottom--> cookiefooter" style="margin-bottom: 2px; width: 200px; bottom: -28px; position: relative; left: 10px;">
+			<div style="position: relative; width: 200px; float: left" " class="container bg-primary main-header">
+				<a href="/cookies" style="color: #fff;"><h4>Cookie Policy</h4></a>
+				<span id="confirm" style="top: 1px; right: 5px; position: absolute; cursor: pointer; float: right">[X]</span>
+				</p>
+			</div>
+		</footer>
+		
+        <footer class="footer">
+          <div class="container">
+            <p class="text-center">
+			<a href="https://www.qub.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/QUB.png" /></a>
+            <a href="https://ahrc.ukri.org/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" /></a>
+            <a href="https://www.ria.ie/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/RIA.png" /></a>
+			<a href="https://www.cam.ac.uk/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/CAM.png" /></a>
+			<a href="http://www.dictionaryportal.eu/en/"><img style="padding-left: 3px;padding-top:5px;" src="http://dil.ie/img/dictionaryportal.gif" /></a>
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+							$(document).ready( function() {
+					$('#confirm').on('click', function() {
+						Cookies.set('confirmed', 'true', { expires: 7000 });
+						$('.cookiefooter').slideToggle();
+					});
+				});
+						
+			$(document).ready( function() {
+				$('.navswitcher').on('click', function() {
+					if ($(this).hasClass('full')) {
+						Cookies.set('fullmode', 'true',{ expires: 7000 });
+					}
+					else {
+						Cookies.remove('fullmode');
+					}
+					location.reload();
+				});
+			});
+
+		</script>
+    </body>
+</html>
